@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Script_en</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+	<link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <!-- Navigation -->
+    <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item">
+                <i class="fas fa-brain"></i>
+            </a>
+        </div>
+        <div class="navbar-menu">
+            <div class="navbar-start">
+                <a class="navbar-item" href="index_en.html">Accueil</a>
+                <a class="navbar-item" href="tableaux_en.html">Tableaux</a>
+                <a class="navbar-item" href="analyse_en.html">Analyse</a>
+                <a class="navbar-item" href="script_en.html">Script</a>
+                <a class="navbar-item" href="en_à_propos.html">À propos</a>
+    </nav>
+
+    <!-- Hero Section -->
+	<section class="section has-background-light">
+		<div class="container">
+			<div class="columns is-multiline">
+				<div class="column is-full">
+					<div class="box is-custom">
+				<h1 class="title is-1 has-text-centered has-text-white">
+					Analyse_EN
+				</h1>
+				<h2 class="subtitle has-text-centered mt-4 has-text-white">
+					Logic • Logique • Lógica • منطق • 逻辑
+				</h2>
+				<p>Le but de nos scripts est d'être capable de prendre le fichier en entrée qui contient les urls.</p>
+				<p></p>
+				<br>
+				<p>Avec la commande curl, on récupère d'abord le code html et récupère les résultats avec la commande lynx. Mais avant d'utiliser lynx, on vérifie s'ils sont bien 200 ou pas, car on ne traite que les url dont le code html est 200. Ensuite on examine aussi l'encodage s'il est utf-8 ou pas, pour les url de 200 ayant un encodage non utf-8, on va le transformer en utf-8 avec la commande iconv. Puis avec lynx on stocker les informations textuelles dans le dossier dumps-text sur lequel on appliquera le comptage de notre mot étudié, le contexte avec la commande grep.</p>
+				<p></p>
+				<br>
+				<p>Et on peut choisir de calculer la concordance avec un autre script. À la fin, le script principal va donner un tableaux de 10 colonnes : Numéro urls  code_http Encodqge  tokens  occurence lien_aspiration lien_dumps  lien_contexte et lien_concordance</p>
+
+        <!--         Scripts Section -->
+				<h1 class="title is-2 mt-6 has-text-white">
+                  En_script
+                </h3>
+				<pre>
+                  <img src="en_script1.png">
+                  <img src="en_script2.png">
+                  <img src="en_script3.png">
+                </pre>
+                <!--         Scripts Section -->
+
+
+			</div>
+		</div>
+      </div>
+    </div>
+	</section>
+
+    <header></header>
+    <main>
+    </main>
+    <footer class="footer is-custom has-text-white">
+      <div class="content has-text-centered">
+			<p>PPE - TAL M1</p>
+      </div>
+    </footer>
+  </body>
+</html>
