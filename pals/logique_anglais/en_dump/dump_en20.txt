@@ -1,0 +1,515 @@
+      F E A T U R E S    Issue 2.09 - September 1996
+
+
+                           Five Go Nuts in Cambridge
+
+By Tom Loosemore
+
+    Acorn's crack techies thrive on new challenges, but their company doesn't.
+    The Network Computer proves the point.
+
+
+     Peter Higgins is not pleased. Microsoft's senior vice president for
+     desktop applications has flown half way around the world to preach
+     Chairman Bill's Internet Gospel (2nd Edition) to a mixed bag of
+     British journalists, only to discover that a new Messiah named Larry
+     has nipped in first and left them all speaking in tongues about his
+     new Network Computer. Higgins does not bother to hide his scorn. "I
+     just don't get what it is you're so excited about. I mean, look
+     who's going to make them. "Acorn". Acorn!!"
+
+     Acorn. To many, the very name is synonymous with failure, albeit
+     failure of the heroic kind. Time after time during its rollercoaster
+     18-year life, the Acorn Computer Group has developed world-beating
+     technology, only to fritter away its hard-won technical advantage
+     through a mixture of bad luck, dreadful timing and almost
+     unimaginable marketing ineptitude. The company has been described as
+     the Sisyphus of the computer industry, forever rolling a stone
+     uphill until it is within sight of greatness only for it to slide
+     right back again. So when Larry Ellison, CEO of database giant
+     Oracle, decided to entrust Acorn with the crucial task of producing
+     the design for the new Network Computer ([trademark] Oracle) the
+     choice appeared somewhere between the quixotic and the suicidal.
+
+     Except to some. Malcolm Bird, now CEO of Acorn's network computing
+     division, thinks the decision always made perfect sense. "I think
+     Oracle saw what Acorn had to offer them and thought Christmas had
+     come early. We had exactly the technology they were after. And I
+     think they also recognised that we've got some of the best engineers
+     in the world working for us." Not an idle boast. Acorn has never
+     really got the knack of making the right boxes, or selling them. But
+     it does make boxes that work. And although Bird and everyone else at
+     Acorn would come to see the Network Computer as something more,
+     perhaps as a last, best chance at the big time, that was all Ellison
+     wanted: a box that worked.
+
+     At least, that was all he wanted from Acorn. At another level, he
+     wanted to change the world. Ellison, Oracle's visionary-in-chief,
+     had long had a dream of a simple, cheap device capable of managing
+     everyday computing tasks - email, word processing, spreadsheets, Web
+     browsing - without the cost or the complexity of the PC. The Network
+     Computer is the first physical manifestation of his dream. It's not
+     aimed at those wanting to do desktop publishing or CAD; they need
+     more power, which - in the short term, at least - only PCs can
+     provide. Rather, Ellison's dream is of a true plug-and-play,
+     mass-market connectivity device. Plug an NC into the power socket
+     for electrons, into the TV for photons, into the telephone socket
+     for bits, and away you go. No manuals, no setting up, no conflicting
+     winsock.dll insanity. You plug it in, and away you play. Ellison
+     wanted a computer that his mother could operate - ultra easy to use,
+     and even easier to maintain and upgrade via the network.
+
+     Eliminating the local hard disk is one solution to the maintenance
+     problem, both for Larry's mum and for corporate support departments,
+     who spend an estimated £3,000 a year maintaining and upgrading the
+     applications and data on desktop PCs. NCs have their operating
+     systems and core applications etched into cheap-and-cheerful ROM
+     memory chips; the device is useless without a network connection.
+     All documents are stored on remote network drives, managed either
+     (for home users) by an Internet service provider (ISP), or, for
+     corporate users, by the IT department. And, critically, any NC
+     anywhere in the world can be transformed into your personal machine
+     merely by introducing a smartcard. Instead of hauling your portable
+     around the world with you, you just take your card; it then manages
+     your network connections, routing you to your own storage space on
+     your own service provider's network server via local NC-aware ISPs.
+     With the advent of the Network Computer standard, Sun Microsystems'
+     oft-derided mantra "the network is the computer" would become
+     day-to-day reality. But the closer you look, the more complex that
+     vision becomes - and the bigger a gamble it seems.
+
+     The Great NC Gamble is not Oracle's. The world's number two software
+     company has plenty of other full-uddered cash cows in the form of
+     relational databases and server software. No, the gamble is Larry
+     Ellison's. The NC concept is his submission for a place in history
+     as The Man Who Broke The Wintel Oligarchy. History is not on his
+     side; software companies have traditionally found the murky waters
+     of hardware harsh and unforgiving, even Microsoft daring only to
+     make a small if extremely profitable mouse. But Ellison seems to be
+     jumping in at the very deepest end by attempting to engineer a whole
+     new genus of computer. So why has he been willing to place so much
+     faith in an oddball British company like Acorn?
+
+     A number of reasons. Acorn does have world class techies. It has a
+     background in technologies very similar to that of the NC. And it
+     has a pleasing lack of status. While Ellison was dashing round the
+     globe on his NC blitzkrieg-cum-evangelical mission, Acorn's low
+     media profile meant that it could work in relative obscurity - away
+     from the prying eyes and pressures of Silicon Valley.
+
+     Oracle also hoped that Acorn's small size (1995 sales of £54
+     million, compared to Oracle's £1.8 billion) would allow it to be
+     sufficiently responsive to come up with a product at breakneck
+     speed. After all, it had done so before, if to little effect.
+
+     Back in the early 1980s, Acorn gained - and squandered - a massive
+     head start in the emerging microcomputer business. It won the
+     contract to build the million-selling BBC Micro, but only five years
+     later failed miserably to exploit its own revolutionary
+     RISC-powered, fully 32-bit Archimedes computer, the first - and for
+     several years the only - genuine multi-media home computer. Now,
+     Archimedes computers and their descendants constitute a tiny
+     fraction of the European PC market; almost all sales are made to
+     British schools and colleges.
+
+     And nearly a decade later, Acorn was one of the first to fall victim
+     to the false prophet that was - and is - video- on-demand (VOD). It
+     demonstrated that it could develop affordable, workable set-top-box
+     technology, but a sizeable Cambridge trial, and the massive consumer
+     indifference that followed, blew Acorn and its resurgent technology
+     out of the water.
+
+     By early 1995 Acorn Group's owners, which include Olivetti Telemedia
+     and Cambridge techno-Svengali Hermann Hauser, faced a dilemma.
+     Losses for the previous year totalled over £4 million, and once the
+     VOD bubble had burst they needed a new project to occupy their
+     talented, if perennially underachieving, ward. They would take
+     whatever was on offer. What they didn't expect was an offer quite as
+     exciting as the one they got.
+
+    Something clicky
+
+     The gospel according to Ellison did not reach Acorn on tablets of
+     stone, or even over the Net. It arrived on a video cassette. In
+     October 1995 BBC TV's The Money Programme screened an interview with
+     Larry Ellison. The interview stands up well as a piece of pure
+     entertainment; Ellison was a man with a mission, and his message
+     struck a chord with many in the computer industry, Acorn employees
+     included. His vision of a pared-down, diskless, sub-$500 Network
+     Computer was bold and exciting - but at that time, wholly
+     impractical.
+
+     Such a computer needed a completely new design, one free of the
+     proprietary architectures that have so hindered the development of
+     today's desktop computers. Ellison had an opportunity to define a
+     brand new set of rules, and to create a new culture in which his new
+     device could flourish. The reference design for the Network Computer
+     - the blueprint that defines what a Network Computer should be and
+     how it should work - would determine every aspect of the machine,
+     including networking, audio and video specs and smartcard design. It
+     would be available to third-party hardware manufacturers, who would
+     then build their own machines. But to make all this happen, Oracle
+     needed to produce a working machine, one which could instruct and
+     inspire other companies. And for that Oracle needed help from a
+     serious hardware engineer.
+
+     Malcolm Bird was the man to offer it. Bird was one of the first to
+     take the VHS of Ellison's Money Programme home from the offices of
+     Acorn Online Media, a division set up in 1994 to exploit the
+     projected VODboom. A well-built, imposing man in his mid-40s, Bird
+     is an engineers' engineer. At our first meeting, shortly after the
+     first Acorn NC prototype had been completed in an absurdly small
+     time-frame, it required several minutes of prompting to get him to
+     admit to being proud of what he and his team had achieved. "Mmm, I
+     suppose you could say we're pretty pleased with ourselves." This is
+     not false modesty - rather it is a case of misplaced English
+     embarrassment when confronted with success. One of the junior
+     members of his team had this to say of his boss: "Malcolm's a great
+     engineer. He defines the problem, and then finds the least bad
+     solution. He's brilliant at it. But, well, put it this way - he
+     doesn't waste much time chatting with us about the footie."
+
+     Bird gives the strong impression that straightforward logic governs
+     large chunks of his life, both at work and at home. In contrast to
+     the cynicism and flippancy prevalent among those working for him,
+     Bird treats frustration as just another problem to solve - step by
+     step, working from the beginning. He is also an entirely
+     arrogance-free zone. His grasp of technical minutiae is legendary,
+     the respect afforded him total. At the launch of the Acorn NC,
+     Hermann Hauser described him as "the man who knows more about how an
+     NC works than anyone else on the planet."
+
+     Bird does not carry his many responsibilities lightly. During our
+     meetings I set myself the challenge of making him laugh (ten points)
+     or smile (five points). My final tally came to a meagre twenty-five.
+     But despite his sober, rather earnest demeanour, all those on the
+     second floor knew exactly where the buck stopped, and the freedom
+     this afforded Bird's small team to take risks and speak their minds
+     was to prove invaluable during the trials ahead.
+
+     The Online Media team is composed of a lot of old Acorn hands
+     quartered in a two storey building on the outskirts of town - and a
+     million miles from the city's courts-and-cloisters ideal. They have
+     seen a lot of technologies come and go, and they are as cynical
+     about new developments as it's possible to be. And yet, when their
+     turn came to watch Ellison's BBC sermon, something clicked. His
+     proposed Network Computer needed things Acorn already possessed in
+     spades: a cheap, powerful processor in the form of the ARM 7500; a
+     compact ROM-based operating system, RISCOS; TV compatibility. But
+     best of all, Acorn had already built an NC. The ill-starred Acorn
+     Online Media Set Top Box, designed as an affordable consumer
+     appliance for the now-moribund VOD market, was an NC in all but
+     name. Watching the VHS, Bird knew that Ellison had Acorn in mind
+     when formulating his vision; it was just that Ellison didn't know
+     it. Yet.
+
+    Larry does Geneva
+
+     October 1995. The Larry Ellison NC Roadshow hits Geneva for the
+     Telecom '95 conference. After treating the assembled suits to his
+     now-famous Microsoft-baiting NC stand-up routine, Ellison is
+     buttonholed by Elsorino Piol, vice chairman of Olivetti. The gruff
+     Italian has a notoriously impenetrable accent, but Ellison deciphers
+     enough to realise that the two companies should talk further.
+     Shortly afterwards, a video conference is arranged between Ellison,
+     Andrew Laursen (the newly-appointed Oracle Network Computer VP),
+     Hermann Hauser and Malcolm Bird, then MD of Acorn Online Media but
+     soon to become CEO of the newly set-up Acorn Network Computing.
+
+     A week after the hour-long "knowing-me, knowing-you" video
+     conference, Bird found himself on a plane to San Francisco carrying
+     with him the latest Acorn Set Top Box. "I think they were fairly
+     impressed," Bird recollects with characteristic understatement. They
+     must have been. By the autumn of 1995, it was an open secret that
+     Oracle had talked at length with several heavyweight computer
+     manufacturers - Sun and Apple included - about the contract for the
+     all-important first NC, the blueprint machine for a new generation
+     of personal computers. Rumours were also circulating that Oracle
+     also had sizeable internal team working on its own reference design.
+
+     When Bird returned to the UK, Ellison followed. By the time Ellison
+     left, Acorn had a verbal agreement. Contracts and budgets could wait
+     until later; both parties were confident that a bond of trust had
+     been forged. For Acorn, it was a major coup. It would have its own
+     machine built and on sale before anyone else. And even if it chose
+     not to market its own machines, the royalties from the reference
+     design alone could make Acorn a cash-rich company for years to come.
+     The exact deal Acorn struck with Oracle is still under wraps, but if
+     Ellison is right in predicting that the NC will outsell the PC by
+     the end of the century, then Acorn's coffers will not be empty any
+     time soon.
+
+    Sophie's world
+
+     As the company's chief scientist, Sophie Wilson is afforded
+     near-guru status within Acorn. A Cambridge computer science graduate
+     in the days when female ComSci graduates were decidedly thin on the
+     ground, she accepted an invitation from Hermann Hauser to join what
+     was then a fledgling computer sonsultancy way back in 1978. Socially
+     awkward but extremely forthright, Wilson answers questions with a
+     conciseness bordering on the curt. It's nearly impossible to hold a
+     conversation with her when she is sat facing her radically
+     customised Archimedes; she gives the impression - a misleading one,
+     as it turns out - that she finds her beloved Archimedes both more
+     interesting and more reliable than her fellow human beings.
+     Underneath a layer of shyness she is incisive, dry and often
+     caustically witty.
+
+     Wilson designed and built the motherboard for the Acorn System One,
+     Acorn's first home computer. During the early '80s, she created the
+     all-important instruction set for Acorn's first RISC chip, the
+     antecedent of the hugely successful ARM family of low-cost,
+     high-performance microprocessors. She is also the resident expert on
+     the company's world-beating font anti-aliasing and anti-twitter
+     technologies, which both employ the same clever optical trick to
+     make using a television as a computer screen altogether less painful
+     than it might otherwise be. Unsurprisingly, younger and less
+     experienced staff regard her with awe. Bird describes Wilson as a
+     walking encyclopaedia, the embodiment of a vast body of knowledge
+     culled from Acorn's previous adventures. This is not just technical
+     know-how; Wilson has seen many Acorn projects run into difficulties
+     due to confused, indecisive management and bloated teams, and she
+     was not prepared to see the NC project fail for the same reasons.
+
+     Even before an official deal had been struck, Wilson sent a
+     prophetic email to other members of the team, detailing the
+     shortcomings of the NC's technology and voicing reservations about
+     the machine's progenitor. "Larry Ellison is a very hands-on person.
+     He will become involved in many ways, and will leak to the press."
+     Yet she had other, more positive messages to deliver. Among the many
+     implications of the NC deal she elucidated, two words stood out:
+     "World Stardom".
+
+     Following their reconnaissance mission, Ellison left Andy Laursen
+     behind to talk tech with Sophie Wilson. By the time Laursen returned
+     to San Francisco in mid-November, the pair of them had thrashed out
+     a draft NC specification. Wilson had "guesstimated" a timescale of
+     just nine weeks to produce a working prototype, which she thought
+     eminently manageable; "Hey - the BBC machine prototype was built in
+     six days!"
+
+     Nonetheless, they needed to move desperately quickly if they were to
+     have a working NC in time for Ellison's first mediafest in
+     mid-February 1996. Building a new computer from scratch is a
+     non-trivial undertaking, even with many of the components at hand.
+     The hardest parts of the process - planning the layout of the mother
+     board, designing the case, writing the software - had to be done
+     from scratch, and the July manufacturing date looked worryingly
+     close.
+
+     Malcolm Bird spent the final two weeks of November 1995 assembling a
+     small team of old hands. Colin Watters, a quiet, hamster-like man in
+     his early 40s, was appointed as the project manager. Acorn has been
+     part, but not all, of his life for eleven years; an electrical
+     engineer by training, he previously managed the successful
+     Archimedes A5000 project to produce a low-cost educational version
+     of the Archimedes. Also an avid radio-controlled model aircraft
+     pilot, he recently flew for Great Britain, an honour he was
+     extremely coy about revealing. The core team also consisted of Steve
+     Cormie, a 29-year- old software expert with a sharp eye for detail
+     and an even sharper wit, and Richard Sharples, an enthusiastic,
+     jovial eccentric in his early 30s whose remit covered motherboard
+     design and all things CAD. They were ready to go.
+
+    "It's a design problem"
+
+     After two manic weeks spent sourcing parts and finalising the exact
+     prototype specification, the team hit a large - but not entirely
+     unexpected - snag. Ellison had set his heart on a radical,
+     imaginative design for the NC's casing. He had commissioned
+     Seattle-based Frog Design, designers of his favourite Bang and
+     Olufsen HiFi equipment and of the original Macintosh computer, to
+     create a case that would capture the imagination of a public bored
+     with standard-issue grey plastic PC boxes. But when the Cambridge
+     team saw Frog's initial drawings, its members issued a collective
+     groan. The cruciform shape was certainly eye-catching, but it would
+     be a nightmare to manufacture.
+
+     Oddly, designing the case is one of the most difficult parts of
+     creating a new computer. Manufacturing a shell which both fits
+     together and can be manufactured cheaply is in itself hard; the fact
+     that its various elements look like they should all fit together in
+     2D view does not mean that they will do so when the mock-ups are
+     actually built. To make things worse for the Acorn team, Frog
+     Design's planned casing would not leave enough room for the printed
+     circuit board (PCB).
+
+     Worried by this, Bird made a bold move. He commissioned a local
+     two-man design company, Cambridge-based Design Edge, to come up with
+     an alternative within 48 hours. And it did. Design Edge's planned
+     casing would win no prizes for innovation or daring, but Bird was
+     nonetheless pleased; it was tidy, it could be built cheaply and in a
+     hurry. To appease Ellison, Richard Sharples persevered with Frog
+     Design's proposed cas- ing, finally convincing Oracle that, pretty
+     though it undoubtedly was, there was simply no way to fit the PCB
+     inside the case without resorting to expensive right-angled
+     daughterboards and consuming more precious time.
+
+    Five get sloshed
+
+     For Malcolm Bird, at least, the first week of January 1996 signalled
+     an end to some of the uncertainty surrounding the project. The
+     details of the contract between Acorn and Oracle had been finalised,
+     and Sharples had completed the PCB design and had sent it off to be
+     manufactured. The final drawings for the case were in the hands of
+     Peter Manning, a professional model maker based in St Ives who had
+     the fiendishly difficult job of transforming the subtle curves
+     described on the Design Edge drawings into an exact 3D mould ready
+     for casting. Within two weeks Manning delivered the goods, on time,
+     and Cormie shipped the first batch of system software and demos over
+     to the US. Unbelievably, they were actually ahead of schedule;
+     although Watters never expressed as much to Bird, he was confident
+     that they could have a working prototype ready two weeks early.
+
+     In the third week of January, a five-man delegation arrived from
+     Oracle. Bird kept them well away from the team while the newly
+     arrived circuit boards were fitted and tested. "We knew it would
+     work okay," Watters says. "Our main concern was that Richard had
+     made some idiotic oversight and the bloody thing wouldn't fit
+     together."
+
+     In the event, the case didn't merely fit; it fitted like a dream.
+     The Acorn team had designed and built a computer in seven weeks, and
+     the astonished Oracle delegation returned to San Francisco carrying
+     the world's first NC in a Tesco bag.
+
+     The team celebrated with a Friday afternoon visit to the pub, where,
+     Colin Watters freely admits, "we all got a little bit sloshed." But
+     the cele- bration was short-lived. As a reward for their efforts,
+     Oracle brought the whole schedule forward by two weeks as Ellison
+     leaked a story to the press that the NC would ship in March. As
+     Malcolm Bird puts it, "The March shipping date was a bit of a joke,
+     really; it was both a slap on the back and a slap in the face."
+
+     Then, Oracle suddenly wanted not one but twenty working NCs for the
+     mid-February mediafest. The team immediately ran into
+     component-sourcing problems; whereas previously the team had had no
+     problem blagging five or six component samples from a supplier,
+     things got a lot more complicated when it began asking for fifty.
+     This time, things went right to the wire; at 2pm on February 16th,
+     there were 20 NCs in the building. Unfortunately they were still in
+     pieces, and a courier was due to arrive at 5pm to whisk the
+     completed machines off to San Francisco. Turning the pieces into
+     machines was simple enough - the whole office was put on
+     assembly-line duty - but the real headache involved filling in the
+     mass of customs forms required to import RAM into the US. Somehow
+     they made it, with only minutes to spare; Sod's Law being what it
+     is, the customs forms were never checked.
+
+     By the time of my next visit in mid-April 1996, some far more
+     serious problems had emerged. The atmosphere in the office had
+     undergone a seismic shift; the excite- ment had passed, and the team
+     was struggling for motivation. March had come and gone and there was
+     no NC even close to being manufactured. Worst of all, the jewel in
+     the NC's crown - the ARM7500 processor chip - had been found
+     wanting.
+
+    Battle stations
+
+     The ARM7500 is the pocket battleship of processors, a little-known
+     miracle in silicon. Roughly equivalent in power to an Intel 486-66,
+     but around half the size and price, the chip requires astoundingly
+     little power; Colin Watters claims that the 7500 could theoretically
+     run off the waste heat generated by a Pentium chip. Indeed, the
+     ARM7500 is actually too power-efficient, with an extra power-wastage
+     resistor required to ensure that the AC-DC transformer transmits
+     enough current to ensure a steady voltage. Miracle though it was in
+     its own right, both Acorn and Oracle had come to the conclusion that
+     the 7500 lacked sufficient horsepower. Bizarrely, Sophie Wilson had
+     known this since the earliest days of the project - her original
+     email to the team admitted that the 7500 is "old, has slow memory,
+     slow CPU and no [floating point] hardware; it can't drive cheap
+     colour LCDs." And she had anticipated pressure from Oracle to
+     improve the chip.
+
+     The LCD problem was especially serious, as LCD compatibility was
+     essential for portable versions of the NC family, yet no work had
+     been done on designing the 7500's successor. Belatedly, the decision
+     was made to bolt a floating point processor to the ARM7500, speed up
+     its on-chip cache, increase its overall speed to 40MHz and call it
+     the 7500FE. There was, understandably, an air of impending panic.
+     Even the usually phlegmatic Watters was concerned. "Yeah, I suppose
+     it is, um ... rather high risk.... But if it's got to be done, then
+     we'll knuckle down."
+
+     As if that wasn't enough, the browser software, now ready to be
+     incorporated into ROM, looked decidedly ropy. A derivative of the
+     unpopular ANT browser, it still lacked support for frames and
+     tables, features which were now integral to many Web sites. Steve
+     Cormie remained grimly adamant that the final version would sup-
+     port these as well as Java, but such an upgrade was a job for a
+     whole team of software engineers, not one tired-looking individual.
+
+     Why not just license Netscape? I asked Cormie, receiving in return
+     the kind of withering look that software engineers reserve for those
+     asking particularly dumb questions. "How much memory does the latest
+     version of Netscape need to run? 4Mb? 8Mb? Whatever, it's more
+     memory than will be in the whole bloody machine, ROM included. Who
+     wants Netscape plug-ins anyway? Nah, ANT will have to do."
+
+     Such an attitude betrayed one of the main weaknesses of the team as
+     a whole. The Web, in all its ever-expanding, ever-mutating glory,
+     was perceived as a childish distraction, an entertaining plaything
+     for those unable to hack it at the cutting edge.
+
+     Surfing was simply not their bag; a specialised Web-browser is a
+     machine that they would never dream of using themselves. Sites
+     designed with Netscape in mind looked abysmal when viewed with
+     through the primitive, out-of-focus eyes of the ANT browser;
+     technically wonderful though the Acorn NC is, it is certainly not
+     the ultimate Web machine.
+
+     At the end of May, the Oracle NC partnership was announced in San
+     Francisco. Set against a room- ful of other NCs cobbled together
+     around the early specification by Oracle's other partners, Acorn's
+     machine - now branded as the NetStation - showed its peers a clean
+     pair of heels, even without the 7500FE chip. And Steve Cormie and
+     the ARM techies had managed to squeeze frames and tables into their
+     tiny ROM-based browser. The team was in Cambridge, trying to get an
+     NC into the shops by Christmas.
+
+    Let's do launch
+
+     On the day of the UK launch, June 18th, the 7500FE machine still
+     isn't working. The launch goes ahead regardless, and it is
+     immediately clear that the attitude of those charged with marketing
+     the NetStation contrasts sharply with that of the team that built
+     it. The event is a sham, an exercise in smoke and mirrors, as
+     Hermmann Hauser and assorted cronies attempt to convince a deeply
+     sceptical audience that this small, dull black box will challenge
+     the TV as the chief entertainment device in the nation's living
+     rooms.
+
+     Web hype is now so frenzied that the NetStation will quite likely
+     fly off the shelves when it hits the high streets in September. But
+     what people will be buying is a half-finished gimmick, not the
+     device that Larry Ellison described on The Money Programme. Later
+     versions of the NC - whether they're made by Acorn or by Apple - may
+     fulfil Ellison's true vision, but for the launch, the NetStation's
+     marketeers have submerged the broader concept in a blind act of
+     faith in the Web as a killer consumer app. Sadly, sales are likely
+     to fall away before the hype does. Until there is serious bandwidth
+     into the home, the NC is a non-starter as an entertainments device;
+     that will come in time, but not by this Christmas.
+
+     The great tragedy of all this is that having set the standards and
+     built the first serious machine, Acorn will never be a serious
+     competitor in the market for network computers. As it tries gamely
+     to flog a turkey to people who don't yet need one, its competitors
+     will clean up in more lucrative corporate markets where bandwidth is
+     already available, but to which Acorn's marketing machine has little
+     or no access.
+
+     Does this worry the members of the Cambridge team? Not really.
+     They've made a good machine, and they'll make others. It may rankle
+     that the the inept antics of the marketeers have denied them the
+     "world stardom" Sophie Wilson so eagerly anticipated, but so long as
+     other meaty challenges remain to be tackled, they'll be happy at
+     heart. Aside from the 7500FE chip's inevitable teething troubles,
+     Wilson has already coaxed one of the new-generation 150MHz StrongARM
+     chips into driving an NC, and other work is in progress. It's as if
+     the marketing fiasco simply confirms that their own status quo has
+     not been disrupted. All in a normal year's work at Acorn - and a box
+     that works to prove it.
+
+     Tom Loosemore is a section editor at Wired.

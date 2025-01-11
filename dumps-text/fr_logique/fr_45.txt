@@ -1,0 +1,749 @@
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PWTVHH
+
+   Passer au contenu principal
+     * (BUTTON) Logiciels
+     * (BUTTON) Apprendre
+     * (BUTTON) Support clients
+     * (BUTTON) Partenaires
+     * (BUTTON) A propos de SAS
+     *
+
+   Essayez SAS
+     * Logiciels
+          + Plateforme SAS Viya
+               o Plateforme SAS Viya
+               o En savoir plus sur SAS Viya
+               o Tester et acheter
+               o Migrer vers SAS Viya
+          + Solutions
+               o Solutions
+               o Fraude
+               o IoT
+               o Marketing
+               o Gestion des risques
+               o Tous les produits & Solutions
+          + Secteurs d'activité
+               o Secteurs d'activité
+               o Banque
+               o Secteur public
+               o Assurance
+               o Sciences de la vie
+               o Retail & CPG
+               o Tous les secteurs
+          + Explorer
+               o Explorer
+               o Tester / Acheter
+               o Pourquoi SAS ?
+               o Témoignages clients
+               o Partenaires
+               o Conseil
+     * Apprendre
+          + Formations
+               o Formations
+               o Présentation
+               o Former mon équipe
+               o Catalogue des cours
+               o Formations gratuites
+               o Livres
+               o Ma formation
+          + Demandes Academiques
+               o Academics
+               o Programme académique
+               o Logiciels gratuits
+               o Enseignants
+               o Etudiants
+          + Certifications
+               o Certification
+               o Choisir une certification
+               o Pourquoi être certifié ?
+               o Préparation à la certification
+               o Discounts
+               o Ma certification
+          + Explorer
+               o Explorer
+               o Communities
+               o Évènements
+               o Ask the Expert
+               o Webinaires
+               o Tutoriels vidéo
+               o Chaîne YouTube
+     * Support clients
+          + Communautés
+               o Toutes les communautés
+               o SAS Viya
+               o Programmation SAS
+               o Procédures statistiques
+               o Nouveaux utilisateurs SAS
+               o Administrateurs
+               o Toutes les communautés
+          + Documentation
+               o Documentation
+               o Par produit
+               o Installation et configuration
+               o Administration SAS Viya
+               o Programmation SAS Viya
+               o Configuration requise
+               o Toute la documentation
+          + Support & Services
+               o Support & Services
+               o Téléchargements
+               o Knowledge Base
+               o Kit de démarrage
+               o Support par produit
+               o Services
+               o Tous les Supports & Services
+          + Explorer
+               o Explorer
+               o Blogs
+               o Groupes utilisateurs
+               o Webinaires
+               o Tutoriels vidéo
+               o Chaîne YouTube
+               o My SAS
+     * Partenaires
+          + Présentation
+               o Présentation
+               o Programme de partenariat
+               o Trouver un partenaire
+               o Se connecter au PartnerNet
+     * A propos de SAS
+          + Entreprise
+               o Entreprise
+               o Présentation
+               o Rapport annuel
+               o Leadership
+               o Vision et mission
+               o Bureaux
+          + Carrières
+               o Carrières
+               o Présentation
+               o Culture
+               o Stages en entreprise
+               o Rechercher un emploi
+          + Actualités & Évènements
+               o Actualités & Évènements
+               o Actualités
+               o Newsletters
+               o Blogs
+               o Événements
+          + Explorer
+               o Explorer
+               o Brand
+               o Social
+               o Trust Center
+               o Nous contacter
+
+     * Plateforme SAS Viya
+     * En savoir plus sur SAS Viya
+     * Tester et acheter
+     * Migrer vers SAS Viya
+
+     * Solutions
+     * Fraude
+     * IoT
+     * Marketing
+     * Gestion des risques
+     * Tous les produits & Solutions
+
+     * Secteurs d'activité
+     * Banque
+     * Secteur public
+     * Assurance
+     * Sciences de la vie
+     * Retail & CPG
+     * Tous les secteurs
+
+     * Explorer
+     * Tester / Acheter
+     * Pourquoi SAS ?
+     * Témoignages clients
+     * Partenaires
+     * Conseil
+
+   Pourquoi apprendre SAS ?
+
+   La demande de compétences SAS est croissante. Faites progresser votre
+   carrière et formez votre équipe à des compétences recherchées
+
+   Pourquoi apprendre SAS ?
+     * Formations
+     * Présentation
+     * Former mon équipe
+     * Catalogue des cours
+     * Formations gratuites
+     * Livres
+     * Ma formation
+
+     * Academics
+     * Programme académique
+     * Logiciels gratuits
+     * Enseignants
+     * Etudiants
+
+     * Certification
+     * Choisir une certification
+     * Pourquoi être certifié ?
+     * Préparation à la certification
+     * Discounts
+     * Ma certification
+
+     * Explorer
+     * Communities
+     * Évènements
+     * Ask the Expert
+     * Webinaires
+     * Tutoriels vidéo
+     * Chaîne YouTube
+
+     * Toutes les communautés
+     * SAS Viya
+     * Programmation SAS
+     * Procédures statistiques
+     * Nouveaux utilisateurs SAS
+     * Administrateurs
+     * Toutes les communautés
+
+     * Documentation
+     * Par produit
+     * Installation et configuration
+     * Administration SAS Viya
+     * Programmation SAS Viya
+     * Configuration requise
+     * Toute la documentation
+
+     * Support & Services
+     * Téléchargements
+     * Knowledge Base
+     * Kit de démarrage
+     * Support par produit
+     * Services
+     * Tous les Supports & Services
+
+     * Explorer
+     * Blogs
+     * Groupes utilisateurs
+     * Webinaires
+     * Tutoriels vidéo
+     * Chaîne YouTube
+     * My SAS
+
+     * Présentation
+     * Programme de partenariat
+     * Trouver un partenaire
+     * Se connecter au PartnerNet
+
+   Pourquoi SAS ?
+
+   Découvrez pourquoi SAS est la plateforme analytique la plus fiable au
+   monde et pourquoi les analystes, les clients et les experts du secteur
+   aiment SAS.
+
+   En savoir plus sur SAS
+     * Entreprise
+     * Présentation
+     * Rapport annuel
+     * Leadership
+     * Vision et mission
+     * Bureaux
+
+     * Carrières
+     * Présentation
+     * Culture
+     * Stages en entreprise
+     * Rechercher un emploi
+
+     * Actualités & Évènements
+     * Actualités
+     * Newsletters
+     * Blogs
+     * Événements
+
+     * Explorer
+     * Brand
+     * Social
+     * Trust Center
+     * Nous contacter
+
+   (BUTTON) sas.com
+     * sas.com
+     * support.sas.com
+     * documentation.sas.com
+     * blogs.sas.com
+     * communities.sas.com
+     * developer.sas.com
+
+   Rechercher ____________________
+   Rechercher
+     * (BUTTON)
+
+   Sélectionnez votre région
+   Visitez le site du siège social basé à Cary, NC, USA
+
+   Amériques
+
+   Europe
+
+   Moyen-Orient & Afrique
+
+   Asie-Pacifique
+   Consultez la liste de nos bureaux dans le monde pour trouver votre
+   point de contact
+
+   Amériques
+     * Brasil
+     * Canada (English)
+
+     * Canada (Français)
+     * Colombia
+
+     * México
+     * United States
+
+   Europe
+     * Belgium
+     * Česká Republika
+     * Danmark
+     * Deutschland
+     * España
+     * France
+
+     * Iceland
+     * Ireland
+     * Italia
+     * Nederland
+     * Norge
+     * Österreich
+
+     * Polska
+     * Portugal
+     * România
+     * Россия
+     * Schweiz (Deutsch)
+     * Suisse (Français)
+
+     * Suomi
+     * Sverige
+     * Türkiye
+     * Україна
+     * United Kingdom
+
+   Moyen-Orient & Afrique
+     * Middle East
+
+     * Saudi Arabia
+
+     * South Africa
+
+   Asie-Pacifique
+     * Australia
+     * 中国 (简体中文)
+     * Hong Kong
+     * India
+     * 日本
+
+     * 대한민국
+     * Malaysia
+     * New Zealand
+     * Philippines
+     * Singapore
+
+     * 台灣 (繁體中文)
+     * Thailand (English)
+     * ประเทศไทย (ภาษาไทย)
+
+     * (BUTTON) Rechercher
+     * (BUTTON) SAS dans le monde
+     * Nous contacter
+     * (BUTTON) Sites SAS
+
+     * (BUTTON) Se connecter
+
+   Bonjour !
+     * (BUTTON) Déconnexion
+
+   Se connecter
+
+   Créer un profil
+
+   My SAS
+
+   Accédez à My SAS, aux périodes d'essai, aux communautés et plus encore.
+   Déconnexion
+
+   Mettre à jour votre profil
+
+   My SAS
+
+   Accédez à My SAS, aux périodes d'essai, aux communautés et plus encore.
+
+   Sites SAS
+   sas.com
+   Support clients
+   Blogs
+   Communities
+   Developer
+   Curiosity
+   Vidéos
+   Apprendre
+   Brand
+   PartnerNet
+   Marchandise
+    1. SAS Insights
+
+   Lire l’article
+   Charts and Network
+
+
+
+Détection de la fraude et Machine Learning :
+ce que vous devez savoir
+
+   La détection de la fraude est un problème complexe. Les opérations
+   frauduleuses sont rares, c’est un fait. Elles représentent une très
+   petite fraction dans l’activité d’une entreprise. Le problème est que
+   ce petit pourcentage peut très vite provoquer d’énormes pertes
+   financières si l’entreprise ne dispose pas des outils et dispositifs
+   appropriés. Les malfaiteurs sont rusés. Lorsque les mécanismes de
+   fraude traditionnels ne donnent pas les résultats escomptés, les
+   fraudeurs changent de tactique. Heureusement, grâce aux progrès de
+   l’analytique, les dispositifs de lutte anti-fraude peuvent apprendre,
+   s’adapter et détecter des schémas émergents pour prévenir la fraude.
+
+   La plupart des entreprises utilisent encore des systèmes basés sur des
+   règles comme principal outil de détection de la fraude. Les règles
+   permettent de découvrir très facilement les tendances connues, mais
+   elles sont peu efficaces face aux schémas de fraude inconnus ou aux
+   techniques de plus en plus sophistiquées des fraudeurs. C’est là que
+   l’analytique et le Machine Learning (encore appelé l’apprentissage
+   automatisé), deviennent nécessaires pour la prévention et la détection
+   de la fraude.
+
+   Le Machine Learning (ML) a le vent en poupe aujourd’hui. La plupart des
+   éditeurs affirment disposer de fonctionnalités ML, notamment pour la
+   détection de la fraude. SAS, lui, est un pionnier du ML depuis les
+   années 1980, lorsque les réseaux neuronaux ont été utilisés pour la
+   première fois pour lutter contre la fraude à la carte bancaire. Mais ce
+   n’est pas parce que le ML et l’analytique font partie de nos activités
+   depuis longtemps que nous nous sommes reposés sur nos lauriers. En
+   fait, c’est plutôt le contraire.
+
+   Le ML est un élément essentiel du dispositif de détection de la fraude.
+   Voici ce dont vous aurez besoin pour mettre en place votre dispositif
+   analytique de lutte contre la fraude.
+
+   Des données!
+
+   Les ensembles de données ne font que croître, et plus les volumes
+   augmentent, plus le défi de la détection de la fraude s’intensifie. En
+   fait, les données sont essentielles pour créer des modèles de ML.
+   L’adage « plus de données signifie de meilleurs modèles » est vrai en
+   matière de détection de la fraude. Les intervenants auront besoin d’une
+   plateforme de ML en mesure d’évoluer à mesure que les données et la
+   complexité augmentent. Si les outils théoriques fonctionnent souvent
+   bien avec des milliers de relevés et quelques mégaoctets de données,
+   les problèmes du monde réel se mesurent en giga octets, voire en
+   téraoctets de données.
+
+   Les avantages de la quantité
+
+   Il n’existe pas d’algorithme ou de méthode de ML unique qui fonctionne.
+   Le succès vient de la capacité à essayer de nombreuses méthodes
+   différentes basées sur le ML, de les alterner et de les tester avec
+   plusieurs ensembles de données. Le spécialiste des données a besoin
+   d’un ensemble d’outils comprenant une diversité de méthodes supervisées
+   et non supervisées - ainsi qu’une diversité de techniques d’ingénierie.
+   Enfin, l’usage du ML pour la détection de la fraude comporte un aspect
+   créatif ou un « art » : appliquer des traitements analytiques de
+   manière nouvelle et inédite dans la lutte anti-fraude, notamment en
+   utilisant diverses méthodes de ML supervisées et non supervisées dans
+   un seul système afin d’être plus efficace.
+
+   Lutte anti-fraude : comment réussir avec l’analytique?
+
+   Les traitements analytiques appliqués sur la diversité des sources de
+   données constituent un atout de taille dans la performance des
+   dispositifs de lutte contre la criminalité financière. Découvrez les
+   tendances en matière de lutte anti-fraude ainsi que les étapes à suivre
+   pour financer un programme de lutte anti-fraude basé sur l’analytique.
+   Télécharger le document
+
+   Intégration dans les opérations
+
+   Une fois que vous avez élaboré un modèle de ML, le défi consiste à
+   l’intégrer dans vos opérations. Si vos données sont dans le cloud, il
+   est logique que votre modèle de ML soit intégré à votre stockage et à
+   votre informatique dans le cloud. De même, si vous utilisez des données
+   de flux en mode Edge (Edge Computing) il vous faut un moteur de ML qui
+   prenne en charge les données en continu et en temps réel. A mesure que
+   la fraude prend de l’envergure, la portabilité du modèle et
+   l’intégration de la logique de décision dans les systèmes opérationnels
+   sont primordiales pour mettre fin à la fraude à grande échelle.
+
+   Transparence des algorithmes
+
+   Il est essentiel d’expliquer le fonctionnement d’un modèle de ML
+   souvent qualifié par le vocable « AI Explicable ». Les méthodes et
+   modèles de ML sont généralement des boîtes noires. Il est très
+   difficile (voire impossible) d’expliquer aux analystes pourquoi ils ont
+   obtenu le score ou la décision reçue. De nombreuses approches pour
+   interpréter les indicateurs analytiques de lutte anti- fraude existent,
+   notamment les indicateurs basés sur des estimations linéaires locales ,
+   la génération d’explications textuelles et de graphiques visuels. Ce
+   sont des approximations qui peuvent donner aux utilisateurs un aperçu
+   du modèle de ML et guider le processus d’investigation de la fraude.
+   Fraud machine learning process
+
+   Surveillance continue
+
+   Tout peut changer, et votre dispositif analytique de lutte anti-fraude
+   doit s’adapter au fur et à mesure. La surveillance continue des
+   systèmes de ML est impérative pour réussir en matière de détection de
+   fraude. À mesure que les populations et les données sous-jacentes
+   évoluent, les entrées attendues du système se dégradent et ont donc un
+   impact sur les performances globales des systèmes. Ce phénomène n’est
+   pas propre aux systèmes de Machine Learning ; les systèmes basés sur
+   des règles sont confrontés au même problème. Mais les nouvelles
+   méthodes de ML peuvent s’adapter à des nouveaux schémas de fraude à
+   mesure que des changements fondamentaux se produisent. Cette adaptation
+   élimine une partie, mais pas la totalité, des étapes de de réajustement
+   et d’évaluation de ML.
+
+   Un bon programme de surveillance repose sur une approche proactive.
+   Parce qu’il examine les données qui entrent dans le système, évalue les
+   prédictions et les explications du modèle de ML, et alerte les
+   administrateurs sur les évolutions des tendances et statistiques avant
+   que des changements spectaculaires n’affectent les opérations et le
+   résultat net.
+
+   Comment cela affecte-t-il vos clients?
+
+   Pour une institution financière, la mise en lumière des cas frauduleux
+   constituait un véritable défi. Elle devait identifier les opérations
+   malveillantes, mais aussi maintenir un service client de qualité en
+   veillant à ce que. La vigilance en matière de détection de la fraude
+   n’altère le service client en signalant - et en bloquant - les
+   transactions licites.
+
+   Cette institution financière souhaitait moderniser son système de
+   détection de la fraude basé sur des règles et trouver un équilibre
+   entre la surveillance et l’expérience client. Pour ce faire, elle a
+   collaboré avec SAS pour mettre en œuvre une solution de détection de la
+   fraude basée sur le Machine Learning qui tire parti d’un ensemble de
+   réseaux neuronaux pour créer deux scores de fraude différents:
+    1. Un premier score de fraude est une évaluation de la probabilité
+       qu’un compte soit en situation de fraude.
+    2. Un second score transactionnel est une évaluation de la probabilité
+       qu’un individu soit un fraudeur.
+
+   Cette approche a aidé l’institution financière à identifier
+   correctement près d’un million de dollars de transactions mensuelles
+   recensées à tort comme frauduleuses. Elle a également permis
+   d’identifier 1,5 million de dollars par mois de fraude supplémentaire
+   qui n’avait jamais été détectée. En plus d’améliorer considérablement
+   la capacité de l’entreprise à détecter les fraudes, la solution
+   analytique a augmenté de manière significative la satisfaction des
+   clients. Comment? En améliorant le processus d’approbation des
+   transactions tout en augmentant l’efficacité de la détection de la
+   fraude, les frictions entre l’entreprise et ses clients ont été
+   considérablement réduites.
+   Pastel vector nodes
+
+     L’usage du Machine Learning pour la détection de la fraude comporte
+     un aspect créatif ou un « art » : appliquer des traitements
+     analytiques de manière nouvelle et inédite dans la lutte
+     anti-fraude, notamment en utilisant diverses méthodes de ML
+     supervisées et non supervisées dans un seul système afin d’être plus
+     efficace.
+
+   Sortir des sentiers battus
+
+   Enfin, les programmes de ML réussis comportent un élément
+   d’expérimentation en continue. Construire un modèle ML et le laisser
+   fonctionner ne suffisent pas. Les fraudeurs sont intelligents, et la
+   technologie évolue rapidement. Avoir un environnement où les
+   spécialistes des données peuvent expérimenter librement une variété de
+   méthodes, de données et de techniques est devenu un aspect essentiel
+   des meilleurs programmes analytiques pour lutter contre la fraude. Les
+   investissements visant à renforcer les capacités des spécialistes des
+   données qui luttent contre la fraude sont presque immédiatement
+   rentabilisés.
+
+   Alors, le Machine Learning, c’est quoi exactement?
+
+   En termes simples, le ML permet d’automatiser l’extraction de modèles
+   connus et inconnus à partir de données. Il exprime ces modèles sous la
+   forme d’une formule ou d’un ensemble d’instructions qui peuvent être
+   appliquées à des données nouvelles et non vues. Le dispositif apprend
+   et s’adapte au fur et à mesure que des résultats et de nouveaux modèles
+   lui sont présentés, et peut être supervisé ou non.
+
+   Le ML supervisé est une catégorie de méthodes analytiques qui tentent
+   d’apprendre à partir de signalements identifiés dans les données ; on
+   parle souvent de données étiquetées. Pour former un modèle supervisé,
+   vous lui présentez des signalements frauduleux et non frauduleux, et le
+   modèle tente ensuite de déduire une fonction ou un ensemble
+   d’instructions permettant de prédire la présence de fraude en
+   l’appliquant à de nouveaux exemples. Les méthodes courantes de ML
+   supervisé comprennent la régression logistique, les réseaux neuronaux,
+   les arbres de décision, les machines d’amplification du gradient, les
+   forêts aléatoires, les machines à vecteurs de support et bien d’autres
+   encore.
+
+   Le ML non supervisé est différent. Puisque vous ne savez pas quelles
+   données sont frauduleuses, vous souhaitez que le modèle crée une
+   fonction qui décrit la structure des données. De cette façon, le modèle
+   signale tout ce qui ne correspond pas au modèle comme étant une
+   anomalie. Pour former un modèle non supervisé, il suffit de lui
+   présenter des données et le modèle tente de déduire une fonction ou un
+   ensemble d’instructions qui décrit la structure et les dimensions
+   sous-jacentes des données. Cette fonction ou cet ensemble
+   d’instructions peut ensuite être appliqué à des données nouvelles et
+   non vues.
+
+   Le problème des méthodes non supervisées est qu’il est souvent
+   difficile d’évaluer la précision du schéma de détection tant que les
+   données n’ont pas été travaillées et vérifiées manuellement. Les
+   méthodes de ML non supervisées les plus courantes incluent les
+   algorithmes tels que le partitionnement k-means, la classification
+   dbscan, les cartes auto-organisatrices, les séparateurs à vaste marge
+   ou machines à vecteurs de support , l’analyse en composantes
+   principales et bien d’autres encore.
+
+   Et jusqu’à l’intelligence artificielle
+
+   Nous avons parcouru un long chemin de l’analyse statistique au Machine
+   Learning et à l’intelligence artificielle. Et la tendance s’accélère.
+   Découvrez comment SAS peut vous aider à lutter contre la fraude grâce à
+   une détection proactive qui s’appuie sur des techniques analytiques
+   avancées, de Machine Learning et d’intelligence artificielle.
+     __________________________________________________________________
+
+Lecture recommandée
+
+     * Five AI Technologies ARTICLE Five AI TechnologiesDo you know the
+       difference between artificial intelligence and machine learning?
+       And can you explain why computer vision is an AI technology? Find
+       out in this short explainer.
+     * Artificial intelligence, machine learning, deep learning and more
+       ARTICLE Artificial intelligence, machine learning, deep learning
+       and moreArtificial intelligence, machine learning and deep learning
+       are set to change the way we live and work. How do they relate and
+       how are they changing our world?
+     * Comment prévenir la fraude aux achats ARTICLE Comment prévenir la
+       fraude aux achatsLes criminels savent que les données dont vous
+       avez besoin sont dispersées un peu partout, ce qui les rend
+       difficiles à voir. Pour repérer ces malfaiteurs, vous devez
+       abandonner vos systèmes de protection manuels au profit d'une
+       approche analytique hybride.
+     * Mobile payments, smurfs and emerging threats ARTICLE Mobile
+       payments, smurfs and emerging threatsM-payment remittances are
+       replacing traditional banks and money services that have
+       historically charged high fees for small transfers. Former US
+       Treasury Special Agent John Cassara maps what he sees in the road
+       ahead and gives advice for protecting your firm.
+
+Prêt à vous abonner à SAS Insights maintenant?
+     __________________________________________________________________
+
+   Teal background with radiance graphic
+   [1552678694619.png]
+
+   SAS^® Viya^™
+
+   Make analytics accessible to everyone and bridge the talent gap in your
+   organization
+   Explore now
+   Please leave this field blank ____________________
+
+   Thank you for subscribing to Insights!
+   Enter email address
+   *
+   ___________________________________
+
+
+   [BUTTON Input] (not implemented)_____________
+   Close X icon
+
+   Subscribe to Insights newsletter
+
+   Web
+    1. Accueil
+
+     SAS Insights
+
+     Fraud detection and machine learning: What you need to know
+
+    1. Accueil
+
+     SAS Insights
+
+     Fraud detection and machine learning: What you need to know
+
+   La curiosité est notre code. Les solutions analytiques de SAS
+   transforment les données en intelligence et inspirent nos clients dans
+   le monde entier pour donner vie à leurs questions audacieuses et faire
+   avancer le progrès.
+
+   Nous contacter
+
+Suivez-nous
+
+     * Facebook
+     * Twitter
+     * LinkedIn
+     * YouTube
+     * RSS
+
+   Explorer
+     * Accessibilité
+     * Actualités
+     * Carrières
+     * Certifications
+     * Communities
+     * Developers
+     * Documentation
+
+     * Pour les enseignants
+     * Entreprise
+     * Etudiants
+     * Formations
+     * My SAS
+     * Pourquoi SAS ?
+     * Produits
+
+     * SAS Viya
+     * Secteurs d'activité
+     * Solutions
+     * Support & Services
+     * Tester / Acheter
+     * Tutoriels vidéo
+     * Évènements
+
+   Qu'est-ce que...
+
+Qu'est-ce que...
+
+     * Cloud computing
+     * Data science
+     * Intelligence artificielle
+     * Internet des objets
+     * L'analytique
+     * Transformation digitale
+
+     * Déclaration de confidentialité
+     * Conditions d'utilisation
+     * Trust Center
+     * © 2024 SAS Institute Inc. Tous droits réservés.
+
+     * Nous contacter
+     * Partager
+     * S'abonner
+
+   (BUTTON)
+
+   Partager cette page
+   Partager cette page avec des amis ou des collègues.
+
+   Back to Top
+
+   IFRAME: https://www.sas.com/okta.html

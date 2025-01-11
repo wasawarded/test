@@ -1,0 +1,18 @@
+De Disposition de clavier bépo
+
+Personnellement je ne comprends pas du tout la logique de fourre-tout
+
+Ce n’est pas si fourre-tout que ça, (en tout cas pour la version que je propose pour le projet officiel). Si tu prends en compte que c’est une touche morte latin étendu et ponctuation étendu, à part les cœur, pique, carreau, trèfle, mâle et femelle, tout est logique. Alpha latin sur a, beta latin sur b, ej sur j, esh sur x [logique catalane pour celui là car le x ce prononce ʃ (sauf entre deux voyelles)]…
+Merci de signer ton message la prochaine fois.
+Flavien21 (discussion) 15 février 2016 à 22:35 (CET)
+--
+Concernant la V2 : (on parle bien de ce qu’on va tenter de proposer à la normalisation ?)
+
+Peux-tu préciser ta position pour le ð en latin étendu plutôt qu’en barre inscrite ? J’ai tendance à voir le latin étendu comme quelque chose à n’utiliser que pour les caractères qu’on veut inclure, mais qui ne rentre pas dans les autres touches mortes (qui sont plus intuitives, car fonctionnent comme une composition). Ne pas oublier que l’apprentissage de la carte latin étendu sera essentiellement basé sur le par cœur, même si le placement de tes caractères est très logique…
+Aucun souci pour garder copyright. Pour ® et ™, je suis un poil plus mitigé : rien contre le fait de les garder si on a la place, mais si l’accessibilité de certaines touches mortes devait être privilégiée, je les passerais sur une autre carte…
+Bonne idée que de mettre la brève en ^ + v. Mais bon, j’aimais bien l’idée de mettre l’ŭ sur un AltGr, pour les raisons que j’explique sur ma page… enfin c’est très accessoire !
+Pour le cyrillique, je comprends ton point de vue. OK pour laisser en Alt+Maj+N, même si je ne comprends pas trop la logique de mettre un И en AltGr + Н sur la carte cyrillique. Peut-être à rediscuter s’il nous reste une place accessible pour une touche morte à la fin ?
+Compris pour les autres touches mortes, je n’avais pas vraiment saisi la logique.
+En revanche, je ne te suis pas pour « fusionner point en chef et point souscrit » : ne rend-on pas la disposition plus complexe par cette modification ? J’entends par là que des caractères avec ces diacritiques se retrouvent placés à des positions certes logiques, mais moins intuitives : je pense qu’il est plus intuitif une fois qu’on a trouvé la touche point souscrit de chercher le ị (i point souscrit) en point souscrit + i qu’en point + AltGr + J. Bon, j’admets avoir pris l’exemple le plus extrême, mais vois-tu ce que je veux dire ? (sinon je détaille)
+Pour l’ogonek, c’est vrai que l’emplacement est bizarre… En fait, je l’aurais plutôt attendu en Q (pour la forme de la queue), mais il n’y a pas de place… peut-être pourra-t-on y réfléchir ?
+

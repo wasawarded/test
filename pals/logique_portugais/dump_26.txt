@@ -1,0 +1,540 @@
+    #[1]Feed para Clube do Português » [2]Feed de comentários para Clube
+   do Português » [3]Feed de comentários para Clube do Português »
+   Coerência textual – tipos e exemplos [4]Feed de Clube do Português »
+   Story [5]JSON [6]oEmbed (JSON) [7]oEmbed (XML)
+
+   [8]Ir para o conteúdo
+
+   (BUTTON)
+     * [9]Categorias
+          + [10]Alfabetização
+               o [11]Alfabetização Incluisva
+               o [12]Conceitos e métodos
+               o [13]Desenvolvimento da escrita
+               o [14]Letramentos
+               o [15]Literacia Familiar
+               o [16]Teóricos da alfabetização
+          + [17]Conteúdo acessível
+          + [18]Dúvidas de Português
+               o [19]Coronavírus
+               o [20]Variedades
+          + [21]Enem
+               o [22]Linguagens e seus códigos
+               o [23]Literatura
+               o [24]Produção de texto
+          + [25]Glossário
+          + [26]Gramática
+               o [27]Concordância verbal e nominal
+               o [28]Crase
+               o [29]Estilística e semântica
+               o [30]Filosofia da linguagem
+               o [31]Fonética e fonologia
+               o [32]Hífen
+               o [33]Morfologia
+               o [34]Ortografia
+               o [35]Pontuação
+               o [36]Reforma ortográfica
+               o [37]Regência
+               o [38]Sintaxe
+          + [39]Língua e Tecnologia
+          + [40]Para professores e pais
+     * [41]Sobre o Clube
+
+   [42]Início > [43]sujeito composto > Coerência textual – tipos e
+   exemplos
+
+Coerência textual – tipos e exemplos
+
+     * [44]Pedro Valadares
+     * [45]publicado em 06/10/2021
+     * última atualização 5 meses atrás
+
+   Coerência textual consiste na garantia da relação lógica entre as
+   ideias de um texto. Assim dizemos que um texto está coerente quando é
+   possível entendê-lo de forma clara, sem contradições.
+
+   Para que isso ocorra no seu texto, é importante que você observe com
+   atenção alguns pontos essenciais para a manutenção da coerência. São
+   eles:
+     * Inter-relação entre os elementos do texto: todas as partes do texto
+       devem estar inter-relacionadas. Ou seja, não fuja bruscamente do
+       tema, tampouco mude bruscamente de assunto em [46]parágrafos
+       próximos. Tente realizar uma transição gradual entre os assuntos do
+       texto.
+
+     * Progressão de ideias: fale sobre as novas faces do mesmo assunto,
+       mas evite a repetição de ideias já mencionadas. Você deve conduzir
+       o leitor para os demais elementos possíveis dentro do assunto em
+       questão com cuidado para não ser prolixo e redundante.
+
+     * Aprofundamento de conceitos: desenvolva de maneira mais aprofundada
+       aquilo que você defende. Dizer apenas que concorda ou não ou que
+       algo é certo ou errado, por exemplo, não basta. Explique de maneira
+       detalhada as suas ideias.
+
+     * Não contradição: não seja contraditório ao abordar a sua temática.
+       Demonstre anuência em relação a um ponto de vista, pois o seu
+       posicionamento deve ficar claro para o seu leitor.
+
+     * Fundamentação de ideias: todo novo argumento de um texto deve estar
+       fundamentado. Isso significa que é importante mostrar qual é o
+       órgão, a instituição e/ou a pessoa notável que defende o mesmo que
+       você, quais são os estudos e pesquisas que comprovam o seu
+       argumento, quais são os exemplos reais e amplamente conhecidos que
+       ilustram o que você defende etc.
+
+     * Consistência e relevância: apresente argumentos consistentes, isto
+       é, que façam sentido; e também apresente argumentos relevantes, que
+       causem algum impacto em relação ao tema. Fuja dos clichês e dos
+       achismos.
+
+Tipos de coerência textual
+
+   Conheça abaixo os tipos de coerência textual mais comuns.
+
+   1. Coerência Narrativa: refere-se à relação lógica entre as partes de
+   um texto narrativo.
+
+   Incoerência: Quando chegou à casa, Helena percebeu que havia esquecido
+   suas chaves no trabalho. Como faltava meia hora para o escritório
+   fechar, entrou em casa.
+
+   Coerência: Quando chegou à casa, Helena percebeu que havia esquecido
+   suas chaves no trabalho. Como faltava meia hora para o escritório
+   fechar, pediu rapidamente um motorista de aplicativo e foi buscar suas
+   chaves.
+
+   2. Coerência Argumentativa: refere-se à relação lógica entre as partes
+   de um texto dissertativo, principalmente entre os argumentos e a tese.
+
+   Incoerência: Ter uma alimentação saudável é uma das formas de prevenção
+   à diabetes, e os cuidados com a dieta vão além de apenas evitar comer
+   doces. Inclusive, ela é uma doença silenciosa, portanto recomenda-se
+   procurar um médico apenas quando desenvolver sintomas.
+
+   Coerência: Ter uma alimentação saudável é uma das formas de prevenção à
+   diabetes, e os cuidados com a dieta vão além de apenas evitar comer
+   doces. Inclusive, ela é uma doença silenciosa, portanto recomenda-se
+   fazer avaliações médicas periodicamente.
+
+   3. Coerência Figurativa: refere-se à relação lógica entre as partes de
+   um [47]texto narrativo-descritivo, principalmente entre o assunto
+   abordado e as figuras usadas para ilustrá-lo.
+
+   Incoerência: A festa havia sido linda e animada! Notava-se todo o
+   capricho e cuidado da aniversariante, que pensou em cada detalhe, além
+   da cara de sono dos convidados, os quais não duraram mais de duas horas
+   no local.
+
+   Coerência: A festa havia sido linda e animada! Notava-se todo o
+   capricho e cuidado da aniversariante, que pensou em cada detalhe, além
+   da cara de felicidade dos convidados, os quais não queriam mais ir
+   embora.
+
+   4. Coerência Temporal: refere-se à relação lógica temporal entre as
+   partes de um texto dissertativo ou narrativo. Ou seja, os fatos devem
+   apresentar uma sucessão lógica.
+
+   Incoerência: Quando a mãe entrou no quarto do filho, ele já havia
+   trocado o óleo de cabelo dela por óleo de cozinha e estava jogando
+   videogame tranquilamente. Dessa forma, a mãe pegou-o em flagrante, bem
+   no instante dessa terrível façanha.
+
+   Coerência: Quando a mãe entrou no quarto do filho, ele estava trocando
+   o óleo de cabelo dela por óleo de cozinha. Dessa forma, a mãe pegou-o
+   em flagrante, bem no instante dessa terrível façanha.
+
+   5. Coerência de Registro: refere-se à uniformidade de tratamento do
+   início ao fim de um texto. Ou seja, o nível de [48]linguagem utilizado
+   deve ser totalmente formal ou informal.
+
+   Incoerência: As escolas estaduais, por meio da Secretaria de Educação,
+   promoverão a “Semana de Proteção Animal”, que vai dar o start já na
+   próxima segunda. O secretário de Educação afirma que esse é um evento
+   para sensibilizar os de menor sobre a necessidade de proteção e
+   respeito aos direitos dos animal tudo.
+
+   Coerência: As escolas estaduais, por meio da Secretaria de Educação,
+   promoverão a “Semana de Proteção Animal”, que começará na próxima
+   segunda-feira. O secretário de Educação afirma que esse é um evento
+   para sensibilizar as crianças e adolescentes sobre a necessidade de
+   proteção e respeito aos direitos de todas as espécies animais.
+
+   *
+
+   Quer aprofundar seus conhecimentos na língua portuguesa? Então,
+   continue seus estudos com a [49]Gramática On-line do Clube do
+   Português.
+
+   IFRAME: [50]about:blank
+
+   IFRAME: [51]https://clubedoportugues.substack.com/embed
+
+   Picture of Pedro Valadares Picture of Pedro Valadares
+   Pedro Valadares
+   Professor de português e revisor de texto com mais de 13 anos de
+   experiência. Consultor em revisão de texto da Câmara Legislativa do
+   Distrito Federal e aprovado em mais de 10 concursos públicos.
+   Licenciatura em letras, graduação em comunicação social e
+   especialização em revisão textual e significação da linguagem.
+
+Outros artigos relacionados ao tema
+
+
+   17 dezembro 2024
+   [52]
+   Clichês: conceito, exemplos e como evitar em provas discursivas
+   Se você está se preparando para concursos públicos, sabe que as provas
+   discursivas são uma oportunidade valiosa para mostrar seu conhecimento
+   e sua habilidade com a escrita. No entanto, o uso de clichês...
+   [53]Leia mais
+
+   11 dezembro 2024
+   [54]
+   Em anexo ou Anexo: quando usar cada um?
+   As formas anexo e em anexo estão corretas. A segunda, apesar de
+   condenada por alguns gramáticos, é aceita por diversos estudiosos do
+   Português e também pelas principais bancas de concurso público.
+   Neste...
+   [55]Leia mais
+
+   25 novembro 2024
+   [56]
+   Reportagem: aspectos relevantes, tipos e exemplos
+   No universo do jornalismo, existe um gênero textual que se destaca por
+   oferecer informações detalhadas e aprofundadas sobre um tema
+   específico: a reportagem. Diferente de uma notícia, que apresenta...
+   [57]Leia mais
+
+   20 outubro 2024
+   [58]
+   Prosa: o que é, características e como fazer?
+   Podemos definir prosa como uma das formas mais versáteis de expressão e
+   liberdade de pensamento. Isso porque se trata de uma narrativa simples,
+   espontânea e sem amarras da métrica.  Em outras palavras,...
+   [59]Leia mais
+
+   26 agosto 2024
+   [60]
+   Biografia: características, estrutura, tipos e exemplos
+   A biografia é um gênero textual que conta a história da vida de alguém.
+   Em outras palavras, trata-se de um texto que relata as principais
+   ações, experiências e o legado de uma figura pública.  Os fatos...
+   [61]Leia mais
+
+   24 julho 2024
+   [62]
+   Conto: estrutura, exemplos, tipos e elementos
+   Com um enredo curto e poucos personagens, o conto é um gênero que
+   centraliza em um único problema ou situação, explorada em uma breve
+   narrativa. Autores como Machado de Assis e Mário de Andrade são
+   considerados...
+   [63]Leia mais
+
+   24 abril 2024
+   [64]
+   10 dicas de português para não errar na redação
+   Confira aqui 10 dicas certeiras para você não vacilar na hora da
+   redação. Entenda onde prestar atenção para garantir uma boa nota.
+   [65]Leia mais
+
+   23 abril 2024
+   [66]
+   Carta argumentativa: estrutura, como fazer, exemplos e questões
+   A carta argumentativa é um gênero textual que visa convencer o
+   interlocutor sobre um determinado ponto de vista. Entenda mais aqui!
+   [67]Leia mais
+
+   15 abril 2024
+   [68]
+   Conclusão da redação do Enem: passo a passo para uma proposta de
+   intervenção nota 1000
+   A conclusão da redação do Enem, conhecida como proposta de intervenção
+   vale 20% da sua nota. Por isso, trouxemos para você um guia completo.
+   [69]Leia mais
+
+   11 abril 2024
+   [70]
+   Introdução para a redação do Enem: 5 estratégias infalíveis
+   Como fazer introdução para a redação do Enem? Neste artigo, vamos te
+   mostrar o guia completo para iniciar seu texto com segurança.
+   [71]Leia mais
+
+   17 dezembro 2024
+   [72]
+   Clichês: conceito, exemplos e como evitar em provas discursivas
+   Se você está se preparando para concursos públicos, sabe que as provas
+   discursivas são uma oportunidade valiosa para mostrar seu conhecimento
+   e sua habilidade com a escrita. No entanto, o uso de clichês...
+   [73]Leia mais
+
+   11 dezembro 2024
+   [74]
+   Em anexo ou Anexo: quando usar cada um?
+   As formas anexo e em anexo estão corretas. A segunda, apesar de
+   condenada por alguns gramáticos, é aceita por diversos estudiosos do
+   Português e também pelas principais bancas de concurso público.
+   Neste...
+   [75]Leia mais
+
+   25 novembro 2024
+   [76]
+   Reportagem: aspectos relevantes, tipos e exemplos
+   No universo do jornalismo, existe um gênero textual que se destaca por
+   oferecer informações detalhadas e aprofundadas sobre um tema
+   específico: a reportagem. Diferente de uma notícia, que apresenta...
+   [77]Leia mais
+
+   20 outubro 2024
+   [78]
+   Prosa: o que é, características e como fazer?
+   Podemos definir prosa como uma das formas mais versáteis de expressão e
+   liberdade de pensamento. Isso porque se trata de uma narrativa simples,
+   espontânea e sem amarras da métrica.  Em outras palavras,...
+   [79]Leia mais
+
+   26 agosto 2024
+   [80]
+   Biografia: características, estrutura, tipos e exemplos
+   A biografia é um gênero textual que conta a história da vida de alguém.
+   Em outras palavras, trata-se de um texto que relata as principais
+   ações, experiências e o legado de uma figura pública.  Os fatos...
+   [81]Leia mais
+
+   24 julho 2024
+   [82]
+   Conto: estrutura, exemplos, tipos e elementos
+   Com um enredo curto e poucos personagens, o conto é um gênero que
+   centraliza em um único problema ou situação, explorada em uma breve
+   narrativa. Autores como Machado de Assis e Mário de Andrade são
+   considerados...
+   [83]Leia mais
+
+   24 abril 2024
+   [84]
+   10 dicas de português para não errar na redação
+   Confira aqui 10 dicas certeiras para você não vacilar na hora da
+   redação. Entenda onde prestar atenção para garantir uma boa nota.
+   [85]Leia mais
+
+   23 abril 2024
+   [86]
+   Carta argumentativa: estrutura, como fazer, exemplos e questões
+   A carta argumentativa é um gênero textual que visa convencer o
+   interlocutor sobre um determinado ponto de vista. Entenda mais aqui!
+   [87]Leia mais
+
+   15 abril 2024
+   [88]
+   Conclusão da redação do Enem: passo a passo para uma proposta de
+   intervenção nota 1000
+   A conclusão da redação do Enem, conhecida como proposta de intervenção
+   vale 20% da sua nota. Por isso, trouxemos para você um guia completo.
+   [89]Leia mais
+
+   11 abril 2024
+   [90]
+   Introdução para a redação do Enem: 5 estratégias infalíveis
+   Como fazer introdução para a redação do Enem? Neste artigo, vamos te
+   mostrar o guia completo para iniciar seu texto com segurança.
+   [91]Leia mais
+
+     * [92]Página inicial
+     * [93]Contato
+     * [94]Sobre Nós
+     * [95]Web Stories
+     * [96]Mapa do Site
+     * [97]Política de Privacidade
+
+     * [98]Página inicial
+     * [99]Contato
+     * [100]Sobre Nós
+     * [101]Web Stories
+     * [102]Mapa do Site
+     * [103]Política de Privacidade
+
+     * [104]Página inicial
+     * [105]Contato
+     * [106]Sobre Nós
+     * [107]Web Stories
+     * [108]Mapa do Site
+     * [109]Política de Privacidade
+
+     * [110]Página inicial
+     * [111]Contato
+     * [112]Sobre Nós
+     * [113]Web Stories
+     * [114]Mapa do Site
+     * [115]Política de Privacidade
+
+     * [116]Página inicial
+     * [117]Contato
+     * [118]Sobre Nós
+     * [119]Web Stories
+     * [120]Mapa do Site
+     * [121]Política de Privacidade
+
+     * [122]Página inicial
+     * [123]Contato
+     * [124]Sobre Nós
+     * [125]Web Stories
+     * [126]Mapa do Site
+     * [127]Política de Privacidade
+
+Références
+
+   Liens visibles :
+   1. https://www.clubedoportugues.com.br/feed/
+   2. https://www.clubedoportugues.com.br/comments/feed/
+   3. https://www.clubedoportugues.com.br/coerencia-textual/feed/
+   4. https://www.clubedoportugues.com.br/web-stories/feed/
+   5. https://www.clubedoportugues.com.br/wp-json/wp/v2/posts/227184
+   6. https://www.clubedoportugues.com.br/wp-json/oembed/1.0/embed?url=https://www.clubedoportugues.com.br/coerencia-textual/
+   7. https://www.clubedoportugues.com.br/wp-json/oembed/1.0/embed?url=https://www.clubedoportugues.com.br/coerencia-textual/&format=xml
+   8. file:///tmp/lynxXXXXqwWkYZ/L19066-66TMP.html#content
+   9. file:///tmp/lynxXXXXqwWkYZ/L19066-66TMP.html
+  10. https://www.clubedoportugues.com.br/categoria/tudo-sobre-alfabetizacao/
+  11. https://www.clubedoportugues.com.br/categoria/tudo-sobre-alfabetizacao/artigos-sobre-alfabetizacao-inclusiva/
+  12. https://www.clubedoportugues.com.br/categoria/tudo-sobre-alfabetizacao/conceitos-alfabetizacao/
+  13. https://www.clubedoportugues.com.br/categoria/tudo-sobre-alfabetizacao/desenvolvimento-da-escrita/
+  14. https://www.clubedoportugues.com.br/categoria/tudo-sobre-alfabetizacao/letramentos/
+  15. https://www.clubedoportugues.com.br/categoria/tudo-sobre-alfabetizacao/artigos-sobre-literacia-familiar/
+  16. https://www.clubedoportugues.com.br/categoria/tudo-sobre-alfabetizacao/teoricos-alfabetizacao/
+  17. https://www.clubedoportugues.com.br/categoria/acessibilidade/
+  18. https://www.clubedoportugues.com.br/categoria/palavras-parecidas/
+  19. https://www.clubedoportugues.com.br/categoria/palavras-parecidas/coronavirus/
+  20. https://www.clubedoportugues.com.br/categoria/palavras-parecidas/variedades/
+  21. https://www.clubedoportugues.com.br/categoria/tudo-sobre-o-enem/
+  22. https://www.clubedoportugues.com.br/categoria/tudo-sobre-o-enem/linguagens-e-seus-codigos/
+  23. https://www.clubedoportugues.com.br/categoria/tudo-sobre-o-enem/literatura/
+  24. https://www.clubedoportugues.com.br/categoria/tudo-sobre-o-enem/redacao/
+  25. https://www.clubedoportugues.com.br/categoria/glossario/
+  26. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/
+  27. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/concordancia-verbal-nominal/
+  28. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/crase/
+  29. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/estilistica-semantica/
+  30. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/filosofia-da-linguagem/
+  31. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/fonetica-e-fonologia/
+  32. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/hifen/
+  33. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/morfologia/
+  34. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/ortografia/
+  35. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/pontuacao/
+  36. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/reforma-ortografica/
+  37. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/regencia-verbal/
+  38. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/sintaxe/
+  39. https://www.clubedoportugues.com.br/categoria/lingua-e-tecnologia/
+  40. https://www.clubedoportugues.com.br/categoria/para-professores/
+  41. https://www.clubedoportugues.com.br/sobre-nos/
+  42. https://www.clubedoportugues.com.br/
+  43. https://www.clubedoportugues.com.br/tag/sujeito-composto/
+  44. https://www.clubedoportugues.com.br/author/pedrovalad/
+  45. https://www.clubedoportugues.com.br/2021/10/06/
+  46. https://www.clubedoportugues.com.br/paragrafo-padrao-como-fazer/
+  47. https://www.clubedoportugues.com.br/tipologia-textual/
+  48. https://www.clubedoportugues.com.br/funcoes-da-linguagem-parte-1/
+  49. https://www.clubedoportugues.com.br/gramatica-on-line/
+  50. about:blank
+  51. https://clubedoportugues.substack.com/embed
+  52. https://www.clubedoportugues.com.br/cliches/
+  53. https://www.clubedoportugues.com.br/cliches/
+  54. https://www.clubedoportugues.com.br/em-anexo-x-anexo-quando-usar-cada-um/
+  55. https://www.clubedoportugues.com.br/em-anexo-x-anexo-quando-usar-cada-um/
+  56. https://www.clubedoportugues.com.br/reportagem/
+  57. https://www.clubedoportugues.com.br/reportagem/
+  58. https://www.clubedoportugues.com.br/prosa/
+  59. https://www.clubedoportugues.com.br/prosa/
+  60. https://www.clubedoportugues.com.br/biografia/
+  61. https://www.clubedoportugues.com.br/biografia/
+  62. https://www.clubedoportugues.com.br/conto/
+  63. https://www.clubedoportugues.com.br/conto/
+  64. https://www.clubedoportugues.com.br/dicas-para-redacao/
+  65. https://www.clubedoportugues.com.br/dicas-para-redacao/
+  66. https://www.clubedoportugues.com.br/carta-argumentativa/
+  67. https://www.clubedoportugues.com.br/carta-argumentativa/
+  68. https://www.clubedoportugues.com.br/conclusao-da-redacao-do-enem/
+  69. https://www.clubedoportugues.com.br/conclusao-da-redacao-do-enem/
+  70. https://www.clubedoportugues.com.br/como-fazer-introducao-para-redacao-do-enem/
+  71. https://www.clubedoportugues.com.br/como-fazer-introducao-para-redacao-do-enem/
+  72. https://www.clubedoportugues.com.br/cliches/
+  73. https://www.clubedoportugues.com.br/cliches/
+  74. https://www.clubedoportugues.com.br/em-anexo-x-anexo-quando-usar-cada-um/
+  75. https://www.clubedoportugues.com.br/em-anexo-x-anexo-quando-usar-cada-um/
+  76. https://www.clubedoportugues.com.br/reportagem/
+  77. https://www.clubedoportugues.com.br/reportagem/
+  78. https://www.clubedoportugues.com.br/prosa/
+  79. https://www.clubedoportugues.com.br/prosa/
+  80. https://www.clubedoportugues.com.br/biografia/
+  81. https://www.clubedoportugues.com.br/biografia/
+  82. https://www.clubedoportugues.com.br/conto/
+  83. https://www.clubedoportugues.com.br/conto/
+  84. https://www.clubedoportugues.com.br/dicas-para-redacao/
+  85. https://www.clubedoportugues.com.br/dicas-para-redacao/
+  86. https://www.clubedoportugues.com.br/carta-argumentativa/
+  87. https://www.clubedoportugues.com.br/carta-argumentativa/
+  88. https://www.clubedoportugues.com.br/conclusao-da-redacao-do-enem/
+  89. https://www.clubedoportugues.com.br/conclusao-da-redacao-do-enem/
+  90. https://www.clubedoportugues.com.br/como-fazer-introducao-para-redacao-do-enem/
+  91. https://www.clubedoportugues.com.br/como-fazer-introducao-para-redacao-do-enem/
+  92. https://www.clubedoportugues.com.br/
+  93. https://www.clubedoportugues.com.br/contato/
+  94. https://www.clubedoportugues.com.br/sobre-nos/
+  95. https://www.clubedoportugues.com.br/web-stories/
+  96. https://www.clubedoportugues.com.br/mapa-do-site/
+  97. https://www.clubedoportugues.com.br/politica-de-privacidade/
+  98. https://www.clubedoportugues.com.br/
+  99. https://www.clubedoportugues.com.br/contato/
+ 100. https://www.clubedoportugues.com.br/sobre-nos/
+ 101. https://www.clubedoportugues.com.br/web-stories/
+ 102. https://www.clubedoportugues.com.br/mapa-do-site/
+ 103. https://www.clubedoportugues.com.br/politica-de-privacidade/
+ 104. https://www.clubedoportugues.com.br/
+ 105. https://www.clubedoportugues.com.br/contato/
+ 106. https://www.clubedoportugues.com.br/sobre-nos/
+ 107. https://www.clubedoportugues.com.br/web-stories/
+ 108. https://www.clubedoportugues.com.br/mapa-do-site/
+ 109. https://www.clubedoportugues.com.br/politica-de-privacidade/
+ 110. https://www.clubedoportugues.com.br/
+ 111. https://www.clubedoportugues.com.br/contato/
+ 112. https://www.clubedoportugues.com.br/sobre-nos/
+ 113. https://www.clubedoportugues.com.br/web-stories/
+ 114. https://www.clubedoportugues.com.br/mapa-do-site/
+ 115. https://www.clubedoportugues.com.br/politica-de-privacidade/
+ 116. https://www.clubedoportugues.com.br/
+ 117. https://www.clubedoportugues.com.br/contato/
+ 118. https://www.clubedoportugues.com.br/sobre-nos/
+ 119. https://www.clubedoportugues.com.br/web-stories/
+ 120. https://www.clubedoportugues.com.br/mapa-do-site/
+ 121. https://www.clubedoportugues.com.br/politica-de-privacidade/
+ 122. https://www.clubedoportugues.com.br/
+ 123. https://www.clubedoportugues.com.br/contato/
+ 124. https://www.clubedoportugues.com.br/sobre-nos/
+ 125. https://www.clubedoportugues.com.br/web-stories/
+ 126. https://www.clubedoportugues.com.br/mapa-do-site/
+ 127. https://www.clubedoportugues.com.br/politica-de-privacidade/
+
+   Liens cachés :
+ 129. https://www.clubedoportugues.com.br/
+ 130. https://www.clubedoportugues.com.br/cliches/
+ 131. https://www.clubedoportugues.com.br/em-anexo-x-anexo-quando-usar-cada-um/
+ 132. https://www.clubedoportugues.com.br/reportagem/
+ 133. https://www.clubedoportugues.com.br/prosa/
+ 134. https://www.clubedoportugues.com.br/biografia/
+ 135. https://www.clubedoportugues.com.br/conto/
+ 136. https://www.clubedoportugues.com.br/dicas-para-redacao/
+ 137. https://www.clubedoportugues.com.br/carta-argumentativa/
+ 138. https://www.clubedoportugues.com.br/conclusao-da-redacao-do-enem/
+ 139. https://www.clubedoportugues.com.br/como-fazer-introducao-para-redacao-do-enem/
+ 140. https://www.clubedoportugues.com.br/cliches/
+ 141. https://www.clubedoportugues.com.br/em-anexo-x-anexo-quando-usar-cada-um/
+ 142. https://www.clubedoportugues.com.br/reportagem/
+ 143. https://www.clubedoportugues.com.br/prosa/
+ 144. https://www.clubedoportugues.com.br/biografia/
+ 145. https://www.clubedoportugues.com.br/conto/
+ 146. https://www.clubedoportugues.com.br/dicas-para-redacao/
+ 147. https://www.clubedoportugues.com.br/carta-argumentativa/
+ 148. https://www.clubedoportugues.com.br/conclusao-da-redacao-do-enem/
+ 149. https://www.clubedoportugues.com.br/como-fazer-introducao-para-redacao-do-enem/
+ 150. https://www.clubedoportugues.com.br/
+ 151. https://www.linkedin.com/company/clube-do-portugu%C3%AAs
+ 152. https://youtube.com/@pedrovaladares
+ 153. https://www.instagram.com/clubedoportugues.com.br

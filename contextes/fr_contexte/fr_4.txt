@@ -1,0 +1,143 @@
+          + sport
+
+Logique
+
+   [INS: :INS]
+
+   Nous expliquons ce qu’est la logique et les caractéristiques de la
+   logique philosophique, aristotélicienne, mathématique, informatique,
+   formelle et informelle.
+   [logique.jpg] La logique est utilisée dans des processus variés tels
+   que la démonstration, l’inférence ou la déduction.
+
+Qu’est-ce que la logique ?
+
+   La logique est une science formelle , qui fait partie de la philosophie
+   et des mathématiques . Il se concentre sur l’étude des procédures de
+   pensée valides et invalides , c’est-à-dire des processus tels que la
+--
+   que les erreurs, les paradoxes et la vérité .
+
+   La logique est une discipline extrêmement ancienne , née indépendamment
+   chez les penseurs des grandes civilisations classiques et antiques ,
+   comme la Chine, la Grèce ou l’Inde. Dès son origine, il a été compris
+--
+   plus proche des mathématiques, car les applications de ces dernières
+   ont acquis une grande importance industrielle, sociale et
+   technologique.
+
+   Le mot « logique » a son origine dans le mot grec logiké (« doué de
+   raison »), venant du terme logos , équivalent à « parole » ou
+   « pensée ».
+--
+   ou valorisée, dans leurs contextes possibles respectifs . Il est
+   également utilisé comme synonyme de « façon de penser », comme
+   lorsqu’il se réfère à la « logique sportive », à la « logique
+   militaire », etc.
+
+   Voir aussi: Pensée mathématique
+
+logique philosophique
+
+   Avec ce terme, on appelle les domaines de la philosophie dans lesquels
+   les méthodes de la logique sont utilisées pour résoudre ou faire
+   avancer certains dilemmes philosophiques, et peuvent être traitées dans
+   ce qui est considéré comme une logique traditionnelle ou, au contraire,
+   une logique non classique. C’est-à-dire la logique dans le cadre de la
+   philosophie.
+
+   C’est une discipline très proche de la philosophie du langage , et
+   s’inscrit essentiellement dans la continuité de la logique de
+   l’Antiquité, centrée sur la pensée et le langage naturel . Nous
+   utilisons couramment ce nom pour le distinguer de la logique
+   mathématique plus récente.
+
+logique aristotélicienne
+
+   Au sein de la logique philosophique, la logique aristotélicienne est
+   connue comme la tradition de pensée qui commence avec les travaux du
+   philosophe grec Aristote de Stagire (384-322 av. J.-C.), considéré
+   comme le fondateur occidental de la logique et l’une des parties les
+   plus importantes de la tradition philosophique mondiale. .
+
+   Les principaux travaux d’Aristote sur la logique sont rassemblés dans
+   son Órganon (grec pour «instrument»), compilé par Andronicus de Rhodes
+   plusieurs siècles après leur écriture. Ils déploient tout un système
+   logique qui a été extrêmement influent en Europe et au Moyen-Orient
+   jusqu’après le Moyen Âge .
+
+   Dans cet ouvrage, en outre, Aristote a postulé les axiomes fondamentaux
+   de la logique :
+     * Le principe de non-contradiction. Selon laquelle quelque chose ne
+       peut pas être et ne pas être en même temps (A et ¬A ne peuvent pas
+--
+       pas vrai, sans gradations possibles (A ou alors ¬A).
+
+Logique mathématique
+
+   La logique mathématique, également appelée logique symbolique, logique
+   formelle, logique théorique ou logistique, est connue comme l’
+   application de la pensée logique à certains domaines des mathématiques
+   et des sciences .
+
+   Cela implique l’étude du processus d’inférence, à travers des systèmes
+   de représentation formels, tels que la logique propositionnelle, la
+   logique modale ou la logique du premier ordre, qui permettent de
+   « traduire » le langage naturel en langage mathématique afin de
+   développer des preuves rigoureuses.
+
+   La logique mathématique couvre quatre grands domaines, qui sont :
+     * Théorie des modèles. Celle-ci propose l’étude des théories
+       axiomatiques et de la logique mathématique à travers des structures
+       mathématiques appelées groupes, champs ou graphes, attribuant ainsi
+       un contenu sémantique aux constructions purement formelles de la
+       logique.
+     * Théorie de la preuve. Aussi appelée théorie de la preuve, elle
+       propose des preuves utilisant des objets mathématiques et des
+       techniques mathématiques comme moyen de vérifier des problèmes
+       logiques. Ainsi, là où la théorie des modèles s’occupe de donner
+       une sémantique (un sens) aux structures formelles de la logique, la
+       théorie de la preuve s’occupe plutôt de leur syntaxe (leur ordre).
+     * Théorie des ensembles . Axé sur l’étude de collections abstraites
+       d’objets, compris en eux-mêmes comme des objets, ainsi que sur
+       leurs opérations de base et leurs interrelations. Cette branche de
+       la logique mathématique est l’une des plus fondamentales qui
+       existent, à tel point qu’elle constitue un outil de base de toute
+       théorie mathématique.
+--
+       calculables ou non calculables.
+
+logique de calcul
+
+   [logique-2.jpg] La logique computationnelle crée des systèmes
+   informatiques intelligents.
+
+   La logique computationnelle est la même logique mathématique mais
+   appliquée au domaine de l’informatique , c’est-à-dire à différents
+   niveaux fondamentaux de l’informatique : circuits de calcul,
+   programmation logique et gestion des algorithmes. L’intelligence
+   artificielle en fait également partie , un domaine relativement récent
+   dans le domaine.
+
+   On pourrait dire que, d’une manière générale, la logique
+   computationnelle aspire à alimenter un système informatique à travers
+   des structures logiques qui expriment, en langage mathématique, les
+   différentes possibilités de la pensée humaine, créant ainsi des
+   systèmes informatiques intelligents.
+
+Logique formelle et informelle
+
+   Il fait aussi souvent la distinction entre deux champs distincts de la
+   logique : formel et informel, de par son approche du langage dans
+   lequel les énoncés sont exprimés.
+     * logique formelle. C’est celui qui s’occupe du langage formel,
+       c’est-à-dire de la manière d’exprimer son contenu, en l’utilisant
+       strictement, sans ambiguïté, de manière à ce que la voie déductive
+       puisse être analysée à partir de la validité de ses formes (d’où
+       son nom ). ).
+     * logique informelle. Au lieu de cela, il étudie ses arguments a
+       posteriori, en distinguant les formes valides et invalides en
+       fonction des informations fournies, quelle que soit leur forme
+       logique ou leur langage formel. Cette variante a émergé au milieu
+       du XXe siècle en tant que discipline au sein de la philosophie.
+

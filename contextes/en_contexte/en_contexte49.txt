@@ -1,0 +1,57 @@
+   [ ] Toggle the table of contents
+
+Logic for Computable Functions
+
+   [ ] 3 languages
+--
+   From Wikipedia, the free encyclopedia
+   1970s automated theorem prover
+   See also: Logic of Computable Functions
+
+   Logic for Computable Functions (LCF) is an interactive automated
+   theorem prover developed at Stanford and Edinburgh by Robin Milner and
+   collaborators in early 1970s, based on the theoretical foundation of
+   logic of computable functions previously proposed by Dana Scott. Work
+   on the LCF system introduced the general-purpose programming language
+   ML to allow users to write theorem-proving tactics, supporting
+--
+
+   Among subsequent implementations is Cambridge LCF. Later systems
+   simplified the logic to use total instead of partial functions, leading
+   to HOL, HOL Light, and the Isabelle proof assistant that supports
+   various logics. As of 2019, the Isabelle proof assistant still contains
+   an implementation of an LCF logic, Isabelle/LCF.
+
+Notes
+--
+
+   Gordon, Michael J.; Milner, Arthur J.; Wadsworth, Christopher P.
+   (1979). Edinburgh LCF: A Mechanised Logic of Computation. Lecture Notes
+   in Computer Science. Vol. 78. Berlin Heidelberg: Springer.
+   doi:10.1007/3-540-09724-4. ISBN 978-3-540-09724-2. S2CID 21159098.
+--
+   doi:10.1007/978-3-322-96753-4. ISBN 978-3-322-96754-1.
+
+     Milner, Robin (May 1972). Logic for Computable Functions: description
+   of a machine implementation (PDF). Stanford University.
+
+--
+     * Isabelle°
+     * LEGO
+     * Logic for Computable Functions
+     * Matita°
+     * Twelf°
+--
+   Stub icon
+
+   This mathematical logic-related article is a stub. You can help
+   Wikipedia by expanding it.
+
+--
+
+   Categories:
+     * Logic in computer science
+     * Proof assistants
+     * Mathematical logic stubs
+
+   Hidden categories:

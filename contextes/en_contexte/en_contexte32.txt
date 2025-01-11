@@ -1,0 +1,23 @@
+   ____________________
+
+Active Logic, Metacognitive Computation, and Mind
+
+   Toward Human-Level Cognitive Adequacy
+--
+     __________________________________________________________________
+
+   If you would like to learn more about Active Logic, we suggest you
+   start with one of our primers.
+
+   Our acronym ALMECOM stands for Active Logic, Metacognitive Computation,
+   and Mind. Active Logic is a time-sensitive formalism that has been
+   developed with real-world applications and their challenges in mind.
+   Active logic explicitly reasons in time, and incorporates a history of
+   its reasoning as it runs. This characteristic makes active logic more
+   flexible than traditional AI systems and therefore more suitable for
+   commonsense, real-world reasoning.
+
+   One important strategy that we employ in active logic is metareasoning.
+   Because active logic tracks its reasoning, it is able to reason about
+   its own inferences, and thereby recognize and recover from errors.
+

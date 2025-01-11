@@ -1,0 +1,460 @@
+
+   Church’s type theory, aka simple type theory, is a formal logical
+   language which includes classical first-order and propositional logic,
+   but is more expressive in a practical sense. It is used, with some
+   modifications and enhancements, in most modern applications of type
+--
+   information systems, sophisticated automated reasoning systems, systems
+   for verifying the correctness of mathematical proofs, and a range of
+   projects involving logic and artificial intelligence. Some examples and
+   further references are given in Sections 1.2.2 and 5 below.
+
+   Type theories are also called higher-order logics, since they allow
+   quantification not only over individual variables (as in first-order
+   logic), but also over function, predicate, and even higher-order
+   variables. Type theories characteristically assign types to entities,
+   distinguishing, for example, between numbers, sets of numbers,
+--
+   \(<x\) of all natural numbers y such that x is less than y. Thus sets,
+   properties, and relations may be regarded as particular kinds of
+   functions. Church’s type type theory is thus a logic of functions, and,
+   in this sense, it is in the tradition of the work of Frege’s
+   Begriffsschrift. The opposite approach would be to reduce functions to
+--
+   ontological argument for the existence of God. This example illustrates
+   two interesting aspects:
+     * Church’s type theory can be employed as a meta-logic to concisely
+       embed expressive other logics such as the higher-order modal logic
+       assumed by Gödel. By exploiting the possible world semantics of
+       this target logic, its syntactic elements are defined in such a way
+       that the infrastructure of the meta-logic are reused as much as
+       possible. In this technique, called shallow semantical embedding,
+       the modal operator \(\Box\), for example, is simply identified with
+--
+       actuality) can be modeled as \(\varphi_{{o}\imath} n_{\imath}\),
+       where \(n_{\imath}\) is a nominal (constant symbol in the
+       meta-logic) denoting a particular possible world.
+     * The above technique can be exploited for a natural encoding and
+       automated assessment of Gödel’s ontological argument in
+       higher-order modal logic, which unfolds into formulas in Church’s
+       type theory such that higher-order theorem provers can be applied.
+       Further details are presented in Section 6 (Logic and Philosophy)
+       of the SEP entry on automated reasoning and also in Section 5.2;
+       moreover, see Benzmüller & Woltzenlogel-Paleo 2014 and Benzmüller
+--
+   \((\rE1){-}(\rE6^{\alpha})\) (for all type symbols \(\alpha)\). We
+   shall sometimes refer to elementary type theory as \(\cT\). It embodies
+   the logic of propositional connectives, quantifiers, and λ-conversion
+   in the context of type theory.
+
+--
+   \(\sfQ_{{o}\alpha \alpha}\)’s.
+
+   Tarski (1923) noted that in the context of higher-order logic, one can
+   define propositional connectives in terms of logical equivalence and
+   quantifiers. Quine (1956) showed how both quantifiers and connectives
+--
+
+   It is natural to compare the semantics of type theory with the
+   semantics of first-order logic, where the theorems are precisely the
+   wffs which are valid in all interpretations. From an intuitive point of
+   view, the natural interpretations of type theory are standard models,
+--
+
+   Thus far, investigations of model theory for Church’s type theory have
+   been far less extensive than for first-order logic. Nevertheless, there
+   has been some work on methods of constructing nonstandard models of
+   type theory and models in which various forms of extensionality fail,
+--
+   The Unifying Principle was introduced in Smullyan 1963 (see also
+   Smullyan 1995) as a tool for deriving a number of basic metatheorems
+   about first-order logic in a uniform way. The principle was extended to
+   elementary type theory by Andrews (1971) and to extensional type
+   theory, that is, Henkin’s general semantics without description or
+--
+
+   An expansion proof is a generalization of the notion of a Herbrand
+   expansion of a theorem of first-order logic; it provides a very
+   elegant, concise, and nonredundant representation of the relationship
+   between the theorem and a tautology which can be obtained from it by
+--
+3.6 The Decision Problem
+
+   Since type theory includes first-order logic, it is no surprise that
+   most systems of type theory are undecidable. However, one may look for
+   solvable special cases of the decision problem. For example, the system
+--
+
+   Although the system \(\cT\) of elementary type theory is analogous to
+   first-order logic in certain respects, it is a considerably more
+   complex language, and special cases of the decision problem for
+   provability in \(\cT\) seem rather intractable for the most part.
+--
+   of the form \(\exists \bz\bC\), where \(\bC\) is quantifier-free, is
+   unsolvable. (By contrast, the corresponding decision problem in
+   first-order logic with function symbols is known to be solvable (Maslov
+   1967).) Since irrelevant or vacuous quantifiers can always be
+   introduced, this shows that the only solvable classes of wffs of
+--
+   years; see, e.g., the references on superposition based calculi given
+   below. The challenges are obviously much bigger than in first-order
+   logic. The practically way more expressive nature of the term-language
+   of Church’s type theory causes a larger, bushier and more difficult to
+   traverse proof search space than in first-order logic. Moreover,
+   remember that unification, which constitutes a very important control
+   and filter mechanism in first-order theorem proving, is undecidable (in
+   general) in type theory; see Section 3.2. On the positive side,
+   however, there is a chance to find significantly shorter proofs than in
+   first-order logic. This is well illustrated with a small, concrete
+   example in Boolos 1987, for which a fully automated proof seems now in
+   reach (Benzmüller et al. 2023).
+--
+   and on heuristic rewriting. In the tradition of its predecessors,
+   Leo-III cooperates with first-order reasoning tools using translations
+   to many-sorted first-order logic. The prover accepts every common TPTP
+   syntax dialect and is thus very widely applicable. Recently, the prover
+   has also been extended to natively supports almost every normal
+   higher-order modal logic (Steen et al. 2023).
+
+   CVC4, CVC5 and Verit (Barbosa et al. 2019) are SMT-based automated
+--
+
+   Vampire (Bhayat & Reger 2020), which has dominated the TPTP
+   competitions in first-order logic for more than two decades, now also
+   supports the automation of Church's type theory using a
+   combinator-based superposition calculus. Vampire was the winner of the
+--
+   ordinary English”, which are reprinted in Montague 1974. A crucial
+   component of Montague’s analysis of natural language is the definition
+   of a tensed intensional logic (Montague 1974: 256), which is an
+   enhancement of Church’s type theory. Montague Grammar had a huge
+   impact, and has since been developed in many further directions, not
+   least in Typelogical/Categorical Grammar. Further related work on
+   intensional and higher-order modal logic is presented in Gallin 1975
+   and Muskens 2006.
+
+--
+5.3 Computational Metaphysics and Artificial Intelligence
+
+   Church’s type theory is a classical logic, but topical applications in
+   philosophy and artificial intelligence often require expressive
+   non-classical logics. In order to support such applications with
+--
+   embedding technique (see also Section 1.2.2) has been developed that
+   generalizes and extends the ideas underlying the well known standard
+   translation of modal logics to first-order logic. The technique was
+   applied for the assessment of modern variants of the ontological
+   argument with a range of higher-order theorem provers, including
+--
+   Scott’s emendation of it and to confirm the consistency of the emended
+   premises. More details on this work are presented in a related SEP
+   entry on automated reasoning (see Section 4.6 on Logic and Philosophy).
+   The semantical embedding approach has been adapted and further extended
+   for a range of other non-classical logics and related applications. In
+--
+   normative reasoning to control AI systems (Benzmüller et al. 2020) as
+   well as an automatic proof of the muddy children puzzle (see Appendix B
+   of dynamic epistemic logic), which is a famous puzzle in epistemic
+   reasoning, respectively dynamic epistemic reasoning.
+
+--
+       doi:10.4064/fm-52-3-345-350
+     * –––, 1971, “Resolution in Type Theory”, The Journal of Symbolic
+       Logic, 36(3): 414–432. Reprinted in Siekmann & Wrightson 1983 and
+       in Benzmüller et al. 2008. doi:10.2307/2269949
+       doi:10.1007/978-3-642-81955-1
+     * –––, 1972a, “General Models and Extensionality”, The Journal of
+       Symbolic Logic, 37(2): 395–397. Reprinted in Benzmüller et al.
+       2008. doi:10.2307/2272982
+     * –––, 1972b, “General Models, Descriptions, and Choice in Type
+       Theory”, The Journal of Symbolic Logic, 37(2): 385–394. Reprinted
+       in Benzmüller et al. 2008. doi:10.2307/2272981
+     * –––, 1974, “Provability in Elementary Type Theory”, Zeitschrift für
+--
+       Volume 2, Chapter 15, pp. 965–1007.
+       doi:10.1016/B978-044450813-3/50017-5
+     * –––, 2002, An Introduction to Mathematical Logic and Type Theory:
+       To Truth Through Proof, (Applied Logic Series 27), second edition,
+       Dordrecht: Springer Netherlands. doi:10.1007/978-94-015-9934-4
+     * Andrews, Peter B., Matthew Bishop, Sunil Issar, Dan Nesmith, Frank
+--
+     * Andrews, Peter B. and Chad E. Brown, 2006, “TPS: A Hybrid
+       Automatic-Interactive System for Developing Proofs”, Journal of
+       Applied Logic, 4(4): 367–395. doi:10.1016/j.jal.2005.10.002
+     * Baader, Franz and Wayne Snyder, 2001, “Unification Theory”, in
+       Robinson and Voronkov 2001, Volume 1, Chapter 8, Amsterdam:
+       Elsevier Science, pp. 445–533. doi:10.1016/B978-044450813-3/50010-2
+     * Backes, Julian and Chad Edward Brown, 2011, “Analytic Tableaux for
+       Higher-Order Logic with Choice”, Journal of Automated Reasoning,
+       47(4): 451–479. doi:10.1007/s10817-011-9233-2
+     * Barbosa, Haniel, Andrew Reynolds, Daniel El Ouraoui, Cesare
+       Tinelli, and Clark Barret, 2019, “Extending SMT Solvers to
+       Higher-Order Logic”, in Automated Deduction – CADE 27, Pascal
+       Fontaine (ed.), (Lecture Notes in Computer Science 11716), Cham:
+       Springer Nature Switzerland AG. doi:10.1007/978-3-030-29436-6_3
+     * Barendregt, H. P., 1984, The Lambda Calculus: Its Syntax and
+       Semantics, (Studies in Logic and the Foundations of Mathematics,
+       103), revised edition, Amsterdam: North-Holland.
+     * Barendregt, Henk, Wil Dekkers, and Richard Statman, 2013, Lambda
+--
+       doi:10.1090/noti2860
+     * Bentkamp, Alexander, Jasmin Blanchette, Simon Cruanes, and Uwe
+       Waldmann, 2018, “Superposition for Lambda-Free Higher-Order Logic”,
+       in Galmiche et al. 2018: 28–46. doi:10.1007/978-3-319-94205-6_3
+     * Bentkamp, Alexander, Jasmin Blanchette, Visa Nummelin, Sophie
+--
+       doi:10.1145/3636362.3636367
+     * Bentkamp, Alexander, Jasmin Blanchette, Sophie Tourret, and Petar
+       Vukmirovic, 2023c, “Superposition for Higher-Order Logic”, Journal
+       of Automated Reasoning, 67(1):10. doi:10.1007/s10817-022-09649-9
+     * Bentkamp, Alexander, Jasmin Blanchette, Sophie Tourret, Petar
+--
+       doi:10.1016/j.scico.2018.10.008
+     * Benzmüller, Christoph and Michael Kohlhase, 1997, “Model Existence
+       for Higher Order Logic”. SEKI Report SR-97-09.
+     * –––, 1998a, “Extensional Higher-Order Resolution”, Kirchner and
+       Kirchner 1998: 56–71. doi:10.1007/BFb0054248
+--
+     * Benzmüller, Christoph, Chad E. Brown, and Michael Kohlhase, 2004,
+       “Higher-Order Semantics and Extensionality”, The Journal of
+       Symbolic Logic, 69(4): 1027–1088. doi:10.2178/jsl/1102022211
+     * –––, 2009, “Cut-Simulation and Impredicativity”, Logical Methods in
+       Computer Science, 5(1): 6. doi:10.2168/LMCS-5(1:6)2009
+--
+       Statman (eds.), 2008, Reasoning in Simple Type Theory: Festschrift
+       in Honour of Peter B. Andrews on His 70th Birthday, (Studies in
+       Logic 17), London: College Publications.
+     * Benzmüller, Christoph, David Fuenmayor, Alexander Steen, and Geoff
+       Sutcliffe, 2023, “Who Finds the Short Proof?”, Logic Journal of the
+       IGPL. doi:10.1093/jigpal/jzac082
+     * Benzmüller, Christoph and Dale Miller, 2014, “Automation of Higher
+       Order Logic”, in Computational Logic, (Handbook of the History of
+       Logic, 9), Dov M. Gabbay, Jörg H. Siekmann, and John Woods (eds.),
+       Amsterdam: Elsevier, 215–254.
+     * Benzmüller, Christoph, Xavier Parent, and Leendert van der Torre,
+--
+       Reasoning, 55(4): 389–404. doi:10.1007/s10817-015-9348-y
+     * Benzmüller, Christoph and Dana S. Scott, 2019, “Automating Free
+       Logic in HOL, with an Experimental Application in Category Theory”,
+       Journal of Automated Reasoning, 64:53–72 (2020).
+       doi:10.1007/s10817-018-09507-7
+--
+       doi:10.1007/978-3-662-07964-5
+     * Bhayat, Ahmed and Giles Reger, 2020, “A Combinator-Based
+       Superposition Calculus for Higher-Order Logic”, in Automated
+       Reasoning. IJCAR 2020, Nicolas Peltier and Sofronie-Stokkermans
+       (eds.), (Lecture Notes in Computer Science 12166), Cham: Springer
+--
+       Search”, in Ganzinger 1999: 359–373. doi:10.1007/3-540-48660-7_32
+     * Blanchette, Jasmin Christian and Tobias Nipkow, 2010, “Nitpick: A
+       Counterexample Generator for Higher-Order Logic Based on a
+       Relational Model Finder”, in Interactive Theorem Proving, Matt
+       Kaufmann and Lawrence C. Paulson (eds.), (Lecture Notes in Computer
+--
+       doi:10.1007/s10817-013-9278-5
+     * Boolos, George, 1987, “A Curious Inference”, Journal of
+       Philosophical Logic, 16(1): 1–12. doi:10.1007/BF00250612
+     * Brown, Chad E., 2004, “Set Comprehension in Church’s Type Theory”,
+       PhD Thesis, Department of Mathematical Sciences, Carnegie Mellon
+       University, Pittsburgh, PA.
+     * –––, 2007, Automated Reasoning in Higher-Order Logic: Set
+       Comprehension and Extensionality in Church`s Type Theory, (Studies
+       in Logic Logic and Cognitive Systems 10), London: King’s College
+       Publications.
+     * –––, 2012, “Satallax: An Automatic Higher-Order Prover”, in
+--
+     * Büchi, J. Richard, 1953, “Investigation of the Equivalence of the
+       Axiom of Choice and Zorn’s Lemma from the Viewpoint of the
+       Hierarchy of Types”, The Journal of Symbolic Logic, 18(2): 125–135.
+       doi:10.2307/2268945
+     * Church, Alonzo, 1932, “A Set of Postulates for the Foundation of
+       Logic”, The Annals of Mathematics, 33(2): 346–366.
+       doi:10.2307/1968337
+     * –––, 1940, “A Formulation of the Simple Theory of Types”, The
+       Journal of Symbolic Logic, 5(2): 56–68. Reprinted in Benzmüller et
+       al. 2008. doi:10.2307/2266170
+     * –––, 1941, The Calculi of Lambda Conversion, (Annals of Mathematics
+       Studies 6), Princeton, NJ: Princeton University Press.
+     * –––, 1956, Introduction to Mathematical Logic, Princeton, NJ:
+       Princeton University Press.
+     * Czajka, Łukasz and Cezary Kaliszyk, 2018, “Hammer for Coq:
+--
+       doi:10.1016/B978-044450813-3/50018-7
+     * Dowek, Gilles and Benjamin Werner, 2003, “Proof Normalization
+       Modulo”, The Journal of Symbolic Logic, 68(4): 1289–1316.
+       doi:10.2178/jsl/1067620188
+     * Farmer, William M., 2008, “The Seven Virtues of Simple Type
+       Theory”, Journal of Applied Logic, 6(3): 267–286.
+       doi:10.1016/j.jal.2007.11.001
+     * Farmer, William M., 2023, “Simple Type Theory - A Practical Logic
+       for Expressing and Reasoning About Mathematical Ideas”, Cham:
+       Birkhäuser. doi:10.1007/978-3-031-21112-6
+--
+       “IMPS: An Interactive Mathematical Proof System”, Journal of
+       Automated Reasoning, 11(2): 213–248. doi:10.1007/BF00881906
+     * Gallin, Daniel, 1975, Intensional and Higher-Order Modal Logic,
+       Amsterdam: North-Holland.
+     * Galmiche, Didier, Stephan Schulz, and Roberto Sebastiani (eds.),
+--
+       Unification Problem”, Theoretical Computer Science, 13(2): 225–230.
+       doi:10.1016/0304-3975(81)90040-2
+     * Gordon, Michael J. C., 1986, “Why Higher-Order Logic is a Good
+       Formalism for Specifying and Verifying Hardware”, in George J.
+       Milne, and P. A. Subrahmanyam (eds.), Formal Aspects of VLSI
+       Design: Proceedings of the 1985 Edinburgh Workshop on VLSI,
+       Amsterdam: North-Holland, pp. 153–177.
+     * –––, 1988, “HOL: A Proof Generating System for Higher-Order Logic”,
+       in VLSI Specification, Verification and Synthesis, Graham
+       Birtwistle and P. A. Subrahmanyam (eds.), (The Kluwer International
+--
+       Springer US, 73–128. doi:10.1007/978-1-4613-2007-4_3
+     * Gordon, M. J., and T. F. Melham, 1993, Introduction to HOL: A
+       Theorem-Proving Environment for Higher-Order Logic, Cambridge:
+       Cambridge University Press.
+     * Gould, William Eben, 1966, A Matching Procedure for
+       \(\omega\)-order Logic, Ph.D. dissertation, Mathematics Department,
+       Princeton University. [Gould 1966 available online]
+     * Hales, Thomas, Mark Adams, Gertrud Bauer, Tat Dat Dang, John
+--
+       doi:10.1007/BFb0031814
+     * Halkjær, Asta, Anders Schlichtkrull, Jørgen Villadsen, 2023, “A
+       sequent calculus for first-order logic formalized in Isabelle/HOL”,
+       Journal of Logic and Computation, 33(4):818-836. doi:
+       10.1093/logcom/exad013
+     * Henkin, Leon, 1950, “Completeness in the Theory of Types”, The
+       Journal of Symbolic Logic, 15(2): 81–91. Reprinted in Hintikka 1969
+       and in Benzmüller et al. 2008. doi:10.2307/2266967
+     * –––, 1963, “A Theory of Prepositional Types”, Fundamenta
+--
+       available online]
+     * –––, 1973b, “The Undecidability of Unification in Third Order
+       Logic”, Information and Control, 22(3): 257–267.
+       doi:10.1016/S0019-9958(73)90301-X
+     * –––, 1975, “A Unification Algorithm for Typed λ-Calculus”,
+--
+       doi:10.1145/3230627
+     * Kohlhase, Michael, 1993, “A Unifying Principle for Extensional
+       Higher-Order Logic”, Technical Report 93–153, Department of
+       Mathematics, Carnegie Mellon University.
+     * –––, 1995, “Higher-Order Tableaux”, in Theorem Proving with
+--
+       Heidelberg, 245–261. doi:10.1007/BFb0055140
+     * Kumar, Ramana, Rob Arthan, Magnus O. Myreen, and Scott Owens, 2016,
+       “Self-Formalisation of Higher-Order Logic”, Journal of Automated
+       Reasoning, 56:221–259. doi:10.1007/s10817-015-9357-x
+     * Maslov, S. Yu, 1967, “An Inverse Method for Establishing
+       Deducibility of Nonprenex Formulas of Predicate Calculus”, Soviet
+       Mathematics Doklady, 8(1): 16–19.
+     * Miller, Dale A., 1983, Proofs in Higher-Order Logic, Ph.D.
+       dissertation, Mathematics Department, Carnegie Mellon University.
+     * –––, 1987, “A Compact Representation of Proofs”, Studia Logica,
+       46(4): 347–370. doi:10.1007/BF00370646
+     * –––, 1991, “A Logic Programming Language with Lambda-Abstraction,
+       Function Variables, and Simple Unification”, Journal of Logic and
+       Computation, 1(4): 497–536. doi:10.1093/logcom/1.4.497
+     * Mints, G., 1999, “Cut-Elimination for Simple Type Theory with an
+       Axiom of Choice”, The Journal of Symbolic Logic, 64(2): 479–485.
+       doi:10.2307/2586480
+     * Montague, Richard, 1974, Formal Philosophy. Selected Papers Of
+       Richard Montague, edited and with an introduction by Richmond H.
+       Thomason, New Haven: Yale University Press.
+     * Muskens, Reinhard, 2006, “Higher Order Modal Logic”, in Handbook of
+       Modal Logic, Patrick Blackburn, Johan Van Benthem, and Frank Wolter
+       (eds.), Amsterdam: Elsevier, 621–653.
+     * –––, 2007, “Intensional Models for the Theory of Types”, The
+       Journal of Symbolic Logic, 72(1): 98–118.
+       doi:10.2178/jsl/1174668386
+     * Nipkow, Tobias, Markus Wenzel, and Lawrence C. Paulson (eds.),
+       2002, Isabelle/HOL: A Proof Assistant for Higher-Order Logic,
+       (Lecture Notes in Computer Science 2283), Berlin, Heidelberg:
+       Springer Berlin Heidelberg. doi:10.1007/3-540-45949-9
+--
+       (Lecture Notes in Computer Science 417), Berlin, Heidelberg:
+       Springer Berlin Heidelberg, 246–274. doi:10.1007/3-540-52335-9_58
+     * Prawitz, Dag, 1968, “Hauptsatz for Higher Order Logic”, The Journal
+       of Symbolic Logic, 33(3): 452–457. doi:10.2307/2270331
+     * Quine, W. V., 1956, “Unification of Universes in Set Theory”, The
+       Journal of Symbolic Logic, 21(3): 267–279. doi:10.2307/2269102
+     * Richardson, Julian, Alan Smaill, and Ian Green, 1998, “System
+       Description: Proof Planning in Higher-Order Logic with ΛClam”, in
+       Kirchner and Kirchner 1998: 129–133. doi:10.1007/BFb0054254
+     * Robinson, Alan and Andrei Voronkov (eds.), 2001, Handbook of
+--
+     * Russell, Bertrand, 1903, The Principles of Mathematics, Cambridge:
+       Cambridge University Press.
+     * –––, 1908, “Mathematical Logic as Based on the Theory of Types”,
+       American Journal of Mathematics, 30(3): 222–262. Reprinted in van
+       Heijenoort 1967: 150–182. doi:10.2307/2369948
+     * Schlichtkrull, Anders, 2023, “Soundness of the Q0 proof system for
+       higher-order logic”, Archive of Formal Proofs.
+       https://www.isa-afp.org/entries/Q0_Soundness.html
+     * Schlichtkrull, Anders, Jasmin Blanchette, Dmitriy Traytel, and Uwe
+--
+       Heijenoort 1967: 355–366. doi:10.1007/BF01448013
+     * Schütte, Kurt, 1960, “Syntactical and Semantical Properties of
+       Simple Type Theory”, The Journal of Symbolic Logic, 25(4): 305–326.
+       doi:10.2307/2963525
+     * Shankar, Natarajan, 2001, “Using Decision Procedures with a
+       Higher-Order Logic”, in Theorem Proving in Higher Order Logics,
+       Richard J. Boulton and Paul B. Jackson (eds.), (Lecture Notes in
+       Computer Science 2152), Berlin, Heidelberg: Springer Berlin
+       Heidelberg, 5–26. doi:10.1007/3-540-44755-5_3
+     * Siekmann, Jörg H. and Graham Wrightson (eds.), 1983, Automation of
+       Reasoning, (Classical Papers on Computational Logic 1967–1970: Vol.
+       2), Berlin, Heidelberg: Springer Berlin Heidelberg.
+       doi:10.1007/978-3-642-81955-1
+     * Siekmann, Jörg, Christoph Benzmüller, and Serge Autexier, 2006,
+       “Computer Supported Mathematics with ΩMEGA”, Journal of Applied
+       Logic, 4(4): 533–559. doi:10.1016/j.jal.2005.10.008
+     * Smullyan, Raymond M., 1963, “A Unifying Principal in Quantification
+       Theory”, Proceedings of the National Academy of Sciences, 49(6):
+       828–832. doi:10.1073/pnas.49.6.828
+     * –––, 1995, First-Order Logic, New York: Dover, second corrected
+       edition.
+     * Steen, Alexander, 2018, Extensional Paramodulation for Higher-Order
+       Logic and its Effective Implementation Leo-III, Ph.D. dissertation,
+       Series: Dissertations in Artificial Intelligence (DISKI), Volume
+       345, Berlin: AKA-Verlag (IOS Press).
+--
+       Reasoning, 65: 775–807. doi:10.1007/s10817-021-09588-x
+     * Steen, Alexander, Geoff Sutcliffe, Tobias Scholl, Christoph
+       Benzmüller, 2023, “Solving Modal Logic Problems by Translation to
+       Higher-Order Logic”, in Logic and Argumentation. CLAR 2023, Andreas
+       Herzig, Jieting Luo, Pere Pardo (eds.), (Lecture Notes in Computer
+       Science 14156), Cham: Springer Nature Switzerland AG.
+--
+       From CNF to TH0, TPTP v6.4.0”, Journal of Automated Reasoning,
+       59(4): 483–502. doi:10.1007/s10817-017-9407-7
+     * –––, 2023, “The logic languages of the TPTP world”, Logic Journal
+       of the IGPL, 31(6): 1153–1169. doi:10.1093/jigpal/jzac068
+     * Sutcliffe, Geoff and Christoph Benzmüller, 2010, “Automated
+       Reasoning in Higher-Order Logic Using the TPTP THF Infrastructure”,
+       Journal of Formalized Reasoning, 3(1): 1–27.
+       doi:10.6092/issn.1972-5787/1710
+--
+       de La Logistique”, Fundamenta Mathematicae, 4: 196–200. Translated
+       in Tarski 1956, 1–23. doi:10.4064/fm-4-1-196-200
+     * –––, 1956, Logic, Semantics, Metamathematics: Papers from 1923 to
+       1938, Oxford: Oxford University Press.
+     * van Heijenoort, Jean, 1967, From Frege to Gödel. A Source Book in
+       Mathematical Logic 1879–1931, Cambridge, MA: Harvard University
+       Press.
+     * Vukmirović, Petar, Alexander Bentkamp, Jasmin Blanchette, Simon
+--
+       66:541–564. doi10.1007/s10817-021-09613-z
+     * Vukmirović, Petar, Jasmin Blanchette, and Stephan Schulz, 2023,
+       “Extending a High-Performance Prover to Higher-Order Logic”, in
+       Tools and Algorithms for the Construction and Analysis of Systems.
+       TACAS 2023, Sankaranarayanan, S., Sharygina, N. (eds.), (Lecture
+--
+Related Entries
+
+   artificial intelligence: logic-based | category theory | choice, axiom
+   of | descriptions | epsilon calculus | Frege, Gottlob | Gödel, Kurt:
+   incompleteness theorems | grammar: typelogical | lambda calculus, the |
+   logic, history of: first-order logic | logic: classical | logic:
+   deontic | logic: dynamic epistemic | logic: modal | logic: second-order
+   and higher-order | metaphysics | ontological arguments | paradox:
+   Skolem’s | paradoxes: and contemporary logic | possibilism-actualism
+   debate | possible worlds | Principia Mathematica | proof theory |
+   quantifiers and quantification | Quine, Willard Van Orman | rational

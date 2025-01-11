@@ -1,0 +1,560 @@
+   #[1]Medium [2]alternate
+
+   [3]Open in app
+
+   (BUTTON) Sign up
+
+   [4]Sign in
+   ____________________
+   [5]
+   Write
+
+   (BUTTON) Sign up
+
+   [6]Sign in
+   (BUTTON)
+
+Introdução à Lógica Formal
+
+   [7]
+   Relsen
+
+   [8]Relsen
+   ·
+
+   [9]Follow
+   14 min read
+   ·
+   Apr 15, 2019
+
+   --
+   (BUTTON)
+   (BUTTON)
+
+   Share
+
+   A lógica é o estudo dos argumentos, a ciência que separa quais
+   argumentos são bons e quais são ruins. Argumentos são conjuntos de
+   proposições, sendo proposições afirmações que podem ser verdadeiras ou
+   falsas.
+
+As Leis da Lógica
+
+   A lógica, por separar quais argumentos são bons e ruins, deve fazê-lo
+   com base em certas leis objetivas, estas são as chamadas “leis da
+   lógica”, sendo as clássicas a lei da não-contradição, a lei da
+   identidade e a lei do terceiro excluído, embora alguns lógicos
+   considerem também a existência de mais leis da lógica (como a lei do
+   terceiro não-incluído, a lei da razão suficiente, etc.), aqui me
+   atentarei apenas às três leis clássicas.
+
+     A lei da não-contradição
+
+   A lei da não-contradição estabelece que uma mesma coisa não pode ser ao
+   mesmo tempo ela mesma e sua negação, aquilo que não é ela, o que também
+   implica que uma proposição não pode ser ao mesmo tempo verdadeira e
+   falsa. Parece algo óbvio não? Mas ela é ainda negada por muitas
+   correntes. Apesar disso, o princípio da não-contradição é inegável e
+   irrefutável, devendo, necessariamente, ser o princípio básico para a
+   determinação da validez ou não de um argumento, explico: negar a
+   não-contradição é negar os limites entre o verdadeiro e o falso, é
+   negar os limites entre uma proposição e a negação desta proposição, ou
+   seja, sem o Princípio uma mesma coisa pode ser sua negação, desta forma
+   a negação de algo é (caso o princípio não exista) sua afirmação, pois a
+   proposição que nega e a proposição que afirma a mesma coisa podem ambas
+   ser simultaneamente verdadeiras segundo o negador do princípio da
+   não-contradição; resumindo, a proposição “o princípio da
+   não-contradição é falso” (ou alguma proposição equivalente) é, para
+   quem nega o princípio da não contradição, o mesmo que “o princípio da
+   não-contradição é verdadeiro”, pois, segundo esta pessoa, algo poderia
+   ser ao mesmo tempo verdadeiro e falso, por isso quem nega o Princípio
+   está na realidade afirmando-o, ou seja, quem diz “o princípio da
+   não-contradição é falso” está dizendo que “o princípio da
+   não-contradição é verdadeiro”, pois para ele não há diferença entre
+   verdadeiro e falso.
+
+   Tendo o princípio da não-contradição como base podemos concluir, sempre
+   que uma ideia chegar a uma contradição, que ela é falsa, e, assim,
+   fazer nossa analise lógica corretamente, sempre evitando chegar a
+   conclusões contraditórias e, assim, eliminando várias possíveis
+   respostas a uma questão (pelo fato de elas entrarem em contradição).
+
+     Lei da identidade
+
+   A lei da identidade afirma que cada cosia é igual a si mesma, o
+   clássico A=A. Assim como a lei da não-contradição pode parecer algo
+   meio óbvio, mas, ainda assim, é negado por algumas correntes de
+   pensamento. A lei da identidade não pode ser possivelmente falsa, pois
+   a validade da lei da não-contradição implica na validade da lei da
+   identidade, já que para que algo possa não poder ser ao mesmo a si
+   mesmo e a sua negação, este algo deve primeiro ser a si mesmo. As
+   outras duas leis da lógica são, de certa forma, dependentes da da
+   identidade.
+
+   Obs.: As leis da não-contradição e terceiro excluído foram descobertas
+   por Aristóteles, considerado o pai da lógica, mas não a lei da
+   identidade; embora seja geralmente considerado que esta lei esteja
+   implícita no pensamento aristotélico, ela foi formalmente descoberta
+   pelo filósofo escolástico Antonius Andreas.
+
+     Lei do terceiro excluído
+
+   E a lei do terceiro excluído estabelece que não existe terceira opção
+   além de ser algo, ou a negação deste algo, e, consequentemente, que uma
+   proposição só pode ser verdadeira ou falsa, não há terceira opção. Ela
+   é verdadeira por causa do principio da identidade, o conceito ao qual
+   se refere na lógica quando se diz “negação” é o de “tudo aquilo que não
+   pertence ao que foi negado”, então, por exemplo, a negação do conceito
+   de cachorro é tudo o que não pertence ao conceito de cachorro, por
+   isso, necessariamente, e por definição, se algo não é cachorro, é a
+   negação de cachorro. O mesmo vale para a validade de proposições, se
+   algo não é verdadeiro, é não-verdadeiro, ou seja, falso.
+
+Axiomas
+
+   Em um argumento proposições são proferidas, uma proposição é
+   justificada com base em outra, a justificada é chamada de conclusão, e
+   a que a justifica, de premissa. Porém isso não poderia ir para uma
+   regressão infinita, a justificação de uma ideia não poderia ir
+   indefinidamente para infinitas premissas, que são justificadas por
+   outras premissas, e por outras premissas, e por outras… Pois, neste
+   caso, não haveria certeza de nada. É por isso que necessariamente
+   existem axiomas. Axiomas são proposições autoevidentes, ou seja, que
+   não precisam de outras proposições para serem evidenciadas,
+   justificadas, elas podem justificar outras proposições, mas nunca serem
+   justificadas por outras, e, por não poderem ser evidenciadas por
+   outras, são evidentes por si próprias, são necessariamente evidentes,
+   independentemente de outras proposições.
+
+Lógica Silogística
+
+   Um silogismo é um argumento estruturado com duas premissas das quais se
+   obtém uma conclusão, por exemplo:
+
+   “Kogos é paulsita.”
+
+   “Todos os paulistas são brasileiros.”
+
+   “Logo Kogos é brasileiro.”
+
+   Este é um silogismo.
+
+   Nem todo o argumento precisa necessariamente ter duas premissas para
+   chegar a uma conclusão, não, as premissas podem ser mais de duas, ou
+   apenas uma (quando se extraí uma conclusão de uma premissa apenas se
+   diz que aquela conclusão é corolário da premissa), mas, no caso do
+   silogismo, há duas premissas e uma conclusão.
+
+   Em todo o silogismo há um termo médio, o termo médio é o termo que liga
+   as duas premissas, o termo em comum nelas, ele não fica presente na
+   conclusão, mas possibilita a sua existência. Veja, por exemplo, no
+   exemplo dado acima, nele o termo “paulista” aparece em ambas premissas,
+   conectando-as, mas não na conclusão.
+
+   É importante ressaltar que em todo o argumento as informações
+   descobertas na conclusão são apenas as informações já presentes nas
+   premissas, que são simplesmente rearranjadas logicamente para se
+   conectarem de uma nova forma, por isso negar a conclusão de um
+   argumento que tenha sido feito de forma logicamente válida (sem
+   falácias, saltos lógicos…) é o mesmo que negar as premissas.
+
+Lógica Proposicional
+
+   A lógica proposicional é o estudo das proposições lógicas, nela as
+   proposições simples (sem nenhum conectivo com outras proposições) são
+   representadas por simples letras (como “P”, “Q”… você provavelmente já
+   viu o uso deste tipo de escrita), e são conectadas entre si por
+   símbolos de conectivos; obtêm-se, assim, as proposições compostas, que
+   são conjuntos de proposições simples conectadas por um conectivo.
+
+     Tabelas Verdade
+
+   A tabela verdade é uma forma de analisar diferentes proposições e sua
+   validez em diferentes possibilidades, ela funciona da seguinte forma:
+
+   Duas ou mais proposições são colocadas em uma tabela onde todas as
+   possibilidades de combinações de resultados de validez (as duas
+   verdadeiras, a primeira verdadeira e a segunda falsa, a segunda
+   verdadeira e a premiria falsa, as duas falsas…) para que a validez de
+   outras proposições possa ser analisada em referência à destas.
+
+   A seguir os tipos de conectivos serão explicados, a tabela verdade será
+   essencial para o maior esclarecimento desta explicação.
+
+     Negação
+
+   Dizer que uma proposição é a negação da outra é dizer que se a outra é
+   verdadeira ela é necessariamente falsa, e se a outra é falsa ela é
+   necessariamente verdadeira, o símbolo utilizado é o ¬, o ~ou um traço
+   em cima da letra representante da proposição, aqui o primeiro símbolo
+   será utilizado. Então, por exemplo, se eu defino a proposição
+   “cachorros existem” como P, então ¬P (não-P, ou seja, cachorros não
+   existem) nunca poderá ter o mesmo status de validez de P.
+
+     Conjunção
+
+   A conjunção entre duas proposições é verdadeira se e somente se ambas
+   proposições são verdadeiras, é geralmente representada pelo símbolo ∧ e
+   lida como “conjunção” ou como “e(&)”. Exemplo: se digo que há uma
+   conjunção entre “abacates são bons” e “abacates são frutas” então a
+   proposição complexa que contém a conjunção, “abacates são bons e são
+   frutas” (ou então “abacates são furtas boas”) só poderá ser verdadeira
+   se ambas as proposições simples forem, P∧Q só será verdadeira se P for
+   verdadeira e Q for verdadeira.
+
+     Disjunção
+
+   Uma disjunção é verdadeira se pelo menos uma das proposições envolvidas
+   nela for, não precisam ser necessariamente as duas. É geralmente
+   representada pelo símbolo ∨ e lida como “disjunção” ou como “ou”
+   (lembrando-se que este não é um “ou exclusivo” e sim um “ou
+   inclusivo”). Então, por exemplo, se “jacas são doces”, P, e “jacas são
+   grandes”, Q, são suas proposições, então P∨Q é verdadeiro se pelo menos
+   uma das duas for verdadeira.
+
+   Obs.: Lembre-se de que o “U” da palavra “ou” tem sua cavidade virada
+   para cima, assim como o símbolo da disjunção, ∨, assim fica fácil de se
+   lembrar corretamente de como é o símbolo da disjunção e de não
+   confundi-lo com o da conjunção.
+
+     Implicação
+
+   Uma implicação é falsa apenas quando o implicante é verdadeiro e o
+   implicado falso. Então, por exemplo, se eu digo que “eu escrevo este
+   texto” (P) implica que “eu existo” (Q), então a implicação só poderia
+   ser falsa se eu fosse capaz de escrever o texto sem existir (o que
+   seria impossível, mas isso não vem ao caso agora). A implicação é
+   representada por uma seta, como esta: ⇒
+
+   Obs.: Diferentemente da conjunção e disjunção a implicação não é
+   comutável, um conectivo comutável é um que se você inverter as
+   proposições continua com a mesma validez (por exemplo, P∨Q é o mesmo
+   que Q∨P), a implicação não é comutável (então P⇒Q não é o mesmo que
+   Q⇒P).
+
+     Equivalência
+
+   A equivalência é uma implicação na qual ambas proposições implicam uma
+   à outra. Por exemplo, se digo que “A é um triângulo” implica que “A tem
+   3 lados” e que “A tem 3 lados” implica que “A é um triângulo”. É
+   geralmente representada por uma seta dupla, como esta: ⇔
+
+Demonstração Lógica
+
+   Fazer uma demonstração lógica é mostrar logicamente que determinado
+   argumento é verdadeiro, justificá-lo de maneira logicamente válida.
+
+     Prova direta
+
+   A prova direta é basicamente provar que uma proposição implica a outra
+   através das definições dos termos. Por exemplo, suponha que eu queria
+   provar que se qualquer número impar ao quadrado é também impar…
+
+   A definição de um número ímpar é, matematicamente, “2a + 1", sendo “a"
+   qualquer número natural.
+
+   Se χ é ímpar, então χ é 2a + 1, se o “a” fosse 2, ele seria 5, se
+   fosse 1, ele seria 3… Etc.. Suponha então que nosso χ especificamente
+   seja 2b + 1, sendo b um número natural.
+
+   Então χ² é igual a (2b + 1)², sendo, assim, igual a 4b2 + 4a +1, que é
+   igual a 2(2b² + 2b) +1.
+
+   Se considerarmos “c” como “2b² + 2b”, então χ²= 2c +1.
+
+   Sendo “a” qualquer número natural, inclusive “c”, χ² é 2a + 1, ou seja,
+   por definição ele é ímpar.
+
+     Prova por contraposição
+
+   A prova por contraposição é, de certa forma, uma prova direta, porém
+   feita com as negações da proposições. A prova contrapositiva funciona
+   pois sabemos que P⇒Q é equivalente a ¬Q⇒¬P, e isso pode ser provado em
+   uma tabela verdade, veja a seguir:
+
+   Assim, a prova contrapositiva prova de forma direta que ¬Q⇒¬P e, assim,
+   prova que P⇒Q.
+
+     Prova por contradição
+
+   Também conhecida como reductio ad absurdum, a prova por contradição
+   consiste em provar que a negação de determinada proposição leva
+   necessariamente a uma contradição (um absurdo), mostrando, assim, que
+   ela é necessariamente verdadeira.
+
+     Prova por indução
+
+   Uma indução é um raciocínio que sai de um caso particular e parte para
+   um universal, provar por indução é, basicamente, provar que alguma
+   proposição é verdadeira com base em um caso particular. A prova por
+   indução é muitas vezes mal utilizada, por exemplo, se digo:
+
+   “90% dos ateus são comunistas.”
+
+   “Logo é mais provável que um ateu seja comunista.”
+
+   Muitas pessoas consideram um argumento como este como logicamente
+   válido, mas este é um erro enorme, explico: falta uma premissa para que
+   a conclusão siga, para que o argumento ficasse correto ele deveria
+   ficar da seguinte forma:
+
+   “90% dos ateus são comunistas.”
+
+   “Se duas crenças ocorreram juntas com mais frequência então há uma
+   maior chance de voltarem a ocorrer juntas.”
+
+   “Logo é mais provável que um ateu seja comunista.”
+
+   Assim o argumento seria logicamente impecável, mas da forma como foi
+   colocado anteriormente é apenas um salto lógico, e é uma grande
+   infelicidade que muitos dos estudos na atualidade se baseiem em saltos
+   como este. Embora possa ser verossímil (parecer intuitivamente ser
+   verdade) que a conclusão segue da premissa 1 isolada, isto não é
+   verdadeiro, uma pessoa poderá se tornar ateia e as suas chances de se
+   tornar comunista nada tem a ver com o fato de ambas ideias terem
+   ocorrido juntas ou não; verossímil é diferente de verdadeiro.
+
+   Pior ainda é quando um argumento tenta encontrar uma conexão causal sem
+   base lógica, por exemplo:
+
+   “90% dos ateus são comunistas.”
+
+   “Logo o ateísmo causa o comunismo.”
+
+   Este é um salto lógico astronômico, mesmo se 100% dos ateus fossem
+   comunistas isso ainda não implicaria que acreditar no ateísmo leva a
+   pessoa a acreditar no comunismo, a pessoa está confundindo correlação
+   (quando duas cosias ocorreram juntas) com causalidade (quando uma coisa
+   causa a outra), no cenário no qual 100% dos ateus são comunistas um
+   novo ser humano poderia muito bem nascer e se tornar ateu sem se tornar
+   comunista.
+
+   Mas uma prova por indução ainda é válida caso feita da forma correta,
+   ou seja, mostrando que aquela conclusão é necessariamente verdadeira.
+   Um bom exemplo de prova por indução válida é uma indução matemática,
+   basicamente uma indução matemática prova que se determinada equação der
+   certo com um valor ela dará certo com qualquer valor superior àquele, e
+   então prova que ela da certo com um valor, o que, por conta da outra
+   premissa, acaba provando que a equação sempre, necessariamente, dará
+   certo com qualquer valor superior àquele; ela prova a equação (algo
+   universal), com base num exemplo com um valor (algo particular), darei
+   um exemplo:
+
+   Suponha que eu queria provar que a soma dos primeiros “n” números
+   naturais e ímpares é igual a “n” ao quadrado (por exemplo, que 1 + 3=
+   2²), ou seja, que 1 + 3 + 5 + … + (2n-1)= n².
+
+   Então 1 + … + (2n-1)= n² implicaria que 1 + … + (2(n–1)-1)= (n+1)².
+
+   Ou seja, 1 + … + (2n-1) +(2(n–1)-1) seria (n+1)².
+
+   Porém se a primeira proposição for verdadeira então…
+
+   1 + … + (2n-1) +(2(n–1)-1)= n² +(2(n–1)-1)
+
+   Pois se a primeira é verdadeira então 1 + … + (2n-1)= n², basta apenas
+   substituir o 1 + … + (2n-1) por n² na equação 1 + … + (2n-1)
+   +(2(n–1)-1)= (n+1)².
+
+   Agora, sabemos matematicamente que n² +(2(n–1)-1) é n² +2n + 1, por
+   conta da distributiva do 2(n–1)-1.
+
+   Agora basta apenas fazer a equação…
+
+   n² +(2(n–1)-1)= n² +2n + 1
+
+   Porém n² +2n + 1= (n + 1)²
+
+   Logo…
+
+   n² +(2(n–1)-1)= (n + 1)²
+
+   Ou seja, provamos que, se 1 + … + (2n-1)= n² então 1 + … +(2(n–1)-1)=
+   (n + 1)² , ou seja, se 1 + … + (2n-1) então para todos os casos com “n”
+   maior que na equação inicial a mesma fórmula será verdadeira.
+
+   Agora basta apenas provar que 1 + … + (2n-1)= n² é verdadeiro para um
+   n, e ele necessariamente será para todos os próximos.
+
+   1 = 1²
+
+   É verdadeiro? Vejamos:
+
+   1 = 1
+
+   É.
+
+   O mesmo poderia ser feito, por exemplo, com 2 e 3…
+
+   1 + 3= 2²
+
+   4= 4
+
+   A indução matemática é um exemplo de uma indução provada de forma
+   logicamente correta.
+
+A Lógica como a Arte da Eliminação de Possibilidades
+
+   Esta é uma crença pessoal minha, mas acredito que a lógica seja a arte
+   de se eliminar possibilidades, tudo com base na não-contradição. A
+   ideia funciona da seguinte forma, se você eliminar determinada
+   possibilidade de resposta para alguma questão sobram as outras
+   possibilidades, provando que determinada possibilidade é uma
+   contradição você prova que ela é necessariamente falsa, ou seja, a
+   elimina, assim, se conseguir provar que todas as possibilidades exceto
+   uma são contradições, então aquela, por eliminação, é necessariamente
+   verdadeira.
+
+   O mesmo vale para validar um axioma, se qualquer negação da proposição
+   W é necessariamente uma contradição então a única possibilidade de
+   resposta que sobra é a proposição W, ela é necessariamente verdadeira
+   por eliminação.
+
+   É como ocorre na obra de arte Deathnote (acredito que ela contenha um
+   bom exemplo de eliminação lógica, caso não tenha assistido este anime
+   recomendo que pule este parágrafo para não pegar nenhum spoiler): o
+   detetive L está investigando o caso de um assassino capaz de fazer
+   qualquer pessoa morrer de ataque cardíaco tendo apenas seu nome e seu
+   rosto, ele então faz uma transmissão ao vivo que ele afirma ser
+   mundial, uma armadilha para fazer com que Kira (o investigado) matasse
+   um sósia; após a morte do sósia, L sabe em qual região do mundo Kira
+   está, pois a transmissão não era realmente mundial, fora feita apenas
+   em uma região onde ele esperava que Kira vivesse (caso ele não
+   obtivesse resultado com esta transmissão ele faria-a de novo em outras
+   regiões, até que pegasse Kira na armadilha); com isso L sabe que Kira
+   vive naquela região, ele eliminou todas as possibilidades alternativas
+   para sua localização, pois todas elas resultariam numa contradição
+   (Kira ser capaz de matar uma pessoa numa transmissão sem saber da
+   transmissão); ele então percebe que Kira reage às informações
+   descobertas pela polícia, ora Kira deve ter acesso à investigação da
+   polícia, se não tivesse não teria como reagir àquelas informações
+   (reagir a algo sem nem saber de sua existência seria uma contradição),
+   ele pode eliminar mais possibilidades; e, assim, ele vai eliminando
+   possibilidades e chegando mais próximo da verdadeira identidade de
+   Kira.
+
+   Mas e os outros métodos de prova lógica diferentes do por contradição?
+
+   Ora, eles são, de certa forma, também baseados na contradição, explico:
+
+   A prova direta, por exemplo, mostra pelas próprias definições dos
+   termos que P implica Q, neste caso, se a pessoa nega a verdade
+   descoberta nela ela está violando a lei da identidade e, por
+   consequência, a da não-contradição. O mesmo vale para a prova por
+   contraposição, que é simplesmente uma prova direta feita com a
+   implicação das negações de P e Q.
+
+   Ou seja, a lógica é a arte de se eliminar possibilidades de respostas a
+   uma questão com base no princípio da não-contradição, até que sobre
+   apenas uma possível resposta, verdadeira por eliminação.
+
+   Referências
+
+   Richard Hammack — The Book of Proof
+
+   P.D. Magnus — Forall X: Introductory Textbook in Formal Logic
+
+   Aristóteles — Organom
+
+   Aristóteles — Metafísica
+
+   Leonard Peikoff — Aristotle the Father of Logic (trecho de seu curso
+   sobre a história da filosofia)
+
+   Leonard Peikoff — Objectivism the Philosophy of Ayn Rand
+
+   Ayn Rand — Introduction to Objectivist Epistemology
+
+   Harry Binswanger — The Foundations of Knownleadge
+
+   --
+
+   --
+   (BUTTON)
+   (BUTTON)
+   [10]
+   Relsen
+   [11]
+   Relsen
+   (BUTTON) Follow
+   [12]
+
+Written by Relsen
+
+   [13]138 Followers
+   ·[14]2 Following
+
+   Para que você possa transformar o mundo você deve primeiro transformar
+   a si mesmo.
+   (BUTTON) Follow
+
+No responses yet
+
+   [15]
+
+   Help
+   [16]
+
+   Status
+   [17]
+
+   About
+   [18]
+
+   Careers
+   [19]
+
+   Press
+   [20]
+
+   Blog
+   [21]
+
+   Privacy
+   [22]
+
+   Terms
+   [23]
+
+   Text to speech
+   [24]
+
+   Teams
+
+Références
+
+   Liens visibles :
+   1. file:///osd.xml
+   2. android-app://com.medium.reader/https/medium.com/p/14771da340d
+   3. https://rsci.app.link/?$canonical_url=https://medium.com/p/14771da340d&~feature=LoOpenInAppButton&~channel=ShowPostUnderUser&source=---top_nav_layout_nav----------------------------------
+   4. https://medium.com/m/signin?operation=login&redirect=https://relsen.medium.com/introdução-à-lógica-formal-14771da340d&source=post_page---top_nav_layout_nav-----------------------global_nav-----------
+   5. https://medium.com/m/signin?operation=register&redirect=https://medium.com/new-story&source=---top_nav_layout_nav-----------------------new_post_topnav-----------
+   6. https://medium.com/m/signin?operation=login&redirect=https://relsen.medium.com/introdução-à-lógica-formal-14771da340d&source=post_page---top_nav_layout_nav-----------------------global_nav-----------
+   7. file:///?source=post_page---byline--14771da340d--------------------------------
+   8. file:///?source=post_page---byline--14771da340d--------------------------------
+   9. https://medium.com/m/signin?actionUrl=https://medium.com/_/subscribe/user/72b87b24c204&operation=register&redirect=https://relsen.medium.com/introdução-à-lógica-formal-14771da340d&user=Relsen&userId=72b87b24c204&source=post_page-72b87b24c204--byline--14771da340d---------------------post_header-----------
+  10. file:///?source=post_page---post_author_info--14771da340d--------------------------------
+  11. file:///?source=post_page---post_author_info--14771da340d--------------------------------
+  12. file:///?source=post_page---post_author_info--14771da340d--------------------------------
+  13. file:///followers?source=post_page---post_author_info--14771da340d--------------------------------
+  14. file:///following?source=post_page---post_author_info--14771da340d--------------------------------
+  15. https://help.medium.com/hc/en-us?source=post_page-----14771da340d--------------------------------
+  16. https://medium.statuspage.io/?source=post_page-----14771da340d--------------------------------
+  17. https://medium.com/about?autoplay=1&source=post_page-----14771da340d--------------------------------
+  18. https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----14771da340d--------------------------------
+  19. file:///tmp/lynxXXXX9TUBXe/pressinquiries@medium.com?source=post_page-----14771da340d--------------------------------
+  20. https://blog.medium.com/?source=post_page-----14771da340d--------------------------------
+  21. https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----14771da340d--------------------------------
+  22. https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----14771da340d--------------------------------
+  23. https://speechify.com/medium?source=post_page-----14771da340d--------------------------------
+  24. https://medium.com/business?source=post_page-----14771da340d--------------------------------
+
+   Liens cachés :
+  26. https://medium.com/?source=---top_nav_layout_nav----------------------------------
+  27. https://medium.com/search?source=---top_nav_layout_nav----------------------------------
+  28. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F14771da340d&operation=register&redirect=https%3A%2F%2Frelsen.medium.com%2Fintrodu%25C3%25A7%25C3%25A3o-%25C3%25A0-l%25C3%25B3gica-formal-14771da340d&user=Relsen&userId=72b87b24c204&source=---header_actions--14771da340d---------------------clap_footer-----------
+  29. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F14771da340d&operation=register&redirect=https%3A%2F%2Frelsen.medium.com%2Fintrodu%25C3%25A7%25C3%25A3o-%25C3%25A0-l%25C3%25B3gica-formal-14771da340d&source=---header_actions--14771da340d---------------------bookmark_footer-----------
+  30. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F14771da340d&operation=register&redirect=https%3A%2F%2Frelsen.medium.com%2Fintrodu%25C3%25A7%25C3%25A3o-%25C3%25A0-l%25C3%25B3gica-formal-14771da340d&user=Relsen&userId=72b87b24c204&source=---footer_actions--14771da340d---------------------clap_footer-----------
+  31. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F14771da340d&operation=register&redirect=https%3A%2F%2Frelsen.medium.com%2Fintrodu%25C3%25A7%25C3%25A3o-%25C3%25A0-l%25C3%25B3gica-formal-14771da340d&user=Relsen&userId=72b87b24c204&source=---footer_actions--14771da340d---------------------clap_footer-----------
+  32. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F14771da340d&operation=register&redirect=https%3A%2F%2Frelsen.medium.com%2Fintrodu%25C3%25A7%25C3%25A3o-%25C3%25A0-l%25C3%25B3gica-formal-14771da340d&source=---footer_actions--14771da340d---------------------bookmark_footer-----------
+  33. https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--14771da340d--------------------------------

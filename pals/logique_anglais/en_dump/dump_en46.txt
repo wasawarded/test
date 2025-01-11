@@ -1,0 +1,1496 @@
+   #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+   Pages for logged out editors learn more
+     * Contributions
+     * Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Formal accounts
+     * 2 A priori property of logical consequence
+     * 3 Proofs and models
+       (BUTTON) Toggle Proofs and models subsection
+          + 3.1 Syntactic consequence
+          + 3.2 Semantic consequence
+     * 4 Modal accounts
+       (BUTTON) Toggle Modal accounts subsection
+          + 4.1 Modal-formal accounts
+          + 4.2 Warrant-based accounts
+          + 4.3 Non-monotonic logical consequence
+     * 5 See also
+     * 6 Notes
+     * 7 Resources
+     * 8 External links
+
+   [ ] Toggle the table of contents
+
+Logical consequence
+
+   [ ] 28 languages
+     * العربية
+     * Български
+     * Català
+     * Deutsch
+     * Ελληνικά
+     * Español
+     * Esperanto
+     * فارسی
+     * Français
+     * Galego
+     * 한국어
+     * हिन्दी
+     * Bahasa Indonesia
+     * עברית
+     * Nederlands
+     * 日本語
+     * Polski
+     * Português
+     * Русский
+     * Slovenščina
+     * کوردی
+     * Српски / srpski
+     * Suomi
+     * Svenska
+     * ไทย
+     * Українська
+     * 粵語
+     * 中文
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikimedia Commons
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Relationship where one statement follows from another
+   "Entailment" redirects here. For other uses, see Entail
+   (disambiguation).
+   "Therefore" redirects here. For the therefore symbol ∴, see Therefore
+   sign.
+   "Logical implication" redirects here. For the binary connective, see
+   Material conditional.
+   "⊧" redirects here. For the symbol, see Double turnstile.
+
+   Logical consequence (also entailment or implication) is a fundamental
+   concept in logic which describes the relationship between statements
+   that hold true when one statement logically follows from one or more
+   statements. A valid logical argument is one in which the conclusion is
+   entailed by the premises, because the conclusion is the consequence of
+   the premises. The philosophical analysis of logical consequence
+   involves the questions: In what sense does a conclusion follow from its
+   premises? and What does it mean for a conclusion to be a consequence of
+   premises?^[1] All of philosophical logic is meant to provide accounts
+   of the nature of logical consequence and the nature of logical
+   truth.^[2]
+
+   Logical consequence is necessary and formal, by way of examples that
+   explain with formal proof and models of interpretation.^[1] A sentence
+   is said to be a logical consequence of a set of sentences, for a given
+   language, if and only if, using only logic (i.e., without regard to any
+   personal interpretations of the sentences) the sentence must be true if
+   every sentence in the set is true.^[3]
+
+   Logicians make precise accounts of logical consequence regarding a
+   given language
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mi class="MJX-tex-caligraphic"
+   mathvariant="script">L</mi> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\mathcal
+   {L}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathcal {L}}} , either by constructing a deductive
+   system for
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mi class="MJX-tex-caligraphic"
+   mathvariant="script">L</mi> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\mathcal
+   {L}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathcal {L}}} or by formal intended semantics for
+   language
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mi class="MJX-tex-caligraphic"
+   mathvariant="script">L</mi> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\mathcal
+   {L}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathcal {L}}} . The Polish logician Alfred Tarski
+   identified three features of an adequate characterization of
+   entailment: (1) The logical consequence relation relies on the logical
+   form of the sentences: (2) The relation is a priori, i.e., it can be
+   determined with or without regard to empirical evidence (sense
+   experience); and (3) The logical consequence relation has a modal
+   component.^[3]
+
+Formal accounts
+
+   [edit]
+
+   The most widely prevailing view on how best to account for logical
+   consequence is to appeal to formality. This is to say that whether
+   statements follow from one another logically depends on the structure
+   or logical form of the statements without regard to the contents of
+   that form.
+
+   Syntactic accounts of logical consequence rely on schemes using
+   inference rules. For instance, we can express the logical form of a
+   valid argument as:
+
+          All X are Y
+          All Y are Z
+          Therefore, all X are Z.
+
+   This argument is formally valid, because every instance of arguments
+   constructed using this scheme is valid.
+
+   This is in contrast to an argument like "Fred is Mike's brother's son.
+   Therefore Fred is Mike's nephew." Since this argument depends on the
+   meanings of the words "brother", "son", and "nephew", the statement
+   "Fred is Mike's nephew" is a so-called material consequence of "Fred is
+   Mike's brother's son", not a formal consequence. A formal consequence
+   must be true in all cases, however this is an incomplete definition of
+   formal consequence, since even the argument "P is Q's brother's son,
+   therefore P is Q's nephew" is valid in all cases, but is not a formal
+   argument.^[1]
+
+A priori property of logical consequence
+
+   [edit]
+
+   If it is known that
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>Q</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle Q}</annotation>
+   </semantics> :MATH]
+   {\displaystyle Q} follows logically from
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>P</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle P}</annotation>
+   </semantics> :MATH]
+   {\displaystyle P} , then no information about the possible
+   interpretations of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>P</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle P}</annotation>
+   </semantics> :MATH]
+   {\displaystyle P} or
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>Q</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle Q}</annotation>
+   </semantics> :MATH]
+   {\displaystyle Q} will affect that knowledge. Our knowledge that
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>Q</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle Q}</annotation>
+   </semantics> :MATH]
+   {\displaystyle Q} is a logical consequence of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>P</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle P}</annotation>
+   </semantics> :MATH]
+   {\displaystyle P} cannot be influenced by empirical knowledge.^[1]
+   Deductively valid arguments can be known to be so without recourse to
+   experience, so they must be knowable a priori.^[1] However, formality
+   alone does not guarantee that logical consequence is not influenced by
+   empirical knowledge. So the a priori property of logical consequence is
+   considered to be independent of formality.^[1]
+
+Proofs and models
+
+   [edit]
+
+   The two prevailing techniques for providing accounts of logical
+   consequence involve expressing the concept in terms of proofs and via
+   models. The study of the syntactic consequence (of a logic) is called
+   (its) proof theory whereas the study of (its) semantic consequence is
+   called (its) model theory.^[4]
+
+Syntactic consequence
+
+   [edit]
+   See also: ∴ and ⊢
+
+   A formula
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+   </semantics> :MATH]
+   {\displaystyle A} is a syntactic consequence^[5]^[6]^[7]^[8]^[9] within
+   some formal system
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mi class="MJX-tex-caligraphic"
+   mathvariant="script">F</mi> <mi class="MJX-tex-caligraphic"
+   mathvariant="script">S</mi> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\mathcal
+   {FS}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathcal {FS}}} of a set
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">Γ</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \Gamma }</annotation>
+   </semantics> :MATH]
+   {\displaystyle \Gamma } of formulas if there is a formal proof in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mi class="MJX-tex-caligraphic"
+   mathvariant="script">F</mi> <mi class="MJX-tex-caligraphic"
+   mathvariant="script">S</mi> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\mathcal
+   {FS}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathcal {FS}}} of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+   </semantics> :MATH]
+   {\displaystyle A} from the set
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">Γ</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \Gamma }</annotation>
+   </semantics> :MATH]
+   {\displaystyle \Gamma } . This is denoted
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">Γ</mi>
+   <msub> <mo>⊢</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+   class="MJX-TeXAtom-ORD"> <mi class="MJX-tex-caligraphic"
+   mathvariant="script">F</mi> <mi class="MJX-tex-caligraphic"
+   mathvariant="script">S</mi> </mrow> </mrow> </msub> <mi>A</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \Gamma \vdash _{\mathcal
+   {FS}}A}</annotation> </semantics> :MATH]
+   {\displaystyle \Gamma \vdash _{\mathcal {FS}}A} . The turnstile symbol
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>⊢</mo> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \vdash
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \vdash } was originally introduced by Frege in 1879, but
+   its current use only dates back to Rosser and Kleene (1934–1935). ^[9]
+
+   Syntactic consequence does not depend on any interpretation of the
+   formal system.^[10]
+
+Semantic consequence
+
+   [edit]
+   See also: ⊨
+
+   A formula
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+   </semantics> :MATH]
+   {\displaystyle A} is a semantic consequence within some formal system
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mi class="MJX-tex-caligraphic"
+   mathvariant="script">F</mi> <mi class="MJX-tex-caligraphic"
+   mathvariant="script">S</mi> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\mathcal
+   {FS}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathcal {FS}}} of a set of statements
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">Γ</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \Gamma }</annotation>
+   </semantics> :MATH]
+   {\displaystyle \Gamma } if and only if there is no model
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mi class="MJX-tex-caligraphic"
+   mathvariant="script">I</mi> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\mathcal
+   {I}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathcal {I}}} in which all members of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">Γ</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \Gamma }</annotation>
+   </semantics> :MATH]
+   {\displaystyle \Gamma } are true and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+   </semantics> :MATH]
+   {\displaystyle A} is false.^[11] This is denoted
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">Γ</mi>
+   <msub> <mo>⊨</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+   class="MJX-TeXAtom-ORD"> <mi class="MJX-tex-caligraphic"
+   mathvariant="script">F</mi> <mi class="MJX-tex-caligraphic"
+   mathvariant="script">S</mi> </mrow> </mrow> </msub> <mi>A</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \Gamma \models _{\mathcal
+   {FS}}A}</annotation> </semantics> :MATH]
+   {\displaystyle \Gamma \models _{\mathcal {FS}}A} . Or, in other words,
+   the set of the interpretations that make all members of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">Γ</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \Gamma }</annotation>
+   </semantics> :MATH]
+   {\displaystyle \Gamma } true is a subset of the set of the
+   interpretations that make
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+   </semantics> :MATH]
+   {\displaystyle A} true.
+
+Modal accounts
+
+   [edit]
+
+   Modal accounts of logical consequence are variations on the following
+   basic idea:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">Γ</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \Gamma
+          }</annotation> </semantics> :MATH]
+          {\displaystyle \Gamma }
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>⊢</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \vdash }</annotation> </semantics> :MATH]
+          {\displaystyle \vdash }
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          A}</annotation> </semantics> :MATH]
+          {\displaystyle A} is true if and only if it is necessary that if
+          all of the elements of
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">Γ</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \Gamma
+          }</annotation> </semantics> :MATH]
+          {\displaystyle \Gamma } are true, then
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          A}</annotation> </semantics> :MATH]
+          {\displaystyle A} is true.
+
+   Alternatively (and, most would say, equivalently):
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">Γ</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \Gamma
+          }</annotation> </semantics> :MATH]
+          {\displaystyle \Gamma }
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>⊢</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \vdash }</annotation> </semantics> :MATH]
+          {\displaystyle \vdash }
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          A}</annotation> </semantics> :MATH]
+          {\displaystyle A} is true if and only if it is impossible for
+          all of the elements of
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">Γ</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \Gamma
+          }</annotation> </semantics> :MATH]
+          {\displaystyle \Gamma } to be true and
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          A}</annotation> </semantics> :MATH]
+          {\displaystyle A} false.
+
+   Such accounts are called "modal" because they appeal to the modal
+   notions of logical necessity and logical possibility. 'It is necessary
+   that' is often expressed as a universal quantifier over possible
+   worlds, so that the accounts above translate as:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">Γ</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \Gamma
+          }</annotation> </semantics> :MATH]
+          {\displaystyle \Gamma }
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>⊢</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \vdash }</annotation> </semantics> :MATH]
+          {\displaystyle \vdash }
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          A}</annotation> </semantics> :MATH]
+          {\displaystyle A} is true if and only if there is no possible
+          world at which all of the elements of
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">Γ</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \Gamma
+          }</annotation> </semantics> :MATH]
+          {\displaystyle \Gamma } are true and
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          A}</annotation> </semantics> :MATH]
+          {\displaystyle A} is false (untrue).
+
+   Consider the modal account in terms of the argument given as an example
+   above:
+
+          All frogs are green.
+          Kermit is a frog.
+          Therefore, Kermit is green.
+
+   The conclusion is a logical consequence of the premises because we can
+   not imagine a possible world where (a) all frogs are green; (b) Kermit
+   is a frog; and (c) Kermit is not green.
+
+Modal-formal accounts
+
+   [edit]
+
+   Modal-formal accounts of logical consequence combine the modal and
+   formal accounts above, yielding variations on the following basic idea:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">Γ</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \Gamma
+          }</annotation> </semantics> :MATH]
+          {\displaystyle \Gamma }
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>⊢</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \vdash }</annotation> </semantics> :MATH]
+          {\displaystyle \vdash }
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          A}</annotation> </semantics> :MATH]
+          {\displaystyle A} if and only if it is impossible for an
+          argument with the same logical form as
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">Γ</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \Gamma
+          }</annotation> </semantics> :MATH]
+          {\displaystyle \Gamma } /
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          A}</annotation> </semantics> :MATH]
+          {\displaystyle A} to have true premises and a false conclusion.
+
+Warrant-based accounts
+
+   [edit]
+
+   The accounts considered above are all "truth-preservational", in that
+   they all assume that the characteristic feature of a good inference is
+   that it never allows one to move from true premises to an untrue
+   conclusion. As an alternative, some have proposed
+   "warrant-preservational" accounts, according to which the
+   characteristic feature of a good inference is that it never allows one
+   to move from justifiably assertible premises to a conclusion that is
+   not justifiably assertible. This is (roughly) the account favored by
+   intuitionists.
+
+Non-monotonic logical consequence
+
+   [edit]
+
+   See also: Non-monotonic logic and Belief revision § Non-monotonic
+   inference relation
+
+   The accounts discussed above all yield monotonic consequence relations,
+   i.e. ones such that if
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+   </semantics> :MATH]
+   {\displaystyle A} is a consequence of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">Γ</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \Gamma }</annotation>
+   </semantics> :MATH]
+   {\displaystyle \Gamma } , then
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+   </semantics> :MATH]
+   {\displaystyle A} is a consequence of any superset of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">Γ</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \Gamma }</annotation>
+   </semantics> :MATH]
+   {\displaystyle \Gamma } . It is also possible to specify non-monotonic
+   consequence relations to capture the idea that, e.g., 'Tweety can fly'
+   is a logical consequence of
+
+          {Birds can typically fly, Tweety is a bird}
+
+   but not of
+
+          {Birds can typically fly, Tweety is a bird, Tweety is a
+          penguin}.
+
+See also
+
+   [edit]
+
+     * Abstract algebraic logic
+     * Ampheck
+     * Boolean algebra (logic)
+     * Boolean domain
+     * Boolean function
+     * Boolean logic
+     * Causality
+     * Deductive reasoning
+     * Logic gate
+     * Logical graph
+     * Peirce's law
+     * Probabilistic logic
+     * Propositional calculus
+     * Sole sufficient operator
+     * Strawson entailment
+     * Strict conditional
+     * Tautology (logic)
+     * Tautological consequence
+     * Therefore sign
+     * Turnstile (symbol)
+     * Double turnstile
+     * Validity
+
+Notes
+
+   [edit]
+
+    1. ^ ^a ^b ^c ^d ^e ^f Beall, JC and Restall, Greg, Logical
+       Consequence The Stanford Encyclopedia of Philosophy (Fall 2009
+       Edition), Edward N. Zalta (ed.).
+    2. ^ Quine, Willard Van Orman, Philosophy of Logic.
+    3. ^ ^a ^b McKeon, Matthew, Logical Consequence Internet Encyclopedia
+       of Philosophy.
+    4. ^ Kosta Dosen (1996). "Logical consequence: a turn in style". In
+       Maria Luisa Dalla Chiara; Kees Doets; Daniele Mundici; Johan van
+       Benthem (eds.). Logic and Scientific Methods: Volume One of the
+       Tenth International Congress of Logic, Methodology and Philosophy
+       of Science, Florence, August 1995. Springer. p. 292.
+       ISBN 978-0-7923-4383-7.
+    5. ^ Dummett, Michael (1993) philosophy of language Harvard University
+       Press, p.82ff
+    6. ^ Lear, Jonathan (1986) and Logical Theory Cambridge University
+       Press, 136p.
+    7. ^ Creath, Richard, and Friedman, Michael (2007) Cambridge companion
+       to Carnap Cambridge University Press, 371p.
+    8. ^ FOLDOC: "syntactic consequence" Archived 2013-04-03 at the
+       Wayback Machine
+    9. ^ ^a ^b S. C. Kleene, Introduction to Metamathematics (1952), Van
+       Nostrand Publishing. p.88.
+   10. ^ Hunter, Geoffrey (1996) [1971]. Metalogic: An Introduction to the
+       Metatheory of Standard First-Order Logic. University of California
+       Press (published 1973). p. 101. ISBN 9780520023567. OCLC 36312727.
+       (accessible to patrons with print disabilities)
+   11. ^ Etchemendy, John, Logical consequence, The Cambridge Dictionary
+       of Philosophy
+
+Resources
+
+   [edit]
+
+     *
+
+   Anderson, A.R.; Belnap, N.D. Jr. (1975), Entailment, vol. 1, Princeton,
+   NJ: Princeton.
+
+     Augusto, Luis M. (2017), Logical consequences. Theory and
+   applications: An introduction. London: College Publications. Series:
+   Mathematical logic and foundations.
+
+     Barwise, Jon; Etchemendy, John (2008), Language, Proof and Logic,
+   Stanford: CSLI Publications.
+
+     Brown, Frank Markham (2003), Boolean Reasoning: The Logic of Boolean
+   Equations 1st edition, Kluwer Academic Publishers, Norwell, MA. 2nd
+   edition, Dover Publications, Mineola, NY, 2003.
+
+     Davis, Martin, ed. (1965), The Undecidable, Basic Papers on
+   Undecidable Propositions, Unsolvable Problems And Computable Functions,
+   New York: Raven Press, ISBN 9780486432281. Papers include those by
+   Gödel, Church, Rosser, Kleene, and Post.
+
+     Dummett, Michael (1991), The Logical Basis of Metaphysics, Harvard
+   University Press, ISBN 9780674537866.
+
+     Edgington, Dorothy (2001), Conditionals, Blackwell in Lou Goble
+   (ed.), The Blackwell Guide to Philosophical Logic.
+
+     Edgington, Dorothy (2006), "Indicative Conditionals", Conditionals,
+   Metaphysics Research Lab, Stanford University in Edward N. Zalta (ed.),
+   The Stanford Encyclopedia of Philosophy.
+
+     Etchemendy, John (1990), The Concept of Logical Consequence, Harvard
+   University Press.
+
+     Goble, Lou, ed. (2001), The Blackwell Guide to Philosophical Logic,
+   Blackwell.
+
+     Hanson, William H (1997), "The concept of logical consequence", The
+   Philosophical Review, 106 (3): 365–409, doi:10.2307/2998398,
+   JSTOR 2998398 365–409.
+
+     Hendricks, Vincent F. (2005), Thought 2 Talk: A Crash Course in
+   Reflection and Expression, New York: Automatic Press / VIP,
+   ISBN 978-87-991013-7-5
+
+     Planchette, P. A. (2001), Logical Consequence in Goble, Lou, ed., The
+   Blackwell Guide to Philosophical Logic. Blackwell.
+
+     Quine, W.V. (1982), Methods of Logic, Cambridge, MA: Harvard
+   University Press (1st ed. 1950), (2nd ed. 1959), (3rd ed. 1972), (4th
+   edition, 1982).
+
+     Shapiro, Stewart (2002), Necessity, meaning, and rationality: the
+   notion of logical consequence in D. Jacquette, ed., A Companion to
+   Philosophical Logic. Blackwell.
+
+     Tarski, Alfred (1936), On the concept of logical consequence
+   Reprinted in Tarski, A., 1983. Logic, Semantics, Metamathematics, 2nd
+   ed. Oxford University Press. Originally published in Polish and German.
+
+     Ryszard Wójcicki (1988). Theory of Logical Calculi: Basic Theory of
+   Consequence Operations. Springer. ISBN 978-90-277-2785-5.
+
+     A paper on 'implication' from math.niu.edu, Implication Archived
+   2014-10-21 at the Wayback Machine
+
+     A definition of 'implicant' AllWords
+
+External links
+
+   [edit]
+
+   Wikimedia Commons has media related to Logical consequence.
+
+     *
+
+   Beall, Jc; Restall, Greg (2013-11-19). "Logical Consequence". In Zalta,
+   Edward N. (ed.). Stanford Encyclopedia of Philosophy (Winter 2016 ed.).
+
+     "Logical consequence". Internet Encyclopedia of Philosophy.
+
+     Logical consequence at the Indiana Philosophy Ontology Project
+
+     Logical consequence at PhilPapers
+
+     "Implication", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+
+     * v
+     * t
+     * e
+
+   Logic
+
+     * Outline
+     * History
+
+   Major fields
+
+     * Computer science
+     * Formal semantics (natural language)
+     * Inference
+     * Philosophy of logic
+     * Proof
+     * Semantics of logic
+     * Syntax
+
+   Logics
+     * Classical
+     * Informal
+          + Critical thinking
+          + Reason
+     * Mathematical
+     * Non-classical
+     * Philosophical
+
+   Theories
+     * Argumentation
+     * Metalogic
+     * Metamathematics
+     * Set
+
+   Foundations
+
+     * Abduction
+     * Analytic and synthetic propositions
+     * Antecedent
+     * Consequent
+     * Contradiction
+          + Paradox
+          + Antinomy
+     * Deduction
+     * Deductive closure
+     * Definition
+     * Description
+     * Entailment
+          + Linguistic
+     * Form
+     * Induction
+     * Logical truth
+     * Name
+     * Necessity and sufficiency
+     * Premise
+     * Probability
+     * Proposition
+     * Reference
+     * Statement
+     * Substitution
+     * Truth
+     * Validity
+
+   Lists
+
+   topics
+     * Mathematical logic
+     * Boolean algebra
+     * Set theory
+
+   other
+     * Logicians
+     * Rules of inference
+     * Paradoxes
+     * Fallacies
+     * Logic symbols
+
+     * Philosophy portal
+     * Category
+     * WikiProject (talk)
+     * changes
+
+     * v
+     * t
+     * e
+
+   Mathematical logic
+
+   General
+
+     * Axiom
+          + list
+     * Cardinality
+     * First-order logic
+     * Formal proof
+     * Formal semantics
+     * Foundations of mathematics
+     * Information theory
+     * Lemma
+     * Logical consequence
+     * Model
+     * Theorem
+     * Theory
+     * Type theory
+
+   Theorems (list)
+    and paradoxes
+
+     * Gödel's completeness and incompleteness theorems
+     * Tarski's undefinability
+     * Banach–Tarski paradox
+     * Cantor's theorem, paradox and diagonal argument
+     * Compactness
+     * Halting problem
+     * Lindström's
+     * Löwenheim–Skolem
+     * Russell's paradox
+
+   Logics
+
+   Traditional
+     * Classical logic
+     * Logical truth
+     * Tautology
+     * Proposition
+     * Inference
+     * Logical equivalence
+     * Consistency
+          + Equiconsistency
+     * Argument
+     * Soundness
+     * Validity
+     * Syllogism
+     * Square of opposition
+     * Venn diagram
+
+   Propositional
+     * Boolean algebra
+     * Boolean functions
+     * Logical connectives
+     * Propositional calculus
+     * Propositional formula
+     * Truth tables
+     * Many-valued logic
+          + 3
+          + finite
+          + ∞
+
+   Predicate
+     * First-order
+          + list
+     * Second-order
+          + Monadic
+     * Higher-order
+     * Fixed-point
+     * Free
+     * Quantifiers
+     * Predicate
+     * Monadic predicate calculus
+
+   Set theory
+
+     * Set
+          + hereditary
+     * Class
+     * (Ur-)Element
+     * Ordinal number
+     * Extensionality
+     * Forcing
+     * Relation
+          + equivalence
+          + partition
+     * Set operations:
+          + intersection
+          + union
+          + complement
+          + Cartesian product
+          + power set
+          + identities
+
+   Types of sets
+     * Countable
+     * Uncountable
+     * Empty
+     * Inhabited
+     * Singleton
+     * Finite
+     * Infinite
+     * Transitive
+     * Ultrafilter
+     * Recursive
+     * Fuzzy
+     * Universal
+     * Universe
+          + constructible
+          + Grothendieck
+          + Von Neumann
+
+   Maps and cardinality
+     * Function/Map
+          + domain
+          + codomain
+          + image
+     * In/Sur/Bi-jection
+     * Schröder–Bernstein theorem
+     * Isomorphism
+     * Gödel numbering
+     * Enumeration
+     * Large cardinal
+          + inaccessible
+     * Aleph number
+     * Operation
+          + binary
+
+   Set theories
+     * Zermelo–Fraenkel
+          + axiom of choice
+          + continuum hypothesis
+     * General
+     * Kripke–Platek
+     * Morse–Kelley
+     * Naive
+     * New Foundations
+     * Tarski–Grothendieck
+     * Von Neumann–Bernays–Gödel
+     * Ackermann
+     * Constructive
+
+   Formal systems (list),
+   language and syntax
+
+     * Alphabet
+     * Arity
+     * Automata
+     * Axiom schema
+     * Expression
+          + ground
+     * Extension
+          + by definition
+          + conservative
+     * Relation
+     * Formation rule
+     * Grammar
+     * Formula
+          + atomic
+          + closed
+          + ground
+          + open
+     * Free/bound variable
+     * Language
+     * Metalanguage
+     * Logical connective
+          + ¬
+          + ∨
+          + ∧
+          + →
+          + ↔
+          + =
+     * Predicate
+          + functional
+          + variable
+          + propositional variable
+     * Proof
+     * Quantifier
+          + ∃
+          + !
+          + ∀
+          + rank
+     * Sentence
+          + atomic
+          + spectrum
+     * Signature
+     * String
+     * Substitution
+     * Symbol
+          + function
+          + logical/constant
+          + non-logical
+          + variable
+     * Term
+     * Theory
+          + list
+
+   Example axiomatic
+   systems (list)
+     * of arithmetic:
+          + Peano
+          + second-order
+          + elementary function
+          + primitive recursive
+          + Robinson
+          + Skolem
+     * of the real numbers
+          + Tarski's axiomatization
+     * of Boolean algebras
+          + canonical
+          + minimal axioms
+     * of geometry:
+          + Euclidean:
+               o Elements
+               o Hilbert's
+               o Tarski's
+          + non-Euclidean
+
+     * Principia Mathematica
+
+   Proof theory
+
+     * Formal proof
+     * Natural deduction
+     * Logical consequence
+     * Rule of inference
+     * Sequent calculus
+     * Theorem
+     * Systems
+          + axiomatic
+          + deductive
+          + Hilbert
+               o list
+     * Complete theory
+     * Independence (from ZFC)
+     * Proof of impossibility
+     * Ordinal analysis
+     * Reverse mathematics
+     * Self-verifying theories
+
+   Model theory
+
+     * Interpretation
+          + function
+          + of models
+     * Model
+          + equivalence
+          + finite
+          + saturated
+          + spectrum
+          + submodel
+     * Non-standard model
+          + of arithmetic
+     * Diagram
+          + elementary
+     * Categorical theory
+     * Model complete theory
+     * Satisfiability
+     * Semantics of logic
+     * Strength
+     * Theories of truth
+          + semantic
+          + Tarski's
+          + Kripke's
+     * T-schema
+     * Transfer principle
+     * Truth predicate
+     * Truth value
+     * Type
+     * Ultraproduct
+     * Validity
+
+   Computability theory
+
+     * Church encoding
+     * Church–Turing thesis
+     * Computably enumerable
+     * Computable function
+     * Computable set
+     * Decision problem
+          + decidable
+          + undecidable
+          + P
+          + NP
+          + P versus NP problem
+     * Kolmogorov complexity
+     * Lambda calculus
+     * Primitive recursive function
+     * Recursion
+     * Recursive set
+     * Turing machine
+     * Type theory
+
+   Related
+
+     * Abstract logic
+     * Algebraic logic
+     * Automated theorem proving
+     * Category theory
+     * Concrete/Abstract category
+     * Category of sets
+     * History of logic
+     * History of mathematical logic
+          + timeline
+     * Logicism
+     * Mathematical object
+     * Philosophy of mathematics
+     * Supertask
+
+   icon Mathematics portal
+
+     * v
+     * t
+     * e
+
+   Common logical connectives
+
+     * Tautology/True
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi
+       mathvariant="normal">⊤</mi> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \top }</annotation>
+       </semantics> :MATH]
+       {\displaystyle \top }
+
+   [80px-Logical_connectives_Hasse_diagram.svg.png]
+
+     * Alternative denial (NAND gate)
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo stretchy="false">↑</mo>
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \uparrow }</annotation>
+       </semantics> :MATH]
+       {\displaystyle \uparrow }
+     * Converse implication
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo stretchy="false">←</mo>
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \leftarrow
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \leftarrow }
+     * Implication (IMPLY gate)
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo stretchy="false">→</mo>
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \rightarrow
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \rightarrow }
+     * Disjunction (OR gate)
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo>∨</mo> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \lor
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \lor }
+
+     * Negation (NOT gate)
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi
+       mathvariant="normal">¬</mi> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \neg }</annotation>
+       </semantics> :MATH]
+       {\displaystyle \neg }
+     * Exclusive or (XOR gate)
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo>↮</mo> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \not
+       \leftrightarrow }</annotation> </semantics> :MATH]
+       {\displaystyle \not \leftrightarrow }
+     * Biconditional (XNOR gate)
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo stretchy="false">↔</mo>
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \leftrightarrow
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \leftrightarrow }
+     * Statement (Digital buffer)
+
+     * Joint denial (NOR gate)
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo stretchy="false">↓</mo>
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \downarrow
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \downarrow }
+     * Nonimplication (NIMPLY gate)
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo>↛</mo> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle
+       \nrightarrow }</annotation> </semantics> :MATH]
+       {\displaystyle \nrightarrow }
+     * Converse nonimplication
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo>↚</mo> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \nleftarrow
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \nleftarrow }
+     * Conjunction (AND gate)
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo>∧</mo> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \land
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \land }
+
+     * Contradiction/False
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi
+       mathvariant="normal">⊥</mi> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \bot }</annotation>
+       </semantics> :MATH]
+       {\displaystyle \bot }
+
+   Philosophy portal
+
+     * v
+     * t
+     * e
+
+   Common logical symbols
+
+   ∧  or  &
+   and
+   ∨
+   or
+   ¬  or  ~
+   not
+   →
+   implies
+   ⊃
+   implies,
+   superset
+   ↔  or  ≡
+   iff
+   |
+   nand
+   ∀
+   universal
+   quantification
+   ∃
+   existential
+   quantification
+   ⊤
+   true,
+   tautology
+   ⊥
+   false,
+   contradiction
+   ⊢
+   entails,
+   proves
+   ⊨
+   entails,
+   therefore
+   ∴
+   therefore
+   ∵
+   because
+
+   Philosophy portal
+   icon Mathematics portal
+
+     * v
+     * t
+     * e
+
+   Formal semantics (natural language)
+
+   Central concepts
+
+     * Compositionality
+     * Denotation
+     * Entailment
+     * Extension
+     * Generalized quantifier
+     * Intension
+     * Logical form
+     * Presupposition
+     * Proposition
+     * Reference
+     * Scope
+     * Speech act
+     * Syntax–semantics interface
+     * Truth conditions
+
+   Topics
+
+   Areas
+     * Anaphora
+     * Ambiguity
+     * Binding
+     * Conditionals
+     * Definiteness
+     * Disjunction
+     * Evidentiality
+     * Focus
+     * Indexicality
+     * Lexical semantics
+     * Modality
+     * Negation
+     * Propositional attitudes
+     * Tense–aspect–mood
+     * Quantification
+     * Vagueness
+
+   Phenomena
+     * Antecedent-contained deletion
+     * Cataphora
+     * Coercion
+     * Conservativity
+     * Counterfactuals
+     * Crossover effects
+     * Cumulativity
+     * De dicto and de re
+     * De se
+     * Deontic modality
+     * Discourse relations
+     * Donkey anaphora
+     * Epistemic modality
+     * Exhaustivity
+     * Faultless disagreement
+     * Free choice inferences
+     * Givenness
+     * Homogeneity (linguistics)
+     * Hurford disjunction
+     * Inalienable possession
+     * Intersective modification
+     * Logophoricity
+     * Mirativity
+     * Modal subordination
+     * Opaque contexts
+     * Performatives
+     * Polarity items
+     * Privative adjectives
+     * Quantificational variability effect
+     * Responsive predicate
+     * Rising declaratives
+     * Scalar implicature
+     * Sloppy identity
+     * Subsective modification
+     * Subtrigging
+     * Telicity
+     * Temperature paradox
+     * Veridicality
+
+   Formalism
+
+   Formal systems
+     * Alternative semantics
+     * Categorial grammar
+     * Combinatory categorial grammar
+     * Discourse representation theory (DRT)
+     * Dynamic semantics
+     * Generative grammar
+     * Glue semantics
+     * Inquisitive semantics
+     * Intensional logic
+     * Lambda calculus
+     * Mereology
+     * Montague grammar
+     * Segmented discourse representation theory (SDRT)
+     * Situation semantics
+     * Supervaluationism
+     * Type theory
+     * TTR
+
+   Concepts
+     * Autonomy of syntax
+     * Context set
+     * Continuation
+     * Conversational scoreboard
+     * Downward entailing
+     * Existential closure
+     * Function application
+     * Meaning postulate
+     * Monads
+     * Plural quantification
+     * Possible world
+     * Quantifier raising
+     * Quantization
+     * Question under discussion
+     * Semantic parsing
+     * Squiggle operator
+     * Strawson entailment
+     * Strict conditional
+     * Type shifter
+     * Universal grinder
+
+   See also
+
+     * Cognitive semantics
+     * Computational semantics
+     * Distributional semantics
+     * Formal grammar
+     * Inferentialism
+     * Logic translation
+     * Linguistics wars
+     * Philosophy of language
+     * Pragmatics
+     * Semantics of logic
+
+   Authority control databases: National Edit this at Wikidata
+     * Germany
+     * Poland
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Logical_consequence&oldid=1
+   265514428"
+
+   Categories:
+     * Logical consequence
+     * Philosophical logic
+     * Metalogic
+     * Propositional calculus
+     * Semantic units
+     * Deductive reasoning
+     * Concepts in logic
+     * Syntax (logic)
+     * Binary operations
+
+   Hidden categories:
+     * Webarchive template wayback links
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Commons category link from Wikidata
+     * Articles with Internet Encyclopedia of Philosophy links
+
+     * This page was last edited on 27 December 2024, at 08:29 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

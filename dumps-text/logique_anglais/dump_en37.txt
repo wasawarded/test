@@ -1,0 +1,1957 @@
+   #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+   Pages for logged out editors learn more
+     * Contributions
+     * Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Description
+     * 2 Solutions
+       (BUTTON) Toggle Solutions subsection
+          + 2.1 Fluent occlusion solution
+          + 2.2 Predicate completion solution
+          + 2.3 Successor state axioms solution
+          + 2.4 Fluent calculus solution
+          + 2.5 Event calculus solution
+          + 2.6 Default logic solution
+          + 2.7 Answer set programming solution
+          + 2.8 Separation logic solution
+          + 2.9 Action description languages
+     * 3 See also
+     * 4 Notes
+     * 5 References
+     * 6 External links
+
+   [ ] Toggle the table of contents
+
+Frame problem
+
+   [ ] 8 languages
+     * العربية
+     * Deutsch
+     * Français
+     * 한국어
+     * Nederlands
+     * 日本語
+     * Norsk nynorsk
+     * Српски / srpski
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Issue in artificial intelligence and categorical algebra
+
+   In artificial intelligence, with implications for cognitive science,
+   the frame problem describes an issue with using first-order logic to
+   express facts about a robot in the world. Representing the state of a
+   robot with traditional first-order logic requires the use of many
+   axioms that simply imply that things in the environment do not change
+   arbitrarily. For example, Hayes describes a "block world" with rules
+   about stacking blocks together. In a first-order logic system,
+   additional axioms are required to make inferences about the environment
+   (for example, that a block cannot change position unless it is
+   physically moved). The frame problem is the problem of finding adequate
+   collections of axioms for a viable description of a robot
+   environment.^[1]
+
+   John McCarthy and Patrick J. Hayes defined this problem in their 1969
+   article, Some Philosophical Problems from the Standpoint of Artificial
+   Intelligence. In this paper, and many that came after, the formal
+   mathematical problem was a starting point for more general discussions
+   of the difficulty of knowledge representation for artificial
+   intelligence. Issues such as how to provide rational default
+   assumptions and what humans consider common sense in a virtual
+   environment.^[2]
+
+   In philosophy, the frame problem became more broadly construed in
+   connection with the problem of limiting the beliefs that have to be
+   updated in response to actions. In the logical context, actions are
+   typically specified by what they change, with the implicit assumption
+   that everything else (the frame) remains unchanged.
+
+Description
+
+   [edit]
+
+   The frame problem occurs even in very simple domains. A scenario with a
+   door, which can be open or closed, and a light, which can be on or off,
+   is statically represented by two propositions
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {open}
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {open} } and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {on} }</annotation>
+   </semantics> :MATH]
+   {\displaystyle \mathrm {on} } . If these conditions can change, they
+   are better represented by two predicates
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi> </mrow> <mo
+   stretchy="false">(</mo> <mi>t</mi> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {open}
+   (t)}</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {open} (t)} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi> </mrow> <mo
+   stretchy="false">(</mo> <mi>t</mi> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {on}
+   (t)}</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {on} (t)} that depend on time; such predicates
+   are called fluents. A domain in which the door is closed and the light
+   off at time 0, and the door opened at time 1, can be directly
+   represented in logic ^[clarification needed] by the following formulae:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">¬</mi> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+          mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi>
+          </mrow> <mo stretchy="false">(</mo> <mn>0</mn> <mo
+          stretchy="false">)</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \neg \mathrm {open}
+          (0)}</annotation> </semantics> :MATH]
+          {\displaystyle \neg \mathrm {open} (0)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">¬</mi> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi>
+          </mrow> <mo stretchy="false">(</mo> <mn>0</mn> <mo
+          stretchy="false">)</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \neg \mathrm {on}
+          (0)}</annotation> </semantics> :MATH]
+          {\displaystyle \neg \mathrm {on} (0)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+          mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+          <mn>1</mn> <mo stretchy="false">)</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle \mathrm
+          {open} (1)}</annotation> </semantics> :MATH]
+          {\displaystyle \mathrm {open} (1)}
+
+   The first two formulae represent the initial situation; the third
+   formula represents the effect of executing the action of opening the
+   door at time 1. If such an action had preconditions, such as the door
+   being unlocked, it would have been represented by
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">¬</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">l</mi> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">c</mi> <mi
+   mathvariant="normal">k</mi> <mi mathvariant="normal">e</mi> <mi
+   mathvariant="normal">d</mi> </mrow> <mo stretchy="false">(</mo>
+   <mn>0</mn> <mo stretchy="false">)</mo> <mspace width="thickmathspace"
+   /> <mo stretchy="false">⟹</mo> <mspace width="thickmathspace" /> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+   mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+   <mn>1</mn> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \neg \mathrm {locked}
+   (0)\implies \mathrm {open} (1)}</annotation> </semantics> :MATH]
+   {\displaystyle \neg \mathrm {locked} (0)\implies \mathrm {open} (1)} .
+   In practice, one would have a predicate
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">x</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">c</mi> <mi
+   mathvariant="normal">u</mi> <mi mathvariant="normal">t</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+   mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+   <mi>t</mi> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {executeopen}
+   (t)}</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {executeopen} (t)} for specifying when an action
+   is executed and a rule
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">∀</mi>
+   <mi>t</mi> <mo>.</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">x</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">c</mi> <mi
+   mathvariant="normal">u</mi> <mi mathvariant="normal">t</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+   mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+   <mi>t</mi> <mo stretchy="false">)</mo> <mspace width="thickmathspace"
+   /> <mo stretchy="false">⟹</mo> <mspace width="thickmathspace" /> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+   mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+   <mi>t</mi> <mo>+</mo> <mn>1</mn> <mo stretchy="false">)</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle \forall
+   t.\mathrm {executeopen} (t)\implies \mathrm {open} (t+1)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \forall t.\mathrm {executeopen} (t)\implies \mathrm
+   {open} (t+1)} for specifying the effects of actions. The article on the
+   situation calculus gives more details.
+
+   While the three formulae above are a direct expression in logic of what
+   is known, they do not suffice to correctly draw consequences. While the
+   following conditions (representing the expected situation) are
+   consistent with the three formulae above, they are not the only ones.
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">¬</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+   mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+   <mn>0</mn> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \neg \mathrm {open}
+   (0)}</annotation> </semantics> :MATH]
+   {\displaystyle \neg \mathrm {open} (0)}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi> </mrow> <mo
+   stretchy="false">(</mo> <mn>1</mn> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {open}
+   (1)}</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {open} (1)}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">¬</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+   <mn>0</mn> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \neg \mathrm {on}
+   (0)}</annotation> </semantics> :MATH]
+   {\displaystyle \neg \mathrm {on} (0)}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">¬</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+   <mn>1</mn> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \neg \mathrm {on}
+   (1)}</annotation> </semantics> :MATH]
+   {\displaystyle \neg \mathrm {on} (1)}
+
+   Indeed, another set of conditions that is consistent with the three
+   formulae above is:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">¬</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+   mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+   <mn>0</mn> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \neg \mathrm {open}
+   (0)}</annotation> </semantics> :MATH]
+   {\displaystyle \neg \mathrm {open} (0)}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi> </mrow> <mo
+   stretchy="false">(</mo> <mn>1</mn> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {open}
+   (1)}</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {open} (1)}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">¬</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+   <mn>0</mn> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \neg \mathrm {on}
+   (0)}</annotation> </semantics> :MATH]
+   {\displaystyle \neg \mathrm {on} (0)}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi> </mrow> <mo
+   stretchy="false">(</mo> <mn>1</mn> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {on}
+   (1)}</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {on} (1)}
+
+   The frame problem is that specifying only which conditions are changed
+   by the actions does not entail that all other conditions are not
+   changed. This problem can be solved by adding the so-called “frame
+   axioms”, which explicitly specify that all conditions not affected by
+   actions are not changed while executing that action. For example, since
+   the action executed at time 0 is that of opening the door, a frame
+   axiom would state that the status of the light does not change from
+   time 0 to time 1:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+          <mn>0</mn> <mo stretchy="false">)</mo> <mspace
+          width="thickmathspace" /> <mo stretchy="false">⟺</mo> <mspace
+          width="thickmathspace" /> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi>
+          </mrow> <mo stretchy="false">(</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \mathrm {on} (0)\iff
+          \mathrm {on} (1)}</annotation> </semantics> :MATH]
+          {\displaystyle \mathrm {on} (0)\iff \mathrm {on} (1)}
+
+   The frame problem is that one such frame axiom is necessary for every
+   pair of action and condition such that the action does not affect the
+   condition.^[clarification needed] In other words, the problem is that
+   of formalizing a dynamical domain without explicitly specifying the
+   frame axioms.
+
+   The solution proposed by McCarthy to solve this problem involves
+   assuming that a minimal amount of condition changes have occurred; this
+   solution is formalized using the framework of circumscription. The Yale
+   shooting problem, however, shows that this solution is not always
+   correct. Alternative solutions were then proposed, involving predicate
+   completion, fluent occlusion, successor state axioms, etc.; they are
+   explained below. By the end of the 1980s, the frame problem as defined
+   by McCarthy and Hayes was solved^[clarification needed]. Even after
+   that, however, the term “frame problem” was still used, in part to
+   refer to the same problem but under different settings (e.g.,
+   concurrent actions), and in part to refer to the general problem of
+   representing and reasoning with dynamical domains.
+
+Solutions
+
+   [edit]
+
+   The following solutions depict how the frame problem is solved in
+   various formalisms. The formalisms themselves are not presented in
+   full: what is presented are simplified versions that are sufficient to
+   explain the full solution.
+
+Fluent occlusion solution
+
+   [edit]
+
+   This solution was proposed by Erik Sandewall, who also defined a formal
+   language for the specification of dynamical domains; therefore, such a
+   domain can be first expressed in this language and then automatically
+   translated into logic. In this article, only the expression in logic is
+   shown, and only in the simplified language with no action names.
+
+   The rationale of this solution is to represent not only the value of
+   conditions over time, but also whether they can be affected by the last
+   executed action. The latter is represented by another condition, called
+   occlusion. A condition is said to be occluded in a given time point if
+   an action has been just executed that makes the condition true or false
+   as an effect. Occlusion can be viewed as “permission to change”: if a
+   condition is occluded, it is relieved from obeying the constraint of
+   inertia.
+
+   In the simplified example of the door and the light, occlusion can be
+   formalized by two predicates
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">c</mi> <mi
+   mathvariant="normal">c</mi> <mi mathvariant="normal">l</mi> <mi
+   mathvariant="normal">u</mi> <mi mathvariant="normal">d</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+   mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+   <mi>t</mi> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {occludeopen}
+   (t)}</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {occludeopen} (t)} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">c</mi> <mi
+   mathvariant="normal">c</mi> <mi mathvariant="normal">l</mi> <mi
+   mathvariant="normal">u</mi> <mi mathvariant="normal">d</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+   <mi>t</mi> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {occludeon}
+   (t)}</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {occludeon} (t)} . The rationale is that a
+   condition can change value only if the corresponding occlusion
+   predicate is true at the next time point. In turn, the occlusion
+   predicate is true only when an action affecting the condition is
+   executed.
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">¬</mi> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+          mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi>
+          </mrow> <mo stretchy="false">(</mo> <mn>0</mn> <mo
+          stretchy="false">)</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \neg \mathrm {open}
+          (0)}</annotation> </semantics> :MATH]
+          {\displaystyle \neg \mathrm {open} (0)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">¬</mi> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi>
+          </mrow> <mo stretchy="false">(</mo> <mn>0</mn> <mo
+          stretchy="false">)</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \neg \mathrm {on}
+          (0)}</annotation> </semantics> :MATH]
+          {\displaystyle \neg \mathrm {on} (0)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+          mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+          <mn>1</mn> <mo stretchy="false">)</mo> <mo>∧</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">c</mi> <mi mathvariant="normal">c</mi> <mi
+          mathvariant="normal">l</mi> <mi mathvariant="normal">u</mi> <mi
+          mathvariant="normal">d</mi> <mi mathvariant="normal">e</mi> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+          mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi>
+          </mrow> <mo stretchy="false">(</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \mathrm {open}
+          (1)\wedge \mathrm {occludeopen} (1)}</annotation> </semantics>
+          :MATH]
+          {\displaystyle \mathrm {open} (1)\wedge \mathrm {occludeopen}
+          (1)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">∀</mi> <mi>t</mi> <mo>.</mo> <mi
+          mathvariant="normal">¬</mi> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">c</mi> <mi
+          mathvariant="normal">c</mi> <mi mathvariant="normal">l</mi> <mi
+          mathvariant="normal">u</mi> <mi mathvariant="normal">d</mi> <mi
+          mathvariant="normal">e</mi> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+          mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+          <mi>t</mi> <mo stretchy="false">)</mo> <mspace
+          width="thickmathspace" /> <mo stretchy="false">⟹</mo> <mspace
+          width="thickmathspace" /> <mo stretchy="false">(</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+          mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+          <mi>t</mi> <mo>−</mo> <mn>1</mn> <mo stretchy="false">)</mo>
+          <mspace width="thickmathspace" /> <mo stretchy="false">⟺</mo>
+          <mspace width="thickmathspace" /> <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi>
+          <mi mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi>
+          </mrow> <mo stretchy="false">(</mo> <mi>t</mi> <mo
+          stretchy="false">)</mo> <mo stretchy="false">)</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \forall t.\neg \mathrm {occludeopen} (t)\implies (\mathrm {open}
+          (t-1)\iff \mathrm {open} (t))}</annotation> </semantics> :MATH]
+          {\displaystyle \forall t.\neg \mathrm {occludeopen} (t)\implies
+          (\mathrm {open} (t-1)\iff \mathrm {open} (t))}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">∀</mi> <mi>t</mi> <mo>.</mo> <mi
+          mathvariant="normal">¬</mi> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">c</mi> <mi
+          mathvariant="normal">c</mi> <mi mathvariant="normal">l</mi> <mi
+          mathvariant="normal">u</mi> <mi mathvariant="normal">d</mi> <mi
+          mathvariant="normal">e</mi> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+          <mi>t</mi> <mo stretchy="false">)</mo> <mspace
+          width="thickmathspace" /> <mo stretchy="false">⟹</mo> <mspace
+          width="thickmathspace" /> <mo stretchy="false">(</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+          <mi>t</mi> <mo>−</mo> <mn>1</mn> <mo stretchy="false">)</mo>
+          <mspace width="thickmathspace" /> <mo stretchy="false">⟺</mo>
+          <mspace width="thickmathspace" /> <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi>
+          </mrow> <mo stretchy="false">(</mo> <mi>t</mi> <mo
+          stretchy="false">)</mo> <mo stretchy="false">)</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \forall t.\neg \mathrm {occludeon} (t)\implies (\mathrm {on}
+          (t-1)\iff \mathrm {on} (t))}</annotation> </semantics> :MATH]
+          {\displaystyle \forall t.\neg \mathrm {occludeon} (t)\implies
+          (\mathrm {on} (t-1)\iff \mathrm {on} (t))}
+
+   In general, every action making a condition true or false also makes
+   the corresponding occlusion predicate true. In this case,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">c</mi> <mi
+   mathvariant="normal">c</mi> <mi mathvariant="normal">l</mi> <mi
+   mathvariant="normal">u</mi> <mi mathvariant="normal">d</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+   mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+   <mn>1</mn> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {occludeopen}
+   (1)}</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {occludeopen} (1)} is true, making the
+   antecedent of the fourth formula above false for
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>t</mi> <mo>=</mo> <mn>1</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle t=1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle t=1} ; therefore, the constraint that
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi> </mrow> <mo
+   stretchy="false">(</mo> <mi>t</mi> <mo>−</mo> <mn>1</mn> <mo
+   stretchy="false">)</mo> <mspace width="thickmathspace" /> <mo
+   stretchy="false">⟺</mo> <mspace width="thickmathspace" /> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+   mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+   <mi>t</mi> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {open} (t-1)\iff
+   \mathrm {open} (t)}</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {open} (t-1)\iff \mathrm {open} (t)} does not
+   hold for
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>t</mi> <mo>=</mo> <mn>1</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle t=1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle t=1} . Therefore,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {open}
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {open} } can change value, which is also what is
+   enforced by the third formula.
+
+   In order for this condition to work, occlusion predicates have to be
+   true only when they are made true as an effect of an action. This can
+   be achieved either by circumscription or by predicate completion. It is
+   worth noticing that occlusion does not necessarily imply a change: for
+   example, executing the action of opening the door when it was already
+   open (in the formalization above) makes the predicate
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">c</mi> <mi
+   mathvariant="normal">c</mi> <mi mathvariant="normal">l</mi> <mi
+   mathvariant="normal">u</mi> <mi mathvariant="normal">d</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+   mathvariant="normal">n</mi> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {occludeopen}
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {occludeopen} } true and makes
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {open}
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {open} } true; however,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {open}
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {open} } has not changed value, as it was true
+   already.
+
+Predicate completion solution
+
+   [edit]
+
+   This encoding is similar to the fluent occlusion solution, but the
+   additional predicates denote change, not permission to change. For
+   example,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">c</mi> <mi mathvariant="normal">h</mi> <mi
+   mathvariant="normal">a</mi> <mi mathvariant="normal">n</mi> <mi
+   mathvariant="normal">g</mi> <mi mathvariant="normal">e</mi> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi> </mrow> <mo
+   stretchy="false">(</mo> <mi>t</mi> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {changeopen}
+   (t)}</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {changeopen} (t)} represents the fact that the
+   predicate
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {open}
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {open} } will change from time
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>t</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle t}</annotation>
+   </semantics> :MATH]
+   {\displaystyle t} to
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>t</mi> <mo>+</mo> <mn>1</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle t+1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle t+1} . As a result, a predicate changes if and only if
+   the corresponding change predicate is true. An action results in a
+   change if and only if it makes true a condition that was previously
+   false or vice versa.
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">¬</mi> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+          mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi>
+          </mrow> <mo stretchy="false">(</mo> <mn>0</mn> <mo
+          stretchy="false">)</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \neg \mathrm {open}
+          (0)}</annotation> </semantics> :MATH]
+          {\displaystyle \neg \mathrm {open} (0)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">¬</mi> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi>
+          </mrow> <mo stretchy="false">(</mo> <mn>0</mn> <mo
+          stretchy="false">)</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \neg \mathrm {on}
+          (0)}</annotation> </semantics> :MATH]
+          {\displaystyle \neg \mathrm {on} (0)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">¬</mi> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+          mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi>
+          </mrow> <mo stretchy="false">(</mo> <mn>0</mn> <mo
+          stretchy="false">)</mo> <mspace width="thickmathspace" /> <mo
+          stretchy="false">⟹</mo> <mspace width="thickmathspace" /> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">c</mi> <mi
+          mathvariant="normal">h</mi> <mi mathvariant="normal">a</mi> <mi
+          mathvariant="normal">n</mi> <mi mathvariant="normal">g</mi> <mi
+          mathvariant="normal">e</mi> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+          mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+          <mn>0</mn> <mo stretchy="false">)</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle \neg
+          \mathrm {open} (0)\implies \mathrm {changeopen}
+          (0)}</annotation> </semantics> :MATH]
+          {\displaystyle \neg \mathrm {open} (0)\implies \mathrm
+          {changeopen} (0)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">∀</mi> <mi>t</mi> <mo>.</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">c</mi> <mi
+          mathvariant="normal">h</mi> <mi mathvariant="normal">a</mi> <mi
+          mathvariant="normal">n</mi> <mi mathvariant="normal">g</mi> <mi
+          mathvariant="normal">e</mi> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+          mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+          <mi>t</mi> <mo stretchy="false">)</mo> <mspace
+          width="thickmathspace" /> <mo stretchy="false">⟺</mo> <mspace
+          width="thickmathspace" /> <mo stretchy="false">(</mo> <mi
+          mathvariant="normal">¬</mi> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+          mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi>
+          </mrow> <mo stretchy="false">(</mo> <mi>t</mi> <mo
+          stretchy="false">)</mo> <mspace width="thickmathspace" /> <mo
+          stretchy="false">⟺</mo> <mspace width="thickmathspace" /> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+          mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+          <mi>t</mi> <mo>+</mo> <mn>1</mn> <mo stretchy="false">)</mo> <mo
+          stretchy="false">)</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \forall t.\mathrm
+          {changeopen} (t)\iff (\neg \mathrm {open} (t)\iff \mathrm {open}
+          (t+1))}</annotation> </semantics> :MATH]
+          {\displaystyle \forall t.\mathrm {changeopen} (t)\iff (\neg
+          \mathrm {open} (t)\iff \mathrm {open} (t+1))}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">∀</mi> <mi>t</mi> <mo>.</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">c</mi> <mi
+          mathvariant="normal">h</mi> <mi mathvariant="normal">a</mi> <mi
+          mathvariant="normal">n</mi> <mi mathvariant="normal">g</mi> <mi
+          mathvariant="normal">e</mi> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+          <mi>t</mi> <mo stretchy="false">)</mo> <mspace
+          width="thickmathspace" /> <mo stretchy="false">⟺</mo> <mspace
+          width="thickmathspace" /> <mo stretchy="false">(</mo> <mi
+          mathvariant="normal">¬</mi> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi>
+          </mrow> <mo stretchy="false">(</mo> <mi>t</mi> <mo
+          stretchy="false">)</mo> <mspace width="thickmathspace" /> <mo
+          stretchy="false">⟺</mo> <mspace width="thickmathspace" /> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+          <mi>t</mi> <mo>+</mo> <mn>1</mn> <mo stretchy="false">)</mo> <mo
+          stretchy="false">)</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \forall t.\mathrm
+          {changeon} (t)\iff (\neg \mathrm {on} (t)\iff \mathrm {on}
+          (t+1))}</annotation> </semantics> :MATH]
+          {\displaystyle \forall t.\mathrm {changeon} (t)\iff (\neg
+          \mathrm {on} (t)\iff \mathrm {on} (t+1))}
+
+   The third formula is a different way of saying that opening the door
+   causes the door to be opened. Precisely, it states that opening the
+   door changes the state of the door if it had been previously closed.
+   The last two conditions state that a condition changes value at time
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>t</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle t}</annotation>
+   </semantics> :MATH]
+   {\displaystyle t} if and only if the corresponding change predicate is
+   true at time
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>t</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle t}</annotation>
+   </semantics> :MATH]
+   {\displaystyle t} . To complete the solution, the time points in which
+   the change predicates are true have to be as few as possible, and this
+   can be done by applying predicate completion to the rules specifying
+   the effects of actions.
+
+Successor state axioms solution
+
+   [edit]
+
+   The value of a condition after the execution of an action can be
+   determined by the fact that the condition is true if and only if:
+    1. the action makes the condition true; or
+    2. the condition was previously true and the action does not make it
+       false.
+
+   A successor state axiom is a formalization in logic of these two facts.
+   For example, if
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi> <mi
+   mathvariant="normal">d</mi> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">r</mi> </mrow> <mo
+   stretchy="false">(</mo> <mi>t</mi> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {opendoor}
+   (t)}</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {opendoor} (t)} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">c</mi> <mi mathvariant="normal">l</mi> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">s</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">d</mi> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">r</mi> </mrow> <mo stretchy="false">(</mo>
+   <mi>t</mi> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {closedoor}
+   (t)}</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {closedoor} (t)} are two conditions used to
+   denote that the action executed at time
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>t</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle t}</annotation>
+   </semantics> :MATH]
+   {\displaystyle t} was to open or close the door, respectively, the
+   running example is encoded as follows.
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">¬</mi> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+          mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi>
+          </mrow> <mo stretchy="false">(</mo> <mn>0</mn> <mo
+          stretchy="false">)</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \neg \mathrm {open}
+          (0)}</annotation> </semantics> :MATH]
+          {\displaystyle \neg \mathrm {open} (0)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">¬</mi> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi>
+          </mrow> <mo stretchy="false">(</mo> <mn>0</mn> <mo
+          stretchy="false">)</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \neg \mathrm {on}
+          (0)}</annotation> </semantics> :MATH]
+          {\displaystyle \neg \mathrm {on} (0)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+          mathvariant="normal">n</mi> <mi mathvariant="normal">d</mi> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">r</mi> </mrow> <mo stretchy="false">(</mo>
+          <mn>0</mn> <mo stretchy="false">)</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle \mathrm
+          {opendoor} (0)}</annotation> </semantics> :MATH]
+          {\displaystyle \mathrm {opendoor} (0)}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">∀</mi> <mi>t</mi> <mo>.</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+          mathvariant="normal">n</mi> </mrow> <mo stretchy="false">(</mo>
+          <mi>t</mi> <mo>+</mo> <mn>1</mn> <mo stretchy="false">)</mo>
+          <mspace width="thickmathspace" /> <mo stretchy="false">⟺</mo>
+          <mspace width="thickmathspace" /> <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi>
+          <mi mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi>
+          <mi mathvariant="normal">d</mi> <mi mathvariant="normal">o</mi>
+          <mi mathvariant="normal">o</mi> <mi mathvariant="normal">r</mi>
+          </mrow> <mo stretchy="false">(</mo> <mi>t</mi> <mo
+          stretchy="false">)</mo> <mo>∨</mo> <mo stretchy="false">(</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi>
+          <mi mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi>
+          <mi mathvariant="normal">n</mi> </mrow> <mo
+          stretchy="false">(</mo> <mi>t</mi> <mo stretchy="false">)</mo>
+          <mo>∧</mo> <mi mathvariant="normal">¬</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">c</mi> <mi
+          mathvariant="normal">l</mi> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">s</mi> <mi mathvariant="normal">e</mi> <mi
+          mathvariant="normal">d</mi> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">r</mi>
+          </mrow> <mo stretchy="false">(</mo> <mi>t</mi> <mo
+          stretchy="false">)</mo> <mo stretchy="false">)</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \forall t.\mathrm {open} (t+1)\iff \mathrm {opendoor} (t)\vee
+          (\mathrm {open} (t)\wedge \neg \mathrm {closedoor}
+          (t))}</annotation> </semantics> :MATH]
+          {\displaystyle \forall t.\mathrm {open} (t+1)\iff \mathrm
+          {opendoor} (t)\vee (\mathrm {open} (t)\wedge \neg \mathrm
+          {closedoor} (t))}
+
+   This solution is centered around the value of conditions, rather than
+   the effects of actions. In other words, there is an axiom for every
+   condition, rather than a formula for every action. Preconditions to
+   actions (which are not present in this example) are formalized by other
+   formulae. The successor state axioms are used in the variant to the
+   situation calculus proposed by Ray Reiter.
+
+Fluent calculus solution
+
+   [edit]
+
+   The fluent calculus is a variant of the situation calculus. It solves
+   the frame problem by using first-order logic terms, rather than
+   predicates, to represent the states. Converting predicates into terms
+   in first-order logic is called reification; the fluent calculus can be
+   seen as a logic in which predicates representing the state of
+   conditions are reified.
+
+   The difference between a predicate and a term in first-order logic is
+   that a term is a representation of an object (possibly a complex object
+   composed of other objects), while a predicate represents a condition
+   that can be true or false when evaluated over a given set of terms.
+
+   In the fluent calculus, each possible state is represented by a term
+   obtained by composition of other terms, each one representing the
+   conditions that are true in state. For example, the state in which the
+   door is open and the light is on is represented by the term
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi> </mrow>
+   <mo>∘</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {open} \circ
+   \mathrm {on} }</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {open} \circ \mathrm {on} } . It is important to
+   notice that a term is not true or false by itself, as it is an object
+   and not a condition. In other words, the term
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi> </mrow>
+   <mo>∘</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {open} \circ
+   \mathrm {on} }</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {open} \circ \mathrm {on} } represent a possible
+   state, and does not by itself mean that this is the current state. A
+   separate condition can be stated to specify that this is actually the
+   state at a given time, e.g.,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">s</mi> <mi mathvariant="normal">t</mi> <mi
+   mathvariant="normal">a</mi> <mi mathvariant="normal">t</mi> <mi
+   mathvariant="normal">e</mi> </mrow> <mo stretchy="false">(</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+   mathvariant="normal">n</mi> </mrow> <mo>∘</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">n</mi> </mrow> <mo>,</mo> <mn>10</mn> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {state} (\mathrm
+   {open} \circ \mathrm {on} ,10)}</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {state} (\mathrm {open} \circ \mathrm {on} ,10)}
+   means that this is the state at time
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>10</mn> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   10}</annotation> </semantics> :MATH]
+   {\displaystyle 10} .
+
+   The solution to the frame problem given in the fluent calculus is to
+   specify the effects of actions by stating how a term representing the
+   state changes when the action is executed. For example, the action of
+   opening the door at time 0 is represented by the formula:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">s</mi> <mi
+          mathvariant="normal">t</mi> <mi mathvariant="normal">a</mi> <mi
+          mathvariant="normal">t</mi> <mi mathvariant="normal">e</mi>
+          </mrow> <mo stretchy="false">(</mo> <mi>s</mi> <mo>∘</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+          mathvariant="normal">n</mi> </mrow> <mo>,</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> <mspace width="thickmathspace" /> <mo
+          stretchy="false">⟺</mo> <mspace width="thickmathspace" /> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">s</mi> <mi
+          mathvariant="normal">t</mi> <mi mathvariant="normal">a</mi> <mi
+          mathvariant="normal">t</mi> <mi mathvariant="normal">e</mi>
+          </mrow> <mo stretchy="false">(</mo> <mi>s</mi> <mo>,</mo>
+          <mn>0</mn> <mo stretchy="false">)</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle \mathrm
+          {state} (s\circ \mathrm {open} ,1)\iff \mathrm {state}
+          (s,0)}</annotation> </semantics> :MATH]
+          {\displaystyle \mathrm {state} (s\circ \mathrm {open} ,1)\iff
+          \mathrm {state} (s,0)}
+
+   The action of closing the door, which makes a condition false instead
+   of true, is represented in a slightly different way:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">s</mi> <mi
+          mathvariant="normal">t</mi> <mi mathvariant="normal">a</mi> <mi
+          mathvariant="normal">t</mi> <mi mathvariant="normal">e</mi>
+          </mrow> <mo stretchy="false">(</mo> <mi>s</mi> <mo>,</mo>
+          <mn>1</mn> <mo stretchy="false">)</mo> <mspace
+          width="thickmathspace" /> <mo stretchy="false">⟺</mo> <mspace
+          width="thickmathspace" /> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">s</mi> <mi mathvariant="normal">t</mi> <mi
+          mathvariant="normal">a</mi> <mi mathvariant="normal">t</mi> <mi
+          mathvariant="normal">e</mi> </mrow> <mo stretchy="false">(</mo>
+          <mi>s</mi> <mo>∘</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+          mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi>
+          </mrow> <mo>,</mo> <mn>0</mn> <mo stretchy="false">)</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \mathrm {state}
+          (s,1)\iff \mathrm {state} (s\circ \mathrm {open}
+          ,0)}</annotation> </semantics> :MATH]
+          {\displaystyle \mathrm {state} (s,1)\iff \mathrm {state} (s\circ
+          \mathrm {open} ,0)}
+
+   This formula works provided that suitable axioms are given about
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">s</mi> <mi mathvariant="normal">t</mi> <mi
+   mathvariant="normal">a</mi> <mi mathvariant="normal">t</mi> <mi
+   mathvariant="normal">e</mi> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {state}
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {state} } and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>∘</mo> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \circ
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \circ } , e.g., a term containing the same condition
+   twice is not a valid state (for example,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">s</mi> <mi mathvariant="normal">t</mi> <mi
+   mathvariant="normal">a</mi> <mi mathvariant="normal">t</mi> <mi
+   mathvariant="normal">e</mi> </mrow> <mo stretchy="false">(</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+   mathvariant="normal">n</mi> </mrow> <mo>∘</mo> <mi>s</mi> <mo>∘</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+   mathvariant="normal">n</mi> </mrow> <mo>,</mo> <mi>t</mi> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {state} (\mathrm
+   {open} \circ s\circ \mathrm {open} ,t)}</annotation> </semantics>
+   :MATH]
+   {\displaystyle \mathrm {state} (\mathrm {open} \circ s\circ \mathrm
+   {open} ,t)} is always false for every
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>s</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle s}</annotation>
+   </semantics> :MATH]
+   {\displaystyle s} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>t</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle t}</annotation>
+   </semantics> :MATH]
+   {\displaystyle t} ).
+
+Event calculus solution
+
+   [edit]
+
+   The event calculus uses terms for representing fluents, like the fluent
+   calculus, but also has one or more axioms constraining the value of
+   fluents, like the successor state axioms. There are many variants of
+   the event calculus, but one of the simplest and most useful employs a
+   single axiom to represent the law of inertia:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          class="MJX-tex-mathit" mathvariant="italic">h</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">o</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">l</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">d</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">s</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">A</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">t</mi> </mrow>
+          </mrow> <mo stretchy="false">(</mo> <mi>F</mi> <mo>,</mo>
+          <mi>T</mi> <mn>2</mn> <mo stretchy="false">)</mo> <mo
+          stretchy="false">←</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\mathit
+          {holdsAt}}(F,T2)\leftarrow }</annotation> </semantics> :MATH]
+          {\displaystyle {\mathit {holdsAt}}(F,T2)\leftarrow }
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">[</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD">
+          <mi class="MJX-tex-mathit" mathvariant="italic">h</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">a</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">p</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">p</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">e</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">n</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">s</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">A</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">t</mi> </mrow>
+          </mrow> <mo stretchy="false">(</mo> <mi>E</mi> <mn>1</mn>
+          <mo>,</mo> <mi>T</mi> <mn>1</mn> <mo stretchy="false">)</mo>
+          <mo>∧</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi class="MJX-tex-mathit"
+          mathvariant="italic">i</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">n</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">i</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">t</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">i</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">a</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">t</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">e</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">s</mi> </mrow> </mrow> <mo
+          stretchy="false">(</mo> <mi>E</mi> <mn>1</mn> <mo>,</mo>
+          <mi>F</mi> <mo>,</mo> <mi>T</mi> <mn>1</mn> <mo
+          stretchy="false">)</mo> <mo>∧</mo> <mo stretchy="false">(</mo>
+          <mi>T</mi> <mn>1</mn> <mo><</mo> <mi>T</mi> <mn>2</mn> <mo
+          stretchy="false">)</mo> <mo>∧</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle [{\mathit
+          {happensAt}}(E1,T1)\wedge {\mathit {initiates}}(E1,F,T1)\wedge
+          (T1<T2)\wedge }</annotation> </semantics> :MATH]
+          {\displaystyle [{\mathit {happensAt}}(E1,T1)\wedge {\mathit
+          {initiates}}(E1,F,T1)\wedge (T1<T2)\wedge }
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">¬</mi> <mi mathvariant="normal">∃</mi>
+          <mi>E</mi> <mn>2</mn> <mo>,</mo> <mi>T</mi> <mo
+          stretchy="false">[</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi class="MJX-tex-mathit"
+          mathvariant="italic">h</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">a</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">p</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">p</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">e</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">n</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">s</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">A</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">t</mi> </mrow> </mrow> <mo
+          stretchy="false">(</mo> <mi>E</mi> <mn>2</mn> <mo>,</mo>
+          <mi>T</mi> <mo stretchy="false">)</mo> <mo>∧</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          class="MJX-tex-mathit" mathvariant="italic">t</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">e</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">r</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">m</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">i</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">n</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">a</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">t</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">e</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">s</mi> </mrow>
+          </mrow> <mo stretchy="false">(</mo> <mi>E</mi> <mn>2</mn>
+          <mo>,</mo> <mi>F</mi> <mo>,</mo> <mi>T</mi> <mo
+          stretchy="false">)</mo> <mo>∧</mo> <mo stretchy="false">(</mo>
+          <mi>T</mi> <mn>1</mn> <mo>≤</mo> <mi>T</mi> <mo><</mo>
+          <mi>T</mi> <mn>2</mn> <mo stretchy="false">)</mo> <mo
+          stretchy="false">]</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \neg \exists
+          E2,T[{\mathit {happensAt}}(E2,T)\wedge {\mathit
+          {terminates}}(E2,F,T)\wedge (T1\leq T<T2)]}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \neg \exists E2,T[{\mathit
+          {happensAt}}(E2,T)\wedge {\mathit {terminates}}(E2,F,T)\wedge
+          (T1\leq T<T2)]}
+
+   The axiom states that a fluent
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>F</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle F}</annotation>
+   </semantics> :MATH]
+   {\displaystyle F} holds at a time
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>T</mi> <mn>2</mn> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   T2}</annotation> </semantics> :MATH]
+   {\displaystyle T2} , if an event
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>E</mi> <mn>1</mn> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   E1}</annotation> </semantics> :MATH]
+   {\displaystyle E1} happens and initiates
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>F</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle F}</annotation>
+   </semantics> :MATH]
+   {\displaystyle F} at an earlier time
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>T</mi> <mn>1</mn> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   T1}</annotation> </semantics> :MATH]
+   {\displaystyle T1} , and there is no event
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>E</mi> <mn>2</mn> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   E2}</annotation> </semantics> :MATH]
+   {\displaystyle E2} that happens and terminates
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>F</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle F}</annotation>
+   </semantics> :MATH]
+   {\displaystyle F} after or at the same time as
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>T</mi> <mn>1</mn> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   T1}</annotation> </semantics> :MATH]
+   {\displaystyle T1} and before
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>T</mi> <mn>2</mn> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   T2}</annotation> </semantics> :MATH]
+   {\displaystyle T2} .
+
+   To apply the event calculus to a particular problem domain, it is
+   necessary to define the
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>i</mi> <mi>n</mi> <mi>i</mi>
+   <mi>t</mi> <mi>i</mi> <mi>a</mi> <mi>t</mi> <mi>e</mi> <mi>s</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle initiates}</annotation>
+   </semantics> :MATH]
+   {\displaystyle initiates} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>t</mi> <mi>e</mi> <mi>r</mi>
+   <mi>m</mi> <mi>i</mi> <mi>n</mi> <mi>a</mi> <mi>t</mi> <mi>e</mi>
+   <mi>s</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle terminates}</annotation>
+   </semantics> :MATH]
+   {\displaystyle terminates} predicates for that domain. For example:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          class="MJX-tex-mathit" mathvariant="italic">i</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">n</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">i</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">t</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">i</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">a</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">t</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">e</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">s</mi> </mrow>
+          </mrow> <mo stretchy="false">(</mo> <mi>o</mi> <mi>p</mi>
+          <mi>e</mi> <mi>n</mi> <mi>d</mi> <mi>o</mi> <mi>o</mi>
+          <mi>r</mi> <mo>,</mo> <mi>o</mi> <mi>p</mi> <mi>e</mi>
+          <mi>n</mi> <mo>,</mo> <mi>T</mi> <mo stretchy="false">)</mo>
+          <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\mathit
+          {initiates}}(opendoor,open,T).}</annotation> </semantics> :MATH]
+          {\displaystyle {\mathit {initiates}}(opendoor,open,T).}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          class="MJX-tex-mathit" mathvariant="italic">t</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">e</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">r</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">m</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">i</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">n</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">a</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">t</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">e</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">s</mi> </mrow>
+          </mrow> <mo stretchy="false">(</mo> <mi>o</mi> <mi>p</mi>
+          <mi>e</mi> <mi>n</mi> <mi>d</mi> <mi>o</mi> <mi>o</mi>
+          <mi>r</mi> <mo>,</mo> <mi>c</mi> <mi>l</mi> <mi>o</mi>
+          <mi>s</mi> <mi>e</mi> <mi>d</mi> <mo>,</mo> <mi>T</mi> <mo
+          stretchy="false">)</mo> <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\mathit
+          {terminates}}(opendoor,closed,T).}</annotation> </semantics>
+          :MATH]
+          {\displaystyle {\mathit {terminates}}(opendoor,closed,T).}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          class="MJX-tex-mathit" mathvariant="italic">i</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">n</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">i</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">t</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">i</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">a</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">t</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">e</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">s</mi> </mrow>
+          </mrow> <mo stretchy="false">(</mo> <mi>c</mi> <mi>l</mi>
+          <mi>o</mi> <mi>s</mi> <mi>e</mi> <mi>d</mi> <mi>o</mi>
+          <mi>o</mi> <mi>r</mi> <mo>,</mo> <mi>c</mi> <mi>l</mi>
+          <mi>o</mi> <mi>s</mi> <mi>e</mi> <mi>d</mi> <mo>,</mo>
+          <mi>T</mi> <mo stretchy="false">)</mo> <mo>.</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          {\mathit {initiates}}(closedoor,closed,T).}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\mathit {initiates}}(closedoor,closed,T).}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          class="MJX-tex-mathit" mathvariant="italic">t</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">e</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">r</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">m</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">i</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">n</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">a</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">t</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">e</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">s</mi> </mrow>
+          </mrow> <mo stretchy="false">(</mo> <mi>c</mi> <mi>l</mi>
+          <mi>o</mi> <mi>s</mi> <mi>e</mi> <mi>d</mi> <mi>d</mi>
+          <mi>o</mi> <mi>o</mi> <mi>r</mi> <mo>,</mo> <mi>o</mi>
+          <mi>p</mi> <mi>e</mi> <mi>n</mi> <mo>,</mo> <mi>T</mi> <mo
+          stretchy="false">)</mo> <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\mathit
+          {terminates}}(closeddoor,open,T).}</annotation> </semantics>
+          :MATH]
+          {\displaystyle {\mathit {terminates}}(closeddoor,open,T).}
+
+   To apply the event calculus to a particular problem in the domain, it
+   is necessary to specify the events that happen in the context of the
+   problem. For example:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          class="MJX-tex-mathit" mathvariant="italic">h</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">a</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">p</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">p</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">e</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">n</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">s</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">A</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">t</mi> </mrow>
+          </mrow> <mo stretchy="false">(</mo> <mi>o</mi> <mi>p</mi>
+          <mi>e</mi> <mi>n</mi> <mi>d</mi> <mi>o</mi> <mi>o</mi>
+          <mi>r</mi> <mo>,</mo> <mn>0</mn> <mo stretchy="false">)</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\mathit
+          {happensAt}}(opendoor,0)}</annotation> </semantics> :MATH]
+          {\displaystyle {\mathit {happensAt}}(opendoor,0)} .
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          class="MJX-tex-mathit" mathvariant="italic">h</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">a</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">p</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">p</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">e</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">n</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">s</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">A</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">t</mi> </mrow>
+          </mrow> <mo stretchy="false">(</mo> <mi>c</mi> <mi>l</mi>
+          <mi>o</mi> <mi>s</mi> <mi>e</mi> <mi>d</mi> <mi>o</mi>
+          <mi>o</mi> <mi>r</mi> <mo>,</mo> <mn>3</mn> <mo
+          stretchy="false">)</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\mathit
+          {happensAt}}(closedoor,3)}</annotation> </semantics> :MATH]
+          {\displaystyle {\mathit {happensAt}}(closedoor,3)} .
+
+   To solve a problem, such as which fluents hold at time 5?, it is
+   necessary to pose the problem as a goal, such as:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">∃</mi> <mi>F</mi> <mi>l</mi> <mi>u</mi>
+          <mi>e</mi> <mi>n</mi> <mi>t</mi> <mo stretchy="false">[</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD">
+          <mi class="MJX-tex-mathit" mathvariant="italic">h</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">o</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">l</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">d</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">s</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">A</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">t</mi> <mo
+          class="MJX-tex-mathit" mathvariant="italic"
+          stretchy="false">(</mo> <mi class="MJX-tex-mathit"
+          mathvariant="italic">F</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">l</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">u</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">e</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">n</mi> <mi class="MJX-tex-mathit"
+          mathvariant="italic">t</mi> <mo class="MJX-tex-mathit"
+          mathvariant="italic">,</mo> <mn class="MJX-tex-mathit"
+          mathvariant="italic">5</mn> <mo class="MJX-tex-mathit"
+          mathvariant="italic" stretchy="false">)</mo> </mrow> </mrow> <mo
+          stretchy="false">]</mo> <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \exists
+          Fluent[{\mathit {holdsAt(Fluent,5)}}].}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \exists Fluent[{\mathit {holdsAt(Fluent,5)}}].}
+
+   In this case, obtaining the unique solution:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>F</mi> <mi>l</mi>
+          <mi>u</mi> <mi>e</mi> <mi>n</mi> <mi>t</mi> <mo>=</mo>
+          <mi>c</mi> <mi>l</mi> <mi>o</mi> <mi>s</mi> <mi>e</mi>
+          <mi>d</mi> <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          Fluent=closed.}</annotation> </semantics> :MATH]
+          {\displaystyle Fluent=closed.}
+
+   The event calculus solves the frame problem, eliminating undesired
+   solutions, by using a non-monotonic logic, such as first-order logic
+   with circumscription^[3] or by treating the event calculus as a logic
+   program using negation as failure.
+
+Default logic solution
+
+   [edit]
+
+   The frame problem can be thought of as the problem of formalizing the
+   principle that, by default, "everything is presumed to remain in the
+   state in which it is" (Leibniz, "An Introduction to a Secret
+   Encyclopædia", c. 1679). This default, sometimes called the commonsense
+   law of inertia, was expressed by Raymond Reiter in default logic:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi>R</mi> <mo
+          stretchy="false">(</mo> <mi>x</mi> <mo>,</mo> <mi>s</mi> <mo
+          stretchy="false">)</mo> <mspace width="thickmathspace" />
+          <mo>:</mo> <mtext> </mtext> <mi>R</mi> <mo
+          stretchy="false">(</mo> <mi>x</mi> <mo>,</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">d</mi> <mi
+          mathvariant="normal">o</mi> </mrow> <mo stretchy="false">(</mo>
+          <mi>a</mi> <mo>,</mo> <mi>s</mi> <mo stretchy="false">)</mo> <mo
+          stretchy="false">)</mo> </mrow> <mrow> <mi>R</mi> <mo
+          stretchy="false">(</mo> <mi>x</mi> <mo>,</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">d</mi> <mi
+          mathvariant="normal">o</mi> </mrow> <mo stretchy="false">(</mo>
+          <mi>a</mi> <mo>,</mo> <mi>s</mi> <mo stretchy="false">)</mo> <mo
+          stretchy="false">)</mo> </mrow> </mfrac> </mrow> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          {\frac {R(x,s)\;:\ R(x,\mathrm {do} (a,s))}{R(x,\mathrm {do}
+          (a,s))}}}</annotation> </semantics> :MATH]
+          {\displaystyle {\frac {R(x,s)\;:\ R(x,\mathrm {do}
+          (a,s))}{R(x,\mathrm {do} (a,s))}}}
+
+   (if
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>R</mi> <mo
+   stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle R(x)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle R(x)} is true in situation
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>s</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle s}</annotation>
+   </semantics> :MATH]
+   {\displaystyle s} , and it can be assumed^[4] that
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>R</mi> <mo
+   stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle R(x)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle R(x)} remains true after executing action
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a} , then we can conclude that
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>R</mi> <mo
+   stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle R(x)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle R(x)} remains true).
+
+   Steve Hanks and Drew McDermott argued, on the basis of their Yale
+   shooting example, that this solution to the frame problem is
+   unsatisfactory. Hudson Turner showed, however, that it works correctly
+   in the presence of appropriate additional postulates.
+
+Answer set programming solution
+
+   [edit]
+
+   The counterpart of the default logic solution in the language of answer
+   set programming is a rule with strong negation:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>r</mi> <mo
+          stretchy="false">(</mo> <mi>X</mi> <mo>,</mo> <mi>T</mi>
+          <mo>+</mo> <mn>1</mn> <mo stretchy="false">)</mo> <mo
+          stretchy="false">←</mo> <mi>r</mi> <mo stretchy="false">(</mo>
+          <mi>X</mi> <mo>,</mo> <mi>T</mi> <mo stretchy="false">)</mo>
+          <mo>,</mo> <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="false" scriptlevel="0">
+          <mtext>not </mtext> </mstyle> </mrow> <mo>∼</mo> <mi>r</mi> <mo
+          stretchy="false">(</mo> <mi>X</mi> <mo>,</mo> <mi>T</mi>
+          <mo>+</mo> <mn>1</mn> <mo stretchy="false">)</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          r(X,T+1)\leftarrow r(X,T),\ {\hbox{not }}\sim
+          r(X,T+1)}</annotation> </semantics> :MATH]
+          {\displaystyle r(X,T+1)\leftarrow r(X,T),\ {\hbox{not }}\sim
+          r(X,T+1)}
+
+   (if
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>r</mi> <mo
+   stretchy="false">(</mo> <mi>X</mi> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle r(X)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle r(X)} is true at time
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>T</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+   </semantics> :MATH]
+   {\displaystyle T} , and it can be assumed that
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>r</mi> <mo
+   stretchy="false">(</mo> <mi>X</mi> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle r(X)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle r(X)} remains true at time
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>T</mi> <mo>+</mo> <mn>1</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle T+1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle T+1} , then we can conclude that
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>r</mi> <mo
+   stretchy="false">(</mo> <mi>X</mi> <mo stretchy="false">)</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle r(X)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle r(X)} remains true).
+
+Separation logic solution
+
+   [edit]
+
+   Separation logic is a formalism for reasoning about computer programs
+   using pre/post specifications of the form
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo fence="false"
+   stretchy="false">{</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">p</mi> <mi mathvariant="normal">r</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">c</mi> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi> <mi
+   mathvariant="normal">d</mi> <mi mathvariant="normal">i</mi> <mi
+   mathvariant="normal">t</mi> <mi mathvariant="normal">i</mi> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi> </mrow> <mo
+   fence="false" stretchy="false">}</mo> <mtext> </mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">c</mi> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">d</mi> <mi
+   mathvariant="normal">e</mi> </mrow> <mtext> </mtext> <mo fence="false"
+   stretchy="false">{</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">p</mi> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">s</mi> <mi mathvariant="normal">t</mi> <mi
+   mathvariant="normal">c</mi> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">n</mi> <mi mathvariant="normal">d</mi> <mi
+   mathvariant="normal">i</mi> <mi mathvariant="normal">t</mi> <mi
+   mathvariant="normal">i</mi> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">n</mi> </mrow> <mo fence="false"
+   stretchy="false">}</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \{\mathrm {precondition}
+   \}\ \mathrm {code} \ \{\mathrm {postcondition} \}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \{\mathrm {precondition} \}\ \mathrm {code} \ \{\mathrm
+   {postcondition} \}} . Separation logic is an extension of Hoare logic
+   oriented to reasoning about mutable data structures in computer memory
+   and other dynamic resources, and it has a special connective *,
+   pronounced "and separately", to support independent reasoning about
+   disjoint memory regions.^[5]^[6]
+
+   Separation logic employs a tight interpretation of pre/post specs,
+   which say that the code can only access memory locations guaranteed to
+   exist by the precondition.^[7] This leads to the soundness of the most
+   important inference rule of the logic, the frame rule
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mrow> <mo fence="false" stretchy="false">{</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">p</mi> <mi
+   mathvariant="normal">r</mi> <mi mathvariant="normal">e</mi> <mi
+   mathvariant="normal">c</mi> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">n</mi> <mi mathvariant="normal">d</mi> <mi
+   mathvariant="normal">i</mi> <mi mathvariant="normal">t</mi> <mi
+   mathvariant="normal">i</mi> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">n</mi> </mrow> <mo fence="false"
+   stretchy="false">}</mo> <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD">
+   <mi mathvariant="normal">c</mi> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">d</mi> <mi mathvariant="normal">e</mi> </mrow>
+   <mtext> </mtext> <mo fence="false" stretchy="false">{</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">p</mi> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">s</mi> <mi
+   mathvariant="normal">t</mi> <mi mathvariant="normal">c</mi> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi> <mi
+   mathvariant="normal">d</mi> <mi mathvariant="normal">i</mi> <mi
+   mathvariant="normal">t</mi> <mi mathvariant="normal">i</mi> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi> </mrow> <mo
+   fence="false" stretchy="false">}</mo> </mrow> <mrow> <mo fence="false"
+   stretchy="false">{</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">p</mi> <mi mathvariant="normal">r</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">c</mi> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi> <mi
+   mathvariant="normal">d</mi> <mi mathvariant="normal">i</mi> <mi
+   mathvariant="normal">t</mi> <mi mathvariant="normal">i</mi> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi> </mrow>
+   <mo>∗</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">f</mi> <mi mathvariant="normal">r</mi> <mi
+   mathvariant="normal">a</mi> <mi mathvariant="normal">m</mi> <mi
+   mathvariant="normal">e</mi> </mrow> <mo fence="false"
+   stretchy="false">}</mo> <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD">
+   <mi mathvariant="normal">c</mi> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">d</mi> <mi mathvariant="normal">e</mi> </mrow>
+   <mtext> </mtext> <mo fence="false" stretchy="false">{</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">p</mi> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">s</mi> <mi
+   mathvariant="normal">t</mi> <mi mathvariant="normal">c</mi> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi> <mi
+   mathvariant="normal">d</mi> <mi mathvariant="normal">i</mi> <mi
+   mathvariant="normal">t</mi> <mi mathvariant="normal">i</mi> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi> </mrow>
+   <mo>∗</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">f</mi> <mi mathvariant="normal">r</mi> <mi
+   mathvariant="normal">a</mi> <mi mathvariant="normal">m</mi> <mi
+   mathvariant="normal">e</mi> </mrow> <mo fence="false"
+   stretchy="false">}</mo> </mrow> </mfrac> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\frac
+   {\{\mathrm {precondition} \}\ \mathrm {code} \ \{\mathrm
+   {postcondition} \}}{\{\mathrm {precondition} \ast \mathrm {frame} \}\
+   \mathrm {code} \ \{\mathrm {postcondition} \ast \mathrm {frame}
+   \}}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\frac {\{\mathrm {precondition} \}\ \mathrm {code} \
+   \{\mathrm {postcondition} \}}{\{\mathrm {precondition} \ast \mathrm
+   {frame} \}\ \mathrm {code} \ \{\mathrm {postcondition} \ast \mathrm
+   {frame} \}}}}
+
+   The frame rule allows descriptions of arbitrary memory outside the
+   footprint (memory accessed) of the code to be added to a specification:
+   this enables the initial specification to concentrate only on the
+   footprint. For example, the inference
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mrow> <mo fence="false" stretchy="false">{</mo> <mi>list</mi>
+   <mo>⁡</mo> <mo stretchy="false">(</mo> <mi>x</mi> <mo
+   stretchy="false">)</mo> <mo fence="false" stretchy="false">}</mo>
+   <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">c</mi> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">d</mi> <mi mathvariant="normal">e</mi> </mrow>
+   <mtext> </mtext> <mo fence="false" stretchy="false">{</mo>
+   <mi>sortedlist</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mi>x</mi>
+   <mo stretchy="false">)</mo> <mo fence="false" stretchy="false">}</mo>
+   </mrow> <mrow> <mo fence="false" stretchy="false">{</mo> <mi>list</mi>
+   <mo>⁡</mo> <mo stretchy="false">(</mo> <mi>x</mi> <mo
+   stretchy="false">)</mo> <mo>∗</mo> <mi>sortedlist</mi> <mo>⁡</mo> <mo
+   stretchy="false">(</mo> <mi>y</mi> <mo stretchy="false">)</mo> <mo
+   fence="false" stretchy="false">}</mo> <mtext> </mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">c</mi> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">d</mi> <mi
+   mathvariant="normal">e</mi> </mrow> <mtext> </mtext> <mo fence="false"
+   stretchy="false">{</mo> <mi>sortedlist</mi> <mo>⁡</mo> <mo
+   stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+   <mo>∗</mo> <mi>sortedlist</mi> <mo>⁡</mo> <mo stretchy="false">(</mo>
+   <mi>y</mi> <mo stretchy="false">)</mo> <mo fence="false"
+   stretchy="false">}</mo> </mrow> </mfrac> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\frac
+   {\{\operatorname {list} (x)\}\ \mathrm {code} \ \{\operatorname
+   {sortedlist} (x)\}}{\{\operatorname {list} (x)\ast \operatorname
+   {sortedlist} (y)\}\ \mathrm {code} \ \{\operatorname {sortedlist}
+   (x)\ast \operatorname {sortedlist} (y)\}}}}</annotation> </semantics>
+   :MATH]
+   {\displaystyle {\frac {\{\operatorname {list} (x)\}\ \mathrm {code} \
+   \{\operatorname {sortedlist} (x)\}}{\{\operatorname {list} (x)\ast
+   \operatorname {sortedlist} (y)\}\ \mathrm {code} \ \{\operatorname
+   {sortedlist} (x)\ast \operatorname {sortedlist} (y)\}}}}
+
+   captures that code which sorts a list x does not unsort a separate list
+   y, and it does this without mentioning y at all in the initial spec
+   above the line.
+
+   Automation of the frame rule has led to significant increases in the
+   scalability of automated reasoning techniques for code,^[8] eventually
+   deployed industrially to codebases with tens of millions of lines.^[9]
+
+   There appears to be some similarity between the separation logic
+   solution to the frame problem and that of the fluent calculus mentioned
+   above.^[further explanation needed]
+
+Action description languages
+
+   [edit]
+
+   Action description languages elude the frame problem rather than
+   solving it. An action description language is a formal language with a
+   syntax that is specific for describing situations and actions. For
+   example, that the action
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">p</mi> <mi
+   mathvariant="normal">e</mi> <mi mathvariant="normal">n</mi> <mi
+   mathvariant="normal">d</mi> <mi mathvariant="normal">o</mi> <mi
+   mathvariant="normal">o</mi> <mi mathvariant="normal">r</mi> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {opendoor}
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {opendoor} } makes the door open if not locked
+   is expressed by:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+          mathvariant="normal">n</mi> <mi mathvariant="normal">d</mi> <mi
+          mathvariant="normal">o</mi> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">r</mi> </mrow> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle \mathrm
+          {opendoor} }</annotation> </semantics> :MATH]
+          {\displaystyle \mathrm {opendoor} } causes
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">p</mi> <mi mathvariant="normal">e</mi> <mi
+          mathvariant="normal">n</mi> </mrow> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle \mathrm
+          {open} }</annotation> </semantics> :MATH]
+          {\displaystyle \mathrm {open} } if
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">¬</mi> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">l</mi> <mi mathvariant="normal">o</mi> <mi
+          mathvariant="normal">c</mi> <mi mathvariant="normal">k</mi> <mi
+          mathvariant="normal">e</mi> <mi mathvariant="normal">d</mi>
+          </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \neg \mathrm
+          {locked} }</annotation> </semantics> :MATH]
+          {\displaystyle \neg \mathrm {locked} }
+
+   The semantics of an action description language depends on what the
+   language can express (concurrent actions, delayed effects, etc.) and is
+   usually based on transition systems.
+
+   Since domains are expressed in these languages rather than directly in
+   logic, the frame problem only arises when a specification given in an
+   action description logic is to be translated into logic. Typically,
+   however, a translation is given from these languages to answer set
+   programming rather than first-order logic.
+
+See also
+
+   [edit]
+     * Binding problem
+     * Common sense
+     * Commonsense reasoning
+     * Defeasible reasoning
+     * Linear logic
+     * Separation logic
+     * Non-monotonic logic
+     * Qualification problem
+     * Ramification problem
+     * Symbol grounding
+     * Yale shooting problem
+
+Notes
+
+   [edit]
+    1. ^ Hayes, Patrick (1973). "The Frame Problem and Related Problems in
+       Artificial Intelligence". University of Edinburgh.
+    2. ^ McCarthy, J; P.J. Hayes (1969). "Some philosophical problems from
+       the standpoint of artificial intelligence". Machine Intelligence.
+       4: 463–502. CiteSeerX 10.1.1.85.5082.
+    3. ^ Shanahan, M. (1997) Solving the frame problem: A mathematical
+       investigation of the common sense law of inertia. MIT Press.
+    4. ^ i.e., no contradicting information is known
+    5. ^ Reynolds, J.C. (2002). "Separation logic: A logic for shared
+       mutable data structures". Proceedings 17th Annual IEEE Symposium on
+       Logic in Computer Science. Copenhagen, Denmark: IEEE Comput. Soc.
+       pp. 55–74. CiteSeerX 10.1.1.110.7749.
+       doi:10.1109/LICS.2002.1029817. ISBN 978-0-7695-1483-3.
+       S2CID 6271346.
+    6. ^ O'Hearn, Peter (2019-01-28). "Separation logic". Communications
+       of the ACM. 62 (2): 86–95. doi:10.1145/3211968. ISSN 0001-0782.
+    7. ^ O’Hearn, Peter; Reynolds, John; Yang, Hongseok (2001). "Local
+       Reasoning about Programs that Alter Data Structures". In Fribourg,
+       Laurent (ed.). Computer Science Logic. Lecture Notes in Computer
+       Science. Vol. 2142. Berlin, Heidelberg: Springer. pp. 1–19.
+       doi:10.1007/3-540-44802-0_1. ISBN 978-3-540-44802-0.
+    8. ^ Calcagno Cristiano; Dino Distefano; Peter O'Hearn; Hongseok Yang
+       (2011-12-01). "Compositional Shape Analysis by Means of
+       Bi-Abduction". Journal of the ACM. 58 (6): 1–66.
+       doi:10.1145/2049697.2049700. S2CID 52808268.
+    9. ^ Distefano, Dino; Fähndrich, Manuel; Logozzo, Francesco; O'Hearn,
+       Peter (2019-07-24). "Scaling static analyses at Facebook".
+       Communications of the ACM. 62 (8): 62–70. doi:10.1145/3338112.
+
+References
+
+   [edit]
+     *
+
+   Doherty, P.; Gustafsson, J.; Karlsson, L.; Kvarnström, J. (1998). "TAL:
+   Temporal action logics language specification and tutorial". Electronic
+   Transactions on Artificial Intelligence. 2 (3–4): 273–306.
+
+     Gelfond, M.; Lifschitz, V. (1993). "Representing action and change by
+   logic programs". Journal of Logic Programming. 17 (2–4): 301–322.
+   doi:10.1016/0743-1066(93)90035-f.
+
+
+
+   Gelfond, M.; Lifschitz, V. (1998). "Action languages". Electronic
+   Transactions on Artificial Intelligence. 2 (3–4): 193–210.
+
+     Hanks, S.; McDermott, D. (1987). "Nonmonotonic logic and temporal
+   projection". Artificial Intelligence. 33 (3): 379–412.
+   doi:10.1016/0004-3702(87)90043-9.
+
+     Levesque, H.; Pirri, F.; Reiter, R. (1998). "Foundations for the
+   situation calculus". Electronic Transactions on Artificial
+   Intelligence. 2 (3–4): 159–178.
+
+     Liberatore, P. (1997). "The complexity of the language A". Electronic
+   Transactions on Artificial Intelligence. 1 (1–3): 13–37.
+
+     Lifschitz, V. (2012). "The frame problem, then and now" (PDF).
+   University of Texas at Austin. Archived (PDF) from the original on
+   2014-02-11. Presented at Celebration of John McCarthy's
+   Accomplishments, Stanford University, March 25, 2012.
+
+     McCarthy, J.; Hayes, P. J. (1969). "Some philosophical problems from
+   the standpoint of artificial intelligence". Machine Intelligence. 4:
+   463–502. CiteSeerX 10.1.1.85.5082.
+
+     McCarthy, J. (1986). "Applications of circumscription to formalizing
+   common-sense knowledge". Artificial Intelligence. 28: 89–116.
+   CiteSeerX 10.1.1.29.5268. doi:10.1016/0004-3702(86)90032-9.
+
+     Miller, R.; Shanahan, M. (1999). "The event-calculus in classical
+   logic - alternative axiomatizations". Electronic Transactions on
+   Artificial Intelligence. 3 (1): 77–105.
+
+     Pirri, F.; Reiter, R. (1999). "Some contributions to the metatheory
+   of the Situation Calculus". Journal of the ACM. 46 (3): 325–361.
+   doi:10.1145/316542.316545. S2CID 16203802.
+
+     Reiter, R. (1980). "A logic for default reasoning" (PDF). Artificial
+   Intelligence. 13 (1–2): 81–132. CiteSeerX 10.1.1.250.9224.
+   doi:10.1016/0004-3702(80)90014-4.
+
+     Reiter, R. (1991). "The frame problem in the situation calculus: a
+   simple solution (sometimes) and a completeness result for goal
+   regression". In Lifschitz, Vladimir (ed.). Artificial Intelligence and
+   Mathematical Theory of Computation: Papers in Honor of John McCarthy.
+   New York: Academic Press. pp. 359–380. CiteSeerX 10.1.1.137.2995.
+
+     Sandewall, E. (1972). "An approach to the Frame Problem and its
+   Implementation". Machine Intelligence. 7: 195–204.
+
+     Sandewall, E. (1994). Features and Fluents. Vol. (vol. 1). New York:
+   Oxford University Press. ISBN 978-0-19-853845-5.
+
+     Sandewall, E.; Shoham, Y. (1995). "Non-monotonic Temporal Reasoning".
+   In Gabbay, D. M.; Hogger, C. J.; Robinson, J. A. (eds.). Handbook of
+   Logic in Artificial Intelligence and Logic Programming. Vol. (vol. 4).
+   Oxford University Press. pp. 439–498. ISBN 978-0-19-853791-5.
+
+     Sandewall, E. (1998). "Cognitive robotics logic and its metatheory:
+   Features and fluents revisited". Electronic Transactions on Artificial
+   Intelligence. 2 (3–4): 307–329.
+
+     Shanahan, M. (1997). Solving the frame problem: A mathematical
+   investigation of the common sense law of inertia. MIT Press.
+   ISBN 9780262193849.
+
+     Thielscher, M. (1998). "Introduction to the fluent calculus".
+   Electronic Transactions on Artificial Intelligence. 2 (3–4): 179–192.
+
+     Toth, J.A. (1995). "Book review. Kenneth M. and Patrick J. Hayes,
+   eds". Reasoning Agents in a Dynamic World: The Frame Problem.
+   Artificial Intelligence. 73 (1–2): 323–369.
+   doi:10.1016/0004-3702(95)90043-8.
+
+     Turner, H. (1997). "Representing actions in logic programs and
+   default theories: a situation calculus approach" (PDF). Journal of
+   Logic Programming. 31 (1–3): 245–298.
+   doi:10.1016/s0743-1066(96)00125-2.
+
+External links
+
+   [edit]
+
+     *
+
+   Zalta, Edward N. (ed.). "The Frame Problem". Stanford Encyclopedia of
+   Philosophy.
+
+     Some Philosophical Problems from the Standpoint of Artificial
+   Intelligence; the original article of McCarthy and Hayes that proposed
+   the problem.
+
+     * v
+     * t
+     * e
+
+   John McCarthy
+
+     * Artificial intelligence
+     * Circumscription
+     * Dartmouth workshop
+     * Frame problem
+     * Garbage collection
+     * Lisp
+     * ALGOL 60
+     * McCarthy evaluation
+     * McCarthy Formalism
+     * McCarthy 91 function
+     * Situation calculus
+     * Space fountain
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Frame_problem&oldid=1255949
+   434"
+
+   Categories:
+     * Problems in artificial intelligence
+     * Knowledge representation
+     * Concepts in epistemology
+     * Logic programming
+     * Philosophical problems
+     * 1969 introductions
+
+   Hidden categories:
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Wikipedia articles needing clarification from August 2013
+     * Wikipedia articles needing clarification from May 2022
+     * CS1: long volume value
+
+     * This page was last edited on 7 November 2024, at 12:20 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

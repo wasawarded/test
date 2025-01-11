@@ -1,0 +1,442 @@
+   #[1]DXD » Feed [2]DXD » Feed de comentários [3]JSON [4]oEmbed (JSON)
+   [5]oEmbed (XML)
+
+   [6]Saltar para o conteúdo
+
+   [7]DXD
+
+   [8]DXD
+
+   (BUTTON) Menu Fechar
+     * [9]Artigos (BUTTON) Abrir menu
+          + [10]Inspiração
+          + [11]Processo
+          + [12]Design
+          + [13]Comunidade
+          + [14]Perspectivas
+     * [15]Dicionário (BUTTON) Abrir menu
+          + [16]Metodologias
+          + [17]Princípios
+          + [18]Conceitos
+          + [19]Ferramentas
+          + [20]Produtos
+     * [21]Dossiês (BUTTON) Abrir menu
+          + [22]Acessibilidade
+          + [23]Design systems
+          + [24]Serviços públicos
+          + [25]Sugestões e referências
+          + [26]Entrevistas
+          + [27]Interaction Design Foundation
+     * [28]Bibliotecas (BUTTON) Abrir menu
+          + [29]Acessibilidade
+          + [30]Design systems
+     * [31]Publicações
+     * [32]Parcerias
+     * [33]Pesquisar
+
+Um design system acessível não faz por si só um produto acessível
+
+   Os [34]design systems e a [35]acessibilidade digital são dois tópicos
+   incontornáveis no dia a dia de qualquer equipa de produtos e serviços
+   digitais. Um ajuda a construir processos de trabalho mais eficientes e
+   ágeis. O outro garante que o maior número de pessoas, independentemente
+   das suas características, poderão utilizar esses mesmos produtos e
+   serviços digitais.
+
+   Tanto um como outro tema dizem respeito a processos de trabalho muito
+   estruturais e transversais naquilo que é a construção e manutenção de
+   produtos e serviços digitais. É difícil compartimentar o papel dos
+   design systems e da acessibilidade digital, em equipas especificas ou
+   roadmaps fechados. Ambos os tópicos requerem a participação muito ampla
+   de todas as equipas relacionadas com os produtos e serviços digitais
+   nos quais os design systems e a acessibilidade digital devem ter
+   impacto.
+
+Relação entre design systems e acessibilidade digital
+
+   Quando falamos destes dois temas em conjunto é importante perceber
+   antes de tudo a sua relação. Se os dois tópicos não podem ser
+   compartimentados e fechados entre si, afinal de contas onde é que eles
+   se tocam? Podem existir vários tipos de relações, é verdade. Mas uma
+   das mais significativas, pode muito bem estar relacionada com o facto
+   dos design systems poderem ser um extraordinário acelerador para a
+   construção e manutenção de produtos e serviços digitais verdadeiramente
+   acessíveis.
+
+   Vejamos da seguinte maneira. Se eu quiser construir uma “casa”
+   acessível (o meu produto ou serviço digital) e os “módulos” com os
+   quais vou construir essa “casa” já forem eles próprios (na medida do
+   possível) acessíveis. Tenho pelo menos meio caminho andando para que no
+   final a minha “casa” seja acessível. Certo? Acontece que quando quando
+   falamos de design systems e acessibilidade digital em conjunto, ter um
+   design system acessível (ou seja os módulos da minha “casa”) não faz
+   com que o produto ou serviço digital seja acessível por si só. É claro
+   que ter um design system onde são aplicadas e recomendadas todas as
+   melhores práticas de acessibilidade digital será uma grande ajuda, mas
+   isto por si só pode não garantir no final, um produto ou serviço
+   digital acessível.
+
+Nem tudo se resolve como por magia
+
+   Partindo deste princípio, é perfeitamente normal perguntar: “Mas que
+   raio. Se os módulos com que vou construir a casa já são acessíveis,
+   porque é que a casa pode não ser acessível?”. Afinal de contas isto até
+   pode ser um contrassenso. Investir tanto tempo e dinheiro num design
+   system com o intuito que todos os produtos e serviços digitais da
+   empresa sejam acessíveis e depois no final isso pode não acontecer.
+
+   É importante fazer as perguntas certas e não ter medo das respostas.
+   Existem alguns conceitos que podem ajudar a explicar porque é que um
+   design system acessível pode não ser o suficiente para a construção e
+   manutenção de [36]produtos e serviços acessíveis. Aqui ficam alguns
+   conceitos que podem abrir horizontes para esta resposta.
+
+1. Estrutura e conteúdo antes de tudo
+
+   O princípio da acessibilidade digital, não está na forma, mas na
+   função. Isto é uma gíria recorrente na disciplina do design, mas que
+   serve lindamente para fazer alusão aquilo que pode ser o ponto de
+   partida para o trabalho da acessibilidade digital. Boa parte daquilo
+   que são os maiores desafios da acessibilidade digital resolvem-se no
+   conteúdo e na sua estruturação.
+
+   Como conseguimos construir um produto acessível mas que tem imensos
+   níveis de navegação? Será que o nosso produto será acessível se muita
+   da principal informação estiver confinada em PDFs impossíveis de ler
+   por leitores de ecrã? O conteúdo até pode estar bem codificado, mas
+   como pode ele ser acessível se estiver numa linguagem altamente técnica
+   e imperceptível para os utilizadores? Como criamos um produto acessível
+   se não existir uma hierarquia clara entre os vários conteúdos e
+   funcionalidades? Tudo isto são preocupações fundamentais quando falamos
+   de acessibilidade digital e que vão muito para além daquelas que possam
+   ser as peças dos design systems que estamos a utilizar no momento.
+
+2. Design systems têm tudo que ver com partes isoladas
+
+   Existem muitas analogias que se podem fazer quando a conversa são
+   design systems. Os legos serão por ventura uma das mais recorrentes.
+   Não só porque o brinquedo dinamarquês fascinou muitos de nós em
+   crianças (e ainda fascina em adultos), mas porque a analogia das peças
+   que ajudam a construir coisas grandiosas, faz mesmo muito sentido
+   quando falamos destes tipos de sistemas relacionados com a
+   transformação digital das empresas.
+
+   A analogia dos legos com os design systems, deixa igualmente muito
+   evidente um conceito absolutamente basilar. Quando falamos de design
+   systems, sejam eles mais ou menos completos, mais práticos ou
+   estratégicos, estamos sempre a falar de peças. Peças que se podem
+   relacionar, mas a perspectiva está sempre nas peças e não na construção
+   como um tudo (ou melhor dizendo, no produto e serviço digital), que é
+   na prática aquilo que os utilizadores vão manusear.
+
+3. Acessibilidade tem tudo que ver com as partes em contexto
+
+   Independentemente das peças que possamos estar a utilizar em cada
+   momento e partindo do pressuposto que essas peças são acessíveis na
+   medida do possível, a acessibilidade digital não é um conceito em
+   abstracto. Aquilo que são as boas práticas e recomendações de
+   acessibilidade digital procuram fazer com que conteúdos e
+   funcionalidades concretas possam ser utilizadas pelo maior número de
+   pessoas.
+
+   Por outras palavras, só no contexto do contexto concreto do conteúdo ou
+   funcionalidade que pretendemos tornar acessível é que conseguimos fazer
+   com isso seja realmente acessível. Naquele momento específico da
+   experiência que instrução é que temos que dar no formulário? Naquele
+   conteúdo o que podemos fazer para que a sua estrutura e navegação seja
+   a mais clara possível? Naquela página em concreto como serão utilizadas
+   em conjunto os componentes de conteúdos que preciso para que o meu
+   utilizador encontre da forma mais rápida aquilo que procura? E
+   garantindo tudo isto, como será aquela funcionalidade em que estamos a
+   trabalhar utilizada por pessoas que tenham modelos de interação
+   diferentes, seja por teclado, leitores de ecrã, os dois em conjunto ou
+   qualquer outro? É sobre todos estes contextos que é também e
+   principalmente a acessibilidade digital.
+
+4. Design systems não limitam opções
+
+   Um dos mitos mais recorrentes em torno dos design systems é que estes
+   em certa altura podem ser bastante limitadores quer da inovação quer
+   mesmo da “criatividade”. Acontece que isto é um engano. Os design
+   systems não limitam nem uma coisa nem outra. Muito pelo contrário. Ao
+   otimizar toda a parte do “trabalho” que pode ser otimizada, vão deixar
+   ainda mais espaço para que a inovação e a criatividade possam acontecer
+   ainda em maior escala.
+
+   Existe aqui uma ideia que importa destruir. Os design systems nunca
+   serão a fonte de toda a verdade. É impossível construir um design
+   system que responda a todas as atuais e futuras necessidades de um
+   produto e serviço digital, simplesmente porque o digital e as
+   necessidades das pessoas evoluem todos os dias. Quer isto dizer, que
+   por muito bem feito que esteja a acessibilidade digital nas peças dos
+   design systems, existirá sempre espaço (e ainda bem) para “fugir” ao
+   design system, porque pura e simplesmente ele nunca cobrirá (na grande
+   maioria dos contextos) todas as necessidades.
+
+5. Design systems são ferramentas para outros utilizarem
+
+   Uma das coisas mais incríveis dos design systems é a sua
+   escalabilidade. Quer isto dizer, que o essencial do trabalho do sistema
+   não está em construir produtos e serviços digitais propriamente dito,
+   mas em dar boas ferramentas para que outras equipas o possam fazer da
+   melhor forma. Por muito que as equipas de design systems muitas vezes o
+   queiram fazer, o seu papel não está em “meter as mãos na massa” das
+   funcionalidades, mas passa sim por ajudar indirectamente as equipas que
+   têm realmente a missão de o fazer.
+
+   Acontece que isto para acessibilidade digital e para a sua aplicação no
+   contexto do dia a dia é também um desafio. Mesmo que as peças do
+   sistema estejam extraordinariamente bem feitas, essas peças serão
+   sempre aplicadas pelas equipas de produto no seu trabalho. Se as
+   equipas de produto não tiverem elas também um foco muito claro na
+   acessibilidade digital, vão acabar por fazer uma utilização parca ou
+   muito simplista do bom trabalho de acessibilidade digital que vem
+   embutido nas peças do design system. No final do dia, podemos dar uma
+   grande ferramenta às equipas de produto, mas se elas não tiverem noção
+   de tudo aquilo que podem fazer com ela, ficará sempre aquém das
+   possibilidades.
+
+Boa notícia disto tudo
+
+   Existem um lado muito positivo no meio de tudo isto. Se olharmos para
+   os design systems, não tão só como um conjunto de componentes para
+   fazer “coisas” (ou “casas” vá), mas principalmente como um mindset (ou
+   um processo para construir essas “casas”) podemos ter no sistema
+   respostas para muitos desafios. Mais que utilizar os design systems
+   para disponibilizarmos peças às equipas de produto, podemos utilizar os
+   design systems para ajudar as equipas de produto a construirem e
+   manterem melhores produtos.
+
+   Podemos fazer isto, não só disponibilizando bons componentes, claro.
+   Mas, principalmente trazendo para o “design system” todo o tipo de
+   lógicas, recomendações, ferramentas de trabalho, metodologias
+   processuais, guidelines que criem um verdadeiro empowerment nas equipas
+   de produto. Pelo caminho, os design systems das organizações, podem e
+   devem também eles próprios aprenderem com todo o conhecimento que as
+   equipas de produto têm do dia a dia do negócio. Isto vai facilitar em
+   muito que o sistema possa ir cada vez mais ao encontro das necessidades
+   das equipas de produto o que neste caso quer dizer, ajudar a construir
+   produtos e serviços digitais, cada vez mais acessíveis.
+
+   Fotografia © Debby Hudson (Unsplash)
+
+   Publicado em 08.08.2023Por [37]Ruben Ferreira Duarte
+   Categorizado como [38]Design Etiquetas: [39]Acessibilidade, [40]Design
+   systems
+
+Mais DXD
+
+   O DXD é um projeto da autoria do designer português Ruben Ferreira
+   Duarte e uma plataforma que tem por missão ajudar as equipas de
+   transformação digital em geral e as equipas de design em particular, a
+   imaginar a próxima geração de produtos, serviços e experiências
+   digitais.
+
+Conhecer
+
+     * [41]Sobre o DXD
+     * [42]Sobre o autor
+     * [43]Manifesto
+     * [44]Termos e condições
+     * [45]Política de privacidade
+     * [46]Declaração de acessibilidade
+
+Descobrir
+
+     * [47]Artigos
+     * [48]Dicionário
+     * [49]Dossiês
+     * [50]Bibliotecas
+     * [51]Publicações
+     * [52]Parcerias
+     * [53]Conversas
+     * [54]Comunidades
+     * [55]Referências
+
+Artigos
+
+     * [56]Inspiração
+     * [57]Processo
+     * [58]Design
+     * [59]Comunidade
+     * [60]Perspectivas
+
+Dicionário
+
+     * [61]Metodologias
+     * [62]Princípios
+     * [63]Conceitos
+     * [64]Ferramentas
+     * [65]Produtos
+
+Dossiês
+
+     * [66]Acessibilidade
+     * [67]Design systems
+     * [68]Serviços públicos
+     * [69]Sugestões e referências
+     * [70]Entrevistas
+     * [71]Interaction Design Foundation
+
+Bibliotecas
+
+     * [72]Acessibilidade
+     * [73]Design systems
+
+Publicações
+
+     * [74]Como construir uma intranet em 90 dias
+     * [75]Mapa dos Design Systems em Portugal 2022
+     * [76]Acessibilidade Digital e Design Systems
+     * [77]Designers Open-to-Work
+
+Projetos e iniciativas
+
+     * [78]Formação Acessibilidade Digital 360º
+     * [79]Design Systems Index
+     * [80]Acessibilidade digital e as marcas em Portugal
+     * [81]UX é bom para o negócio. Porquê?
+     * [82]Design systems tratados por tu
+     * [83]AccessFrame
+
+Sobre acessibilidade
+
+     * [84]Anotações de acessibilidade no design
+     * [85]Perigos das auditorias de acessibilidade digital
+     * [86]Overlays de acessibilidade
+     * [87]Olá PDF, adeus acessibilidade
+     * [88]Legislação sobre acessibilidade digital
+     * [89]Contrastes de cor e marcas em Portugal
+     * [90]Dossiê sobre acessibilidade
+     * [91]Biblioteca sobre acessibilidade
+
+Sobre design systems
+
+     * [92]Vantagens e mitos
+     * [93]Retorno de investimento
+     * [94]Perguntas para a contratação de parceiros
+     * [95]Livros sobre design systems
+     * [96]Design systems não criam produtos acessíveis
+     * [97]Impacto social dos design systems
+     * [98]Dossiê sobre design systems
+     * [99]Biblioteca sobre design systems
+
+Mensagens são bem-vindas
+
+   A caixa de [100]email não tem falta de espaço e todas as mensagens
+   (especialmente as desafiantes) são bem-vindas e terão uma resposta à
+   altura.
+
+Vamos conversar?
+
+   Se quiseres simplesmente trocar ideias sobre algum tópico o
+   [101]Linkedin é a melhor forma de começar a conversa.
+
+   [102]DXD
+
+   DXD 2020-2024 © Todos os direitos reservados
+
+Références
+
+   1. https://dxd.pt/feed/
+   2. https://dxd.pt/comments/feed/
+   3. https://dxd.pt/wp-json/wp/v2/posts/11917
+   4. https://dxd.pt/wp-json/oembed/1.0/embed?url=https://dxd.pt/um-design-system-acessivel-nao-faz-por-si-so-um-produto-acessivel/
+   5. https://dxd.pt/wp-json/oembed/1.0/embed?url=https://dxd.pt/um-design-system-acessivel-nao-faz-por-si-so-um-produto-acessivel/&format=xml
+   6. file:///tmp/lynxXXXXAQV0WC/L18756-7482TMP.html#content
+   7. https://dxd.pt/
+   8. https://dxd.pt/
+   9. https://dxd.pt/artigos/
+  10. https://dxd.pt/category/inspiracao/
+  11. https://dxd.pt/category/processo/
+  12. https://dxd.pt/category/design/
+  13. https://dxd.pt/category/comunidade/
+  14. https://dxd.pt/category/perspectivas/
+  15. https://dxd.pt/dicionario/
+  16. https://dxd.pt/dicionario/#metodologias
+  17. https://dxd.pt/dicionario/#principios
+  18. https://dxd.pt/dicionario/#conceitos
+  19. https://dxd.pt/dicionario/#ferramentas
+  20. https://dxd.pt/dicionario/#produtos
+  21. https://dxd.pt/dossies/
+  22. https://dxd.pt/tag/acessibilidade/
+  23. https://dxd.pt/tag/design-systems/
+  24. https://dxd.pt/tag/servicos-publicos/
+  25. https://dxd.pt/tag/sugestoes-e-referencias/
+  26. https://dxd.pt/tag/entrevistas/
+  27. https://dxd.pt/tag/interaction-design-foundation/
+  28. https://dxd.pt/bibliotecas/
+  29. https://dxd.pt/acessibilidade/
+  30. https://dxd.pt/design-systems/
+  31. https://dxd.pt/publicacoes/
+  32. https://dxd.pt/parcerias/
+  33. https://dxd.pt/404
+  34. https://dxd.pt/design-systems/
+  35. https://dxd.pt/accessibility/
+  36. https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/
+  37. https://dxd.pt/author/ruben-duarte/
+  38. https://dxd.pt/category/design/
+  39. https://dxd.pt/tag/acessibilidade/
+  40. https://dxd.pt/tag/design-systems/
+  41. https://dxd.pt/sobre-o-dxd
+  42. https://dxd.pt/sobre-o-autor/
+  43. https://dxd.pt/manifesto/
+  44. https://dxd.pt/termos-e-condicoes/
+  45. https://dxd.pt/politica-de-privacidade/
+  46. https://dxd.pt/declaracao-de-acessibilidade/
+  47. https://dxd.pt/artigos/
+  48. https://dxd.pt/dicionario/
+  49. https://dxd.pt/dossies/
+  50. https://dxd.pt/bibliotecas/
+  51. https://dxd.pt/publicacoes/
+  52. https://dxd.pt/parcerias/
+  53. https://dxd.pt/conversas/
+  54. https://dxd.pt/comunidades/
+  55. https://dxd.pt/referencias/
+  56. https://dxd.pt/category/inspiracao/
+  57. https://dxd.pt/category/processo/
+  58. https://dxd.pt/category/design/
+  59. https://dxd.pt/category/comunidade/
+  60. https://dxd.pt/category/perspectivas/
+  61. https://dxd.pt/dicionario/#metodologias
+  62. https://dxd.pt/dicionario/#principios
+  63. https://dxd.pt/dicionario/#conceitos
+  64. https://dxd.pt/dicionario/#ferramentas
+  65. https://dxd.pt/dicionario/#produtos
+  66. https://dxd.pt/tag/acessibilidade/
+  67. https://dxd.pt/tag/design-systems/
+  68. https://dxd.pt/tag/servicos-publicos/
+  69. https://dxd.pt/tag/sugestoes-e-referencias/
+  70. https://dxd.pt/tag/entrevistas/
+  71. https://dxd.pt/tag/interaction-design-foundation/
+  72. https://dxd.pt/acessibilidade/
+  73. https://dxd.pt/design-systems/
+  74. https://dxd.pt/guia-pratico-como-construir-uma-intranet-em-90-dias/
+  75. https://dxd.pt/mapa-dos-design-systems-em-portugal-2022/
+  76. https://dxd.pt/melhorar-a-acessibilidade-de-componentes-em-design-systems/
+  77. https://dxd.pt/designers-open-to-work/
+  78. https://dxd.pt/formacao-em-acessibilidade-digital/
+  79. https://dxd.pt/design-systems-index/
+  80. https://dxd.pt/os-erros-de-acessibilidade-digital-mais-comuns-das-marcas-em-portugal/
+  81. https://dxd.pt/ux-e-bom-para-o-negocio-porque/
+  82. https://dxd.pt/design-systems-tratados-por-tu/
+  83. https://dxd.pt/transformar-a-acessibilidade-das-empresas-com-o-accessframe/
+  84. https://dxd.pt/anotacoes-de-acessibilidade-a-arma-secreta-das-equipas-de-design/
+  85. https://dxd.pt/os-perigos-das-auditorias-de-acessibilidade-digital/
+  86. https://dxd.pt/as-overlays-de-acessibilidade-nao-sao-uma-boa-ideia/
+  87. https://dxd.pt/ola-pdf-adeus-acessibilidade/
+  88. https://dxd.pt/legislacao-essencial-para-a-acessibilidade-digital/
+  89. https://dxd.pt/acessibilidade-digital-design-contrastes-de-cor-e-as-marcas-em-portugal/
+  90. https://dxd.pt/tag/acessibilidade/
+  91. https://dxd.pt/accessibility/
+  92. https://dxd.pt/vantagens-e-mitos-sobre-design-systems/
+  93. https://dxd.pt/quanto-custa-a-sua-empresa-nao-ter-um-design-system/
+  94. https://dxd.pt/62-perguntas-a-fazer-para-contratar-parceiros-em-design-systems/
+  95. https://dxd.pt/livros-de-design-systems-que-ficam-bem-em-qualquer-estante/
+  96. https://dxd.pt/um-design-system-acessivel-nao-faz-por-si-so-um-produto-acessivel/
+  97. https://dxd.pt/o-impacto-social-dos-design-systems-acessibilidade-digital/
+  98. https://dxd.pt/tag/design-systems/
+  99. https://dxd.pt/design-systems/
+ 100. mailto:info@dxd.pt
+ 101. https://www.linkedin.com/in/rubenferreiraduarte/
+ 102. https://dxd.pt/

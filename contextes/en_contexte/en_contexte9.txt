@@ -1,0 +1,98 @@
+   allows users to write inference rules and queries in English-like
+   syntax. We will demonstrate how these reasoning rules have equivalent
+   representation both as RDF descriptions and as logic programs. We will
+   also show how an automated compilation between these translations is
+   possible.
+--
+   structure of an XML document.
+
+   Logic programs consist of facts and rules where valid inference rules
+   are used to arrives into new facts i.e. query results.
+
+--
+
+   The second component consists of a "logical interpretation" of RDF data
+   (optionally enriched with the semantic schema) into logic programming.
+   This way, the understood semantics of RDF is unwielded into its logical
+   components (a logic program, indeed). This means that every reasonment
+   on RDF data can be performed acting upon the corresponding logical
+   view, the logic program, providing a neat and powerful way to reason
+   about data.
+
+--
+
+   The first correspondance in Metalog is between the basic RDF data model
+   and the predicates in logic. The RDF data model consists of so-called
+   statements. Statements are triples where there is a subject (the
+   "resource"), a predicate (the "property"), and an object (the
+--
+   example, the RDF statement expressing the fact that Tim Berners-Lee
+   invented the Web (formally, the RDF triple {invented, Tim Berners-Lee,
+   Web}) is seen in logic programming as the predicate invented(Tim
+   Berners-Lee, Web).
+
+   Once we have estalished the basic correspondance between the basic RDF
+   data model and predicates in logic, the next step becomes easy: we can
+   extend RDF so that the mapping to logic is able to take advantage of
+   all of the logical relationships present in logical systems: that is to
+   say, beyond the ability of expressing static facts, we want the ability
+   to encode dynamic reasoning rules, like in logic programming.
+
+   In order to do so, we need at least:
+--
+   schema elements since they will be presented later, what the reader
+   should keep in mind is just that the Metalog schema provides the
+   "meta-logic" operators to reason with RDF statements.
+
+   Technically, this is quite easy to do: the metalog schema is just a
+--
+   would like to have is a subset of predicate calculus that is still
+   expressible enough, and also computationally feasible: our choice went
+   to logic programming. Logic programming (see e.g. [1]) is a well known
+   programming paradigm that selects a subset of full first-order
+   predicate calculus (so called Horn clauses); it is a very powerful and
+   expressive paradigm, and has the further advantage that it has been
+   widely studied in the database community (a subset of logic
+   programming, datalog, has even the advantage of having computations
+   always terminating, a feature of obvious interest for Web queries).
+--
+   and this "metalog RDF" encoding, with the constraint that the
+   expressibility of the language must fit within the one provided by
+   logic programming.
+
+   The metalog syntax has been explicitly designed with the purpose of
+--
+   speak("John",Y).
+
+   Running this query in the corresponding logic program gives the result
+   that Y="English", that is to say, the predicate speak("John","English")
+   is true.
+--
+Related work
+
+   The use of Web infrastructure to accommodate logic programs has been
+   suggested by (Sandevall, 1996) and (Loke & Davidson, 1996). The latter
+   approach suggests using familiar logic program notation to place facts
+   and queries on HTML pages. The embedded rules also have the ability to
+   refer to other HTML pages with other predicates using a namespace
+--
+  References
+
+    1. Das, S.K. (1992). Deductive Databases and Logic Programming.
+       Addison Wesley.
+    2. Brickley, D., Guha, R.V., Layman, A. (1999). Resource Description
+--
+       Model and Syntax. W3C Proposed Recommendation.
+       http://www.w3.org/TR/
+    5. Loke, S.W., Davison, A. (1996). Logic Programming with the World
+       Wide Web. Proc. of the 7th ACM Conf. on Hypertext.
+       http://www.cs.unc.edu/~barman/HT96/P14/lpwww.html
+    6. Niemelä, I., Simons, P. (1997). Smodels -- an implementation of the
+       stable model and well-founded semantics for normal logic programs
+       Proc. of the 4th Int. Conf. on Logic Programming and Non-Monotonic
+       Reasoning. Dagstuhl, Germany.
+       http://saturn.hut.fi/pub/papers/lpnmr97-sd.ps.gz
+    7. Ramakrishnan, R., Srivastava, D., Sudarshan, D. (1992). CORAL:
+       Control, Relations and Logic. Proc. of the Int. Conf. on VLDB..
+    8. Sandewall, E. (1996). Towards a World-Wide Data Base. Proc. of the
+       5th Int. WWW Conf..

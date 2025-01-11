@@ -1,0 +1,1806 @@
+# alternate 编辑 本页 Wikipedia ( zh ) alternate alternate alternate alternate
+alternate alternate alternate alternate alternate alternate
+Wikipedia 的 Atom feed
+
+跳 转 到 内容
+
+[ ] 主菜单
+主菜单
+( BUTTON ) 移 至 侧栏 ( BUTTON ) 隐藏
+导航
+* 首 页
+* 分类 索引
+* 特色 内容
+* 新闻 动态
+* 最近 更改
+* 随机 条目
+
+帮助
+* 帮助
+* 维基社 群
+* 方针 与 指引
+* 互助 客栈
+* 知识 问答
+* 字 词 转换
+* IRC即时 聊天
+* 联络 我们
+* 关于 维基 百科
+
+维基 百科 自由 的 百科全书
+搜索
+____________________
+( BUTTON ) 搜索
+
+[ ] 外观
+
+* 资助 维基 百科
+* 创建 账号
+* 登录
+
+[ ] 个人 工具
+* 资助 维基 百科
+* 创建 账号
+* 登录
+
+未 登录 编辑者 的 页面 了 解详 情
+* 贡献
+* 讨论
+
+目录
+
+( BUTTON ) 移 至 侧栏 ( BUTTON ) 隐藏
+* 序言
+* 1 术语
+* 2 命题 演算 的 一 般 描述
+* 3 示例 1 简单 的 公理 系统
+* 4 示例 2 自然 演绎 系统
+( BUTTON ) 开关 示例 2 自然 演绎 系统 子章节
++ 4 . 1 证明 的 例子
+* 5 规 则 的 可靠性 和 完备性
+( BUTTON ) 开 关规 则 的 可靠性 和 完备 性子 章节
++ 5 . 1 可靠性 证明 的 梗概
++ 5 . 2 完备性 证明 的 梗概
+* 6 公理化 演算
+( BUTTON ) 开关 公理化 演算 子章节
++ 6 . 1 公理
++ 6 . 2 推理 规 则
++ 6 . 3 元 推理 规 则
++ 6 . 4 证明 的 例子
+* 7 等 价 于 等 式逻辑
+* 8 其他 逻辑 演算
+* 9 参见
+* 10 引用
+* 11 外部 链接
+* 12 参考 资料
+
+[ ] 开关 目录
+
+命题 逻辑
+
+[ ] 51 种 语言
+* Afrikaans
+* ال عر بي ة
+* Asturianu
+* Бе ла ру ск ая
+* Бе ла ру ск ая ( тар аш ке ві ца )
+* Бъ лг ар ск и
+* Catal à
+* Čeština
+* Чӑ ва шл а
+* Cymraeg
+* Deutsch
+* Ελ λη νι κά
+* English
+* Esperanto
+* Español
+* Eesti
+* Euskara
+* فا رس ی
+* Suomi
+* Français
+* Nordfriisk
+* Galego
+* עב רי ת
+* हि न् दी
+* Magyar
+* Հա յե րե ն
+* Bahasa Indonesia
+* Ido
+* Italiano
+* 日本 語
+* 한국 어
+* Кы рг ыз ча
+* Latina
+* Lietuvių
+* Nederlands
+* Norsk nynorsk
+* Norsk bokm ål
+* Polski
+* پښ تو
+* Português
+* Ру сс ки й
+* Simple English
+* Slovenčina
+* Slovenš čina
+* Ср пс ки / srpski
+* Svens ka
+* ไท ย
+* Türkçe
+* Ук ра їн сь ка
+* Tiếng Việt
+* 粵語
+
+编辑 链接
+
+* 条目
+* 讨论
+
+[ ] 大陆 简体
+* 不 转换
+* 简体
+* 繁體
+* 大陆 简体
+* 香港 繁體
+* 澳 門 繁體
+* 大马 简体
+* 新加坡 简体
+* 臺灣 正體
+
+* 阅读
+* 编辑
+* 查看 历史
+
+[ ] 工具
+工具
+( BUTTON ) 移 至 侧栏 ( BUTTON ) 隐藏
+操作
+* 阅读
+* 编辑
+* 查看 历史
+
+常规
+* 链入 页面
+* 相关 更改
+* 上 传 文件
+* 特殊 页面
+* 固定链 接
+* 页面 信息
+* 引用 此 页
+* 获取 短链 接
+* 下载 二 维码
+
+打印 / 导 出
+* 下载 为 PDF
+* 打印 版本
+
+在 其他 项目 中
+* 维基 共享 资源
+* 维基 数据 项目
+
+外观
+( BUTTON ) 移 至 侧栏 ( BUTTON ) 隐藏
+本页 使用 了 标题 或 全文 手工 转换
+维基 百科 ， 自由 的 百科全书
+
+命题 逻辑 是 逻辑学 的 一个 分支 。 ^ [ 1 ]
+它 也 称为 命题 演算 、 句子 演算 、 句子 逻辑 ， 有时 也 称为 零阶 逻辑 。 它 涉及 命题 （ 可以 是 真 或 假 ） 和 命题 之间 的 关系 ， 包括 基于 它们 的 论证 的 构建 。 复合 命题 是 通过
+逻辑 连 接 词 连 接 命题 而 形成 的 。 不 包含 逻辑 连 接词 的 命题 称为 原子 命题 。
+与 一 阶 逻辑 不 同 ， 命题 逻辑 不 处理 非逻辑 对象 、 以及 关于 它们 的 谓词 或 量词 。 然而 ， 命题 逻辑 的 所有 机制 都 包含 在 一 阶 逻辑 和 高阶 逻辑 中 。 从 这个 意义 上 说 ， 命题
+逻辑 是 一 阶 逻辑 和 高阶逻辑 的 基础 。
+
+在 逻辑 和 数学 里 ， 命题 逻辑 是 一个 形式 系统 ,
+有 可以 由 以 逻辑 运算 符 结合 原子 命题 来 构成 代表 “ 命题 ” 的 公式 ， 以及 允许 某些 公式 建 构成 “ 定理 ” 的 一 套 形式 “ 证明 规 则 ” 。
+
+术语
+
+[ 编辑 ]
+
+一 般 地 说 ， 演算 是 一个 形式 系统 ， 包括 一 套 语法 表示式 （ 合式 公式 ） 、 这些 表示 式 的 一个 特定 子集 （ 公理 ） 和 一 套 定义 了 特定 的 二 元 关系 的 形式 规 则 ， 这个 二 元 关
+系 可 解释 为 表示 式 空间 上 的 逻辑 等 价 关系 。
+
+若 形式 系统 会 作为 一个 逻辑 系统 ， 其 表示 式 会 被 解释 成 数学 陈述 ， 且 其规 则 ， 被 称之为 “ 推理 规 则 ” ， 则 一 般 会 是 保真 的 。 在 此 设置 下 ， 规 则 （ 可能 也 包括 公理 ）
+可以 被 用 来 ， 从 给 定 为 真 的 陈述 的 公式 中 ， 推导 出 表示 真 的 陈述 的 公式 来 。
+
+公理 的 集合 可能 为 空集 、 非空 有 限集 、 可数 无限集 或 由 公理 模式 所 给 定 。 形式 文法 递归 地 定义 了 语言 的 表示式 和 合式 公式 。 之外 ， 有时 也 可以 给 定 一个 语义 ， 用以
+定义 真值 和 赋值 （ 或 解释 ） 。
+
+命题 运算 的 语言 包括 ： （ 1 ） 一 套 原始 符号 ， 被 称之为 “ 原子公式 ” 、 “ 占 位符 ” 、 “ 命题 字母 ” 或 “ 命题 变量 ” ； （ 2 ） 一 套 运算 符号 ， 被 称之为 “ 逻辑 运算 符
+” 。 一个 合式 公式 是 任 一 原 子公式 ， 或 任 一 以 运算 符号 依文 法规 则 由 原 子公式 建立 起 的 公式 。
+
+在 下文 中 我们 描述 一 种 标准 命题 演算 。 很多 不 同 的 公式 系统 存在 ， 它们 都 或多或少 等 价 但 在 下列 方面 不 同 ： （ 1 ） 它们 的 语言 （ 就是说 哪 些 原始 符号 和 运算 符号 是
+语言 的 一 部分 ） ； （ 2 ） 它们 有 哪 些 （ 如果 有 的 话 ） 公理 ； （ 3 ） 采用 了 哪些 推理 规 则 。
+
+命题 演算 的 一 般 描述
+
+[ 编辑 ]
+
+命题 演算 是 一个 形式 系统
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow class = " MJX - TeXAtom - ORD " >
+< mrow class = " MJX - TeXAtom - ORD " > < mi class = " MJX - t ex - caligraphic "
+mathvariant = " script " > L < / mi > < / mrow > < / mrow > < mo > = < / mo > < mrow
+class = " MJX - TeXAtom - ORD " > < mrow class = " MJX - TeXAtom - ORD " > < mi
+class = " MJX - t ex - caligraphic " mathvariant = " script " > L < / mi > < / mrow > < / mrow >
+< mtext > < / mtext > < m o stretchy = " false " > ( < / mo > < mrow
+class = " MJX - TeXAtom - ORD " > < mi mathvariant = " normal " > A < / mi > < / mrow >
+< mo > , < / mo > < mtext > < / mtext > < mi mathvariant = " normal " > Ω < / mi > < mo > , < / mo >
+< mtext > < / mtext > < mrow class = " MJX - TeXAtom - ORD " > < mi
+mathvariant = " normal " > Z < / mi > < / mrow > < mo > , < / mo > < mtext > < / mtext > < mrow
+class = " MJX - TeXAtom - ORD " > < mi mathvariant = " normal " > I < / mi > < / mrow > < m o
+stretchy = " false " > ) < / mo > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle { \mathcal { L }} = { \mathcal
+{ L }}\ ( \ mathrm { A } , \ \ Omega , \ \ mathrm { Z } , \ \ mathrm { I }
+) }< / annotation > < / semantics > : MATH ]
+{\displaystyle { \mathcal { L }} = { \mathcal { L }}\ ( \ mathrm { A } , \ \ Omega , \
+\ mathrm { Z } , \ \ mathrm { I } ) } ， 它 的 公式 按 如下 方式 构造 ：
+*
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow class = " MJX - TeXAtom - ORD " >
+< mi mathvariant = " normal " > A < / mi > < / mrow > < mspace
+width = " negativethinmathspace " / > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ mathrm { A }
+\ ! }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ mathrm { A } \ ! }
+集合 是 由 名 为 “ 命题符号 ” 或 “ 命题 变量 ” 之 元素 所 组成 的 有限 集合 ， 一个 “ 命题 变量 ” 可取值 为 集合 里 的 “ 命题符号 ” 。 语法 上 来 说 ， 它们 是 形式 语言
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow class = " MJX - TeXAtom - ORD " >
+< mrow class = " MJX - TeXAtom - ORD " > < mi class = " MJX - t ex - caligraphic "
+mathvariant = " script " > L < / mi > < / mrow > < / mrow > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle { \mathcal
+{ L }}}< / annotation > < / semantics > : MATH ]
+{\displaystyle { \mathcal { L }}} 最 基本 的 元素 ， 亦 被 称之为 “ 原子公式 ” 或 “ 终端 元素 ” 。 在 接着 的 例子 中 ，
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow class = " MJX - TeXAtom - ORD " >
+< mi mathvariant = " normal " > A < / mi > < / mrow > < mspace
+width = " negativethinmathspace " / > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ mathrm { A }
+\ ! }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ mathrm { A } \ ! } 内 的 元素 一 般 写作 字 母p , q , r 之类 的 形式 。
+
+*
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi
+mathvariant = " normal " > Ω < / mi > < mspace width = " negativethinmathspace "
+/ > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ Omega \ ! }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle \ Omega \ ! } 是 名 为 “ 算子符号 ” 或 “ 逻辑 运算符 ” 之 元素 所 组成 的 有限 集合 。 集合
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi
+mathvariant = " normal " > Ω < / mi > < mspace width = " negativethinmathspace "
+/ > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ Omega \ ! }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle \ Omega \ ! } 被 划分 成 如下 等 不 相交 的 子集 ：
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " >
+< mstyle displaystyle = " true " scriptlevel = " 0 " > < mi
+mathvariant = " normal " > Ω < / mi > < mo > = < / mo > < msub > < mi
+mathvariant = " normal " > Ω < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mn > 0 < / mn > < / mrow > < / msub >
+< mo > ∪ < / mo > < msub > < mi mathvariant = " normal " > Ω < / mi >
+< mrow class = " MJX - TeXAtom - ORD " > < mn > 1 < / mn > < / mrow >
+< / msub > < mo > ∪ < / mo > < mo > … < / mo > < mo > ∪ < / mo > < msub > < mi
+mathvariant = " normal " > Ω < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mi > j < / mi > < / mrow > < / msub >
+< mo > ∪ < / mo > < mo > … < / mo > < mo > ∪ < / mo > < msub > < mi
+mathvariant = " normal " > Ω < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mi > m < / mi > < / mrow > < / msub >
+< mspace width = " thinmathspace " / > < / mstyle > < / mrow >
+< annotation
+encoding = " application / x - t ex " > {\displaystyle \ Omega
+= \ Omega _{0 } \cup \ Omega _{ 1 } \cup \ ldots \ cup \ Omega
+_ {j }\cup \ ldots \ cup \ Omega _ {m }\ , }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle \ Omega = \ Omega _{0 } \cup \ Omega
+_{ 1 } \cup \ ldots \ cup \ Omega _ {j }\cup \ ldots \ cup
+\ Omega _ {m }\ , } 。
+
+在 此 一 划分 中 ，
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < msub > < mi
+mathvariant = " normal " > Ω < / mi > < mrow class = " MJX - TeXAtom - ORD " >
+< mi > j < / mi > < / mrow > < / msub > < mspace width = " negativethinmathspace "
+/ > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ Omega
+_ {j }\ ! }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ Omega _ {j }\ ! } 是 指 元数 为
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > j < / mi > < mspace
+width = " negativethinmathspace " / > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle j \ ! }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle j \ ! } 的 算子 符号 所 构成 的 集合 。
+
+在 更 熟知 的 命题 演算 中 ，
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi
+mathvariant = " normal " > Ω < / mi > < mspace
+width = " negativethinmathspace " / > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ Omega
+\ ! }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ Omega \ ! } 一 般 被 划分 如下 ：
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " >
+< mstyle displaystyle = " true " scriptlevel = " 0 " > < msub >
+< mi mathvariant = " normal " > Ω < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mn > 1 < / mn > < / mrow > < / msub >
+< mo > = < / mo > < m o fence = " false " stretchy = " false " > {< / mo >
+< mi mathvariant = " normal " > ¬ < / mi > < m o fence = " false "
+stretchy = " false " > }< / mo > < mspace
+width = " thinmathspace " / > < mo > , < / mo > < / mstyle >
+< / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ Omega
+_{ 1 } = \{\ lnot \}\ , , }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ Omega _{ 1 } = \{\ lnot \}\ , , }
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " >
+< mstyle displaystyle = " true " scriptlevel = " 0 " > < msub >
+< mi mathvariant = " normal " > Ω < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mn > 2 < / mn > < / mrow > < / msub >
+< mo > ⊆ < / mo > < m o fence = " false " stretchy = " false " > {< / mo >
+< mo > ∧ < / mo > < mo > , < / mo > < mo > ∨ < / mo > < mo > , < / mo > < m o
+stretchy = " false " > → < / mo > < mo > , < / mo > < m o
+stretchy = " false " > ↔ < / mo > < m o fence = " false "
+stretchy = " false " > }< / mo > < mspace
+width = " thinmathspace " / > < / mstyle > < / mrow >
+< annotation
+encoding = " application / x - t ex " > {\displaystyle \ Omega
+_{ 2 } \subseteq \{\l and , \ lor , \ rightarrow
+, \ leftrightarrow \}\ , }< / annotation > < / semantics >
+: MATH ]
+{\displaystyle \ Omega _{ 2 } \subseteq \{\l and , \ lor
+, \ rightarrow , \ leftrightarrow \}\ , } 。
+
+一 种 常用 的 做法 是 把 常数 逻辑值 当作 一 种 零元 算子 ， 即 ：
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " >
+< mstyle displaystyle = " true " scriptlevel = " 0 " > < msub >
+< mi mathvariant = " normal " > Ω < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mn > 0 < / mn > < / mrow > < / msub >
+< mo > = < / mo > < m o fence = " false " stretchy = " false " > {< / mo >
+< mi mathvariant = " normal " > ⊤ < / mi > < mo > , < / mo >
+< mtext > < / mtext > < mi mathvariant = " normal " > ⊥ < / mi > < m o
+fence = " false " stretchy = " false " > }< / mo > < mspace
+width = " thinmathspace " / > < / mstyle > < / mrow >
+< annotation
+encoding = " application / x - t ex " > {\displaystyle \ Omega
+_{0 } = \{\top , \ \ bot \}\ , }< / annotation > < / semantics >
+: MATH ]
+{\displaystyle \ Omega _{0 } = \{\top , \ \ bot \}\ , } 。
+
+有些 作者 会 用 ~ 来 替代 ¬ ， 也 有 的 用 & 或
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ⋅ < / mo > < / mstyle >
+< / mrow > < annotation encoding = " application / x - t ex " > {\displaystyle
+\ cdot }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ cdot } 来 取替
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ∧ < / mo > < / mstyle >
+< / mrow > < annotation encoding = " application / x - t ex " > {\displaystyle
+\ land }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ land } 。 逻辑值 所 构成 的 集合 也 有 许多 不 同 的 符号 表示 ， 如 { 假 , 真 } 、 { F , T } 或
+{ 0 , 1 } 来 取替 {
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi
+mathvariant = " normal " > ⊥ < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ bot }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle \ bot } ,
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi
+mathvariant = " normal " > ⊤ < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ top }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle \ top } } ， 这些 都 常 见于 各个 论著 之中 。
+
+*
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow class = " MJX - TeXAtom - ORD " >
+< mi mathvariant = " normal " > Z < / mi > < / mrow > < mspace
+width = " negativethinmathspace " / > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ mathrm { Z }
+\ ! }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ mathrm { Z } \ ! }
+集合 是 “ 变换 规 则 ” （ 当作 为 逻辑 应用 时 则 称之为 “ 推理 规 则 ” ） 之 所 构成 的 有限 集合 。
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow class = " MJX - TeXAtom - ORD " >
+< mi mathvariant = " normal " > Z < / mi > < / mrow > < mspace
+width = " negativethinmathspace " / > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ mathrm { Z }
+\ ! }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ mathrm { Z } \ ! } 集合 的 “ 变换 规 则 ” 是 用 “ 原子公式 ” 和 “ 逻辑 运算符 ” 构成 的 。
+
+*
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow class = " MJX - TeXAtom - ORD " >
+< mi mathvariant = " normal " > I < / mi > < / mrow > < mspace
+width = " negativethinmathspace " / > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ mathrm { I }
+\ ! }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ mathrm { I } \ ! } 是 “ 起始点 ” （ 当 得到 逻辑 解释 时 则 称之为 “ 公理 ” ） 所 构成 的 有限 集合 。
+
+依据 所 使用 的 精确 形式 文法 或 文法 形式化 ， 可能 需要 以 左括 号 " （ " 和 右括 号 " ） " 作 语法 上 的 辅助 ， 用 来 完成 公式 的 构造 。
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow class = " MJX - TeXAtom - ORD " >
+< mrow class = " MJX - TeXAtom - ORD " > < mi class = " MJX - t ex - caligraphic "
+mathvariant = " script " > L < / mi > < / mrow > < / mrow > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle { \mathcal
+{ L }}}< / annotation > < / semantics > : MATH ]
+{\displaystyle { \mathcal { L }}}
+的 语言 ， 亦 称之为 “ 公式 ” 或 “ 合式 公式 ” 的 集合 ， 可 由 如下 规 则 集合 被 归纳 或 递归 地 定义 ：
+1 . 基本 元素 ：
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow class = " MJX - TeXAtom - ORD " >
+< mi mathvariant = " normal " > A < / mi > < / mrow > < mspace
+width = " negativethinmathspace " / > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ mathrm { A }
+\ ! }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ mathrm { A } \ ! } 内 的 任何 元素 都 是
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow class = " MJX - TeXAtom - ORD " >
+< mrow class = " MJX - TeXAtom - ORD " > < mi class = " MJX - t ex - caligraphic "
+mathvariant = " script " > L < / mi > < / mrow > < / mrow > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle { \mathcal
+{ L }}}< / annotation > < / semantics > : MATH ]
+{\displaystyle { \mathcal { L }}} 的 公式 。
+2 . 如果
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < msub > < mi > p < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mn > 1 < / mn > < / mrow > < / msub > < mo > , < / mo >
+< msub > < mi > p < / mi > < mrow class = " MJX - TeXAtom - ORD " > < mn > 2 < / mn > < / mrow >
+< / msub > < mo > , < / mo > < mo > … < / mo > < mo > , < / mo > < msub > < mi > p < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mi > j < / mi > < / mrow > < / msub > < / mstyle >
+< / mrow > < annotation encoding = " application / x - t ex " > {\displaystyle
+p _{ 1 } , p _{ 2 } , \ ldots , p _ {j }}< / annotation > < / semantics > : MATH ]
+{\displaystyle p _{ 1 } , p _{ 2 } , \ ldots , p _ {j }} 是 公式 和
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > f < / mi > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle
+f }< / annotation > < / semantics > : MATH ]
+{\displaystyle f } 属于
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < msub > < mi
+mathvariant = " normal " > Ω < / mi > < mrow class = " MJX - TeXAtom - ORD " >
+< mi > j < / mi > < / mrow > < / msub > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ Omega
+_ {j }}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ Omega _ {j }} , 则
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow > < mo > ( < / mo > < mrow >
+< mi > f < / mi > < msub > < mi > p < / mi > < mrow class = " MJX - TeXAtom - ORD " >
+< mn > 1 < / mn > < / mrow > < / msub > < msub > < mi > p < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mn > 2 < / mn > < / mrow > < / msub > < mo > … < / mo >
+< msub > < mi > p < / mi > < mrow class = " MJX - TeXAtom - ORD " > < mi > j < / mi > < / mrow >
+< / msub > < / mrow > < mo > ) < / mo > < / mrow > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ left ( fp _{ 1 } p _{ 2 } \ldots
+p _ {j }\right ) }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ left ( fp _{ 1 } p _{ 2 } \ldots p _ {j }\right ) } 也 是 公式 .
+3 . 封闭性 ： 其他 都 不 会 是
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow class = " MJX - TeXAtom - ORD " >
+< mrow class = " MJX - TeXAtom - ORD " > < mi class = " MJX - t ex - caligraphic "
+mathvariant = " script " > L < / mi > < / mrow > < / mrow > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle { \mathcal
+{ L }}}< / annotation > < / semantics > : MATH ]
+{\displaystyle { \mathcal { L }}} 的 公式 。
+
+透过 重复 应用 这 三 个 规 则 ， 可以 建构 出 复杂 的 公式 来 。 例如 ：
+* 依规 则 1 ， p 是 公式 。
+* 依规 则 2 ， ¬p 是 公式 。
+* 依规 则 1 ， q 是 公式 。
+* 依规 则 2 ， ( ¬p ∨ q ) 是 公式 。
+
+示例 1 简单 的 公理 系统
+
+[ 编辑 ]
+
+设
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < msub > < mrow
+class = " MJX - TeXAtom - ORD " > < mrow class = " MJX - TeXAtom - ORD " > < mi
+class = " MJX - t ex - caligraphic " mathvariant = " script " > L < / mi > < / mrow > < / mrow >
+< mrow class = " MJX - TeXAtom - ORD " > < mn > 1 < / mn > < / mrow > < / msub > < mo > = < / mo >
+< mrow class = " MJX - TeXAtom - ORD " > < mrow class = " MJX - TeXAtom - ORD " > < mi
+class = " MJX - t ex - caligraphic " mathvariant = " script " > L < / mi > < / mrow > < / mrow >
+< mtext > < / mtext > < m o stretchy = " false " > ( < / mo > < mrow
+class = " MJX - TeXAtom - ORD " > < mi mathvariant = " normal " > A < / mi > < / mrow >
+< mo > , < / mo > < mtext > < / mtext > < mi mathvariant = " normal " > Ω < / mi > < mo > , < / mo >
+< mtext > < / mtext > < mrow class = " MJX - TeXAtom - ORD " > < mi
+mathvariant = " normal " > Z < / mi > < / mrow > < mo > , < / mo > < mtext > < / mtext > < mrow
+class = " MJX - TeXAtom - ORD " > < mi mathvariant = " normal " > I < / mi > < / mrow > < m o
+stretchy = " false " > ) < / mo > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle { \mathcal
+{ L }}_{ 1 } = { \mathcal { L }}\ ( \ mathrm { A } , \ \ Omega , \ \ mathrm { Z } , \
+\ mathrm { I } ) }< / annotation > < / semantics > : MATH ]
+{\displaystyle { \mathcal { L }}_{ 1 } = { \mathcal { L }}\ ( \ mathrm { A } , \
+\ Omega , \ \ mathrm { Z } , \ \ mathrm { I } ) } ， 这里 的
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow class = " MJX - TeXAtom - ORD " > < mi
+mathvariant = " normal " > A < / mi > < / mrow > < mo > , < / mo > < mtext > < / mtext > < mi
+mathvariant = " normal " > Ω < / mi > < mo > , < / mo > < mtext > < / mtext > < mrow
+class = " MJX - TeXAtom - ORD " > < mi mathvariant = " normal " > Z < / mi > < / mrow >
+< mo > , < / mo > < mtext > < / mtext > < mrow class = " MJX - TeXAtom - ORD " > < mi
+mathvariant = " normal " > I < / mi > < / mrow > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ mathrm { A } , \ \ Omega , \
+\ mathrm { Z } , \ \ mathrm { I } }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ mathrm { A } , \ \ Omega , \ \ mathrm { Z } , \ \ mathrm { I } }
+定义 如下 ：
+*
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow class = " MJX - TeXAtom - ORD " >
+< mi mathvariant = " normal " > A < / mi > < / mrow > < mspace
+width = " negativethinmathspace " / > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ mathrm { A }
+\ ! }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ mathrm { A } \ ! } 是 个 含有 足够 多 元素 以 应付 讨论 所 需 的 有限 集合 ， 如 ：
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " >
+< mstyle displaystyle = " true " scriptlevel = " 0 " > < mrow
+class = " MJX - TeXAtom - ORD " > < mi
+mathvariant = " normal " > A < / mi > < / mrow > < mo > = < / mo > < m o
+fence = " false " stretchy = " false " > {< / mo > < mi > p < / mi >
+< mo > , < / mo > < mi > q < / mi > < mo > , < / mo > < mi > r < / mi >
+< mo > , < / mo > < mi > s < / mi > < mo > , < / mo > < mi > t < / mi >
+< mo > , < / mo > < mi > u < / mi > < m o fence = " false "
+stretchy = " false " > }< / mo > < mspace
+width = " thinmathspace " / > < / mstyle > < / mrow >
+< annotation
+encoding = " application / x - t ex " > {\displaystyle \ mathrm
+{ A } = \{p , q , r , s , t , u \}\ , }< / annotation > < / semantics >
+: MATH ]
+{\displaystyle \ mathrm { A } = \{p , q , r , s , t , u \}\ , } 。
+
+功能 齐全 的 套装 逻辑 运算符 （ 逻辑 连 接词 和 否 定 ） 的 Ω如下 。
+*
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi
+mathvariant = " normal " > Ω < / mi > < mspace width = " negativethinmathspace "
+/ > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ Omega \ ! }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle \ Omega \ ! } 逻辑 运算 符集合 。
+在 合取 、 析取 和 蕴涵 （ ∧ 、 ∨ 和 → ） 这 三 个 运算符 之中 ， 可以 将 其中 一个 拿 来 当做 基本 的 ， 而 另 两 个 则 以 其 和 否 定 （ ¬ ） 来 定义 。 实际上 ， 所有 的 逻辑 运
+算符 都 可以 用 自足 算子 的 方式 来 定义 。 而 双 条件 （ ↔ ） 当然 可 由 合取 和 蕰涵 来 定义 ， 亦 即 a ↔ b 可 被 定义 为 ( a → b ) ∧ ( b → a ) 。
+
+采用 否 定 和 蕰涵 做 为 命题 演算 的 两 个 基本 运算 ， 相当于 把 omega集
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi mathvariant = " normal " > Ω < / mi >
+< mo > = < / mo > < msub > < mi mathvariant = " normal " > Ω < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mn > 1 < / mn > < / mrow > < / msub > < mo > ∪ < / mo > < msub >
+< mi mathvariant = " normal " > Ω < / mi > < mrow class = " MJX - TeXAtom - ORD " >
+< mn > 2 < / mn > < / mrow > < / msub > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ Omega = \ Omega _{ 1 } \cup
+\ Omega _{ 2 }}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ Omega = \ Omega _{ 1 } \cup \ Omega _{ 2 } } 划分 如下 ：
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " >
+< mstyle displaystyle = " true " scriptlevel = " 0 " > < msub >
+< mi mathvariant = " normal " > Ω < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mn > 1 < / mn > < / mrow > < / msub >
+< mo > = < / mo > < m o fence = " false " stretchy = " false " > {< / mo >
+< mi mathvariant = " normal " > ¬ < / mi > < m o fence = " false "
+stretchy = " false " > }< / mo > < mspace
+width = " thinmathspace " / > < / mstyle > < / mrow >
+< annotation
+encoding = " application / x - t ex " > {\displaystyle \ Omega
+_{ 1 } = \{\ lnot \}\ , }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ Omega _{ 1 } = \{\ lnot \}\ , } 。
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " >
+< mstyle displaystyle = " true " scriptlevel = " 0 " > < msub >
+< mi mathvariant = " normal " > Ω < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mn > 2 < / mn > < / mrow > < / msub >
+< mo > = < / mo > < m o fence = " false " stretchy = " false " > {< / mo >
+< m o stretchy = " false " > → < / mo > < m o fence = " false "
+stretchy = " false " > }< / mo > < mspace
+width = " thinmathspace " / > < / mstyle > < / mrow >
+< annotation
+encoding = " application / x - t ex " > {\displaystyle \ Omega
+_{ 2 } = \{\rightarrow \}\ , }< / annotation > < / semantics >
+: MATH ]
+{\displaystyle \ Omega _{ 2 } = \{\rightarrow \}\ , } 。
+
+*
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow class = " MJX - TeXAtom - ORD " >
+< mi mathvariant = " normal " > I < / mi > < / mrow > < mspace
+width = " negativethinmathspace " / > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ mathrm { I }
+\ ! }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ mathrm { I } \ ! } 公理 系统 集合 。
+有 一个 公理 系统 是 扬 · 武卡谢维奇 所 发现 的 ， 而 这 系统 可以 如下 地 公式化 为 此 语言 中 的 命题 演算 。 各个 公理 都 是 由 下列 的 公理 模式 作代 换 所 得 。
+
+o
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > p < / mi > < m o
+stretchy = " false " > → < / mo > < m o stretchy = " false " > ( < / mo >
+< mi > q < / mi > < m o stretchy = " false " > → < / mo > < mi > p < / mi > < m o
+stretchy = " false " > ) < / mo > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle p \ t o ( q \ t o
+p ) }< / annotation > < / semantics > : MATH ]
+{\displaystyle p \ t o ( q \ t o p ) }
+
+o
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < m o
+stretchy = " false " > ( < / mo > < mi > p < / mi > < m o
+stretchy = " false " > → < / mo > < m o stretchy = " false " > ( < / mo >
+< mi > q < / mi > < m o stretchy = " false " > → < / mo > < mi > r < / mi > < m o
+stretchy = " false " > ) < / mo > < m o stretchy = " false " > ) < / mo > < m o
+stretchy = " false " > → < / mo > < m o stretchy = " false " > ( < / mo > < m o
+stretchy = " false " > ( < / mo > < mi > p < / mi > < m o
+stretchy = " false " > → < / mo > < mi > q < / mi > < m o
+stretchy = " false " > ) < / mo > < m o stretchy = " false " > → < / mo > < m o
+stretchy = " false " > ( < / mo > < mi > p < / mi > < m o
+stretchy = " false " > → < / mo > < mi > r < / mi > < m o
+stretchy = " false " > ) < / mo > < m o stretchy = " false " > ) < / mo >
+< / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle ( p \ t o ( q \ t o
+r ) ) \ t o ( ( p \ t o q ) \ t o ( p \ t o r ) ) }< / annotation > < / semantics >
+: MATH ]
+{\displaystyle ( p \ t o ( q \ t o r ) ) \ t o ( ( p \ t o q ) \ t o ( p \ t o r ) ) }
+
+o
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < m o
+stretchy = " false " > ( < / mo > < mi mathvariant = " normal " > ¬ < / mi >
+< mi > p < / mi > < m o stretchy = " false " > → < / mo > < mi
+mathvariant = " normal " > ¬ < / mi > < mi > q < / mi > < m o
+stretchy = " false " > ) < / mo > < m o stretchy = " false " > → < / mo > < m o
+stretchy = " false " > ( < / mo > < mi > q < / mi > < m o
+stretchy = " false " > → < / mo > < mi > p < / mi > < m o
+stretchy = " false " > ) < / mo > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle ( \ neg p \ t o
+\ neg q ) \ t o ( q \ t o p ) }< / annotation > < / semantics > : MATH ]
+{\displaystyle ( \ neg p \ t o \ neg q ) \ t o ( q \ t o p ) }
+
+*
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow class = " MJX - TeXAtom - ORD " >
+< mi mathvariant = " normal " > Z < / mi > < / mrow > < mspace
+width = " negativethinmathspace " / > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ mathrm { Z }
+\ ! }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ mathrm { Z } \ ! } 推理 规 则 集合 。 其 推理 规 则 为 肯定 前 件 （ 即 可 由 p和 ( p →
+q ) 导 出q ） 。 而 a ∨ b 和 a ∧ b 则 是 分别 被 定义 为 ¬a → b 和 ¬ ( a → ¬b ) 。
+
+示例 2 自然 演绎 系统
+
+[ 编辑 ]
+
+设
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < msub > < mrow
+class = " MJX - TeXAtom - ORD " > < mrow class = " MJX - TeXAtom - ORD " > < mi
+class = " MJX - t ex - caligraphic " mathvariant = " script " > L < / mi > < / mrow > < / mrow >
+< mrow class = " MJX - TeXAtom - ORD " > < mn > 2 < / mn > < / mrow > < / msub > < mo > = < / mo >
+< mrow class = " MJX - TeXAtom - ORD " > < mrow class = " MJX - TeXAtom - ORD " > < mi
+class = " MJX - t ex - caligraphic " mathvariant = " script " > L < / mi > < / mrow > < / mrow >
+< mtext > < / mtext > < m o stretchy = " false " > ( < / mo > < mrow
+class = " MJX - TeXAtom - ORD " > < mi mathvariant = " normal " > A < / mi > < / mrow >
+< mo > , < / mo > < mtext > < / mtext > < mi mathvariant = " normal " > Ω < / mi > < mo > , < / mo >
+< mtext > < / mtext > < mrow class = " MJX - TeXAtom - ORD " > < mi
+mathvariant = " normal " > Z < / mi > < / mrow > < mo > , < / mo > < mtext > < / mtext > < mrow
+class = " MJX - TeXAtom - ORD " > < mi mathvariant = " normal " > I < / mi > < / mrow > < m o
+stretchy = " false " > ) < / mo > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle { \mathcal
+{ L }}_{ 2 } = { \mathcal { L }}\ ( \ mathrm { A } , \ \ Omega , \ \ mathrm { Z } , \
+\ mathrm { I } ) }< / annotation > < / semantics > : MATH ]
+{\displaystyle { \mathcal { L }}_{ 2 } = { \mathcal { L }}\ ( \ mathrm { A } , \
+\ Omega , \ \ mathrm { Z } , \ \ mathrm { I } ) } ， 这里 的
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow class = " MJX - TeXAtom - ORD " > < mi
+mathvariant = " normal " > A < / mi > < / mrow > < mo > , < / mo > < mtext > < / mtext > < mi
+mathvariant = " normal " > Ω < / mi > < mo > , < / mo > < mtext > < / mtext > < mrow
+class = " MJX - TeXAtom - ORD " > < mi mathvariant = " normal " > Z < / mi > < / mrow >
+< mo > , < / mo > < mtext > < / mtext > < mrow class = " MJX - TeXAtom - ORD " > < mi
+mathvariant = " normal " > I < / mi > < / mrow > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ mathrm { A } , \ \ Omega , \
+\ mathrm { Z } , \ \ mathrm { I } }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ mathrm { A } , \ \ Omega , \ \ mathrm { Z } , \ \ mathrm { I } }
+定义 如下 ：
+*
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow class = " MJX - TeXAtom - ORD " >
+< mi mathvariant = " normal " > A < / mi > < / mrow > < mspace
+width = " negativethinmathspace " / > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ mathrm { A }
+\ ! }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ mathrm { A } \ ! } 是 个 含有 足够 多 元素 以 应付 讨论 所 需 的 有限 集合 ， 如 ：
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " >
+< mstyle displaystyle = " true " scriptlevel = " 0 " > < mrow
+class = " MJX - TeXAtom - ORD " > < mi
+mathvariant = " normal " > A < / mi > < / mrow > < mo > = < / mo > < m o
+fence = " false " stretchy = " false " > {< / mo > < mi > p < / mi >
+< mo > , < / mo > < mi > q < / mi > < mo > , < / mo > < mi > r < / mi >
+< mo > , < / mo > < mi > s < / mi > < mo > , < / mo > < mi > t < / mi >
+< mo > , < / mo > < mi > u < / mi > < m o fence = " false "
+stretchy = " false " > }< / mo > < mspace
+width = " thinmathspace " / > < / mstyle > < / mrow >
+< annotation
+encoding = " application / x - t ex " > {\displaystyle \ mathrm
+{ A } = \{p , q , r , s , t , u \}\ , }< / annotation > < / semantics >
+: MATH ]
+{\displaystyle \ mathrm { A } = \{p , q , r , s , t , u \}\ , } 。
+
+*
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi
+mathvariant = " normal " > Ω < / mi > < mo > = < / mo > < msub > < mi
+mathvariant = " normal " > Ω < / mi > < mrow class = " MJX - TeXAtom - ORD " >
+< mn > 1 < / mn > < / mrow > < / msub > < mo > ∪ < / mo > < msub > < mi
+mathvariant = " normal " > Ω < / mi > < mrow class = " MJX - TeXAtom - ORD " >
+< mn > 2 < / mn > < / mrow > < / msub > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ Omega = \ Omega _{ 1 } \cup
+\ Omega _{ 2 }}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ Omega = \ Omega _{ 1 } \cup \ Omega _{ 2 } } 划分 为 如下 ：
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " >
+< mstyle displaystyle = " true " scriptlevel = " 0 " > < msub >
+< mi mathvariant = " normal " > Ω < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mn > 1 < / mn > < / mrow > < / msub >
+< mo > = < / mo > < m o fence = " false " stretchy = " false " > {< / mo >
+< mi mathvariant = " normal " > ¬ < / mi > < m o fence = " false "
+stretchy = " false " > }< / mo > < mspace
+width = " thinmathspace " / > < / mstyle > < / mrow >
+< annotation
+encoding = " application / x - t ex " > {\displaystyle \ Omega
+_{ 1 } = \{\ lnot \}\ , }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ Omega _{ 1 } = \{\ lnot \}\ , } 。
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " >
+< mstyle displaystyle = " true " scriptlevel = " 0 " > < msub >
+< mi mathvariant = " normal " > Ω < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mn > 2 < / mn > < / mrow > < / msub >
+< mo > = < / mo > < m o fence = " false " stretchy = " false " > {< / mo >
+< mo > ∧ < / mo > < mo > , < / mo > < mo > ∨ < / mo > < mo > , < / mo > < m o
+stretchy = " false " > → < / mo > < mo > , < / mo > < m o
+stretchy = " false " > ↔ < / mo > < m o fence = " false "
+stretchy = " false " > }< / mo > < mspace
+width = " thinmathspace " / > < / mstyle > < / mrow >
+< annotation
+encoding = " application / x - t ex " > {\displaystyle \ Omega
+_{ 2 } = \{\l and , \ lor , \ rightarrow , \ leftrightarrow
+\}\ , }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ Omega _{ 2 } = \{\l and , \ lor
+, \ rightarrow , \ leftrightarrow \}\ , } 。
+
+在 此 命题 演算 的 例子 中 ， 变换 规 则 被 解释 为 所谓 的 “ 自然 演绎 系统 ” 下 之 推理 规 则 。 这里 表述 的 特定 系统 没有 起 始点 ， 这 意味着 它 对 逻辑 应用 的 解
+释 是 从 空 公理 集合 中 推导 出 其 定理 的 。
+
+* 起 始点 的 集合 是 空 的 ， 亦 即
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow class = " MJX - TeXAtom - ORD " >
+< mi mathvariant = " normal " > I < / mi > < / mrow > < mo > = < / mo > < mi
+class = " MJX - variant " > ∅ < / mi > < mspace width = " thinmathspace " / >
+< / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ mathrm { I }
+= \ varnothing \ , }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ mathrm { I } = \ varnothing \ , } 。
+
+* 转换 规 则 的 集合
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mrow class = " MJX - TeXAtom - ORD " >
+< mi mathvariant = " normal " > Z < / mi > < / mrow > < mspace
+width = " negativethinmathspace " / > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ mathrm { Z }
+\ ! }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ mathrm { Z } \ ! } 描述 如下 ：
+
+此 命题 演算 有 十 个 推理 规 则 。 这些 规 则 允许 我们 从 给 定 的 一 组 假定 为 真 的 公式 中 推导 出 其他 为 真 的 公式 。 前 九 个 只是 简单 地 指 我们 可以 从 其他 合式
+公式 推论 出 特定 的 合式 公式 。 但是 最后 一个 规 则 使用 了 假言 （ hypothetical ） 推理 ， 这 意味着 在 规 则 的 前提 中 ， 我们 可以 临时 的 假定
+一个 （ 未 证明 的 ） 假设 作为 推导 出 的 公式 集合 的 一 部分 ， 来 查看 我们 是 否 能 推导 出 一个 特定 的 其他 公式 。 因为 前 九 个 规 则 不 是 这样 而 通常 被 描述 为
+“ 非假言 ” 规 则 ， 而 最后 一个 则 被 称为 “ 假言 ” 规 则 。
+
+1 . 否 定 介入 （ 英语 ： Negation introduction ） ： 从 φ → ¬ ψ 和 φ → ψ 中 可 推出 ¬ φ 。
+2 . 双重 否 定 除去 ： 从 ¬ ¬ φ 中 可 推出 φ 。
+3 . 合取 介入 （ 英语 ： Conj unction introduction ） ： 从 φ 和 ψ 中 可 推出 ( φ ∧ ψ ) 。
+4 . 合取 除去 （ 英语 ： Conj unction elimination ） ： 从 ( φ ∧ ψ ) 中 可 推出 φ 和 ψ 。
+5 . 析取 介入 （ 英语 ： Disjunction introduction ） ： 从 φ 中 可 推出 ( φ ∨ ψ ) 。
+6 . 析取 除去 （ 英语 ： Disjunction elimination ） ： 从 ( φ ∨ ψ ) 、 ( φ → χ ) 和 ( ψ → χ ) 可 推出 χ 。
+7 . 双 条件 介入 （ 英语 ： Biconditional introduction ） ： 从 ( φ → ψ ) 和 ( ψ → φ ) 中 可 推出 ( φ ↔ ψ ) 。
+8 . 双 条件 除去 （ 英语 ： Biconditional elimination ） ： 从 ( φ ↔ ψ ) 中 可 推出 ( φ → ψ ) 和 ( ψ → φ ) 。
+9 . 肯定 前 件 （ 条件 除去 ） ： 从 φ和 ( φ → ψ ) 中 可 推出 ψ 。
+10 . 条件 证明 （ 条件 介入 ） ： 若 假定 φ 为 真 可 证明 出ψ ， 可 推出 ( φ → ψ ) 。
+
+证明 的 例子
+
+[ 编辑 ]
+
+以下 推导 将 用 编号 后 的 行 的 列表 来 表示 ， 在 每行 之上 有 一个 单一 的 公式 和 一个 理由 （ justification ） 。 论证 的 各个 前提 会 在 列表 的 首行 给 出 。 结论
+将 在 最后 一行 。 一个 推导 称为 完备 的 ， 若 所有 行 都 是 通过 正确 的 应用 一个 规 则 而 从 前面 的 行得出 的 。
+
+下面 是 （ 语法 上 的 ） 证明 的 一个 例子 ：
+要 证明 ：
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > A < / mi > < m o
+stretchy = " false " > → < / mo > < mi > A < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle A \ rightarrow
+A }< / annotation > < / semantics > : MATH ]
+{\displaystyle A \ rightarrow A }
+证明 ：
+
+编号 公式 理由
+1 A 前提
+2 A∨A 析取 介入 自 （ 1 ）
+3 ( A∨A ) ∧A 合取 介入 自 （ 1 ） 和 （ 2 ）
+4 A 合取 除去 自 （ 3 ）
+5 A
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ⊢ < / mo > < mspace
+width = " thinmathspace " / > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ vdash \ , }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle \ vdash \ , } A 总结 （ 1 ） 到 （ 4 ）
+6
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ⊢ < / mo > < mspace
+width = " thinmathspace " / > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ vdash \ , }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle \ vdash \ , } A→A 条件 证明 自 （ 5 ）
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > A < / mi > < mo > ⊢ < / mo > < mi > A < / mi >
+< / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle A \ vdash A }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle A \ vdash A } 可 解释 为 “ 假定A ， 推导 出A ” 。
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ⊢ < / mo > < mi > A < / mi > < m o
+stretchy = " false " > → < / mo > < mi > A < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ vdash A \ rightarrow
+A }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ vdash A \ rightarrow A }
+为 “ 不 假定 任何 东西 ， 推导 出A 蕴涵A ” ， 或者 “ A蕴涵A 是 重言式 ” ， 或者 “ A蕴涵A 是 永 真 的 ” 。
+
+规 则 的 可靠性 和 完备性
+
+[ 编辑 ]
+
+以上 规 则 的 关键 特性 是 它们 是 可靠 的 和 完备 的 。 非 形式 的 说 ， 这 意味着 规 则 都 是 正确 的 并且 不 再 需要 其他 规 则 。 这些 要求 可以 如下 这样 正式 的 提出 。
+
+我们 定义 真值 指派 为 把 命题 变量 映射 到 真 或 假 的 函数 。 非 形式 的 ， 这种 真值 指派 可以 被 理解 为 对 事件 的 可能 状态 （ 或 可能 世界 ） 的 描述 ， 在 这里 特定 的 陈述 是 真 而
+其他 为 假 。 公式 的 语义 因而 可以 被 形式化 ， 通过 定义 哪 些 " 事件 状态 " 是 设置 为 真 的 。
+
+我们 通过 如下 规 则 定义 这种 真值 指派 A 在 什 么 时候 满足 特定 公式 ：
+* A 满足 命题 变量 P 当 且 仅 当A ( P ) = 真
+* A 满足 ¬ φ当 且 仅 当A 不 满足 φ
+* A 满足 ( φ ∧ ψ ) 当且 仅 当 A 满足 φ 与 ψ二者
+* A 满足 ( φ ∨ ψ ) 当且 仅 当 A 满足 φ 和 ψ 中 至少 一个
+* A 满足 ( φ → ψ ) 当且 仅 当 并非 A 满足 φ但 不 满足 ψ 的 情况
+* A 满足 ( φ ↔ ψ ) 当且 仅 当 A 满足 φ 与 ψ二者 ， 或 则 不 满足 它们 中 的 任何 一个
+
+通过 这个 定义 ， 我们 现在 可以 形式化 公式 φ 被 特定 公式 集合 S蕴涵 的 意义 。 非 形式 的 ， 就是 在 使 给 定 公式 集合S 成立 的 所有 可能 情况 下 公式 φ 也 成立 。 这 引申 出 下
+面 的 形式化 定义 ： 我们 说 公式 集合S 语义 蕴涵 特定 的 公式 φ ， 条件 是 满足 在 S中 的 公式 的 所有 真值 指派 也 满足 φ 。
+
+最后 我们 定义 语法 蕴涵 ， φ 被 S语法 蕴涵 ， 当 且 仅 当 我们 可以 在 有限 步骤 内 使用 我们 提出 的 上述 推理 规 则 推导 出 它 。 这 允许 我们 精确 的 公式化 推理 规 则 的 可靠性 和
+完备性 的 意思 ：
+
+可靠性 ： 如果 公式 集合 S语法 蕴涵 公式 φ ， 则 S语义 蕴涵 φ
+完备性 ： 如果 公式 集合 S语义 蕴涵 公式 φ ， 则 S语法 蕴涵 φ
+
+上述 的 两 个 例子 都 满足 可靠性 和 完备性 。
+
+可靠性 证明 的 梗概
+
+[ 编辑 ]
+
+（ 对于 多数 逻辑 系统 ， 这 是 相对 “ 简单 ” 的 证明 方向 ）
+
+符号 约定 ： 设G 是 命题 集合 。 设φ 、 ψ 和 χ 是 命题 。 我们 把 “ G语法 蕴涵φ ” 写 成 “ G证明φ ” ， 还有 把 “ G语义 蕴涵φ ” 写 成 “ G蕴涵 φ ” 。
+
+我们 要 展示 ： ( ∀φ ) ( ∀G ) ( 如果 G证明φ ， 则 G蕴涵φ )
+
+我们 注意 到 “ G证明φ ” 有 一个 归纳 定义 ， 这 给 予 我们 直接 的 办法 来 验证 “ 如果 G证明φ ， 则 … … ” 形式 的 断言 。 所以 我们 的 证明 是 用 归纳法 进行 的 。
+* I . 基础 。 验证 ： 如果 φ 是 G 的 成员 则 G蕴涵 φ
+* I I . 基础 。 验证 ： 如果 φ 是 公理 ， 则 G蕴涵 φ
+* III . 归纳 步骤 （ 对 证明 的 长度 n作 归纳 ）
+
+（ a ） 假定 对于 任意 的 G和φ ， 如果 G在n 或 更 少 的 步数 能 证明φ ， 则 G蕴涵 φ 。
+（ b ） 对于 在 第n + 1 步 时 ， 根据 推理 规 则 ， 由 G及其 n步 以内 证明 的 命题 ， 可以 推导 出 新 的 命题 。 验证 ： 对于 任意 的 这样 的 新 命题
+ψ ， G蕴涵 ψ 。
+
+需要 注意 的 是 ， 对于 自然 演绎 系统 ， 基础 步骤 II 可以 省略 ， 因为 它们 根本 没有 公理 。 基本 上 ， 基础 步骤 II 是 要 展示 每个 公理 都 是 （ 语义 上 的 ） 逻辑 真理 。
+
+基础 步骤 证实 了 对于 任何 G ， 来 自G 的 最 简单 的 可 证明 的 语句 都 被 G 所 蕴涵 。 （ 这 是 简单 的 ， 因为 集合 蕴涵 它 的 任何 一个 成员 ， 是 个 平凡 的 语义 事实 ） 。 归纳 步骤
+将 有 系统 的 覆盖 所有 的 进一步 的 可 证明 的 命题 -- 通过 考虑 我们 能够 使用 推理 规 则 达成 逻辑 结论 的 每 种 情况 -- 并 展示 如果 一个 新 命题 是 可 证明 的 ， 它 也 是 在 逻辑
+上 被 蕴涵 的 。 （ 例如 ， 可能 有 一个 规 则 ， 使得 从 φ 可以 推导 出 “ φ 或 ψ ” 。 在 III . （ a ） 中 我们 假定 如果 φ 是 可 证明 的 则 它 也 是 被 蕴涵 的 。 我们 也 知道 如果 φ
+是 可 证明 的 ， 则 “ φ 或 ψ ” 是 可 证明 的 。 接着 ， 我们 必须 验证 “ φ 或 ψ ” 也 是 被 蕴涵 的 。 我们 求助 于 语义 的 定义 和 我们 所 做 的 假定 来 完成 。 我们 假定 了 φ 是 可以 从
+G 证明 出 来 的 ， 所以 它 也 被 G 所 蕴涵 。 所以 任何 使 G 全部 为 真 的 指派 ， 都 使 φ 为 真 。 此外 通过 “ 或 ” 的 语义 定义 ， 使 φ 为 真 的 任何 指派 都 使 “ φ 或 ψ ” 为 真 。 所以
+任何 使 G 的 全部 为 真 的 指派 ， 都 使 “ φ 或 ψ ” 为 真 。 所以 “ φ 或 ψ ” 被 蕴涵 了 。 ） 一 般 的 ， 归纳 步骤 的 证明 会 较 长 ， 但 不 过 是 对 所有 推论 规 则 按 例 分析 ， 去 展示 每
+个 规 则 都 能 “ 保持 ” 语义 蕴涵 。
+
+通过 可 证明性 的 定义 ， 除 了 G 的 成员 、 公理 、 或 从规 则 推导 出 的 命题 之外 ， 没有别 的 命题 是 可 证明 的 ； 而 这些 命题 都 是 语义 上 被 蕴涵 的 ， 所以 演绎 演 算是 可靠 的 。
+
+完备性 证明 的 梗概
+
+[ 编辑 ]
+
+（ 这 通常 是 相对 地 困难 不 少 的 证明 方向 。 ）
+
+我们 采用 同 上面 一样 的 符号 约定 。
+
+我们 要 展示 ： 如果 G蕴涵 φ ， 则 G证明 φ 。 我们 通过 反证法 来 进行 ： 我们 转 而 展示 如果 G 不 证明φ ， 则 G 不 蕴涵 φ 。
+* I . 假 设G 不 证明 φ 。
+* I I . 如果 G 不 证明φ ， 则 我们 可以 构造 一个 （ 有限 的 ） " 最大化 的 集合 " G * ， 它 是 G 的 超集 并且 不 证明 φ 。
++ （ a ） 把 这个 语言 中 的 所有 命题 上 加置 一个 “ 次序 ” 。 （ 比如 ， 字母表 次序 ） ， 并 把 它们 编号 为 E [ 1 ] , E [ 2 ] , ...
++ （ b ） 归纳 的 定义 集合 ( G [ 0 ] , G [ 1 ] , ... ) 的 一个 序列G [ n ] 为 如下 。
+
+（ i ） G [ 0 ] = G 。
+（ ii ） 如果 G [ k ] ∪ { E [ k + 1 ] } 证明φ ， 则 G [ k + 1 ] = G [ k ] 。
+（ iii ） 如果 G [ k ] ∪ { E [ k + 1 ] } 不 证明φ ， 则 G [ k + 1 ] = G [ k ] ∪ { E [ k + 1 ] } 。
+
+*
++ （ c ） 定义 G * 为 所有 G [ n ] 的 并集 。 （ 就是说 ， G * 在 任何 G [ n ] 中 的 所有 命题 的 集合 ）
++ （ d ） 可以 容易 地 验证
+
+（ i ） G * 包含 （ 是 其 超集 ） G （ 通过 ( b . i ) ） ；
+（ ii ） G *
+不 证明φ （ 因为 如果 它 证明φ ， 则 某些 命题 被 增加 到 某个 G [ n ] 上 而 导致 它 证明 了 φ ； 但是 这 被 定义 所 排除 ） ；
+（ iii ） G *
+是 （ 关于 φ ） " 最大化 的 集合 " ： 如果 任何 更 多 的 命题 不 管怎样 的 被 增加 到 G * ， 它 就 会 证明 φ 。 （ 因为 如果 有 可能 增
+加 任何 更 多 的 命题 ， 再次 根据 定义 ， 在 构造 G [ n ] 期间 被 遇到 的 时候 它们 就 应当 已经 被 增加 进去 了 。 ）
+
+* III . 如果 G *
+是 （ 关于 φ ） 的 最大化 集合 ， 则 它 是 " 类 真理 的 " 。 这 意味着 它 包含 命题 ψ ， 只 在 它 不 包含 ¬ψ 的 命题 的 条件 下 ； 如果 它 包含 ψ 并且 包含 “ 如果 ψ 则 χ ”
+， 则 它 也 包含 χ ； 以此类推 。
+* I V . 如果 G * 是 类 真理 的 ， 则 有 “ G * - 规范 ” 的 指派 ： 它 使 在 G * 中 每个 命题 为 真 而 在 G *
+之外 的 所有 命题 为 假 ， 而 仍然 遵守 在 这个 语言 的 语义 合成 的 法 则 。
+* V . G * - 规范 的 命题 将 使 我们 最初 的 集合G 中 的 命题 全部 为 真 ， 而 使 φ 为 假 。
+* VI . 如果 有 在 G 其 上 是 真 而 φ 是 假 的 指派 ， 则 G 不 （ 语义 上 ） 蕴涵 φ 。 Q . E . D .
+
+公理化 演算
+
+[ 编辑 ]
+
+下面 定义 的 命题 演算 通过 公理 的 方式 定义 了 多数 逻辑 算子 的 语法 并且 它 只 使用 一个 推理 规 则 。 它 也 叫做 标准 命题 演算 。
+
+公理
+
+[ 编辑 ]
+
+设φ 、 χ 和 ψ 表示 合式 公式 。 （ wff 自身 将 不 包含 任何 希腊 字母 ， 而 只 包含 大写 罗 马字母 、 链接 算子 和 圆括 号 ） 。 公理 有
+* THEN - 1 ： φ → ( χ → φ )
+* THEN - 2 ： ( φ → ( χ → ψ ) ) → ( ( φ → χ ) → ( φ → ψ ) )
+* AND - 1 ： φ ∧ χ → φ
+* AND - 2 ： φ ∧ χ → χ
+* AND - 3 ： φ → ( χ → ( φ ∧ χ ) )
+* OR - 1 ： φ → φ ∨ χ
+* OR - 2 ： χ → φ ∨ χ
+* OR - 3 ： ( φ → ψ ) → ( ( χ → ψ ) → ( φ ∨ χ → ψ ) )
+* NOT - 1 ： ( φ → χ ) → ( ( φ → ¬ χ ) → ¬ φ )
+* NOT - 2 ： φ → ( ¬ φ → χ )
+* NOT - 3 ： φ ∨ ¬ φ
+
+公理 THEN - 2 可以 被 看作 是 “ 蕴涵 关于 蕴涵 的 分配律 ” 。 公理 AND - 1 和 AND - 2 对应 于 “ 合取 除去 ” 。 在 AND - 1 和 AND - 2 之间 的 关系 反映 了 合
+取 算子 的 交换律 。 公理 AND - 3 对应 于 “ 合取 介入 ” 。 公理 OR - 1 和 OR - 2 对应 于 “ 析取 介入 ” 。 在 OR - 1 和 OR - 2 之间 的 关系 反映 了 析取 算子 的 交换
+律 。 公理 NOT - 1 对 应 于 反证法 。 公理 NOT - 2 说明 了 “ 从 矛盾 中 可以 推导 出 任何 东西 ” 。 公理 NOT - 3 叫做 排中律 （ 拉丁语tertium non
+datur ： “ 排除 第三者 ” ） 并 反映 了 命题 公式 的 语义 求值 ： 公式 的 真值 要 么 是 真 要 么 是 假 。 至少 在 经典 逻辑 中 ， 没有 第三 个 真值 。 直觉 逻辑 不 接受 公理 NOT
+- 3 。
+
+推理 规 则
+
+[ 编辑 ]
+
+推理 规 则 是 肯定 前件 ：
+*
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > ϕ < / mi > < mo > , < / mo >
+< mtext > < / mtext > < mi > ϕ < / mi > < m o stretchy = " false " > → < / mo > < mi > χ < / mi >
+< mo > ⊢ < / mo > < mi > χ < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ phi , \ \ phi
+\ rightarrow \ chi \ vdash \ chi }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ phi , \ \ phi \ rightarrow \ chi \ vdash \ chi } .
+
+如果 还 使用 双 箭头 的 等 价 算子 的 话 ， 则 要 增加 如下 " 自然 " 推理 规 则 ：
+* IFF - 1 ：
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > ϕ < / mi > < m o
+stretchy = " false " > ↔ < / mo > < mi > χ < / mi > < mo > ⊢ < / mo > < mi > χ < / mi > < m o
+stretchy = " false " > → < / mo > < mi > ϕ < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ phi \ leftrightarrow
+\ chi \ vdash \ chi \ rightarrow \ phi }< / annotation > < / semantics >
+: MATH ]
+{\displaystyle \ phi \ leftrightarrow \ chi \ vdash \ chi \ rightarrow
+\ phi }
+* IFF - 2 ：
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > ϕ < / mi > < m o
+stretchy = " false " > → < / mo > < mi > χ < / mi > < mo > , < / mo > < mtext > < / mtext >
+< mi > χ < / mi > < m o stretchy = " false " > → < / mo > < mi > ϕ < / mi > < mo > ⊢ < / mo >
+< mi > ϕ < / mi > < m o stretchy = " false " > ↔ < / mo > < mi > χ < / mi > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ phi
+\ rightarrow \ chi , \ \ chi \ rightarrow \ phi \ vdash \ phi
+\ leftrightarrow \ chi }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ phi \ rightarrow \ chi , \ \ chi \ rightarrow \ phi
+\ vdash \ phi \ leftrightarrow \ chi }
+
+元 推理 规 则
+
+[ 编辑 ]
+
+设 一个 推导 被 表示 为 相继式 ， 各个 假设 在 十字 转门 （ turnstile ） 的 左侧 ， 而 结论 在 十字 转门 的 右侧 。 则 演绎 定理 可以 被 陈述 如下 ：
+
+如果 相继式
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < msub > < mi > ϕ < / mi >
+< mrow class = " MJX - TeXAtom - ORD " > < mn > 1 < / mn > < / mrow > < / msub >
+< mo > , < / mo > < mtext > < / mtext > < msub > < mi > ϕ < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mn > 2 < / mn > < / mrow > < / msub >
+< mo > , < / mo > < mtext > < / mtext > < mo > .< / mo > < mo > .< / mo >
+< mo > .< / mo > < mo > , < / mo > < mtext > < / mtext > < msub > < mi > ϕ < / mi >
+< mrow class = " MJX - TeXAtom - ORD " > < mi > n < / mi > < / mrow > < / msub >
+< mo > , < / mo > < mtext > < / mtext > < mi > χ < / mi > < mo > ⊢ < / mo >
+< mi > ψ < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ phi _{ 1 } , \
+\ phi _{ 2 } , \ ... , \ \ phi _ {n } , \ \ chi \ vdash \ psi
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ phi _{ 1 } , \ \ phi _{ 2 } , \ ... , \ \ phi _ {n } , \
+\ chi \ vdash \ psi }
+
+已经 被 证明 了 ， 则 也 有 可能 证明 相继式
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < msub > < mi > ϕ < / mi >
+< mrow class = " MJX - TeXAtom - ORD " > < mn > 1 < / mn > < / mrow > < / msub >
+< mo > , < / mo > < mtext > < / mtext > < msub > < mi > ϕ < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mn > 2 < / mn > < / mrow > < / msub >
+< mo > , < / mo > < mtext > < / mtext > < mo > .< / mo > < mo > .< / mo >
+< mo > .< / mo > < mo > , < / mo > < mtext > < / mtext > < msub > < mi > ϕ < / mi >
+< mrow class = " MJX - TeXAtom - ORD " > < mi > n < / mi > < / mrow > < / msub >
+< mo > ⊢ < / mo > < mi > χ < / mi > < m o stretchy = " false " > → < / mo >
+< mi > ψ < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ phi _{ 1 } , \
+\ phi _{ 2 } , \ ... , \ \ phi _ {n }\ vdash \ chi \ rightarrow \ psi
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ phi _{ 1 } , \ \ phi _{ 2 } , \ ... , \ \ phi
+_ {n }\ vdash \ chi \ rightarrow \ psi } 。
+
+这个 演绎 定理 （ DT ） 自身 没有 公式 化为 命题 演算 ： 它 不 是 命题 演算 的 定理 ， 而是 关于 命题 演算 的 一个 定理 。 在 这个 意义 上 ， 它 是 元 定理 ， 相当 于 关于 命题 演 算 可
+靠性 和 完备性 的 定理 。
+
+在 另一方面 ， DT 对于 简化 语法 上 的 证明 过程 是 如此 的 有用 以至于 它 看作 和 用 做 推理 规 则 ， 同 肯定 前件 一起 使用 。 在 这个 意义 上 ， DT 对 应 于 自然 条件 证明 推理 规
+则 ， 它 是 在 本 条目 中 提出 的 第二 个 例子 的 命题 演算 的 一 部分 。
+
+DT 的 逆定理 也 是 有效 的 ：
+
+如果 相继式
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < msub > < mi > ϕ < / mi >
+< mrow class = " MJX - TeXAtom - ORD " > < mn > 1 < / mn > < / mrow > < / msub >
+< mo > , < / mo > < mtext > < / mtext > < msub > < mi > ϕ < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mn > 2 < / mn > < / mrow > < / msub >
+< mo > , < / mo > < mtext > < / mtext > < mo > .< / mo > < mo > .< / mo >
+< mo > .< / mo > < mo > , < / mo > < mtext > < / mtext > < msub > < mi > ϕ < / mi >
+< mrow class = " MJX - TeXAtom - ORD " > < mi > n < / mi > < / mrow > < / msub >
+< mo > ⊢ < / mo > < mi > χ < / mi > < m o stretchy = " false " > → < / mo >
+< mi > ψ < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ phi _{ 1 } , \
+\ phi _{ 2 } , \ ... , \ \ phi _ {n }\ vdash \ chi \ rightarrow \ psi
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ phi _{ 1 } , \ \ phi _{ 2 } , \ ... , \ \ phi
+_ {n }\ vdash \ chi \ rightarrow \ psi }
+
+已经 被 证明 了 ， 则 也 有 可能 证明 相继式
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < msub > < mi > ϕ < / mi >
+< mrow class = " MJX - TeXAtom - ORD " > < mn > 1 < / mn > < / mrow > < / msub >
+< mo > , < / mo > < mtext > < / mtext > < msub > < mi > ϕ < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mn > 2 < / mn > < / mrow > < / msub >
+< mo > , < / mo > < mtext > < / mtext > < mo > .< / mo > < mo > .< / mo >
+< mo > .< / mo > < mo > , < / mo > < mtext > < / mtext > < msub > < mi > ϕ < / mi >
+< mrow class = " MJX - TeXAtom - ORD " > < mi > n < / mi > < / mrow > < / msub >
+< mo > , < / mo > < mtext > < / mtext > < mi > χ < / mi > < mo > ⊢ < / mo >
+< mi > ψ < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ phi _{ 1 } , \
+\ phi _{ 2 } , \ ... , \ \ phi _ {n } , \ \ chi \ vdash \ psi
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ phi _{ 1 } , \ \ phi _{ 2 } , \ ... , \ \ phi _ {n } , \
+\ chi \ vdash \ psi }
+
+实际上 ， DT 的 逆定理 的 有效性 相对 于 DT 而言 是 平凡 的 ：
+
+如果
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < msub > < mi > ϕ < / mi >
+< mrow class = " MJX - TeXAtom - ORD " > < mn > 1 < / mn > < / mrow > < / msub >
+< mo > , < / mo > < mtext > < / mtext > < mo > .< / mo > < mo > .< / mo >
+< mo > .< / mo > < mo > , < / mo > < mtext > < / mtext > < msub > < mi > ϕ < / mi >
+< mrow class = " MJX - TeXAtom - ORD " > < mi > n < / mi > < / mrow > < / msub >
+< mo > ⊢ < / mo > < mi > χ < / mi > < m o stretchy = " false " > → < / mo >
+< mi > ψ < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ phi _{ 1 } , \
+... , \ \ phi _ {n }\ vdash \ chi \ rightarrow \ psi }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle \ phi _{ 1 } , \ ... , \ \ phi _ {n }\ vdash \ chi
+\ rightarrow \ psi }
+
+则
+
+1 ：
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < msub > < mi > ϕ < / mi >
+< mrow class = " MJX - TeXAtom - ORD " > < mn > 1 < / mn > < / mrow > < / msub >
+< mo > , < / mo > < mtext > < / mtext > < mo > .< / mo > < mo > .< / mo >
+< mo > .< / mo > < mo > , < / mo > < mtext > < / mtext > < msub > < mi > ϕ < / mi >
+< mrow class = " MJX - TeXAtom - ORD " > < mi > n < / mi > < / mrow > < / msub >
+< mo > , < / mo > < mtext > < / mtext > < mi > χ < / mi > < mo > ⊢ < / mo >
+< mi > χ < / mi > < m o stretchy = " false " > → < / mo > < mi > ψ < / mi >
+< / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ phi _{ 1 } , \
+... , \ \ phi _ {n } , \ \ chi \ vdash \ chi \ rightarrow \ psi
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ phi _{ 1 } , \ ... , \ \ phi _ {n } , \ \ chi \ vdash
+\ chi \ rightarrow \ psi }
+2 ：
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < msub > < mi > ϕ < / mi >
+< mrow class = " MJX - TeXAtom - ORD " > < mn > 1 < / mn > < / mrow > < / msub >
+< mo > , < / mo > < mtext > < / mtext > < mo > .< / mo > < mo > .< / mo >
+< mo > .< / mo > < mo > , < / mo > < mtext > < / mtext > < msub > < mi > ϕ < / mi >
+< mrow class = " MJX - TeXAtom - ORD " > < mi > n < / mi > < / mrow > < / msub >
+< mo > , < / mo > < mtext > < / mtext > < mi > χ < / mi > < mo > ⊢ < / mo >
+< mi > χ < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ phi _{ 1 } , \
+... , \ \ phi _ {n } , \ \ chi \ vdash \ chi }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle \ phi _{ 1 } , \ ... , \ \ phi _ {n } , \ \ chi \ vdash
+\ chi }
+
+并且 可以 演绎 自 （ 1 ） 和 （ 2 ）
+
+3 ：
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < msub > < mi > ϕ < / mi >
+< mrow class = " MJX - TeXAtom - ORD " > < mn > 1 < / mn > < / mrow > < / msub >
+< mo > , < / mo > < mtext > < / mtext > < mo > .< / mo > < mo > .< / mo >
+< mo > .< / mo > < mo > , < / mo > < mtext > < / mtext > < msub > < mi > ϕ < / mi >
+< mrow class = " MJX - TeXAtom - ORD " > < mi > n < / mi > < / mrow > < / msub >
+< mo > , < / mo > < mtext > < / mtext > < mi > χ < / mi > < mo > ⊢ < / mo >
+< mi > ψ < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ phi _{ 1 } , \
+... , \ \ phi _ {n } , \ \ chi \ vdash \ psi }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle \ phi _{ 1 } , \ ... , \ \ phi _ {n } , \ \ chi \ vdash
+\ psi }
+
+通过 肯定 前件 的 方式 ， Q . E . D .
+
+DT 的 逆命题 有着 强有力 的 蕴涵 ： 它 可以 用 来 把 公理 转换 成 推理 规 则 。 例如 ， 公理 AND - 1
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ⊢ < / mo > < mi > ϕ < / mi >
+< mo > ∧ < / mo > < mi > χ < / mi > < m o stretchy = " false " > → < / mo > < mi > ϕ < / mi >
+< / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ vdash \ phi \ wedge
+\ chi \ rightarrow \ phi }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ vdash \ phi \ wedge \ chi \ rightarrow \ phi }
+
+可以 通过 演绎 定理 的 逆定理 的 方式 被 转换 成 推理 规 则
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > ϕ < / mi > < mo > ∧ < / mo >
+< mi > χ < / mi > < mo > ⊢ < / mo > < mi > ϕ < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ phi \ wedge \ chi
+\ vdash \ phi }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ phi \ wedge \ chi \ vdash \ phi }
+
+这 是 合取 除去 ， 是 前面 给 出 的 自然 演绎 命题 演 算 中 使用 的 十 个 推理 规 则 中 的 一个 。
+
+证明 的 例子
+
+[ 编辑 ]
+
+下面 是 （ 语法 上 ） 证明 的 一个 例子 ， 只 涉及 到 公理 THEN - 1 和 THEN - 2 ：
+要 证明 ： A → A （ 蕴涵 的 自反性 ） 。
+证明 ：
+
+1 . ( A → ( ( B → A ) → A ) ) → ( ( A → ( B → A ) ) → ( A → A ) )
+
+公理 THEN - 2 通过 φ = A , χ = B → A , ψ = A
+
+2 . A → ( ( B → A ) → A )
+
+公理 THEN - 1 通过 φ = A , χ = B → A
+
+3 . ( A → ( B → A ) ) → ( A → A )
+
+得 自 （ 1 ） 和 （ 2 ） 通过 肯定 前件 。
+
+4 . A → ( B → A )
+
+公理 THEN - 1 通过 φ = A , χ = B
+
+5 . A → A
+
+得 自 （ 3 ） 和 （ 4 ） 通过 肯定 前件 。
+
+等 价 于 等 式逻辑
+
+[ 编辑 ]
+
+前面 的 公理化 命题 演 算是 希尔伯特 风格 演绎 系统 的 一个 例子 。 在 这种 命题 系统 中 公理 是 用 逻辑链 接词 构建 的 项 ， 而 唯一 的 推理 规 则 是 肯定 前件 。 等 式逻辑 在 高等学
+校 的 抽象代 数 教学 中 被 作为 正式 的 标准 ， 它 是 不 同 于 希尔伯特 系统 的 一 类 不 同 的 演算 。 它 的 定理 是 等式 而 它 的 推理 规 则 表达 出 等号 的 性质 ， 也 就是 在 容许 代换 的 项
+上 的 相等 关系 。
+
+上述 的 经典 命题 演算 等 价 于 布尔代数 ， 而 直觉 命题 演算 等 价 于 海廷代 数 。 等 价 性 是 通过 在 两 个 方向 上 转换 各自 系统 的 定理 来 证明 的 。 经典 命题 演算 或 直觉 命题 演算
+的 定理Φ 被 分别 转换 为 布尔代数 或 Heyting 代数 的 等式 Φ = 1 。 反过 来 布尔代数 或 Heyting 代数 的 定理x =
+y 被 分别 转换 为 定理 经典 名义 演算 或 直觉 命题 演算 的 定理 ( x → y ) ∧ ( y → x ) ， 它 的 标准 简写 是 x ≡ y 。 在 布尔代数 的 情况 下 ， x =
+y 还 可以 被 转换 为 ( x∧y ) ∨ ( ¬x ∧¬y ) ， 但 在 直觉 命题 演算 的 情况 下 中 不 能 这 么 转换 。
+
+在 布尔代数 和 Heyting 代数 中 ， 可以 使用 不 等式 x ≤ y 代替 等式 。 等 式x = y 可以 被 表达 为 一对 不 等式 x ≤ y 和 y ≤ x 。 反过 来不 等式 x
+≤ y 可 被 表达 为 等式 x∧y = x 或 x∨y = y 。 不 等式 的 重要性 在于 它 对应 于希尔伯特 系统 的 演绎 或 蕴涵 符号
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ⊢ < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ vdash
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ vdash } 。 蕴涵
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < msub > < mi > ϕ < / mi >
+< mrow class = " MJX - TeXAtom - ORD " > < mn > 1 < / mn > < / mrow > < / msub >
+< mo > , < / mo > < mtext > < / mtext > < msub > < mi > ϕ < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mn > 2 < / mn > < / mrow > < / msub >
+< mo > , < / mo > < mo > … < / mo > < mo > , < / mo > < mtext > < / mtext > < msub >
+< mi > ϕ < / mi > < mrow class = " MJX - TeXAtom - ORD " > < mi > n < / mi >
+< / mrow > < / msub > < mo > ⊢ < / mo > < mi > ψ < / mi > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle
+\ phi _{ 1 } , \ \ phi _{ 2 } , \ ldots , \ \ phi _ {n }\ vdash \ psi
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ phi _{ 1 } , \ \ phi _{ 2 } , \ ldots , \ \ phi
+_ {n }\ vdash \ psi }
+
+被 转换 为 代数 框架 下 的 不等式
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < msub > < mi > ϕ < / mi >
+< mrow class = " MJX - TeXAtom - ORD " > < mn > 1 < / mn > < / mrow > < / msub >
+< mtext > < / mtext > < mo > ∧ < / mo > < mtext > < / mtext > < msub >
+< mi > ϕ < / mi > < mrow class = " MJX - TeXAtom - ORD " > < mn > 2 < / mn >
+< / mrow > < / msub > < mtext > < / mtext > < mo > ∧ < / mo >
+< mtext > < / mtext > < mo > … < / mo > < mtext > < / mtext > < mo > ∧ < / mo >
+< mtext > < / mtext > < msub > < mi > ϕ < / mi > < mrow
+class = " MJX - TeXAtom - ORD " > < mi > n < / mi > < / mrow > < / msub >
+< mtext > < / mtext > < mtext > < / mtext > < mo > ≤ < / mo >
+< mtext > < / mtext > < mtext > < / mtext > < mi > ψ < / mi > < / mstyle >
+< / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ phi _{ 1 } \
+\ land \ \ phi _{ 2 } \ \ land \ \ ldots \ \ land \ \ phi _ {n }\ \
+\ leq \ \ \ psi }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ phi _{ 1 } \ \ land \ \ phi _{ 2 } \ \ land \
+\ ldots \ \ land \ \ phi _ {n }\ \ \ leq \ \ \ psi }
+
+反 过 来 代数 不 等式 x ≤ y 被 转换 为 蕴涵
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > x < / mi >
+< mtext > < / mtext > < mo > ⊢ < / mo > < mtext > < / mtext > < mi > y < / mi >
+< / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle x \ \ vdash \
+y }< / annotation > < / semantics > : MATH ]
+{\displaystyle x \ \ vdash \ y }
+
+在 实质 条件 （ implication ） x → y 和 不 等式 或者 蕴涵 （ ent ailment ） x ≤ y 或
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > x < / mi > < mtext > < / mtext >
+< mo > ⊢ < / mo > < mtext > < / mtext > < mi > y < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle x \ \ vdash \ y }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle x \ \ vdash \ y }
+之间 的 区别 在于 ， 前者 是 内在 于逻辑 的 ， 而 后者 是 外在 的 。 在 两 个 项 之间 内在 的 实质 条件 是 同类 的 另 一个 项 。 在 两 个 项 之间 的 外在 的 蕴涵 表达 了 在 逻辑 语言 之外 的
+元 真理 ， 并 被 认为 是 元语言 的 一 部分 。 即使 所 研究 的 逻辑 是 直觉 的 ， 蕴涵 都 通常 经典 的 理解 为 二 值 的 ： 要 么 左侧 蕴涵 （ 或 小于 等于 ） 右侧 ， 要 么 不 蕴涵 之 。
+
+同 代数 逻辑 之间 类似 但 更加 复杂 的 相互 转换 ， 对于 自然 演绎 系统 和 相继式 演算 也 是 可能 的 。 后者 的 转换 可以 被 释义 为 二值 的 ， 但是 更 有 洞察力 的 释义 是 作为 集合 ，
+它 的 元素 可以 被 理解 为由 范畴 的 态射 组成 的 抽象 证明 。 在 这种 释义 下 相继式 演算 的 切规 则 对应 于 范畴 的 复合 。
+
+其他 逻辑 演算
+
+[ 编辑 ]
+
+命题 演算 大概 是 在 所有 当前 使用 的 逻辑 演算 中 最 简单 的 一 种 。 （ 亚里士多德 的 “ 三 段 论 ” 演算 ， 在 现代 逻辑 中 在 很 大 程度 上 被 替代 了 ， 它 与 命题 逻辑 相比 在 某些 方
+面 更 简单 -- 但 在 其他 方面 更加 复杂 ） 。 它 可以 按 很多 方式 来 扩展 。
+
+最 直接 的 方式 是 开发 一个 更加 复杂 的 逻辑 演算 ， 介入 对 所 用于 的 句子 的 更 精细 的 细节 敏感 的 规 则 。 在 命题 逻辑 中 的 原子 句子 被 分解 成 项 （ 英语 ： Singular
+term ） 、 变量 、 谓 词 和 量词 的 时候 ， 它们 就 生成 了 一 阶 逻辑 ， 或者 叫做 一 阶谓 词逻辑 ， 它 保留 命题 逻辑 的 所有 规 则 并 增加 了 一些 新规 则 。 （ 例如 ， 从 “ 所有 的
+狗 都 是 动物 ” 我们 可以 推出 “ 如果 Rover 是 狗 ， 则 Rover 是 动物 ” ） 。
+
+通过 一 阶 逻辑 的 工具 ， 有 可能 公式化 一些 理论 ， 要 么 带有 显式 的 公理 要 么 通过 推理 规 则 ， 而 把 它们 自身 当作 逻辑 演算 。 算术 是 其中 最 周知 的 理论 ； 其他 的 还 包括 集
+合论 和 分体论 。
+
+模态 逻辑 也 提供 了 一 种 推理 的 变体 ， 它 不 能 在 命题 演 算 中 捕获 。 例如 ， 从 “ 必然 地 p ” 我们 可以 推出 p 。 从 p 我们 可以 推出 “ 可能 地 p ” 。
+
+多 值 逻辑 是 允许 句子 有除 了 “ 真 ” 和 “ 假 ” 之外 的 值 的 逻辑 。 （ 例如 ， “ 都 不 ” 和 “ 都 是 ” 是 标准 的 “ 额外值 ” ； “ 连 续统 逻辑 ” 允许 每个 句子 有 任何 的 在 “ 真 ”
+和 “ 假 ” 之间 的 表示 “ 真实 程度 ” 的 无限 个值 ） 。 这些 逻辑 经常 要求 与 命题 逻辑 非常 不 同 的 运算 设备 。
+
+参见
+
+[ 编辑 ]
+* 逻辑
+* 零阶 逻辑
+* 演绎 推理
+* 希尔伯特 演绎 系统
+* 自然 演绎
+* 推理 规 则 列表 （ 英语 ： List of rules of inference ）
+* 相继式 演算
+* 布尔逻辑
+* 布尔代 数
+* 一 阶逻辑
+
+引用
+
+[ 编辑 ]
+* Brown , Frank Markham ( 2003 ) , Boolean Reasoning : The Logic of Boolean
+Equations , 1 s t edition , Kluwer Academic Publishers , Norwell , M A .
+2nd edition , Dover Publications , Mineola , NY .
+* Chang , C . C . , and Keisler , H . J . ( 1973 ) , Model Theory , North - Holland ,
+Amsterdam , Netherland s .
+* Kohavi , Zvi ( 1978 ) , Switching and Finite Automata Theory , 1 s t
+edition , McGraw–Hill , 1970 . 2nd edition , McGraw–Hill , 1978 .
+* Korfhage , Robert R . ( 1974 ) , Discrete Computational Structures ,
+Academic Press , New York , NY .
+* Lambek , J . and Scott , P . J . ( 1986 ) , Introduction t o Higher Order
+Categorical Logic , Cambridge University Press , Cambridge , UK .
+* Mendelson , Elliot ( 1964 ) , Introduction t o Mathematical Logic , D . Van
+Nostrand Company .
+
+外部 链接
+
+[ 编辑 ]
+* Klement , Kevin C . ( 2006 ) , " Propositional Logic " , in James Fieser
+and Bradley Dowden ( ed s . ) , Internet Encyclopedia of Philosophy ,
+Eprint （ 页面 存档 备份 ， 存 于 互联网 档案馆 ） .
+* Introduction t o Mathematical Logic （ 页面 存档 备份 ， 存 于 互联网 档案馆 ）
+* Element s of Propositional Calculus
+* forall x : an introduction t o formal logic （ 页面 存档 备份 ， 存 于 互联网 档案馆 ） , by P . D .
+Magnus , covers formal semantics and proof theory for sentential
+logic .
+* Propositional Logic ( GFDLed )
+
+参考 资料
+
+[ 编辑 ]
+1 . ^ Bobzien , Susanne . Zalta , Edward N . , 编 . The Stanford Encyclopedia
+of Philosoph y . 1 January 2016 [ 2023 - 07 - 0 8 ] . （ 原始 内容 存档 于 2019 - 03 - 18 ）
+– 通过 Stanford Encyclopedia of Philosoph y .
+
+* 查
+* 论
+* 编
+
+逻辑 联结词
+* 恒真 （
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi
+mathvariant = " normal " > ⊤ < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ top }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle \ top } ）
+
+[ 100 p x - Logical _ connectives _ Hasse _ diagram . sv g . png ]
+* 与 非 （
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < m o stretchy = " false " > ↑ < / mo >
+< / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ uparrow }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle \ uparrow } ）
+* 反 蕴涵 （
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < m o stretchy = " false " > ← < / mo >
+< / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ leftarrow
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ leftarrow } ）
+* 蕴涵 （
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < m o stretchy = " false " > → < / mo >
+< / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ rightarrow
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ rightarrow } ）
+* 或 （
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ∨ < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ lor
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ lor } ）
+
+* 非 （
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi
+mathvariant = " normal " > ¬ < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ neg }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle \ neg } ）
+* 异 或 （
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ⊕ < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ oplus
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ oplus } ）
+* 双 条件 （
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < m o stretchy = " false " > ↔ < / mo >
+< / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ leftrightarrow
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ leftrightarrow } ）
+* 命题
+
+* 或 非 （
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < m o stretchy = " false " > ↓ < / mo >
+< / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ downarrow
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ downarrow } ）
+* 非 蕴涵 （
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ↛ < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle
+\ nrightarrow }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ nrightarrow } ）
+* 反非 蕴涵 （
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ↚ < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ nleftarrow
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ nleftarrow } ）
+* 与 （
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ∧ < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ land
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ land } ）
+
+* 恒假 （
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi
+mathvariant = " normal " > ⊥ < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ bot }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle \ bot } ）
+
+* 查
+* 论
+* 编
+
+数理 逻辑
+
+基本 概念
+
+* 公理
++ 列表
+* 势
+* 一 阶逻辑
+* 形式 证法 （ 英语 ： Formal proof ）
+* 逻辑 语义学
+* 数学 基础
+* 信息论
+* 蕴涵
+* 结构
+* 集合
+* 定理
+* 形式 理论
+* 类型论
+
+定理
+（ 列表 （ 英语 ： Category : Theorems in the foundations of
+mathematics ） 及 悖论 （ 英语 ： Paradoxes of set theory ） ）
+
+* 哥德尔 完备性 定理 及 哥德尔 不 完备 定理
+* 塔斯基 不 可 定义 定理
+* 巴拿赫 - 塔斯基 定理
+* 康托尔 定理 、 悖论 和 对 角 论证法
+* 紧致性 定理
+* 停机 问题
+* 林德斯特伦 定理 （ 英语 ： Lindström ' s theorem ）
+* 勒 文海姆 –斯科伦 定理
+* 罗 素悖论
+
+逻辑
+
+传统 逻辑
+* 逻辑 真理
+* 恒真式
+* 命题
+* 推理
+* 逻辑 等 价
+* 一致性
++ 相同 一致性 （ 英语 ： Equicons istency ）
+* 逻辑 论证
+* 可靠性 定理
+* 有效性
+* 直言 三 段 论
+* 对立 四边形
+* 文氏 图
+
+命题 逻辑
+* 逻辑 代数
+* 布尔函数
+* 逻辑 运算 符
+* 命题 逻辑
+* 命题 公式
+* 真 值表
+* 多 值 逻辑
++ 三 值
++ 有限值 （ 英语 ： Finite - v alued logic ）
++ 无限值
+
+经典 逻辑
+* 经典 逻辑
+* 一 阶逻辑
+* 二阶 逻辑
++ 一 元 （ 英语 ： Monadic second - order logic ）
+* 高阶 逻辑
+* 自由 逻辑
+* 量化
+* 谓词 （ 英语 ： Predicate ( mathematical logic ) ）
+* 一 元谓 词演 算
+
+集合论
+
+* 集合
++ 遗传集 （ 英语 ： Hereditary set ）
+* 类
+* （ 基本 ） 元素
+* 有序 对
+* 序数
+* 子集
+* 相等
+* 外延性
+* 力迫
+* 关系
++ 等 价 关系
++ 集合 划分
+* 集合 运算
++ 交集
++ 并 集
++ 补集
++ 笛 卡儿 积
++ 幂集
++ 同一性 （ 英语 ： List of set identities and relations ）
+
+集合 种类
+* 可 数 集
+* 不 可数 集
+* 空集
+* 居集 （ 英语 ： Inhabited set ）
+* 单 元素 集合
+* 有限 集合
+* 无限 集合
+* 传递 集合
+* 超滤子 （ 英语 ： Ultrafilter ( set theory ) ）
+* 递 归 集合
+* 模糊集
+* 全集
++ 可 构造 全集 （ 英语 ： Constructible universe ）
++ 格伦迪克 全集 （ 英语 ： Grothendieck universe ）
++ 冯 · 诺伊曼 全集
+
+映射 与 势
+* 函数 、 映射
++ 定 义域
++ 到 达域
++ 像
+* 单射 、 满射 、 双射
+* 康托尔 - 伯恩斯坦 - 施 罗 德 定理
+* 同构
+* 哥德尔数
+* 列举法
+* 大 基数
++ 不 可 达 基数
+* 阿 列夫 数
+* 运算
++ 二 元 运算
+
+集合 理论
+* 策 梅洛 - 弗兰克尔 ( ZFC )
++ 选择 公理
++ 连 续统 假设
+* 广义 集合论 ( GST ) （ 英语 ： General set theory ）
+* 克里普克 - 普拉克 ( KP ) （ 英语 ： Kripke –Platek set theory ）
+* 莫尔斯 - 凯利 集合论 ( MK ) （ 英语 ： Morse–Kelley set theory ）
+* 朴素 集合论
+* 新 基础 集合论
+* 塔斯基 - 格 罗 滕迪克 ( TG ) （ 英语 ： Tarski–Grothendieck set theory ）
+* 冯 · 诺伊曼 - 博内斯 - 哥 德尔 ( NBG )
+* 建 构式 集合论 （ 英语 ： Constructive set theory ）
+
+句法 （ 英语 ： Synt ax ( logic ) ） 及 语言
+
+* 字 母表
+* 元数
+* 自动机 理论
+* 公理 模式
+* 表达式
++ 基础 表达式 （ 英语 ： Ground expression ）
+* 扩展 （ 英语 ： Extension by new cons tant and function names ）
+* 关系
+* 形式
++ 文法
++ 语言
++ 证明
++ 系统
++ 理论
+* 形成 规 则 （ 英语 ： Formation rule ）
+* 合式 公式
++ 原 子公式
++ 封闭式
++ 基本式 （ 英语 ： Ground formula ）
++ 开放式
+* 自由 变量 和 约束 变量
+* 元 语言
+* 逻辑 运算 符
++ ¬
++ ∨
++ ∧
++ →
++ ↔
++ 逻辑 相等 （ 英语 ： Logical equality ）
+* 谓词 （ 英语 ： Predicate ( mathematical logic ) ）
++ 泛 函谓 词
++ 谓 词变量
++ 命题 变量
+* 量化
++ ∃
++ !
++ ∀
++ 级别 （ 英语 ： Quantifier rank ）
+* 句子
++ 原子 句子
+* 逻辑 签名 （ 英语 ： Signature ( logic ) ）
+* 字符串
+* 替换法 （ 英语 ： Substitution ( logic ) ）
+* 逻辑 符号
++ 函数 符号
++ 逻辑 常量 （ 英语 ： Logical cons tant ）
++ 非逻辑 符号 （ 英语 ： Non - l ogical symbol ）
++ 变量
+* 逻辑 术语 （ 英语 ： Term ( logic ) ）
+
+公理 系统 示例
+（ 列表 （ 英语 ： List of first - order theories ） ）
+* 实 算术 （ 英语 ： True arithmetic ）
++ 皮亚诺 公理
++ 二阶 （ 英语 ： Second - order arithmetic ）
++ 初 等 函数 （ 英语 ： Element ary function arithmetic ）
++ 原始 递 归 （ 英语 ： Primitive recursive arithmetic ）
++ 罗 宾逊 算术 （ 英语 ： Robinson arithmetic ）
++ 斯科勒姆 算术 （ 英语 ： Skolem arithmetic ）
+* 实数 的 构造
++ 塔尔斯基 公理化 （ 英语 ： Tarski ' s axiomatization of the reals ）
+* 布尔代 数
++ 正 则 定义 （ 英语 ： Boolean algebras canonically defined ）
++ 最 小 公理 （ 英语 ： Minimal axioms for Boolean algebra ）
+* 几何 （ 英语 ： Foundations of geometry ）
++ 欧 几 里 得 几何
++ 《 原本 》
++ 希尔伯特 公理
++ 非 欧 几 里 得 几何
++ 塔尔斯基 公理 （ 英语 ： Tarski ' s axioms ）
+* 《 数学原理 》
+
+证明论
+
+* 形式 证明
+* 自然 演绎
+* 蕴涵
+* 推理 规 则
+* 相继式 演算
+* 定理
+* 系统
++ 形式
++ 公理
++ 演绎
++ 希尔伯特 演绎 系统
+o 列表 （ 英语 ： List of Hilbert systems ）
+* 完备 理论 （ 英语 ： Complete theory ）
+* ZFC 系统 的 独立性 （ 英语 ： Independence ( mathematical logic ) ）
++ 列表
+* 不 可能 证明 （ 英语 ： Proof of impossibility ）
+* 序数 分析 （ 英语 ： Ordinal analysis ）
+* 逆 数学
+* 自恰 理论 （ 英语 ： Self - verifying theories ）
+
+模型论
+
+* 解释
+* 结构
++ 初 等等 价
++ 有限 模型 （ 英语 ： Finite model theory ）
++ 饱和 模型
++ 子结构
+* 非 标准 模型
++ 算术 （ 英语 ： Non - s tandard model of arithmetic ）
+* 结构图 （ 英语 ： Diagram ( mathematical logic ) ）
++ 基本图 （ 英语 ： Element ary diagram ）
+* 分类 理论 （ 英语 ： Categorical theory ）
+* 完备 模型论 （ 英语 ： Model complete theory ）
+* 可 满足性 （ 英语 ： Satisfiability ）
+* 逻辑 语义学
+* 强度 （ 英语 ： Streng th ( mathematical logic ) ）
+* 真理
++ 语义 理论
++ 塔尔斯基
++ 克里普克
+* T - 模式
+* 转移 原 则 （ 英语 ： Transfer principle ）
+* 真理 谓词 （ 英语 ： Truth predicate ）
+* 真值
+* 型
+* 超积
+* 有效性
+
+可 计算性 理论
+
+* 邱奇数
+* 邱奇 - 图 灵论 题
+* 递 归可枚举 集合
+* 可 计算 函数
+* 递 归 集合
+* 决定性 问题
++ 可 决定性 （ 英语 ： Decidability ( logic ) ）
++ 不 可 决定性
++ P
++ NP
++ P / NP 问题
+* 柯氏 复杂性
+* Λ演 算
+* 原始 递归 函数
+* 递 归
+* 递 归 集合
+* 图灵机
+* 类型论
+
+其他 相关
+
+* 抽象 逻辑 （ 英语 ： Abstract logic ）
+* 范畴论
+* 具象 范畴 、 抽象 范畴
+* 集合 范畴
+* 逻辑史
+* 数理 逻辑
++ 历史 年表 （ 英语 ： Timeline of mathematical logic ）
+* 逻辑主义
+* 数学 对象
+* 数学 哲学
+* 超 任务 （ 英语 ： Supertask ）
+
+[ 16 p x - Nuvola _ apps _ edu _ mathematics _ blue - p . sv g . png ] 数学 主题
+
+检索 自 “ https : // z h . wikipedia . org / w / inde x . php ? title = 命题 逻辑 & oldid = 78064914 ”
+
+分类 ： ​
+* 逻辑
+* 数理 逻辑
+* 形式逻辑 系统
+* 命题 演算
+
+隐藏 分类 ： ​
+* 含有 拉丁语 的 条目
+
+* 本页面 最后 修订 于 2023年 7月 13日 ( 星期四 ) 10 : 44 。
+* 本站 的 全部 文字 在 知识 共享 署名 - 相同 方式 共享 4 . 0 协议 之 条款 下 提供 ， 附加 条款 亦 可能 应用 。 （ 请 参阅 使用 条款 ）
+Wikipedia® 和 维基 百科 标志 是 维基 媒体 基金会 的 注册 商标 ； 维基™ 是 维基 媒体 基金会 的 商标 。
+维基 媒体 基金会 是 按 美国 国内 税收法 501 ( c ) ( 3 ) 登记 的 非营利 慈善 机构 。
+
+* 隐私 政策
+* 关于 维基 百科
+* 免责 声明
+* 行为 准 则
+* 开发者
+* 统计
+* Cookie 声明
+* 手机 版视 图
+
+* Wikimedia Foundation
+* Powered by MediaWiki

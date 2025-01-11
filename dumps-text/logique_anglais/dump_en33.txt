@@ -1,0 +1,481 @@
+    Paperform logo
+   ProductsSolutionsIntegrationsTemplatesResourcesPricing
+   Sign inTry Paperform Free
+   Products
+   PaperformPaperform is an online form builder like no other. It combines
+   serious digital smarts with beautiful design to create endless
+   possibilities.PapersignSimplify document signing with Papersign, so you
+   can spend less time in email chains and more time on the important
+   stuff.
+   Solutions
+   Web FormsScheduling FormsOrder FormsPayment FormsCalculation
+   FormsSubscription FormsConditional LogicLanding page FormsQuiz
+   MakerPoll MakerSurvey MakerTest MakerSee all solutions
+
+All Solutions
+
+   Explore all the solutions you can create with Paperform: surveys,
+   quizzes, tests, payment forms, scheduling forms, and a whole lot more.
+
+   Explore all the solutions you can create with Paperform: surveys,
+   quizzes, tests, payment forms, scheduling forms, and a whole lot more.
+   See all solutions
+   Integrations
+   Google Sheets
+   Google Sheets
+   Mailchimp
+   Mailchimp
+   Active Campaign
+   Active Campaign
+   Slack
+   Slack
+   Trello
+   Trello
+   Hubspot
+   Hubspot
+   Notion
+   Notion
+   Airtable
+   Airtable
+   Asana
+   Asana
+   Intercom
+   Intercom
+   Dropbox
+   Dropbox
+   ConvertKit
+   ConvertKit
+   See all integrations
+   See all integrations
+   Connect with over 2,000 popular apps and software to improve
+   productivity and automate workflows
+
+   Connect with over 2,000 popular apps and software to improve
+   productivity and automate workflows
+   See all integrations
+   Templates
+   Resources
+   BlogReal-life stories, trends, and strategies to help you grow your
+   business.CareersJoin the company that prioritises 'life-work'
+   balance.Online Signature GeneratorCreate and download a signature.
+   Merch StoreGet your hands on Paperform swag.Getting StartedHelpful
+   guides to get you on track.Help CenterWe've got all the answers to your
+   questions.
+   Pricing
+   Sign InTry Paperform Free
+
+Products
+
+   PaperformPaperform is an online form builder like no other. It combines
+   serious digital smarts with beautiful design to create endless
+   possibilities.PapersignSimplify document signing with Papersign, so you
+   can spend less time in email chains and more time on the important
+   stuff.
+
+Solutions
+
+   Web FormsScheduling FormsOrder FormsPayment FormsCalculation
+   FormsSubscription FormsConditional LogicLanding page FormsQuiz
+   MakerPoll MakerSurvey MakerTest MakerSee all solutions
+
+All Solutions
+
+   Explore all the solutions you can create with Paperform: surveys,
+   quizzes, tests, payment forms, scheduling forms, and a whole lot more.
+
+   Explore all the solutions you can create with Paperform: surveys,
+   quizzes, tests, payment forms, scheduling forms, and a whole lot more.
+   See all solutions
+
+Integrations
+
+   Google Sheets
+   Google Sheets
+   Mailchimp
+   Mailchimp
+   Active Campaign
+   Active Campaign
+   Slack
+   Slack
+   Trello
+   Trello
+   Hubspot
+   Hubspot
+   Notion
+   Notion
+   Airtable
+   Airtable
+   Asana
+   Asana
+   Intercom
+   Intercom
+   Dropbox
+   Dropbox
+   ConvertKit
+   ConvertKit
+   See all integrations
+   See all integrations
+   Connect with over 2,000 popular apps and software to improve
+   productivity and automate workflows
+
+   Connect with over 2,000 popular apps and software to improve
+   productivity and automate workflows
+   See all integrations
+
+Resources
+
+   BlogReal-life stories, trends, and strategies to help you grow your
+   business.CareersJoin the company that prioritises 'life-work'
+   balance.Online Signature GeneratorCreate and download a signature.
+   Merch StoreGet your hands on Paperform swag.
+
+Need Help?
+
+   Getting StartedHelpful guides to get you on track.Help CenterWe've got
+   all the answers to your questions.
+
+Logic Guide
+
+   Help Making Forms Using the Editor Configuring Behavior
+   ____________________Search for articles
+
+   IFRAME:
+   https://www.loom.com/embed/51bacda62e2f463c881e8627f81eb769?hide_owner=
+   true&hide_share=true&hide_title=true&hideEmbedTopBar=true
+
+   Introduction
+   How it worksSetting a conditionMultiple conditions
+   Visibility logicQuestion visibility logicSection visibility logicPage
+   visibility logicUsing visibility logic
+   Applying logic to actionsEmailsIntegrationsSuccess Pages & Redirects
+   Complex conditions
+   GotchasWorking with similar question titlesWorking with numbersBlank or
+   unfinished conditions
+
+Introduction
+
+   Conditional logic can be used to change the way your form behaves
+   depending on how it is filled out. You may want to show or hide a
+   certain question for example, depending on how another question is
+   answered. The same visibility logic can be applied to entire sections,
+   or even pages of content. You can also use logic to determine which
+   actions trigger after the form is submitted.
+
+   In this guide, you will learn how to:
+     * Set conditions
+     * Effectively combine multiple conditions
+     * Apply visibility logic to questions, sections, and pages
+     * Conditionally trigger specific emails, integrations, success pages,
+       and redirects
+     * Combine logic with Calculations for more complex conditions
+
+     Custom Pricing Rules can also be used to conditionally alter the
+     total price on payment forms.
+
+How it works
+
+Setting a condition
+
+   Logic can be toggled on in many places throughout the form editor. If
+   you select it, you’ll see a series of dropdown menus used to set a
+   condition. When this condition is met, the content will be visible, or
+   the action will be triggered.
+   An example condition is set from three dropdown menus: "Experience
+   Level ... is ... Beginner"
+
+   Each condition is made up of three parts: the question, the operator,
+   and the value.
+
+   First, you'll choose the question. Logic can be based on any field's
+   answer, including Hidden fields and Calculations. If you've set up any
+   Scoring on your form, you'll also see "Score" listed as an option at
+   the bottom of the list.
+
+   Next, select an operator (is, contains, etc.), and then type or select
+   the value that should be compared to the answer given on the form. Keep
+   in mind that this value is case-sensitive, and it must match the
+   expected answer exactly.
+
+     Need the condition to be case-insensitive? Use a Calculation field
+     to transform the original answer to all uppercase using the UPPER()
+     function. Then, target that Calculation in the logic, and set the
+     value to the uppercase version of the answer. Read on to learn more
+     about combining logic with Calculations.
+
+Multiple conditions
+
+   You can click the “Add another condition” button to set more rules.
+   Additional conditions can be separated using “And” or “Or.”
+     * And: all conditions must be met.
+     * Or: at least one condition must be met.
+
+   If you need to combine “And” and “Or” in a single set of conditions,
+   it’s recommended that you group some of them together by selecting
+   “Multiple Condition Group” at the very end of the question dropdown
+   menu. Kind of like parentheses in a math equation, this tells the form
+   which part of the logic to evaluate first.
+   Conditional logic that uses the "Multiple Conditions" option to group
+   the second and third condition together like: A or (B and C)
+
+   Now that we've got a basic understanding of how conditions work, let's
+   take a look at the different ways logic can be applied.
+
+Visibility logic
+
+Question visibility logic
+
+   Perfect for a follow-up question to a specific answer, visibility logic
+   is most often applied to a single question.
+
+   To set up question visibility logic:
+    1. Click the question that should be hidden or revealed.
+    2. Make sure “Hide this question” is toggled off (if applicable).
+    3. Toggle on “Question visibility logic."
+    4. Set the condition(s) that should be met for the question to appear.
+    5. Click "Done."
+
+   Once added, you can edit your visibility logic by clicking on the
+   "Configure Logic → x conditions" button below the "Question visibility
+   logic" toggle.
+   The "Question visibility logic" toggle is available in the
+   configuration panel when you click a field. A button will appear below
+   this allowing you to edit the conditions.
+
+   If you'd like to control visibility logic for a group of questions or
+   any other content on the form page, then you'll want to use section or
+   page breaks instead.
+
+Section visibility logic
+
+   Section breaks are perfect for applying logic to a group of questions
+   without changing the page. They can also cover other content, so you
+   can use them to apply visibility logic to headings, paragraph text,
+   images, embedded videos, etc.
+
+   To add a section break, type "/break" into a blank line in the editor,
+   then select "Section break." The red line that appears in the editor
+   represents the beginning of a new section.
+
+   You can configure the break to add visibility logic that will apply to
+   everything below this line, up until the next section or page break.
+   A pair of section breaks wrapped around a heading and a few questions.
+   Clicking this opens the configuration panel. You can delete the section
+   break by clicking the X that appears to the left.
+
+Page visibility logic
+
+   When an entire page is "hidden," that means that it will be skipped
+   completely when the user clicks the next page button (→). You can use
+   visibility logic to determine which pages will be displayed or skipped.
+
+   To add a page break, type "/break" into a blank line in the editor,
+   then select "Page break." A page break appears as a blue line when
+   editing the form.
+
+   Configure the break to add visibility logic that will apply to
+   everything below this line, up until the following page break (or the
+   end of the form).
+
+     When working with any breaks, try to avoid any redundant logic. If
+     logic is applied to a page, it will automatically be applied to any
+     sections and questions on that page. Repeating the same logic rules
+     in those sub-sections and individual questions can make things more
+     difficult to edit later. This also applies to individual questions
+     inside sections.
+
+Using visibility logic
+
+   The most common use of logic is to conditionally show or hide certain
+   questions, sections, or pages of the form.
+   Animated GIF of some visibility logic in practice on a live form. As
+   each question is answered, more questions and text appear.
+
+Applying logic to actions
+
+Emails
+
+   Custom emails can be configured under After Submission → Emails. When
+   adding a new email or editing an existing one, you can toggle on “Email
+   Logic” at the very bottom of the page. After the form is submitted, the
+   email will be sent only if the condition(s) have been met.
+   A custom email with Email Logic toggled on and the "Configure Logic"
+   button displayed.
+
+   In the example above, an email will be sent to the manager of the
+   Downtown branch if someone uses the form to sign up for classes at that
+   location.
+
+   You can set as many custom emails as you like, and each one can be sent
+   under different conditions.
+
+Integrations
+
+   Much like an email, you can set a direct integration to only fire under
+   certain conditions. For example, you might want to add the submitter’s
+   email to your mailing list in MailChimp, but only if they indicate on
+   the form that they’d like to sign up.
+   Conditional logic in an integration: "Would you like to sign up for the
+   newsletter? ... is ... Sign me up!"
+
+   To add conditional logic to your integration:
+    1. Head to After Submission → Integrations & Webhooks.
+    2. To update an existing integration, find it below the list of apps,
+       then select “Edit” from the cogwheel icon to the right. Or, to
+       create a new one, select the app and follow the prompts.
+    3. Scroll down to the very bottom of the page and toggle on “Use
+       conditional logic.”
+    4. Set the condition(s) that should be met in order for the
+       integration to fire.
+
+Success Pages & Redirects
+
+   Users on selected pricing plans have access to Dynamic Success Pages &
+   Redirects. With this feature, logic can be used to determine which page
+   displays after the form is submitted. An automatic redirect can
+   optionally happen after that, with the same conditions applied.
+
+   Quizzes are a common use case for dynamic success pages—you may want to
+   show one of several possible pages of results to the submitter,
+   depending on their answers. The logic could be based on their final
+   Score, the result of a Calculation, or the answers themselves.
+   The configuration for a dynamic success page, titled "Quiz Result: 100%
+   Correct!" Email logic is toggled on, and the Configure Logic button is
+   showing that 2 conditions are set.
+
+   To set this up:
+    1. Head to After Submission → Success Pages & Redirects.
+    2. Toggle on "Dynamic Success Pages & Redirects."
+    3. Click the "Add Page +" button to set up the first page.
+    4. Toggle on “Page has conditions when it should be used” to apply
+       logic to this page.
+    5. Design the success page, save it, and then repeat for the next
+       conditional page.
+
+   You can also use this for conditional redirects. By enabling "Redirect
+   to another URL," the user will be sent somewhere else automatically
+   after a success page has been shown for a specified amount of time.
+
+     Conditional redirects can fire quickly after submission, but the
+     success page will always load for at least a moment before the
+     redirect can begin. For a more seamless transition, try deleting
+     everything on the success page so that it is completely blank. Then,
+     set "Redirect after this many seconds" to 0.
+
+Complex conditions
+
+   You may need to apply some logic that is a bit more complicated than
+   what you can accomplish using a few dropdown menus. On selected pricing
+   plans, robust Calculation fields are available for just about anything
+   you can think of—applying math to answers, transforming answers using
+   functions, etc. Once you have the answer you need from the Calculation,
+   you can select that field in the logic dropdown instead of the original
+   question.
+
+   For example, let’s say we need a parent or guardian's e-signature if
+   the student filling out the form is under 18 years old.
+
+   We can pull the submitter's date of birth into a Calculation field set
+   up like this one to determine their age:
+dob = {{ date_question_id }};
+
+DATEDIFF( NOW(), dob, "years" );
+
+   Then, we’ll apply some visibility logic to the Signature field on our
+   form using the Calculation's result:
+   Question visibility logic with the condition "Age (Calculation) ... is
+   less than ... 18"
+
+   Calculations are extremely versatile, but they can be a bit
+   overwhelming to learn at first. If you’re having any trouble, feel free
+   to ask for help via the live chat in the bottom right of the screen or
+   send us an email at support@paperform.co.
+
+Gotchas
+
+Working with similar question titles
+
+   Many forms include repeated or similar questions, which can make it
+   difficult to know if you’re selecting the correct question for a
+   condition. We include each field's Question ID in dropdowns to help you
+   identify which question you are selecting.
+   The first "Choose question" dropdown in visibility logic, showing a
+   list that includes multiple copies of the same question title, but with
+   different Question IDs..
+
+   You can also temporarily add a number or another identifier to the
+   beginning of each repeated question's title, so that you know exactly
+   what you’re looking for in the logic dropdown or the question panel.
+   The question panel showing a list of numbered questions with otherwise
+   similar titles.
+
+   Once all of the logic is set up and tested, you can go back through and
+   delete the numbers to return the questions to their original names.
+
+Working with numbers
+
+   The operators "is more than" and "is less than" are options when
+   selecting question types that typically return numeric values (Number,
+   Slider, Score, etc).
+
+   If you'd like to use this kind of logic with a different question type
+   (like Dropdown or Scale), try using a Calculation field to turn that
+   answer into a numeric value first.
+NUMBERVALUE( {{ question_id }} )
+
+   It’s also important to note that "is more than" and "is less than" are
+   not inclusive, meaning that a matching number will not be valid. For
+   example, let’s say you wanted to show one success page if the
+   submitter’s Score is less than 10, and another if they score 10 or more
+   points. You would want to use:
+     * Result A: “Score is less than 10”
+     * Result B: “Score is 10” OR “Score is more than 10”
+
+   Notice that two conditions are required for Result B in this example.
+   If you only used “less than 10” for the first result and “more than 10”
+   for the second, then a score of exactly 10 wouldn’t trigger either
+   page.
+
+     When working with whole numbers only, you can also get away with
+     using something like "more than 9" to check for an answer that is 10
+     or higher. If there's any chance that the answer will be a decimal
+     though, stick to the two-condition method shown above. An answer of
+     9.5 is not "10 or higher," but it would meet the condition "more
+     than 9."
+
+Blank or unfinished conditions
+
+   Screenshot of some unfinished conditional logic: "Score ... is ...
+   [Answer...] ... OR ... [Choose question]"
+
+   If you find that some content is simply never visible, or a certain
+   action never fires, double-check the logic to make sure that all of the
+   conditions are set up completely (including the value for each answer).
+   When a question is deleted, or its type or options get changed, this
+   may affect logic that depends on that question in another part of the
+   form.
+
+   If logic is toggled on but no condition is set, then this logic will
+   always fail. The same is true for conditions that are missing a value
+   for the answer. If you don't need a certain condition, delete the whole
+   line. If you don't need any conditions, toggle the logic setting off
+   completely.
+
+Related Articles
+
+   How do I insert page breaks and section breaks (pagination & question
+   branching)?
+   Use breaks to divide a form into either pages or sections that can be
+   shown conditionally based on responses.
+   How do I send an email when the form is submitted?
+   When a form is submitted, a submission summary email is sent to the
+   owner of the form. This email can be turned off.
+   What are direct integrations?
+   Direct integrations on Paperform allow you to integrate directly
+   between Paperform and numerous, popular services.
+   How can I calculate a score for my form based on respondents' answers?
+   There are two methods to calculate scores conditionally based on your
+   respondents' answers: Scoring, and Calculation Fields.
+   How do I set up Custom Pricing Rules?
+   Need to create pricing dependant upon your customers needs? Offering
+   services that need to have fees built in? We’ve got you covered with
+   Custom Pricing Rules.

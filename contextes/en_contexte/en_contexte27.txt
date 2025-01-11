@@ -1,0 +1,30 @@
+   (BUTTON)
+
+Essential Logic Gates to Know for Discrete Mathematics
+
+Related Subjects
+--
+   🧩 Discrete Mathematics
+
+   Logic gates are the building blocks of digital circuits, representing
+   fundamental operations in Boolean algebra. They process binary inputs
+   to produce outputs, forming the basis for complex logical expressions
+--
+          + Symbolized by a bar over the variable (¬A or A').
+          + Fundamental for negation in logical expressions.
+          + Used to create more complex logic circuits by inverting
+            signals.
+          + Truth table: Outputs (1) for input (0) and (0) for input (1).
+--
+            it outputs true (1).
+          + Combination of an AND gate followed by a NOT gate.
+          + Universal gate; can be used to create any other logic gate.
+          + Important in digital circuit design for simplifying logic.
+          + Truth table: Outputs (1) for all combinations except (1, 1).
+    5. NOR gate
+--
+          + Combination of an OR gate followed by a NOT gate.
+          + Also a universal gate; can be used to construct any other
+            logic gate.
+          + Useful in creating circuits that require a default false
+            state.

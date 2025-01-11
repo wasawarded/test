@@ -1,0 +1,91 @@
+   [1]Passar para o conteúdo principal
+
+   [2]FEUP [3]UP BK
+   [4]SDI - Serviço de Documentação e Informação
+     * [5]English
+     * [6]Português
+
+     * [news3.jpg] [7]notícias |
+     * [contacts1.jpg] [8]contactos |
+     * [contacts2.jpg] [9]mapa |
+     * [contacts3.jpg] [10]sugestões
+
+   Está aqui :
+
+Está aqui
+
+   [11]Início
+   menu
+     * [12]SDI
+     * [13]Biblioteca
+     * [14]Utilizadores
+     * [15]Serviços
+
+Pesquisa
+
+   Procurar _______________
+   Procurar
+
+Manual de modelação ecológica
+
+   Manual de modelação ecológica
+   Dados Bibliográficos
+
+   Manual de modelação ecológica / Pedro Manuel da Silva Duarte. - 157 p.
+   : il. c/gráf. ; 23 cm + 1 CD-ROM
+   ISBN - 978-989-643-072-6
+   Assunto - Modelação ecológica; Modelos matemáticos; Ecologia
+
+   Sinopse
+
+   Este livro procura tratar a Modelação Ecológica de uma forma diferente
+   das obras existentes sobr eo tema. Assim, os primeiros dois capítulos
+   apresentam noções gerais sobre modelação, estando os restantes
+   conteúdos organizados segundo uma lóguica baseada em "níveis de
+   organização", começando pela análise de modelos fisiológicos, passando
+   aos modelos de populações, de comunidades e ecossistemas. O livro
+   termina com a integração dos modelos em Sistemas de Apoio à Decisão,
+   procurando valorizar a aplicação prática destas ferramentas.
+   O texto é baseado  num grande número de exemplos que ajudam o leitor a
+   compreender a lógica inerente ao desenvolvimento de um modelo
+   matemático. A leitura dos dois primeiros capítulos é suficiente para
+   que qualquer dos restantes possa ser entendido de uma forma autónoma.
+   Espera-se que a leitura deste livros simplifique o processo de
+   aprendizagem necessário ao desenvolvimento e implementação de modelos
+   ecológicos de diversos tipos, fomentando a utilizvação de ferramentas
+   cada vez mais necessárias em função da importância da previsão na
+   procura da sustentabilidade ecológica.
+   Links relacionados
+   [16]Ver no Catálogo
+   [17]Website da obra
+   [18]Logo FEUP
+   Faculdade de Engenharia da Universidade do Porto
+   Serviço de Documentação e Informação - Biblioteca
+   Rua Dr. Roberto Frias
+   4200-465 PORTO
+   Tel: +351 22 508 1442
+   [19]biblioteca@fe.up.pt
+   [20]biblioteca@fe.up.pt
+
+Références
+
+   1. file:///tmp/lynxXXXXkYC91N/L18067-3327TMP.html#main-content
+   2. http://www.fe.up.pt/
+   3. http://www.up.pt/
+   4. file:///pt-pt.html
+   5. file:///en/noticias/destaque_bibliografico/manual-de-modelacao-ecologica.html
+   6. file:///tmp/lynxXXXXkYC91N/manual-de-modelacao-ecologica.html
+   7. file:///Noticias.html
+   8. file:///biblioteca/contactos.html
+   9. file:///sitemap.html
+  10. file:///contact.html
+  11. file:///pt-pt.html
+  12. file:///sdi.html
+  13. file:///biblioteca.html
+  14. file:///utilizadores.html
+  15. file:///servicos.html
+  16. http://aleph.fe.up.pt/F/?func=direct&doc_number=000169127
+  17. http://edicoes.ufp.pt/en/product/ciencias-sociais/manual-de-modelacao-ecologica
+  18. http://www.fe.up.pt/
+  19. mailto:biblioteca@fe.up.pt
+  20. mailto:biblioteca@fe.up.pt

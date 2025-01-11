@@ -1,0 +1,1806 @@
+   #alternate 编辑本页 Wikipedia (zh) alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+   Wikipedia的Atom feed
+
+   跳转到内容
+
+   [ ] 主菜单
+   主菜单
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   导航
+     * 首页
+     * 分类索引
+     * 特色内容
+     * 新闻动态
+     * 最近更改
+     * 随机条目
+
+   帮助
+     * 帮助
+     * 维基社群
+     * 方针与指引
+     * 互助客栈
+     * 知识问答
+     * 字词转换
+     * IRC即时聊天
+     * 联络我们
+     * 关于维基百科
+
+   维基百科 自由的百科全书
+   搜索
+   ____________________
+   (BUTTON) 搜索
+
+   [ ] 外观
+
+     * 资助维基百科
+     * 创建账号
+     * 登录
+
+   [ ] 个人工具
+     * 资助维基百科
+     * 创建账号
+     * 登录
+
+   未登录编辑者的页面 了解详情
+     * 贡献
+     * 讨论
+
+目录
+
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+     * 序言
+     * 1 术语
+     * 2 命题演算的一般描述
+     * 3 示例 1 简单的公理系统
+     * 4 示例 2 自然演绎系统
+       (BUTTON) 开关示例 2 自然演绎系统子章节
+          + 4.1 证明的例子
+     * 5 规则的可靠性和完备性
+       (BUTTON) 开关规则的可靠性和完备性子章节
+          + 5.1 可靠性证明的梗概
+          + 5.2 完备性证明的梗概
+     * 6 公理化演算
+       (BUTTON) 开关公理化演算子章节
+          + 6.1 公理
+          + 6.2 推理规则
+          + 6.3 元推理规则
+          + 6.4 证明的例子
+     * 7 等价于等式逻辑
+     * 8 其他逻辑演算
+     * 9 参见
+     * 10 引用
+     * 11 外部链接
+     * 12 参考资料
+
+   [ ] 开关目录
+
+命题逻辑
+
+   [ ] 51种语言
+     * Afrikaans
+     * العربية
+     * Asturianu
+     * Беларуская
+     * Беларуская (тарашкевіца)
+     * Български
+     * Català
+     * Čeština
+     * Чӑвашла
+     * Cymraeg
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Eesti
+     * Euskara
+     * فارسی
+     * Suomi
+     * Français
+     * Nordfriisk
+     * Galego
+     * עברית
+     * हिन्दी
+     * Magyar
+     * Հայերեն
+     * Bahasa Indonesia
+     * Ido
+     * Italiano
+     * 日本語
+     * 한국어
+     * Кыргызча
+     * Latina
+     * Lietuvių
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Polski
+     * پښتو
+     * Português
+     * Русский
+     * Simple English
+     * Slovenčina
+     * Slovenščina
+     * Српски / srpski
+     * Svenska
+     * ไทย
+     * Türkçe
+     * Українська
+     * Tiếng Việt
+     * 粵語
+
+   编辑链接
+
+     * 条目
+     * 讨论
+
+   [ ] 大陆简体
+     * 不转换
+     * 简体
+     * 繁體
+     * 大陆简体
+     * 香港繁體
+     * 澳門繁體
+     * 大马简体
+     * 新加坡简体
+     * 臺灣正體
+
+     * 阅读
+     * 编辑
+     * 查看历史
+
+   [ ] 工具
+   工具
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   操作
+     * 阅读
+     * 编辑
+     * 查看历史
+
+   常规
+     * 链入页面
+     * 相关更改
+     * 上传文件
+     * 特殊页面
+     * 固定链接
+     * 页面信息
+     * 引用此页
+     * 获取短链接
+     * 下载二维码
+
+   打印/导出
+     * 下载为PDF
+     * 打印版本
+
+   在其他项目中
+     * 维基共享资源
+     * 维基数据项目
+
+   外观
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   本页使用了标题或全文手工转换
+   维基百科，自由的百科全书
+
+   命题逻辑是逻辑学的一个分支。^[1]
+   它也称为命题演算、句子演算、句子逻辑，有时也称为零阶逻辑。它涉及命题（可以是真或假）和命题之间的关系，包括基于它们的论证的构建。复合命题是通过
+   逻辑连接词连接命题而形成的。不包含逻辑连接词的命题称为原子命题。
+   与一阶逻辑不同，命题逻辑不处理非逻辑对象、以及关于它们的谓词或量词。然而，命题逻辑的所有机制都包含在一阶逻辑和高阶逻辑中。从这个意义上说，命题
+   逻辑是一阶逻辑和高阶逻辑的基础。
+
+   在逻辑和数学里， 命题逻辑是一个形式系统,
+   有可以由以逻辑运算符结合原子命题来构成代表“命题”的公式，以及允许某些公式建构成“定理”的一套形式“证明规则”。
+
+术语
+
+   [编辑]
+
+   一般地说，演算是一个形式系统，包括一套语法表示式（合式公式）、这些表示式的一个特定子集（公理）和一套定义了特定的二元关系的形式规则，这个二元关
+   系可解释为表示式空间上的逻辑等价关系。
+
+   若形式系统会作为一个逻辑系统，其表示式会被解释成数学陈述，且其规则，被称之为“推理规则”，则一般会是保真的。在此设置下，规则（可能也包括公理）
+   可以被用来，从给定为真的陈述的公式中，推导出表示真的陈述的公式来。
+
+   公理的集合可能为空集、非空有限集、可数无限集或由公理模式所给定。形式文法递归地定义了语言的表示式和合式公式。之外，有时也可以给定一个语义，用以
+   定义真值和赋值（或解释）。
+
+   命题运算的语言包括：（1）一套原始符号，被称之为“原子公式”、“占位符”、“命题字母”或“命题变量”；（2）一套运算符号，被称之为“逻辑运算符
+   ”。一个合式公式是任一原子公式，或任一以运算符号依文法规则由原子公式建立起的公式。
+
+   在下文中我们描述一种标准命题演算。很多不同的公式系统存在，它们都或多或少等价但在下列方面不同：（1）它们的语言（就是说哪些原始符号和运算符号是
+   语言的一部分）；（2）它们有哪些（如果有的话）公理；（3）采用了哪些推理规则。
+
+命题演算的一般描述
+
+   [编辑]
+
+   命题演算是一个形式系统
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mi class="MJX-tex-caligraphic"
+   mathvariant="script">L</mi> </mrow> </mrow> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   class="MJX-tex-caligraphic" mathvariant="script">L</mi> </mrow> </mrow>
+   <mtext> </mtext> <mo stretchy="false">(</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">A</mi> </mrow>
+   <mo>,</mo> <mtext> </mtext> <mi mathvariant="normal">Ω</mi> <mo>,</mo>
+   <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">Z</mi> </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">I</mi> </mrow> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\mathcal {L}}={\mathcal
+   {L}}\ (\mathrm {A} ,\ \Omega ,\ \mathrm {Z} ,\ \mathrm {I}
+   )}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathcal {L}}={\mathcal {L}}\ (\mathrm {A} ,\ \Omega ,\
+   \mathrm {Z} ,\ \mathrm {I} )} ，它的公式按如下方式构造：
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mi mathvariant="normal">A</mi> </mrow> <mspace
+       width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \mathrm {A}
+       \!}</annotation> </semantics> :MATH]
+       {\displaystyle \mathrm {A} \!}
+       集合是由名为“命题符号”或“命题变量”之元素所组成的有限集合，一个“命题变量”可取值为集合里的“命题符号”。语法上来说，它们是形式语言
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mrow class="MJX-TeXAtom-ORD"> <mi class="MJX-tex-caligraphic"
+       mathvariant="script">L</mi> </mrow> </mrow> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle {\mathcal
+       {L}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\mathcal {L}}} 最基本的元素，亦被称之为“原子公式”或“终端元素”。在接着的例子中，
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mi mathvariant="normal">A</mi> </mrow> <mspace
+       width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \mathrm {A}
+       \!}</annotation> </semantics> :MATH]
+       {\displaystyle \mathrm {A} \!} 内的元素一般写作字母p, q, r之类的形式。
+
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi
+       mathvariant="normal">Ω</mi> <mspace width="negativethinmathspace"
+       /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \Omega \!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle \Omega \!} 是名为“算子符号”或“逻辑运算符”之元素所组成的有限集合。集合
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi
+       mathvariant="normal">Ω</mi> <mspace width="negativethinmathspace"
+       /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \Omega \!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle \Omega \!} 被划分成如下等不相交的子集：
+
+                      [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0"> <mi
+                      mathvariant="normal">Ω</mi> <mo>=</mo> <msub> <mi
+                      mathvariant="normal">Ω</mi> <mrow
+                      class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub>
+                      <mo>∪</mo> <msub> <mi mathvariant="normal">Ω</mi>
+                      <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+                      </msub> <mo>∪</mo> <mo>…</mo> <mo>∪</mo> <msub> <mi
+                      mathvariant="normal">Ω</mi> <mrow
+                      class="MJX-TeXAtom-ORD"> <mi>j</mi> </mrow> </msub>
+                      <mo>∪</mo> <mo>…</mo> <mo>∪</mo> <msub> <mi
+                      mathvariant="normal">Ω</mi> <mrow
+                      class="MJX-TeXAtom-ORD"> <mi>m</mi> </mrow> </msub>
+                      <mspace width="thinmathspace" /> </mstyle> </mrow>
+                      <annotation
+                      encoding="application/x-tex">{\displaystyle \Omega
+                      =\Omega _{0}\cup \Omega _{1}\cup \ldots \cup \Omega
+                      _{j}\cup \ldots \cup \Omega _{m}\,}</annotation>
+                      </semantics> :MATH]
+                      {\displaystyle \Omega =\Omega _{0}\cup \Omega
+                      _{1}\cup \ldots \cup \Omega _{j}\cup \ldots \cup
+                      \Omega _{m}\,} 。
+
+          在此一划分中，
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi
+          mathvariant="normal">Ω</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>j</mi> </mrow> </msub> <mspace width="negativethinmathspace"
+          /> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \Omega
+          _{j}\!}</annotation> </semantics> :MATH]
+          {\displaystyle \Omega _{j}\!} 是指元数为
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>j</mi> <mspace
+          width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle j\!}</annotation>
+          </semantics> :MATH]
+          {\displaystyle j\!} 的算子符号所构成的集合。
+
+          在更熟知的命题演算中，
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">Ω</mi> <mspace
+          width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \Omega
+          \!}</annotation> </semantics> :MATH]
+          {\displaystyle \Omega \!} 一般被划分如下：
+
+                      [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0"> <msub>
+                      <mi mathvariant="normal">Ω</mi> <mrow
+                      class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+                      <mo>=</mo> <mo fence="false" stretchy="false">{</mo>
+                      <mi mathvariant="normal">¬</mi> <mo fence="false"
+                      stretchy="false">}</mo> <mspace
+                      width="thinmathspace" /> <mo>,</mo> </mstyle>
+                      </mrow> <annotation
+                      encoding="application/x-tex">{\displaystyle \Omega
+                      _{1}=\{\lnot \}\,,}</annotation> </semantics> :MATH]
+                      {\displaystyle \Omega _{1}=\{\lnot \}\,,}
+
+                      [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0"> <msub>
+                      <mi mathvariant="normal">Ω</mi> <mrow
+                      class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub>
+                      <mo>⊆</mo> <mo fence="false" stretchy="false">{</mo>
+                      <mo>∧</mo> <mo>,</mo> <mo>∨</mo> <mo>,</mo> <mo
+                      stretchy="false">→</mo> <mo>,</mo> <mo
+                      stretchy="false">↔</mo> <mo fence="false"
+                      stretchy="false">}</mo> <mspace
+                      width="thinmathspace" /> </mstyle> </mrow>
+                      <annotation
+                      encoding="application/x-tex">{\displaystyle \Omega
+                      _{2}\subseteq \{\land ,\lor ,\rightarrow
+                      ,\leftrightarrow \}\,}</annotation> </semantics>
+                      :MATH]
+                      {\displaystyle \Omega _{2}\subseteq \{\land ,\lor
+                      ,\rightarrow ,\leftrightarrow \}\,} 。
+
+          一种常用的做法是把常数逻辑值当作一种零元算子，即：
+
+                      [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0"> <msub>
+                      <mi mathvariant="normal">Ω</mi> <mrow
+                      class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub>
+                      <mo>=</mo> <mo fence="false" stretchy="false">{</mo>
+                      <mi mathvariant="normal">⊤</mi> <mo>,</mo>
+                      <mtext> </mtext> <mi mathvariant="normal">⊥</mi> <mo
+                      fence="false" stretchy="false">}</mo> <mspace
+                      width="thinmathspace" /> </mstyle> </mrow>
+                      <annotation
+                      encoding="application/x-tex">{\displaystyle \Omega
+                      _{0}=\{\top ,\ \bot \}\,}</annotation> </semantics>
+                      :MATH]
+                      {\displaystyle \Omega _{0}=\{\top ,\ \bot \}\,} 。
+
+          有些作者会用 ~ 来替代 ¬，也有的用 & 或
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>⋅</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \cdot }</annotation> </semantics> :MATH]
+          {\displaystyle \cdot } 来取替
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>∧</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \land }</annotation> </semantics> :MATH]
+          {\displaystyle \land } 。逻辑值所构成的集合也有许多不同的符号表示，如 {假,真} 、{F,T} 或
+          {0,1} 来取替 {
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">⊥</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \bot }</annotation>
+          </semantics> :MATH]
+          {\displaystyle \bot } ,
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">⊤</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \top }</annotation>
+          </semantics> :MATH]
+          {\displaystyle \top } }，这些都常见于各个论著之中。
+
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mi mathvariant="normal">Z</mi> </mrow> <mspace
+       width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \mathrm {Z}
+       \!}</annotation> </semantics> :MATH]
+       {\displaystyle \mathrm {Z} \!}
+       集合是“变换规则”（当作为逻辑应用时则称之为“推理规则”）之所构成的有限集合。
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mi mathvariant="normal">Z</mi> </mrow> <mspace
+       width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \mathrm {Z}
+       \!}</annotation> </semantics> :MATH]
+       {\displaystyle \mathrm {Z} \!} 集合的“变换规则”是用“原子公式”和“逻辑运算符”构成的。
+
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mi mathvariant="normal">I</mi> </mrow> <mspace
+       width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \mathrm {I}
+       \!}</annotation> </semantics> :MATH]
+       {\displaystyle \mathrm {I} \!} 是“起始点”（当得到逻辑解释时则称之为“公理”）所构成的有限集合。
+
+   依据所使用的精确形式文法或文法形式化，可能需要以左括号"（"和右括号"）"作语法上的辅助，用来完成公式的构造。
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mi class="MJX-tex-caligraphic"
+   mathvariant="script">L</mi> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\mathcal
+   {L}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathcal {L}}}
+   的语言，亦称之为“公式”或“合式公式”的集合，可由如下规则集合被归纳或递归地定义：
+    1. 基本元素：
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mi mathvariant="normal">A</mi> </mrow> <mspace
+       width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \mathrm {A}
+       \!}</annotation> </semantics> :MATH]
+       {\displaystyle \mathrm {A} \!} 内的任何元素都是
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mrow class="MJX-TeXAtom-ORD"> <mi class="MJX-tex-caligraphic"
+       mathvariant="script">L</mi> </mrow> </mrow> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle {\mathcal
+       {L}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\mathcal {L}}} 的公式。
+    2. 如果
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msub> <mi>p</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+       <msub> <mi>p</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow>
+       </msub> <mo>,</mo> <mo>…</mo> <mo>,</mo> <msub> <mi>p</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>j</mi> </mrow> </msub> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       p_{1},p_{2},\ldots ,p_{j}}</annotation> </semantics> :MATH]
+       {\displaystyle p_{1},p_{2},\ldots ,p_{j}} 是公式 和
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>f</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle
+       f}</annotation> </semantics> :MATH]
+       {\displaystyle f} 属于
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msub> <mi
+       mathvariant="normal">Ω</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mi>j</mi> </mrow> </msub> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \Omega
+       _{j}}</annotation> </semantics> :MATH]
+       {\displaystyle \Omega _{j}} , 则
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow> <mo>(</mo> <mrow>
+       <mi>f</mi> <msub> <mi>p</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mn>1</mn> </mrow> </msub> <msub> <mi>p</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo>…</mo>
+       <msub> <mi>p</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>j</mi> </mrow>
+       </msub> </mrow> <mo>)</mo> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \left(fp_{1}p_{2}\ldots
+       p_{j}\right)}</annotation> </semantics> :MATH]
+       {\displaystyle \left(fp_{1}p_{2}\ldots p_{j}\right)} 也是公式.
+    3. 封闭性：其他都不会是
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mrow class="MJX-TeXAtom-ORD"> <mi class="MJX-tex-caligraphic"
+       mathvariant="script">L</mi> </mrow> </mrow> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle {\mathcal
+       {L}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\mathcal {L}}} 的公式。
+
+   透过重复应用这三个规则，可以建构出复杂的公式来。例如：
+     * 依规则1，p是公式。
+     * 依规则2，¬p是公式。
+     * 依规则1，q是公式。
+     * 依规则2，(¬p ∨ q)是公式。
+
+示例 1 简单的公理系统
+
+   [编辑]
+
+   设
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   class="MJX-tex-caligraphic" mathvariant="script">L</mi> </mrow> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>=</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   class="MJX-tex-caligraphic" mathvariant="script">L</mi> </mrow> </mrow>
+   <mtext> </mtext> <mo stretchy="false">(</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">A</mi> </mrow>
+   <mo>,</mo> <mtext> </mtext> <mi mathvariant="normal">Ω</mi> <mo>,</mo>
+   <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">Z</mi> </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">I</mi> </mrow> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\mathcal
+   {L}}_{1}={\mathcal {L}}\ (\mathrm {A} ,\ \Omega ,\ \mathrm {Z} ,\
+   \mathrm {I} )}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathcal {L}}_{1}={\mathcal {L}}\ (\mathrm {A} ,\
+   \Omega ,\ \mathrm {Z} ,\ \mathrm {I} )} ，这里的
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">A</mi> </mrow> <mo>,</mo> <mtext> </mtext> <mi
+   mathvariant="normal">Ω</mi> <mo>,</mo> <mtext> </mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">Z</mi> </mrow>
+   <mo>,</mo> <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">I</mi> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {A} ,\ \Omega ,\
+   \mathrm {Z} ,\ \mathrm {I} }</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {A} ,\ \Omega ,\ \mathrm {Z} ,\ \mathrm {I} }
+   定义如下：
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mi mathvariant="normal">A</mi> </mrow> <mspace
+       width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \mathrm {A}
+       \!}</annotation> </semantics> :MATH]
+       {\displaystyle \mathrm {A} \!} 是个含有足够多元素以应付讨论所需的有限集合，如：
+
+                      [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0"> <mrow
+                      class="MJX-TeXAtom-ORD"> <mi
+                      mathvariant="normal">A</mi> </mrow> <mo>=</mo> <mo
+                      fence="false" stretchy="false">{</mo> <mi>p</mi>
+                      <mo>,</mo> <mi>q</mi> <mo>,</mo> <mi>r</mi>
+                      <mo>,</mo> <mi>s</mi> <mo>,</mo> <mi>t</mi>
+                      <mo>,</mo> <mi>u</mi> <mo fence="false"
+                      stretchy="false">}</mo> <mspace
+                      width="thinmathspace" /> </mstyle> </mrow>
+                      <annotation
+                      encoding="application/x-tex">{\displaystyle \mathrm
+                      {A} =\{p,q,r,s,t,u\}\,}</annotation> </semantics>
+                      :MATH]
+                      {\displaystyle \mathrm {A} =\{p,q,r,s,t,u\}\,} 。
+
+   功能齐全的套装 逻辑运算符（逻辑连接词和否定）的Ω如下。
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi
+       mathvariant="normal">Ω</mi> <mspace width="negativethinmathspace"
+       /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \Omega \!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle \Omega \!} 逻辑运算符集合。
+       在合取、析取和蕴涵（∧、∨和→）这三个运算符之中，可以将其中一个拿来当做基本的，而另两个则以其和否定（¬）来定义。实际上，所有的逻辑运
+       算符都可以用自足算子的方式来定义。而双条件（↔）当然可由合取和蕰涵来定义，亦即a ↔ b可被定义为(a → b)∧(b → a)。
+
+   采用否定和蕰涵做为命题演算的两个基本运算，相当于把omega集
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">Ω</mi>
+   <mo>=</mo> <msub> <mi mathvariant="normal">Ω</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>∪</mo> <msub>
+   <mi mathvariant="normal">Ω</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mn>2</mn> </mrow> </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \Omega =\Omega _{1}\cup
+   \Omega _{2}}</annotation> </semantics> :MATH]
+   {\displaystyle \Omega =\Omega _{1}\cup \Omega _{2}} 划分如下：
+
+                      [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0"> <msub>
+                      <mi mathvariant="normal">Ω</mi> <mrow
+                      class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+                      <mo>=</mo> <mo fence="false" stretchy="false">{</mo>
+                      <mi mathvariant="normal">¬</mi> <mo fence="false"
+                      stretchy="false">}</mo> <mspace
+                      width="thinmathspace" /> </mstyle> </mrow>
+                      <annotation
+                      encoding="application/x-tex">{\displaystyle \Omega
+                      _{1}=\{\lnot \}\,}</annotation> </semantics> :MATH]
+                      {\displaystyle \Omega _{1}=\{\lnot \}\,} 。
+
+                      [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0"> <msub>
+                      <mi mathvariant="normal">Ω</mi> <mrow
+                      class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub>
+                      <mo>=</mo> <mo fence="false" stretchy="false">{</mo>
+                      <mo stretchy="false">→</mo> <mo fence="false"
+                      stretchy="false">}</mo> <mspace
+                      width="thinmathspace" /> </mstyle> </mrow>
+                      <annotation
+                      encoding="application/x-tex">{\displaystyle \Omega
+                      _{2}=\{\rightarrow \}\,}</annotation> </semantics>
+                      :MATH]
+                      {\displaystyle \Omega _{2}=\{\rightarrow \}\,} 。
+
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mi mathvariant="normal">I</mi> </mrow> <mspace
+       width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \mathrm {I}
+       \!}</annotation> </semantics> :MATH]
+       {\displaystyle \mathrm {I} \!} 公理系统集合。
+       有一个公理系统是扬·武卡谢维奇所发现的，而这系统可以如下地公式化为此语言中的命题演算。各个公理都是由下列的公理模式作代换所得。
+
+               o
+                 [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                 displaystyle="true" scriptlevel="0"> <mi>p</mi> <mo
+                 stretchy="false">→</mo> <mo stretchy="false">(</mo>
+                 <mi>q</mi> <mo stretchy="false">→</mo> <mi>p</mi> <mo
+                 stretchy="false">)</mo> </mstyle> </mrow> <annotation
+                 encoding="application/x-tex">{\displaystyle p\to (q\to
+                 p)}</annotation> </semantics> :MATH]
+                 {\displaystyle p\to (q\to p)}
+
+               o
+                 [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                 displaystyle="true" scriptlevel="0"> <mo
+                 stretchy="false">(</mo> <mi>p</mi> <mo
+                 stretchy="false">→</mo> <mo stretchy="false">(</mo>
+                 <mi>q</mi> <mo stretchy="false">→</mo> <mi>r</mi> <mo
+                 stretchy="false">)</mo> <mo stretchy="false">)</mo> <mo
+                 stretchy="false">→</mo> <mo stretchy="false">(</mo> <mo
+                 stretchy="false">(</mo> <mi>p</mi> <mo
+                 stretchy="false">→</mo> <mi>q</mi> <mo
+                 stretchy="false">)</mo> <mo stretchy="false">→</mo> <mo
+                 stretchy="false">(</mo> <mi>p</mi> <mo
+                 stretchy="false">→</mo> <mi>r</mi> <mo
+                 stretchy="false">)</mo> <mo stretchy="false">)</mo>
+                 </mstyle> </mrow> <annotation
+                 encoding="application/x-tex">{\displaystyle (p\to (q\to
+                 r))\to ((p\to q)\to (p\to r))}</annotation> </semantics>
+                 :MATH]
+                 {\displaystyle (p\to (q\to r))\to ((p\to q)\to (p\to r))}
+
+               o
+                 [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                 displaystyle="true" scriptlevel="0"> <mo
+                 stretchy="false">(</mo> <mi mathvariant="normal">¬</mi>
+                 <mi>p</mi> <mo stretchy="false">→</mo> <mi
+                 mathvariant="normal">¬</mi> <mi>q</mi> <mo
+                 stretchy="false">)</mo> <mo stretchy="false">→</mo> <mo
+                 stretchy="false">(</mo> <mi>q</mi> <mo
+                 stretchy="false">→</mo> <mi>p</mi> <mo
+                 stretchy="false">)</mo> </mstyle> </mrow> <annotation
+                 encoding="application/x-tex">{\displaystyle (\neg p\to
+                 \neg q)\to (q\to p)}</annotation> </semantics> :MATH]
+                 {\displaystyle (\neg p\to \neg q)\to (q\to p)}
+
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mi mathvariant="normal">Z</mi> </mrow> <mspace
+       width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \mathrm {Z}
+       \!}</annotation> </semantics> :MATH]
+       {\displaystyle \mathrm {Z} \!} 推理规则集合。 其推理规则为肯定前件（即可由p和(p →
+       q)导出q）。而a ∨ b和a ∧ b则是分别被定义为¬a → b和¬(a → ¬b)。
+
+示例 2 自然演绎系统
+
+   [编辑]
+
+   设
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   class="MJX-tex-caligraphic" mathvariant="script">L</mi> </mrow> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo>=</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   class="MJX-tex-caligraphic" mathvariant="script">L</mi> </mrow> </mrow>
+   <mtext> </mtext> <mo stretchy="false">(</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">A</mi> </mrow>
+   <mo>,</mo> <mtext> </mtext> <mi mathvariant="normal">Ω</mi> <mo>,</mo>
+   <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">Z</mi> </mrow> <mo>,</mo> <mtext> </mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">I</mi> </mrow> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\mathcal
+   {L}}_{2}={\mathcal {L}}\ (\mathrm {A} ,\ \Omega ,\ \mathrm {Z} ,\
+   \mathrm {I} )}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathcal {L}}_{2}={\mathcal {L}}\ (\mathrm {A} ,\
+   \Omega ,\ \mathrm {Z} ,\ \mathrm {I} )} ，这里的
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">A</mi> </mrow> <mo>,</mo> <mtext> </mtext> <mi
+   mathvariant="normal">Ω</mi> <mo>,</mo> <mtext> </mtext> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">Z</mi> </mrow>
+   <mo>,</mo> <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="normal">I</mi> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathrm {A} ,\ \Omega ,\
+   \mathrm {Z} ,\ \mathrm {I} }</annotation> </semantics> :MATH]
+   {\displaystyle \mathrm {A} ,\ \Omega ,\ \mathrm {Z} ,\ \mathrm {I} }
+   定义如下：
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mi mathvariant="normal">A</mi> </mrow> <mspace
+       width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \mathrm {A}
+       \!}</annotation> </semantics> :MATH]
+       {\displaystyle \mathrm {A} \!} 是个含有足够多元素以应付讨论所需的有限集合，如：
+
+                      [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0"> <mrow
+                      class="MJX-TeXAtom-ORD"> <mi
+                      mathvariant="normal">A</mi> </mrow> <mo>=</mo> <mo
+                      fence="false" stretchy="false">{</mo> <mi>p</mi>
+                      <mo>,</mo> <mi>q</mi> <mo>,</mo> <mi>r</mi>
+                      <mo>,</mo> <mi>s</mi> <mo>,</mo> <mi>t</mi>
+                      <mo>,</mo> <mi>u</mi> <mo fence="false"
+                      stretchy="false">}</mo> <mspace
+                      width="thinmathspace" /> </mstyle> </mrow>
+                      <annotation
+                      encoding="application/x-tex">{\displaystyle \mathrm
+                      {A} =\{p,q,r,s,t,u\}\,}</annotation> </semantics>
+                      :MATH]
+                      {\displaystyle \mathrm {A} =\{p,q,r,s,t,u\}\,} 。
+
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi
+       mathvariant="normal">Ω</mi> <mo>=</mo> <msub> <mi
+       mathvariant="normal">Ω</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mn>1</mn> </mrow> </msub> <mo>∪</mo> <msub> <mi
+       mathvariant="normal">Ω</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mn>2</mn> </mrow> </msub> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \Omega =\Omega _{1}\cup
+       \Omega _{2}}</annotation> </semantics> :MATH]
+       {\displaystyle \Omega =\Omega _{1}\cup \Omega _{2}} 划分为如下：
+
+                      [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0"> <msub>
+                      <mi mathvariant="normal">Ω</mi> <mrow
+                      class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+                      <mo>=</mo> <mo fence="false" stretchy="false">{</mo>
+                      <mi mathvariant="normal">¬</mi> <mo fence="false"
+                      stretchy="false">}</mo> <mspace
+                      width="thinmathspace" /> </mstyle> </mrow>
+                      <annotation
+                      encoding="application/x-tex">{\displaystyle \Omega
+                      _{1}=\{\lnot \}\,}</annotation> </semantics> :MATH]
+                      {\displaystyle \Omega _{1}=\{\lnot \}\,} 。
+
+                      [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0"> <msub>
+                      <mi mathvariant="normal">Ω</mi> <mrow
+                      class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub>
+                      <mo>=</mo> <mo fence="false" stretchy="false">{</mo>
+                      <mo>∧</mo> <mo>,</mo> <mo>∨</mo> <mo>,</mo> <mo
+                      stretchy="false">→</mo> <mo>,</mo> <mo
+                      stretchy="false">↔</mo> <mo fence="false"
+                      stretchy="false">}</mo> <mspace
+                      width="thinmathspace" /> </mstyle> </mrow>
+                      <annotation
+                      encoding="application/x-tex">{\displaystyle \Omega
+                      _{2}=\{\land ,\lor ,\rightarrow ,\leftrightarrow
+                      \}\,}</annotation> </semantics> :MATH]
+                      {\displaystyle \Omega _{2}=\{\land ,\lor
+                      ,\rightarrow ,\leftrightarrow \}\,} 。
+
+          在此命题演算的例子中，变换规则被解释为所谓的“自然演绎系统”下之推理规则。这里表述的特定系统没有起始点，这意味着它对逻辑应用的解
+          释是从空公理集合中推导出其定理的。
+
+     * 起始点的集合是空的，亦即
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mi mathvariant="normal">I</mi> </mrow> <mo>=</mo> <mi
+       class="MJX-variant">∅</mi> <mspace width="thinmathspace" />
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \mathrm {I}
+       =\varnothing \,}</annotation> </semantics> :MATH]
+       {\displaystyle \mathrm {I} =\varnothing \,} 。
+
+     * 转换规则的集合
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mi mathvariant="normal">Z</mi> </mrow> <mspace
+       width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \mathrm {Z}
+       \!}</annotation> </semantics> :MATH]
+       {\displaystyle \mathrm {Z} \!} 描述如下：
+
+          此命题演算有十个推理规则。这些规则允许我们从给定的一组假定为真的公式中推导出其他为真的公式。前九个只是简单地指我们可以从其他合式
+          公式推论出特定的合式公式。但是最后一个规则使用了假言（hypothetical）推理，这意味着在规则的前提中，我们可以临时的假定
+          一个（未证明的）假设作为推导出的公式集合的一部分，来查看我们是否能推导出一个特定的其他公式。因为前九个规则不是这样而通常被描述为
+          “非假言”规则，而最后一个则被称为“假言”规则。
+
+    1. 否定介入（英语：Negation introduction）：从φ → ¬ ψ和φ → ψ中可推出¬ φ。
+    2. 双重否定除去：从¬ ¬ φ中可推出φ。
+    3. 合取介入（英语：Conjunction introduction）：从φ和ψ中可推出(φ ∧ ψ)。
+    4. 合取除去（英语：Conjunction elimination）：从(φ ∧ ψ)中可推出φ和ψ。
+    5. 析取介入（英语：Disjunction introduction）：从φ中可推出(φ ∨ ψ)。
+    6. 析取除去（英语：Disjunction elimination）：从(φ ∨ ψ)、(φ → χ)和(ψ → χ)可推出χ。
+    7. 双条件介入（英语：Biconditional introduction）：从(φ → ψ)和(ψ → φ)中可推出(φ ↔ ψ)。
+    8. 双条件除去（英语：Biconditional elimination）：从(φ ↔ ψ)中可推出(φ → ψ)和(ψ → φ)。
+    9. 肯定前件（条件除去）：从φ和(φ → ψ)中可推出ψ。
+   10. 条件证明（条件介入）：若假定φ为真可证明出ψ，可推出(φ → ψ)。
+
+证明的例子
+
+   [编辑]
+
+   以下推导将用编号后的行的列表来表示，在每行之上有一个单一的公式和一个理由（justification）。论证的各个前提会在列表的首行给出。结论
+   将在最后一行。一个推导称为完备的，若所有行都是通过正确的应用一个规则而从前面的行得出的。
+
+   下面是（语法上的）证明的一个例子：
+   要证明：
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> <mo
+   stretchy="false">→</mo> <mi>A</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle A\rightarrow
+   A}</annotation> </semantics> :MATH]
+   {\displaystyle A\rightarrow A}
+   证明：
+
+   编号 公式 理由
+   1 A 前提
+   2 A∨A 析取介入自（1）
+   3 (A∨A)∧A 合取介入自（1）和（2）
+   4 A 合取除去自（3）
+   5 A
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>⊢</mo> <mspace
+   width="thinmathspace" /> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \vdash \,}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \vdash \,} A 总结（1）到（4）
+   6
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>⊢</mo> <mspace
+   width="thinmathspace" /> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \vdash \,}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \vdash \,} A→A 条件证明自（5）
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> <mo>⊢</mo> <mi>A</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle A\vdash A}</annotation>
+   </semantics> :MATH]
+   {\displaystyle A\vdash A} 可解释为“假定A，推导出A”。
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>⊢</mo> <mi>A</mi> <mo
+   stretchy="false">→</mo> <mi>A</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \vdash A\rightarrow
+   A}</annotation> </semantics> :MATH]
+   {\displaystyle \vdash A\rightarrow A}
+   为“不假定任何东西，推导出A蕴涵A”，或者“A蕴涵A是重言式”，或者“A蕴涵A是永真的”。
+
+规则的可靠性和完备性
+
+   [编辑]
+
+   以上规则的关键特性是它们是可靠的和完备的。非形式的说，这意味着规则都是正确的并且不再需要其他规则。这些要求可以如下这样正式的提出。
+
+   我们定义真值指派为把命题变量映射到真或假的函数。非形式的，这种真值指派可以被理解为对事件的可能状态（或可能世界）的描述，在这里特定的陈述是真而
+   其他为假。公式的语义因而可以被形式化，通过定义哪些"事件状态"是设置为真的。
+
+   我们通过如下规则定义这种真值指派A在什么时候满足特定公式：
+     * A满足命题变量P 当且仅当A(P) = 真
+     * A满足¬ φ当且仅当A不满足φ
+     * A满足(φ ∧ ψ)当且仅当A满足φ与ψ二者
+     * A满足(φ ∨ ψ)当且仅当A满足φ和ψ中至少一个
+     * A满足(φ → ψ)当且仅当并非A满足φ但不满足ψ的情况
+     * A满足(φ ↔ ψ)当且仅当A满足φ与ψ二者，或则不满足它们中的任何一个
+
+   通过这个定义，我们现在可以形式化公式φ被特定公式集合S蕴涵的意义。非形式的，就是在使给定公式集合S成立的所有可能情况下公式φ也成立。这引申出下
+   面的形式化定义：我们说公式集合S 语义蕴涵特定的公式φ，条件是满足在S中的公式的所有真值指派也满足φ。
+
+   最后我们定义语法蕴涵，φ被S语法蕴涵，当且仅当我们可以在有限步骤内使用我们提出的上述推理规则推导出它。这允许我们精确的公式化推理规则的可靠性和
+   完备性的意思：
+
+   可靠性：如果公式集合S语法蕴涵公式φ，则S语义蕴涵φ
+   完备性：如果公式集合S语义蕴涵公式φ，则S语法蕴涵φ
+
+   上述的两个例子都满足可靠性和完备性。
+
+可靠性证明的梗概
+
+   [编辑]
+
+   （对于多数逻辑系统，这是相对“简单”的证明方向）
+
+   符号约定：设G是命题集合。设φ、ψ和χ是命题。我们把“G语法蕴涵φ”写成“G证明φ”，还有把“G语义蕴涵φ”写成“G蕴涵φ”。
+
+   我们要展示：(∀φ)(∀G)(如果G证明φ，则G蕴涵φ)
+
+   我们注意到“G证明φ”有一个归纳定义，这给予我们直接的办法来验证“如果G证明φ，则……”形式的断言。所以我们的证明是用归纳法进行的。
+     * I.基础。验证：如果φ是G的成员则G蕴涵φ
+     * II.基础。验证：如果φ是公理，则G蕴涵φ
+     * III.归纳步骤（对证明的长度n作归纳）
+
+                （a）假定对于任意的G和φ，如果G在n或更少的步数能证明φ，则G蕴涵φ。
+                （b）对于在第n+1步时，根据推理规则，由G及其n步以内证明的命题，可以推导出新的命题。验证：对于任意的这样的新命题
+                ψ，G蕴涵ψ。
+
+   需要注意的是，对于自然演绎系统，基础步骤II可以省略，因为它们根本没有公理。基本上，基础步骤II是要展示每个公理都是（语义上的）逻辑真理。
+
+   基础步骤证实了对于任何G，来自G的最简单的可证明的语句都被G所蕴涵。（这是简单的，因为集合蕴涵它的任何一个成员，是个平凡的语义事实）。归纳步骤
+   将有系统的覆盖所有的进一步的可证明的命题--通过考虑我们能够使用推理规则达成逻辑结论的每种情况--并展示如果一个新命题是可证明的，它也是在逻辑
+   上被蕴涵的。（例如，可能有一个规则，使得从φ可以推导出“φ或ψ”。在III.（a）中我们假定如果φ是可证明的则它也是被蕴涵的。我们也知道如果φ
+   是可证明的，则“φ或ψ”是可证明的。接着，我们必须验证“φ或ψ”也是被蕴涵的。我们求助于语义的定义和我们所做的假定来完成。我们假定了φ是可以从
+   G证明出来的，所以它也被G所蕴涵。所以任何使G全部为真的指派，都使φ为真。此外通过“或”的语义定义，使φ为真的任何指派都使“φ或ψ”为真。所以
+   任何使G的全部为真的指派，都使“φ或ψ”为真。所以“φ或ψ”被蕴涵了。）一般的，归纳步骤的证明会较长，但不过是对所有推论规则按例分析，去展示每
+   个规则都能“保持”语义蕴涵。
+
+   通过可证明性的定义，除了G的成员、公理、或从规则推导出的命题之外，没有别的命题是可证明的；而这些命题都是语义上被蕴涵的，所以演绎演算是可靠的。
+
+完备性证明的梗概
+
+   [编辑]
+
+   （这通常是相对地困难不少的证明方向。）
+
+   我们采用同上面一样的符号约定。
+
+   我们要展示：如果G蕴涵φ，则G证明φ。我们通过反证法来进行：我们转而展示如果G不证明φ，则G不蕴涵φ。
+     * I. 假设G不证明φ。
+     * II.如果G不证明φ，则我们可以构造一个（有限的）"最大化的集合" G*，它是G的超集并且不证明φ。
+          + （a）把这个语言中的所有命题上加置一个“次序”。（比如，字母表次序），并把它们编号为E[1], E[2], ...
+          + （b）归纳的定义集合(G[0], G[1], ...)的一个序列G[n]为如下。
+
+                      （i）G[0]=G。
+                      （ii）如果G[k] ∪ {E[k+1]}证明φ，则G[k+1]=G[k]。
+                      （iii）如果G[k] ∪ {E[k+1]}不证明φ，则G[k+1]=G[k] ∪ {E[k+1]}。
+
+     *
+          + （c）定义G* 为所有G[n]的并集。（就是说，G* 在任何G[n]中的所有命题的集合）
+          + （d）可以容易地验证
+
+                      （i）G* 包含（是其超集）G（通过(b.i)）；
+                      （ii）G*
+                      不证明φ（因为如果它证明φ，则某些命题被增加到某个G[n]上而导致它证明了φ；但是这被定义所排除）；
+                      （iii）G*
+                      是（关于φ）"最大化的集合"：如果任何更多的命题不管怎样的被增加到G*，它就会证明φ。（因为如果有可能增
+                      加任何更多的命题，再次根据定义，在构造G[n]期间被遇到的时候它们就应当已经被增加进去了。）
+
+     * III.如果G*
+       是（关于φ）的最大化集合，则它是"类真理的"。这意味着它包含命题ψ，只在它不包含¬ψ的命题的条件下；如果它包含ψ并且包含“如果ψ则χ”
+       ，则它也包含χ；以此类推。
+     * IV.如果G* 是类真理的，则有“G*-规范”的指派：它使在G* 中每个命题为真而在G*
+       之外的所有命题为假，而仍然遵守在这个语言的语义合成的法则。
+     * V. G*-规范的命题将使我们最初的集合G中的命题全部为真，而使φ为假。
+     * VI.如果有在G其上是真而φ是假的指派，则G不（语义上）蕴涵φ。Q.E.D.
+
+公理化演算
+
+   [编辑]
+
+   下面定义的命题演算通过公理的方式定义了多数逻辑算子的语法并且它只使用一个推理规则。它也叫做标准命题演算。
+
+公理
+
+   [编辑]
+
+   设φ、χ和ψ表示合式公式。（wff自身将不包含任何希腊字母，而只包含大写罗马字母、链接算子和圆括号）。公理有
+     * THEN-1：φ →(χ → φ)
+     * THEN-2：(φ → (χ → ψ)) →((φ → χ)→(φ → ψ))
+     * AND-1：φ ∧ χ → φ
+     * AND-2：φ ∧ χ → χ
+     * AND-3：φ →(χ → (φ ∧ χ))
+     * OR-1：φ → φ ∨ χ
+     * OR-2：χ → φ ∨ χ
+     * OR-3：(φ → ψ)→((χ → ψ)→(φ ∨ χ → ψ))
+     * NOT-1：(φ → χ)→((φ → ¬ χ)→ ¬ φ)
+     * NOT-2：φ →(¬ φ → χ)
+     * NOT-3：φ ∨ ¬ φ
+
+   公理THEN-2可以被看作是“蕴涵关于蕴涵的分配律”。公理AND-1和AND-2对应于“合取除去”。在AND-1和AND-2之间的关系反映了合
+   取算子的交换律。公理AND-3对应于“合取介入”。公理OR-1和OR-2对应于“析取介入”。在OR-1和OR-2之间的关系反映了析取算子的交换
+   律。公理NOT-1对应于反证法。公理NOT-2说明了“从矛盾中可以推导出任何东西”。公理NOT-3叫做排中律（拉丁语tertium non
+   datur：“排除第三者”）并反映了命题公式的语义求值：公式的真值要么是真要么是假。至少在经典逻辑中，没有第三个真值。直觉逻辑不接受公理NOT
+   -3。
+
+推理规则
+
+   [编辑]
+
+   推理规则是肯定前件：
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>ϕ</mi> <mo>,</mo>
+       <mtext> </mtext> <mi>ϕ</mi> <mo stretchy="false">→</mo> <mi>χ</mi>
+       <mo>⊢</mo> <mi>χ</mi> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \phi ,\ \phi
+       \rightarrow \chi \vdash \chi }</annotation> </semantics> :MATH]
+       {\displaystyle \phi ,\ \phi \rightarrow \chi \vdash \chi } .
+
+   如果还使用双箭头的等价算子的话，则要增加如下"自然"推理规则：
+     * IFF-1：
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>ϕ</mi> <mo
+       stretchy="false">↔</mo> <mi>χ</mi> <mo>⊢</mo> <mi>χ</mi> <mo
+       stretchy="false">→</mo> <mi>ϕ</mi> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \phi \leftrightarrow
+       \chi \vdash \chi \rightarrow \phi }</annotation> </semantics>
+       :MATH]
+       {\displaystyle \phi \leftrightarrow \chi \vdash \chi \rightarrow
+       \phi }
+     * IFF-2：
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>ϕ</mi> <mo
+       stretchy="false">→</mo> <mi>χ</mi> <mo>,</mo> <mtext> </mtext>
+       <mi>χ</mi> <mo stretchy="false">→</mo> <mi>ϕ</mi> <mo>⊢</mo>
+       <mi>ϕ</mi> <mo stretchy="false">↔</mo> <mi>χ</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \phi
+       \rightarrow \chi ,\ \chi \rightarrow \phi \vdash \phi
+       \leftrightarrow \chi }</annotation> </semantics> :MATH]
+       {\displaystyle \phi \rightarrow \chi ,\ \chi \rightarrow \phi
+       \vdash \phi \leftrightarrow \chi }
+
+元推理规则
+
+   [编辑]
+
+   设一个推导被表示为相继式，各个假设在十字转门（turnstile）的左侧，而结论在十字转门的右侧。则演绎定理可以被陈述如下：
+
+          如果相继式
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <msub> <mi>ϕ</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+                <mo>,</mo> <mtext> </mtext> <msub> <mi>ϕ</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub>
+                <mo>,</mo> <mtext> </mtext> <mo>.</mo> <mo>.</mo>
+                <mo>.</mo> <mo>,</mo> <mtext> </mtext> <msub> <mi>ϕ</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+                <mo>,</mo> <mtext> </mtext> <mi>χ</mi> <mo>⊢</mo>
+                <mi>ψ</mi> </mstyle> </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle \phi _{1},\
+                \phi _{2},\ ...,\ \phi _{n},\ \chi \vdash \psi
+                }</annotation> </semantics> :MATH]
+                {\displaystyle \phi _{1},\ \phi _{2},\ ...,\ \phi _{n},\
+                \chi \vdash \psi }
+
+          已经被证明了，则也有可能证明相继式
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <msub> <mi>ϕ</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+                <mo>,</mo> <mtext> </mtext> <msub> <mi>ϕ</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub>
+                <mo>,</mo> <mtext> </mtext> <mo>.</mo> <mo>.</mo>
+                <mo>.</mo> <mo>,</mo> <mtext> </mtext> <msub> <mi>ϕ</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+                <mo>⊢</mo> <mi>χ</mi> <mo stretchy="false">→</mo>
+                <mi>ψ</mi> </mstyle> </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle \phi _{1},\
+                \phi _{2},\ ...,\ \phi _{n}\vdash \chi \rightarrow \psi
+                }</annotation> </semantics> :MATH]
+                {\displaystyle \phi _{1},\ \phi _{2},\ ...,\ \phi
+                _{n}\vdash \chi \rightarrow \psi } 。
+
+   这个演绎定理（DT）自身没有公式化为命题演算：它不是命题演算的定理，而是关于命题演算的一个定理。在这个意义上，它是元定理，相当于关于命题演算可
+   靠性和完备性的定理。
+
+   在另一方面，DT对于简化语法上的证明过程是如此的有用以至于它看作和用做推理规则，同肯定前件一起使用。在这个意义上，DT对应于自然条件证明推理规
+   则，它是在本条目中提出的第二个例子的命题演算的一部分。
+
+   DT的逆定理也是有效的：
+
+          如果相继式
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <msub> <mi>ϕ</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+                <mo>,</mo> <mtext> </mtext> <msub> <mi>ϕ</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub>
+                <mo>,</mo> <mtext> </mtext> <mo>.</mo> <mo>.</mo>
+                <mo>.</mo> <mo>,</mo> <mtext> </mtext> <msub> <mi>ϕ</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+                <mo>⊢</mo> <mi>χ</mi> <mo stretchy="false">→</mo>
+                <mi>ψ</mi> </mstyle> </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle \phi _{1},\
+                \phi _{2},\ ...,\ \phi _{n}\vdash \chi \rightarrow \psi
+                }</annotation> </semantics> :MATH]
+                {\displaystyle \phi _{1},\ \phi _{2},\ ...,\ \phi
+                _{n}\vdash \chi \rightarrow \psi }
+
+          已经被证明了，则也有可能证明相继式
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <msub> <mi>ϕ</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+                <mo>,</mo> <mtext> </mtext> <msub> <mi>ϕ</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub>
+                <mo>,</mo> <mtext> </mtext> <mo>.</mo> <mo>.</mo>
+                <mo>.</mo> <mo>,</mo> <mtext> </mtext> <msub> <mi>ϕ</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+                <mo>,</mo> <mtext> </mtext> <mi>χ</mi> <mo>⊢</mo>
+                <mi>ψ</mi> </mstyle> </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle \phi _{1},\
+                \phi _{2},\ ...,\ \phi _{n},\ \chi \vdash \psi
+                }</annotation> </semantics> :MATH]
+                {\displaystyle \phi _{1},\ \phi _{2},\ ...,\ \phi _{n},\
+                \chi \vdash \psi }
+
+   实际上，DT的逆定理的有效性相对于DT而言是平凡的：
+
+          如果
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <msub> <mi>ϕ</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+                <mo>,</mo> <mtext> </mtext> <mo>.</mo> <mo>.</mo>
+                <mo>.</mo> <mo>,</mo> <mtext> </mtext> <msub> <mi>ϕ</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+                <mo>⊢</mo> <mi>χ</mi> <mo stretchy="false">→</mo>
+                <mi>ψ</mi> </mstyle> </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle \phi _{1},\
+                ...,\ \phi _{n}\vdash \chi \rightarrow \psi }</annotation>
+                </semantics> :MATH]
+                {\displaystyle \phi _{1},\ ...,\ \phi _{n}\vdash \chi
+                \rightarrow \psi }
+
+          则
+
+                1：
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <msub> <mi>ϕ</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+                <mo>,</mo> <mtext> </mtext> <mo>.</mo> <mo>.</mo>
+                <mo>.</mo> <mo>,</mo> <mtext> </mtext> <msub> <mi>ϕ</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+                <mo>,</mo> <mtext> </mtext> <mi>χ</mi> <mo>⊢</mo>
+                <mi>χ</mi> <mo stretchy="false">→</mo> <mi>ψ</mi>
+                </mstyle> </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle \phi _{1},\
+                ...,\ \phi _{n},\ \chi \vdash \chi \rightarrow \psi
+                }</annotation> </semantics> :MATH]
+                {\displaystyle \phi _{1},\ ...,\ \phi _{n},\ \chi \vdash
+                \chi \rightarrow \psi }
+                2：
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <msub> <mi>ϕ</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+                <mo>,</mo> <mtext> </mtext> <mo>.</mo> <mo>.</mo>
+                <mo>.</mo> <mo>,</mo> <mtext> </mtext> <msub> <mi>ϕ</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+                <mo>,</mo> <mtext> </mtext> <mi>χ</mi> <mo>⊢</mo>
+                <mi>χ</mi> </mstyle> </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle \phi _{1},\
+                ...,\ \phi _{n},\ \chi \vdash \chi }</annotation>
+                </semantics> :MATH]
+                {\displaystyle \phi _{1},\ ...,\ \phi _{n},\ \chi \vdash
+                \chi }
+
+          并且可以演绎自（1）和（2）
+
+                3：
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <msub> <mi>ϕ</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+                <mo>,</mo> <mtext> </mtext> <mo>.</mo> <mo>.</mo>
+                <mo>.</mo> <mo>,</mo> <mtext> </mtext> <msub> <mi>ϕ</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+                <mo>,</mo> <mtext> </mtext> <mi>χ</mi> <mo>⊢</mo>
+                <mi>ψ</mi> </mstyle> </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle \phi _{1},\
+                ...,\ \phi _{n},\ \chi \vdash \psi }</annotation>
+                </semantics> :MATH]
+                {\displaystyle \phi _{1},\ ...,\ \phi _{n},\ \chi \vdash
+                \psi }
+
+          通过肯定前件的方式，Q.E.D.
+
+   DT的逆命题有着强有力的蕴涵：它可以用来把公理转换成推理规则。例如，公理AND-1
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>⊢</mo> <mi>ϕ</mi>
+          <mo>∧</mo> <mi>χ</mi> <mo stretchy="false">→</mo> <mi>ϕ</mi>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \vdash \phi \wedge
+          \chi \rightarrow \phi }</annotation> </semantics> :MATH]
+          {\displaystyle \vdash \phi \wedge \chi \rightarrow \phi }
+
+   可以通过演绎定理的逆定理的方式被转换成推理规则
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>ϕ</mi> <mo>∧</mo>
+          <mi>χ</mi> <mo>⊢</mo> <mi>ϕ</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \phi \wedge \chi
+          \vdash \phi }</annotation> </semantics> :MATH]
+          {\displaystyle \phi \wedge \chi \vdash \phi }
+
+   这是合取除去，是前面给出的自然演绎命题演算中使用的十个推理规则中的一个。
+
+证明的例子
+
+   [编辑]
+
+   下面是（语法上）证明的一个例子，只涉及到公理THEN-1和THEN-2：
+   要证明：A → A（蕴涵的自反性）。
+   证明：
+
+          1.(A → ((B → A)→ A)) →((A → (B → A)) →(A → A))
+
+                公理THEN-2通过φ = A, χ = B → A, ψ = A
+
+          2. A →((B → A)→ A)
+
+                公理THEN-1通过φ = A, χ = B → A
+
+          3.(A → (B → A)) →(A → A)
+
+                得自（1）和（2）通过肯定前件。
+
+          4. A →(B → A)
+
+                公理THEN-1通过φ = A, χ = B
+
+          5. A → A
+
+                得自（3）和（4）通过肯定前件。
+
+等价于等式逻辑
+
+   [编辑]
+
+   前面的公理化命题演算是希尔伯特风格演绎系统的一个例子。在这种命题系统中公理是用逻辑链接词构建的项，而唯一的推理规则是肯定前件。等式逻辑在高等学
+   校的抽象代数教学中被作为正式的标准，它是不同于希尔伯特系统的一类不同的演算。它的定理是等式而它的推理规则表达出等号的性质，也就是在容许代换的项
+   上的相等关系。
+
+   上述的经典命题演算等价于布尔代数，而直觉命题演算等价于海廷代数。等价性是通过在两个方向上转换各自系统的定理来证明的。经典命题演算或直觉命题演算
+   的定理Φ被分别转换为布尔代数或Heyting代数的等式Φ = 1。反过来布尔代数或Heyting代数的定理x =
+   y被分别转换为定理经典名义演算或直觉命题演算的定理(x → y)∧(y → x)，它的标准简写是x ≡ y。在布尔代数的情况下，x =
+   y还可以被转换为(x∧y)∨(¬x∧¬y)，但在直觉命题演算的情况下中不能这么转换。
+
+   在布尔代数和Heyting代数中，可以使用不等式x ≤ y代替等式。等式x = y可以被表达为一对不等式x ≤ y和y ≤ x。反过来不等式x
+   ≤ y可被表达为等式x∧y = x或x∨y = y。不等式的重要性在于它对应于希尔伯特系统的演绎或蕴涵符号
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>⊢</mo> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \vdash
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \vdash } 。蕴涵
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <msub> <mi>ϕ</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+                <mo>,</mo> <mtext> </mtext> <msub> <mi>ϕ</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub>
+                <mo>,</mo> <mo>…</mo> <mo>,</mo> <mtext> </mtext> <msub>
+                <mi>ϕ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+                </mrow> </msub> <mo>⊢</mo> <mi>ψ</mi> </mstyle> </mrow>
+                <annotation encoding="application/x-tex">{\displaystyle
+                \phi _{1},\ \phi _{2},\ldots ,\ \phi _{n}\vdash \psi
+                }</annotation> </semantics> :MATH]
+                {\displaystyle \phi _{1},\ \phi _{2},\ldots ,\ \phi
+                _{n}\vdash \psi }
+
+   被转换为代数框架下的不等式
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <msub> <mi>ϕ</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+                <mtext> </mtext> <mo>∧</mo> <mtext> </mtext> <msub>
+                <mi>ϕ</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+                </mrow> </msub> <mtext> </mtext> <mo>∧</mo>
+                <mtext> </mtext> <mo>…</mo> <mtext> </mtext> <mo>∧</mo>
+                <mtext> </mtext> <msub> <mi>ϕ</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+                <mtext> </mtext> <mtext> </mtext> <mo>≤</mo>
+                <mtext> </mtext> <mtext> </mtext> <mi>ψ</mi> </mstyle>
+                </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle \phi _{1}\
+                \land \ \phi _{2}\ \land \ \ldots \ \land \ \phi _{n}\ \
+                \leq \ \ \psi }</annotation> </semantics> :MATH]
+                {\displaystyle \phi _{1}\ \land \ \phi _{2}\ \land \
+                \ldots \ \land \ \phi _{n}\ \ \leq \ \ \psi }
+
+   反过来代数不等式x ≤ y被转换为蕴涵
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <mi>x</mi>
+                <mtext> </mtext> <mo>⊢</mo> <mtext> </mtext> <mi>y</mi>
+                </mstyle> </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle x\ \vdash \
+                y}</annotation> </semantics> :MATH]
+                {\displaystyle x\ \vdash \ y}
+
+   在实质条件（implication）x → y和不等式或者蕴涵（entailment）x ≤ y或
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> <mtext> </mtext>
+   <mo>⊢</mo> <mtext> </mtext> <mi>y</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle x\ \vdash \ y}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x\ \vdash \ y}
+   之间的区别在于，前者是内在于逻辑的，而后者是外在的。在两个项之间内在的实质条件是同类的另一个项。在两个项之间的外在的蕴涵表达了在逻辑语言之外的
+   元真理，并被认为是元语言的一部分。即使所研究的逻辑是直觉的，蕴涵都通常经典的理解为二值的：要么左侧蕴涵（或小于等于）右侧，要么不蕴涵之。
+
+   同代数逻辑之间类似但更加复杂的相互转换，对于自然演绎系统和相继式演算也是可能的。后者的转换可以被释义为二值的，但是更有洞察力的释义是作为集合，
+   它的元素可以被理解为由范畴的态射组成的抽象证明。在这种释义下相继式演算的切规则对应于范畴的复合。
+
+其他逻辑演算
+
+   [编辑]
+
+   命题演算大概是在所有当前使用的逻辑演算中最简单的一种。（亚里士多德的“三段论”演算，在现代逻辑中在很大程度上被替代了，它与命题逻辑相比在某些方
+   面更简单--但在其他方面更加复杂）。它可以按很多方式来扩展。
+
+   最直接的方式是开发一个更加复杂的逻辑演算，介入对所用于的句子的更精细的细节敏感的规则。在命题逻辑中的原子句子被分解成项（英语：Singular
+   term）、变量、谓词和量词的时候，它们就生成了一阶逻辑，或者叫做一阶谓词逻辑，它保留命题逻辑的所有规则并增加了一些新规则。（例如，从“所有的
+   狗都是动物”我们可以推出“如果Rover是狗，则Rover是动物”）。
+
+   通过一阶逻辑的工具，有可能公式化一些理论，要么带有显式的公理要么通过推理规则，而把它们自身当作逻辑演算。算术是其中最周知的理论；其他的还包括集
+   合论和分体论。
+
+   模态逻辑也提供了一种推理的变体，它不能在命题演算中捕获。例如，从“必然地p”我们可以推出p。从p我们可以推出“可能地p”。
+
+   多值逻辑是允许句子有除了“真”和“假”之外的值的逻辑。（例如，“都不”和“都是”是标准的“额外值”；“连续统逻辑”允许每个句子有任何的在“真”
+   和“假”之间的表示“真实程度”的无限个值）。这些逻辑经常要求与命题逻辑非常不同的运算设备。
+
+参见
+
+   [编辑]
+     * 逻辑
+     * 零阶逻辑
+     * 演绎推理
+     * 希尔伯特演绎系统
+     * 自然演绎
+     * 推理规则列表（英语：List of rules of inference）
+     * 相继式演算
+     * 布尔逻辑
+     * 布尔代数
+     * 一阶逻辑
+
+引用
+
+   [编辑]
+     * Brown, Frank Markham(2003), Boolean Reasoning: The Logic of Boolean
+       Equations, 1st edition, Kluwer Academic Publishers, Norwell, MA.
+       2nd edition, Dover Publications, Mineola, NY.
+     * Chang, C.C., and Keisler, H.J.(1973), Model Theory, North-Holland,
+       Amsterdam, Netherlands.
+     * Kohavi, Zvi(1978), Switching and Finite Automata Theory, 1st
+       edition, McGraw–Hill, 1970. 2nd edition, McGraw–Hill, 1978.
+     * Korfhage, Robert R.(1974), Discrete Computational Structures,
+       Academic Press, New York, NY.
+     * Lambek, J. and Scott, P.J.(1986), Introduction to Higher Order
+       Categorical Logic, Cambridge University Press, Cambridge, UK.
+     * Mendelson, Elliot(1964), Introduction to Mathematical Logic, D. Van
+       Nostrand Company.
+
+外部链接
+
+   [编辑]
+     * Klement, Kevin C. (2006), "Propositional Logic", in James Fieser
+       and Bradley Dowden(eds.), Internet Encyclopedia of Philosophy,
+       Eprint（页面存档备份，存于互联网档案馆）.
+     * Introduction to Mathematical Logic（页面存档备份，存于互联网档案馆）
+     * Elements of Propositional Calculus
+     * forall x: an introduction to formal logic（页面存档备份，存于互联网档案馆）, by P.D.
+       Magnus, covers formal semantics and proof theory for sentential
+       logic.
+     * Propositional Logic (GFDLed)
+
+参考资料
+
+   [编辑]
+    1. ^ Bobzien, Susanne. Zalta, Edward N. , 编. The Stanford Encyclopedia
+       of Philosophy. 1 January 2016 [2023-07-08]. （原始内容存档于2019-03-18）
+       –通过Stanford Encyclopedia of Philosophy.
+
+     * 查
+     * 论
+     * 编
+
+   逻辑联结词
+     * 恒真（
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi
+       mathvariant="normal">⊤</mi> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \top }</annotation>
+       </semantics> :MATH]
+       {\displaystyle \top } ）
+
+   [100px-Logical_connectives_Hasse_diagram.svg.png]
+     * 与非（
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo stretchy="false">↑</mo>
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \uparrow }</annotation>
+       </semantics> :MATH]
+       {\displaystyle \uparrow } ）
+     * 反蕴涵（
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo stretchy="false">←</mo>
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \leftarrow
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \leftarrow } ）
+     * 蕴涵（
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo stretchy="false">→</mo>
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \rightarrow
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \rightarrow } ）
+     * 或（
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo>∨</mo> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \lor
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \lor } ）
+
+     * 非（
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi
+       mathvariant="normal">¬</mi> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \neg }</annotation>
+       </semantics> :MATH]
+       {\displaystyle \neg } ）
+     * 异或（
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo>⊕</mo> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \oplus
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \oplus } ）
+     * 双条件（
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo stretchy="false">↔</mo>
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \leftrightarrow
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \leftrightarrow } ）
+     * 命题
+
+     * 或非（
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo stretchy="false">↓</mo>
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \downarrow
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \downarrow } ）
+     * 非蕴涵（
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo>↛</mo> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle
+       \nrightarrow }</annotation> </semantics> :MATH]
+       {\displaystyle \nrightarrow } ）
+     * 反非蕴涵（
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo>↚</mo> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \nleftarrow
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \nleftarrow } ）
+     * 与（
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo>∧</mo> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \land
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \land } ）
+
+     * 恒假（
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi
+       mathvariant="normal">⊥</mi> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \bot }</annotation>
+       </semantics> :MATH]
+       {\displaystyle \bot } ）
+
+     * 查
+     * 论
+     * 编
+
+   数理逻辑
+
+   基本概念
+
+     * 公理
+          + 列表
+     * 势
+     * 一阶逻辑
+     * 形式证法（英语：Formal proof）
+     * 逻辑语义学
+     * 数学基础
+     * 信息论
+     * 蕴涵
+     * 结构
+     * 集合
+     * 定理
+     * 形式理论
+     * 类型论
+
+   定理
+   （列表（英语：Category:Theorems in the foundations of
+   mathematics）及悖论（英语：Paradoxes of set theory））
+
+     * 哥德尔完备性定理及哥德尔不完备定理
+     * 塔斯基不可定义定理
+     * 巴拿赫-塔斯基定理
+     * 康托尔 定理、悖论和对角论证法
+     * 紧致性定理
+     * 停机问题
+     * 林德斯特伦定理（英语：Lindström's theorem）
+     * 勒文海姆–斯科伦定理
+     * 罗素悖论
+
+   逻辑
+
+   传统逻辑
+     * 逻辑真理
+     * 恒真式
+     * 命题
+     * 推理
+     * 逻辑等价
+     * 一致性
+          + 相同一致性（英语：Equiconsistency）
+     * 逻辑论证
+     * 可靠性定理
+     * 有效性
+     * 直言三段论
+     * 对立四边形
+     * 文氏图
+
+   命题逻辑
+     * 逻辑代数
+     * 布尔函数
+     * 逻辑运算符
+     * 命题逻辑
+     * 命题公式
+     * 真值表
+     * 多值逻辑
+          + 三值
+          + 有限值（英语：Finite-valued logic）
+          + 无限值
+
+   经典逻辑
+     * 经典逻辑
+     * 一阶逻辑
+     * 二阶逻辑
+          + 一元（英语：Monadic second-order logic）
+     * 高阶逻辑
+     * 自由逻辑
+     * 量化
+     * 谓词（英语：Predicate (mathematical logic)）
+     * 一元谓词演算
+
+   集合论
+
+     * 集合
+          + 遗传集（英语：Hereditary set）
+     * 类
+     * （基本）元素
+     * 有序对
+     * 序数
+     * 子集
+     * 相等
+     * 外延性
+     * 力迫
+     * 关系
+          + 等价关系
+          + 集合划分
+     * 集合运算
+          + 交集
+          + 并集
+          + 补集
+          + 笛卡儿积
+          + 幂集
+          + 同一性（英语：List of set identities and relations）
+
+   集合种类
+     * 可数集
+     * 不可数集
+     * 空集
+     * 居集（英语：Inhabited set）
+     * 单元素集合
+     * 有限集合
+     * 无限集合
+     * 传递集合
+     * 超滤子（英语：Ultrafilter (set theory)）
+     * 递归集合
+     * 模糊集
+     * 全集
+          + 可构造全集（英语：Constructible universe）
+          + 格伦迪克全集（英语：Grothendieck universe）
+          + 冯·诺伊曼全集
+
+   映射与势
+     * 函数、映射
+          + 定义域
+          + 到达域
+          + 像
+     * 单射、满射、双射
+     * 康托尔-伯恩斯坦-施罗德定理
+     * 同构
+     * 哥德尔数
+     * 列举法
+     * 大基数
+          + 不可达基数
+     * 阿列夫数
+     * 运算
+          + 二元运算
+
+   集合理论
+     * 策梅洛-弗兰克尔 (ZFC)
+          + 选择公理
+          + 连续统假设
+     * 广义集合论 (GST)（英语：General set theory）
+     * 克里普克-普拉克 (KP)（英语：Kripke–Platek set theory）
+     * 莫尔斯-凯利集合论 (MK)（英语：Morse–Kelley set theory）
+     * 朴素集合论
+     * 新基础集合论
+     * 塔斯基-格罗滕迪克 (TG)（英语：Tarski–Grothendieck set theory）
+     * 冯·诺伊曼-博内斯-哥德尔 (NBG)
+     * 建构式集合论（英语：Constructive set theory）
+
+   句法（英语：Syntax (logic)）及语言
+
+     * 字母表
+     * 元数
+     * 自动机理论
+     * 公理模式
+     * 表达式
+          + 基础表达式（英语：Ground expression）
+     * 扩展（英语：Extension by new constant and function names）
+     * 关系
+     * 形式
+          + 文法
+          + 语言
+          + 证明
+          + 系统
+          + 理论
+     * 形成规则（英语：Formation rule）
+     * 合式公式
+          + 原子公式
+          + 封闭式
+          + 基本式（英语：Ground formula）
+          + 开放式
+     * 自由变量和约束变量
+     * 元语言
+     * 逻辑运算符
+          + ¬
+          + ∨
+          + ∧
+          + →
+          + ↔
+          + 逻辑相等（英语：Logical equality）
+     * 谓词（英语：Predicate (mathematical logic)）
+          + 泛函谓词
+          + 谓词变量
+          + 命题变量
+     * 量化
+          + ∃
+          + !
+          + ∀
+          + 级别（英语：Quantifier rank）
+     * 句子
+          + 原子句子
+     * 逻辑签名（英语：Signature (logic)）
+     * 字符串
+     * 替换法（英语：Substitution (logic)）
+     * 逻辑符号
+          + 函数符号
+          + 逻辑常量（英语：Logical constant）
+          + 非逻辑符号（英语：Non-logical symbol）
+          + 变量
+     * 逻辑术语（英语：Term (logic)）
+
+   公理系统示例
+   （列表（英语：List of first-order theories））
+     * 实算术（英语：True arithmetic）
+          + 皮亚诺公理
+          + 二阶（英语：Second-order arithmetic）
+          + 初等函数（英语：Elementary function arithmetic）
+          + 原始递归（英语：Primitive recursive arithmetic）
+          + 罗宾逊算术（英语：Robinson arithmetic）
+          + 斯科勒姆算术（英语：Skolem arithmetic）
+     * 实数的构造
+          + 塔尔斯基公理化（英语：Tarski's axiomatization of the reals）
+     * 布尔代数
+          + 正则定义（英语：Boolean algebras canonically defined）
+          + 最小公理（英语：Minimal axioms for Boolean algebra）
+     * 几何（英语：Foundations of geometry）
+          + 欧几里得几何
+          + 《原本》
+          + 希尔伯特公理
+          + 非欧几里得几何
+          + 塔尔斯基公理（英语：Tarski's axioms）
+     * 《数学原理》
+
+   证明论
+
+     * 形式证明
+     * 自然演绎
+     * 蕴涵
+     * 推理规则
+     * 相继式演算
+     * 定理
+     * 系统
+          + 形式
+          + 公理
+          + 演绎
+          + 希尔伯特演绎系统
+               o 列表（英语：List of Hilbert systems）
+     * 完备理论（英语：Complete theory）
+     * ZFC系统的独立性（英语：Independence (mathematical logic)）
+          + 列表
+     * 不可能证明（英语：Proof of impossibility）
+     * 序数分析（英语：Ordinal analysis）
+     * 逆数学
+     * 自恰理论（英语：Self-verifying theories）
+
+   模型论
+
+     * 解释
+     * 结构
+          + 初等等价
+          + 有限模型（英语：Finite model theory）
+          + 饱和模型
+          + 子结构
+     * 非标准模型
+          + 算术（英语：Non-standard model of arithmetic）
+     * 结构图（英语：Diagram (mathematical logic)）
+          + 基本图（英语：Elementary diagram）
+     * 分类理论（英语：Categorical theory）
+     * 完备模型论（英语：Model complete theory）
+     * 可满足性（英语：Satisfiability）
+     * 逻辑语义学
+     * 强度（英语：Strength (mathematical logic)）
+     * 真理
+          + 语义理论
+          + 塔尔斯基
+          + 克里普克
+     * T-模式
+     * 转移原则（英语：Transfer principle）
+     * 真理谓词（英语：Truth predicate）
+     * 真值
+     * 型
+     * 超积
+     * 有效性
+
+   可计算性理论
+
+     * 邱奇数
+     * 邱奇-图灵论题
+     * 递归可枚举集合
+     * 可计算函数
+     * 递归集合
+     * 决定性问题
+          + 可决定性（英语：Decidability (logic)）
+          + 不可决定性
+          + P
+          + NP
+          + P/NP问题
+     * 柯氏复杂性
+     * Λ演算
+     * 原始递归函数
+     * 递归
+     * 递归集合
+     * 图灵机
+     * 类型论
+
+   其他相关
+
+     * 抽象逻辑（英语：Abstract logic）
+     * 范畴论
+     * 具象范畴、抽象范畴
+     * 集合范畴
+     * 逻辑史
+     * 数理逻辑
+          + 历史年表（英语：Timeline of mathematical logic）
+     * 逻辑主义
+     * 数学对象
+     * 数学哲学
+     * 超任务（英语：Supertask）
+
+   [16px-Nuvola_apps_edu_mathematics_blue-p.svg.png] 数学主题
+
+   检索自“https://zh.wikipedia.org/w/index.php?title=命题逻辑&oldid=78064914”
+
+   分类：​
+     * 逻辑
+     * 数理逻辑
+     * 形式逻辑系统
+     * 命题演算
+
+   隐藏分类：​
+     * 含有拉丁语的条目
+
+     * 本页面最后修订于2023年7月13日 (星期四) 10:44。
+     * 本站的全部文字在知识共享 署名-相同方式共享 4.0协议之条款下提供，附加条款亦可能应用。（请参阅使用条款）
+       Wikipedia®和维基百科标志是维基媒体基金会的注册商标；维基™是维基媒体基金会的商标。
+       维基媒体基金会是按美国国内税收法501(c)(3)登记的非营利慈善机构。
+
+     * 隐私政策
+     * 关于维基百科
+     * 免责声明
+     * 行为准则
+     * 开发者
+     * 统计
+     * Cookie声明
+     * 手机版视图
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

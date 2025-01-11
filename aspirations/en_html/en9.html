@@ -1,0 +1,807 @@
+<HTML>
+<HEAD>
+  <STYLE>
+  DIV.abstract {
+    font-style: italic;
+  }
+  DIV.copyright {
+    font-style: bold;
+    margin: 5%;
+  }
+  .example {
+      background: orange;
+      padding: 0.2em 1em 0.2em 1em;
+      border: none;
+      whitespace: pre;
+      font-family: monospace;
+  }
+  P.caption {
+    font-weight: bold;
+  }
+</STYLE>
+  <TITLE ALIGN=center>Let's Reason on the Web: Metalog</TITLE>
+  <LINK rel=stylesheet href="https://www.w3.org/StyleSheets/Core/Modernist" type="text/css">
+</HEAD>
+<BODY BGCOLOR="white">
+<H1 ALIGN=Center>
+  Let's Reason on the Web: Metalog
+</H1>
+<DIV class=authors>
+  <H3 ALIGN=Center>
+    <A HREF="https://www.w3.org/People/Massimo/">Massimo Marchiori</A>,
+    <A HREF="https://www.w3.org/People/Janne/">Janne Saarela</A><BR>
+    {massimo,jsaarela}@w3.org
+  </H3>
+</DIV>
+<DIV class=organization>
+  <H2 ALIGN=Center>
+    <I><A HREF="https://www.w3.org">The World Wide Web Consortium (W3C)</A></I>
+  </H2>
+</DIV>
+<DIV class=abstract>
+
+<P>The Resource Description Framework (RDF) Model&amp;Syntax
+Specification describes a metadata infrastructure which can
+accommodate classification elements from different vocabularies
+i.e. schemas. The underlying model consists of a labeled directed
+acyclic graph which can be linearized into eXtensible Markup
+Language (XML) transfer syntax for interchange between applications.
+
+<P>This paper will demonstrate how a new querying language, Metalog,
+allows users to write inference rules and queries in English-like
+syntax. We will demonstrate how these reasoning rules have equivalent
+representation both as RDF descriptions and as logic programs. We will
+also show how an automated compilation between these translations is
+possible.
+
+<P>For the sake of clarity, here we will just give an overview of the
+system, trying to avoid technicalities and cumbersome details.
+</DIV>
+
+<H2>Query Languages</H2>
+
+<P>In general, query languages are formal languages to retrieve data
+from a database. Standardadized languages already exist to retrieve
+information from different types of databases such as Structured Query
+Language (SQL) for relational databases and Object Query Language
+(OQL) and SQL3 for object relational databases.
+
+<P>Semi-structured query languages such as 
+XML-QL [3] operate on a document level structure taking
+advantage of the internal element structure of an XML document.
+
+<P>Logic programs consist of facts and rules where valid inference
+rules are used to arrives into new facts i.e. query results.
+
+<P>With RDF, the most suitable approach is to focus on the underlying
+data model. Even though XML-QL could be used to query RDF
+descriptions in their XML encoded form, a single RDF data model could
+not be correctly determined with a single XML-QL query due to the fact
+that RDF allows several XML syntax encodings for the same data model.
+
+<H2>The Metalog Approach</H2>
+
+<P>RDF provides the basis for structuring the data present on the Web
+in a consistent and accurate way. However, RDF is only the first step
+towards the construction of what Tim Berners-Lee calls the "Web of
+knowledge", a World Wide Web where data is structured, <I>and</I>
+users can fully benefit by this structure when accessing information
+on the Web. RDF only provides the "basic vocabulary" in which data can
+be expressed and structured. Then, the whole problem of
+<I>accessing</I> an <I>managing</I> these data structures arises.
+
+<P>Metalog provides a "logical" view of metadata present on the
+Web. The Metalog approach is composed of several components.
+
+<P>In the first component, a particular data semantics is
+established. Metalog provides way to express logical relationships
+such as "and", "or" and to build up complex <I>inference
+rules</I> that encode logical reasoning.  This "semantic layer" builds
+on top of RDF using a so-called <I>RDF schema</I>.
+
+<P>The second component consists of a "logical interpretation" of RDF
+data (optionally enriched with the semantic schema) into logic
+programming. This way, the understood semantics of RDF is unwielded
+into its logical components (a logic program, indeed). This means that
+every reasonment on RDF data can be performed acting upon the
+corresponding logical view, the logic program, providing a neat and
+powerful way to reason about data.
+
+<P>The third component is a language interface to writing structured
+data and reasoning rules. In principle, the first component already
+suffices: data and rules can be written directly in RDF, using RDF
+syntax and the Metalog schema. However, this is not convenient from
+the practical viewpoint. Indeed, RDF syntax aims at being more an
+encoding language rather than a user-friendly language, and it is well
+recognised in the RDF community and among vendors that the typical
+applications will provide more user-friendly interfaces between the
+"raw RDF" code and the user. Our proposed language is innovative in
+that it tries to stress user-friendliness as much as possible: a
+program is a collection of <I>natural language</I> assertions. We
+think this feature will be particularly important for the wide
+deployment not only of metalog, but of RDF itself: the measure of the
+success of metadata and proper structuring of information on the Web
+is given by the number of people that will actually lose time and
+energy in write (and/or translate) data into the structured
+format. Therefore, it is of primary importance that the entry level is
+kept extremely easy, to avoid that the difficuly of just learning how
+to encode and structure data will just block the widespread diffusion
+of metadata on the Web.
+
+<P>Another important feature of the language, in this respect, is
+indeed that it can be used just as an interface to RDF, without the
+metalog extensions. This way, users will be able to access and
+structure metadata using RDF in a smooth and seamless way, using the
+metalog language.
+
+<H2>The Metalog Schema</H2>
+
+<P>The first correspondance in Metalog is between the basic RDF data
+model and the predicates in logic. The RDF data model consists of
+so-called <I>statements</I>. Statements are triples where there is a
+subject (the "resource"), a predicate (the "property"), and an object
+(the "literal"). Metalog views an RDF statement in the logical
+setting as just a binary predicate involving the subject and the
+literal. For example, the RDF statement expressing the fact that
+<I>Tim Berners-Lee invented the Web </I>(formally, the RDF triple
+<I>{invented, Tim Berners-Lee, Web}</I>) is seen in logic programming
+as the predicate <I>invented(Tim Berners-Lee, Web)</I>.
+
+<P>Once we have estalished the basic correspondance between the basic
+RDF data model and predicates in logic, the next step becomes easy: we
+can extend RDF so that the mapping to logic is able to take advantage
+of all of the logical relationships present in logical systems: that
+is to say, beyond the ability of expressing <I>static facts</I>, we
+want the ability to encode <I>dynamic reasoning rules,</I> like in
+logic programming.
+
+<P>In order to do so, we need at least:
+
+<UL>
+  <LI>the standard logical connectors (<I>and</I>, <I>or</I>, <I>not</I>)
+  <LI>variables
+</UL>
+
+<P>The Metalog schema extends plain RDF with this "logical layer",
+enabling the expression of arbitrary logical relationships within
+RDF. In fact, the Metalog schema provides more accessories besides the
+aforementioned basic ones. Without elaborating here all the Metalog
+schema elements since they will be presented later, what the reader
+should keep in mind is just that the Metalog schema provides the
+"meta-logic" operators to reason with RDF statements.
+
+<P>Technically, this is quite easy to do: the metalog schema is just a
+schema as defined by the RDF schema specification [Brickley99] where,
+for example, <I>and</I> and <I>or</I> are sub-instances of the RDF
+<I>Bag</I> connector.
+
+<P>The mapping between "metalog RDF" and logical formulas is then
+completely natural: for each RDF statement that does not use a Metalog
+connector, there is a corresponding logical predicate as defined
+before. Then, the metalog connectors are translated into the
+corresponding logical connectors in the natural way (so, for instance,
+the metalog <I>and</I> connector is mapped using logical conjunction,
+while the metalog <I>or</I> connector is mapped using logical
+disjunction).
+
+<H2>The Metalog Syntax</H2>
+
+<P>Note that the RDF metalog schema and the corresponding translation
+into logical formulas is absolutely general. However, in practicse,
+one need also to then be able to process the resulting logical
+formulas in an effective ways. In other words, while the RDF metalog
+schema nicely extends RDF with the full power of first order predicate
+calculus, thus increasing by far the <I>expressibility</I> of basic
+RDF, there is still the other, <I>computational</I>, side of the coin:
+how to process and effectively reason with all these logical inference
+rules.
+
+<P>It is well known that in general dealing with full first order
+predicate calculus is totally unfeasable computationally. So, what we
+would like to have is a subset of predicate calculus that is still
+expressible enough, and also computationally feasible: our choice went
+to <I>logic programming</I>.  Logic programming (see e.g. [1]) is a
+well known programming paradigm that selects a subset of full
+first-order predicate calculus (so called Horn clauses); it is a very
+powerful and expressive paradigm, and has the further advantage that
+it has been widely studied in the database community (a subset of
+logic programming, <EM>datalog</EM>, has even the advantage of having
+computations always terminating, a feature of obvious interest for Web
+queries).
+
+<P>The third level is then the actual syntax interface between the
+user and this "metalog RDF" encoding, with the constraint that the
+expressibility of the language must fit within the one provided by
+logic programming.
+
+<P>The metalog syntax has been explicitly designed with the purpose of
+being totally natural-language based, trying to avoid any possible
+technicalities, and therefore making the language extrememly readable
+and self-descriptive.
+
+<P>The way metalog reaches this scope is by a careful use of
+upper/lower case, quotes, and by allowing a rather liberal positioning
+of the keywords (an advanced parser then disambiguates the keywords
+from each metalog program line).
+
+<H3>Metalog grammar</H3>
+
+<P>The tokens in the Metalog language can be rougly divided into 
+four categories:
+
+<OL>
+<LI>variables
+<LI>literals
+<LI>keywords
+<li>noise words
+</OL>
+
+<p>In the following subsections we present how these tokens are
+recognized. There is also an example following each of these
+subsections to demonstrate how the recognization works in practice.
+
+<H4>Variables</H4>
+
+<P>Upper/lower case is used to distingush between normal keywords and
+variables: variables are expressed using names all in upper case (for
+example, <TT>FOO</TT> is a variable). Words that are in lower case
+either are keywords (reserved words), or if not, they are ignored. For
+example, <TT>then</TT> is a keyword, while <TT>foo</TT> is not, and so
+it is just ignored (it is only syntactic sugaring). Other words can be
+either keywords, or they are just ignored. In the current version of
+metalog, words cannot intermingle upper and lower case: this helps to
+reduce errors and to improve readability, since it strengthens the
+layout difference between variables and the other words.
+
+<pre class="example">
+SHE X Y CAR RDF
+</pre>
+
+<H4>Literals</H4>
+
+<P>Any name which is between double quotes (for example,
+"John") is a literal (datum, a fixed constant).
+
+<pre class="example">
+"en" "http://www.w3.org/" "Massimo" "a=b+2"
+</pre>
+
+<H4>Keywords</H4>
+
+<P>The following set of keywords are reserved in metalog.
+Interpretation of the keywords is done in metalog on a positional
+basis: the position of the keyword with respect to other keywords
+and/or other data determines the interpretation of the sentence. The
+reserved keywords are:
+
+<UL>
+  <LI>
+    <TT>then</TT> is a keyword for the logical implication (=&gt;)<BR>
+    For example,<BR>
+    <TT>if SHE has a "degree" in "math" then SHE "is" "smart"</TT><BR>
+    is translated into the logical formula<BR>
+    <I>degree(SHE,"math") =&gt; is(SHE,"smart")</I><BR>
+
+    (Note that, here and in the following examples, we provide
+    directly the translation into the logical formula, to save space;
+    a more detailed translation would have to also show the
+    intermediate RDF model, which is in any case trivial to derive).
+
+  <LI><TT>imply</TT> is a keyword for the logical implication (=&gt;)
+  <LI><TT>implies</TT> is a keyword for the logical implication (=&gt;)
+
+  <LI><TT>and</TT> can be either the metalog <I>and</I>, or it can be
+  used to indicate the presence of an RDF Bag: this is disambiguated
+  by the context<BR> For example, <TT><BR> if SHE has a "degree" in
+  "math" and SHE has a "degree" in "computer science" as well then SHE
+  "is" "really smart"</TT>.<BR> is translated into the logical
+  formula<BR> (<I>degree(SHE,"math") and degree(SHE,"computer
+  science"))=&gt; is(SHE,"really smart")</I><BR> On the other hand, as
+  said, and can be used to denote an RDF Bag (a set):<BR>
+
+    <TT>the "technical report 231" has as "authors" "Mary" and
+    "John"</TT>.<BR> is translated into the logical formulas (the
+    translation here is more involved since the RDF Bag construct is
+    used):<BR> <TT>authors("technical report 231",foo).<BR>
+    rdf:type(0,rdf:Bag).<BR> rdf:_1(0,"Mary").<BR>
+    rdf:_2(0,"John").</TT>
+
+  <LI><TT>or</TT> can be either the metalog <I>or</I>, or it can be
+  used to indicate the presence of an RDF Alt (an alternatives list) :
+  this is disambiguated by the context
+
+  <LI>
+    <TT>order</TT> the presence of this keyword turns an RDF Bag into
+    an RDF Seq (an ordered list).<BR> For example,<BR> <TT>the
+    "technical report 231" has as "authors" "Mary" and "John"</TT>
+    <TT>in this order</TT>.<BR> is translated into the logical
+    formulas (the translation here is more involved since the RDF Bag
+    construct is used):<BR> <TT>authors("technical report
+    231",foo).<BR> rdf:type(foo,rdf:Seq).<BR> rdf:_1(foo,"Mary").<BR>
+    rdf:_2(foo,"John").</TT>
+
+  <LI><TT>not</TT> can be combined with any other metalog constructs,
+  and its interpretation is logical negation.<BR> For example, <BR>
+  <TT>if SHE has a "degree" in "math" then SHE "is" not
+  "stupid"</TT>.<BR>
+  is translated into the logical formula<BR>
+  <I>degree(SHE,"math") =&gt; not(is(SHE,"stupid"))</I>
+</UL>
+
+<P>The dot is the separator between metalog program lines. For
+formatting purposes, carriage returns, line feeds can tabs can be
+used: they are simply ignored.  Similarly, commas and semicolon can be
+used as well.
+
+<P>A trailing question mark is used to denote a query.
+
+<P><I>Note</I>: metalog programs also have a facility to express
+namespaces via the keyword <TT>namespace</TT>. We will not go in
+further details since we won't be explicitly using namespaces sugaring
+here, but en passant we just mention that essentially the
+<TT>namespace</TT> keyword has the same functionality as the
+<TT>xmlns</TT> attribute for XML namespaces. Also, there are a number
+of other keywords that deal. for example, with numbers operations
+(e.g., <TT>greater</TT>, <TT>less</TT>, etc.), but for the sake of
+brevity we don't go in their (rather obvious) description.
+
+<pre class="example">
+if then and or order not what who of 'is one of'
+</pre>
+
+<H4>Noise words</H4>
+
+<p>Any token not recognized by the rules above is discarded
+during the parsing process which is the reason why we call
+them noise words. The following example presents input
+for Metalog with detailed description what tokenization
+rule are used.
+
+<pre class="example">
+The "language" of "http://www.w3.org/RDF/Metalog/ is "en"
+->
+Noise(The) Literal(language) Keyword(of)
+Literal(http://www.w3.org/RDF/Metalog)
+Keyword(is) Literal(en).
+</pre>
+
+<H4>Complete grammar</H4>
+
+<pre class="example">
+rule 1    start -> query
+rule 2    start -> statements
+rule 3    start -> rules
+rule 4    statements -> statements statement
+rule 5    statements -> statement
+rule 6    rules -> rules rule
+rule 7    rules -> rule
+rule 8    rule -> IF conditions THEN conditions
+rule 9    statement -> LITERAL OF LITERAL IS negation value
+rule 10   statement -> LITERAL OF VARIABLE IS negation value
+rule 11   statement -> LITERAL OF STATEMENT statement IS negation value
+rule 12   value -> ONE_OF literals
+rule 13   value -> VARIABLE order
+rule 14   value -> literals order
+rule 15   order -> IN_THIS_ORDER
+rule 16   order ->              /* empty */
+rule 17   literals -> literals connector LITERAL
+rule 18   literals -> LITERAL
+rule 19   conditions -> conditions connector statement
+rule 20   conditions -> statement
+rule 21   connector -> AND
+rule 22   connector -> OR
+rule 23   negation -> NOT
+rule 24   negation ->           /* empty */
+rule 25   query -> WHAT IS querybody
+rule 26   query -> IS LITERAL OF LITERAL negation value
+rule 27   querybody -> LITERAL OF LITERAL
+rule 28   querybody -> LITERAL OF VARIABLE
+</pre>
+
+<h2>Completeness requirements</h2>
+
+<p>Designing a new query language for RDF data model requires
+inherently that the language covers all RDF constructs. These
+constructs are 
+
+<ul>
+<li>statements
+<li>containers: bag, alt, seq
+<li>higher-order statements
+</ul>
+
+<h2>Conflicts with Natural Language</h2>
+
+<p>The main issue when dealing with a syntax based on natural English
+language is how to determine <i>predicate</i>, <i>subject</i>,
+and <i>object</i> always correctly? (i.e. the building blocks of
+RDF statements)
+
+<pre class="example">
+Janne's email is jsaarela@w3.org
+vs.
+The email of Janne of jsaarela@w3.org</pre>
+
+<pre class="example">Homepage of W3C is at http://www.w3.org/
+vs.
+W3C homepage is at http://www.w3.org</pre>
+
+<h2>Restrictions on the natural language</h2>
+
+<p>The <b>'s</b> genetive form is available for people only. Nouns
+need <b>of</b> genetive structure as well. People can also use
+<b>of</b> genetive -> adopt only one structure i.e. <b>of</b>.
+
+<p>If the predicate is a verb and not an adjective
+e.g.
+<pre class="example">Janne speaks English</pre>
+it is not possible to translate this to Metalog!?
+"Speaks" of "Janne" is "English"
+
+<h3>Reserved keywords</h3>
+
+<p>Metalog reserves the use of the following keywords in the input
+syntax and cannot be used by the author.
+
+<ul>
+<li>if
+<li>then
+<li>and
+<li>or
+<li>order
+<li>not
+<li>what/who
+<li>of
+<li>is one of
+</ul>
+
+<hr title="Statements of RDF">
+<h2>Roles of Metalog</h2>
+
+<p>Metalog can be used into three different purposes: authoring
+and understanding <i>facts</i>, <i>rules</i>, and <i>queries</i>.
+We will elaborate their definition and expression in Metalog
+in the following subsections.
+
+<h3>Facts in Metalog</h3>
+
+<p>Facts are recognized by the lack of existance of both <b>if</b> and
+<b>what</b> keywords withn a Metalog sentence. In this case, the first
+token will be a variable or a literal.
+
+<p>Some examples of tokenization of Metalog facts:
+
+<pre class="example">
+"language" of "http://www.w3.org/" is "en" ->
+
+literal keyword(of) literal keyword(is) literal</pre>
+
+<pre class="example">
+"author" of "http://www.w3.org/RDF/Metalog" are
+"Massimo Marchiori" and "Janne Saarela" ->
+
+literal keyword(of) literal keyword(are)
+literal keyword(are) literal</pre>
+
+<h3>Rules in Metalog</h3>
+
+<p>Rules are recognized by the existance of the
+<b>if</b> keyword as the first token of a Metalog sentence.
+
+<p>Let us examine an example of tokenization of a rule:
+
+<pre class="example">
+If the "language" of RESOURCE is X and
+the "author" of RESOURCE if Y then
+the "connaissance" of Y is X. ->
+
+keyword(if) literal variable variable keyword(and)
+literal keyword(of) variable variable keyword(then)
+literal keyword(of) variable variable</pre>
+
+<h3>Queries in Metalog</h3>
+
+<p>Queries are recognized by the existance of the
+<b>what</b> keyword as the first token of a Metalog sentence.
+
+<P>Let us examine an example of tokenization of a query:
+
+<pre class="example">
+What is the "language" of "http://www.w3.org/"? ->
+
+keyword(what) literal keyword(of) literal</pre>
+
+<hr title="Containers in RDF">
+<h2>Containers in RDF</h2>
+
+<p>Metalog supports the container structures of RDF i.e.
+<i>bags</i>, <i>alternatives</i>, and <i>sequences</i>.
+The following subsections elaborate how these structures
+differ from each other and how they are encoded in Metalog.
+
+<h3>Bags</h3>
+
+<p>Bags do not preserve of implicate order. Thus, it is safe to
+say multiple values within a statement i.e.
+
+<pre class="example">
+The "author" of "http://www.w3.org/RDF/Metalog" are
+"Massimo Marchiori" and "Janne Saarela". ->
+
+literal keyword(of) literal keyword(are)
+literal keyword(and) literal</pre>
+
+<h3>Alternatives</h3>
+
+<p>Alternatives imply that only one member of a Alternative container
+is valid at a time. This sets requirements for authoring and
+querying. In authoring, the Metalog statement must imply the values of
+the statement are mutually exclusive with the reserved keyword
+combination <b>is one of</b>. In querying ..?
+
+<p>Let us examine the tokenization of Metalog sentences using
+Alternatives:
+
+<pre class="example">
+The "author" of "http://www.w3.org/RDF/Metalog" is one of
+"Massimo Marchiori" and "Janne Saarela". ->
+
+literal keyword(of) literal keyword(is one of)
+literal keyword(and) literal</pre>
+
+<h3>Sequences</h3>
+
+<p>Sequences do preserve order in RDF which sets requirements for
+authoring and querying. In authoring, the Metalog statement must imply
+the values of the statement have order with the <b>order</b> reserved
+keyword. In querying, additional constraints can be set to a query
+i.e. whether <b>2.</b> or <b>3.</b> value matches or multiple values
+match in given order.
+
+<p>Let us examine the tokenization of couple of Sequence related
+Metalog senteces:
+
+<pre class="example">
+The "author" of "http://www.w3.org/RDF/Metalog/" are
+"Massimo Marchiori" and "Janne Saarela" in this order.->
+
+literal keyword(of) literal keyword(are)
+literal keyword(and) literal keyword(order).</pre>
+
+<pre class="example">
+Who is the 2. "author" of "http://www.w3.org/RDF/Metalog"? ->
+
+keyword(who) keyword(2.) literal keyword(of) literal</pre>
+
+<H3>A detailed example</H3>
+
+<P>Suppose we want to encode the rule that if a person has written a
+document in some language (for example, English), then he can speak in
+that language. The corresponding metalog program would be:
+
+<P><TT>if the "language" of a DOCUMENT is Y <BR> and the "author" of
+the DOCUMENT is X <BR> then X can "speak" Y.</TT>
+
+<P>This can be translated into the following piece of RDF syntax:
+
+<P>
+<TT>&lt;Procedure&gt;<BR>
+&nbsp; &lt;Head&gt;<BR>
+&nbsp; &nbsp; &lt;Conjunction&gt;<BR>
+&nbsp; &nbsp; &nbsp; &lt;Predicate name="speak"&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&lt;rdf:Seq&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp;&lt;rdf:li&gt;&lt;Variable&gt;X&lt;/Variable&gt;&lt;/rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp;&lt;rdf:li&gt;&lt;Variable&gt;Y&lt;/Variable&gt;&lt;/rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&lt;/rdf:Seq&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp;&lt;/Predicate&gt;<BR>
+&nbsp; &nbsp; &nbsp;&lt;/Conjunction&gt;<BR>
+&nbsp; &lt;/Head&gt;<BR>
+&nbsp; &lt;Body&gt;<BR>
+&nbsp; &lt;Conjunction&gt;<BR>
+&nbsp; &nbsp; &lt;Predicates&gt;<BR>
+&nbsp; &nbsp; &nbsp;&nbsp;&lt;rdf:Seq&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&lt;rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&lt;Predicate
+name="creator"&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&lt;rdf:Seq&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&lt;rdf:li&gt;&lt;Variable&gt;DOCUMENT&lt;/Variable&gt;&lt;/rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&lt;rdf:li&gt;&lt;Variable&gt;X&lt;/Variable&gt;&lt;/rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/rdf:Seq&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/Predicate&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &lt;/rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &lt;rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &lt;Predicate name="language"&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &lt;rdf:Seq&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&lt;rdf:li&gt;&lt;Variable&gt;DOCUMENT&lt;/Variable&gt;&lt;/rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&lt;rdf:li&gt;&lt;Variable&gt;Y&lt;/Variable&gt;&lt;/rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &lt;/rdf:Seq&gt;<BR>
+&nbsp; &nbsp; &nbsp; &lt;/Predicate&gt;<BR>
+&nbsp; &nbsp; &lt;/rdf:li&gt;<BR>
+&nbsp; &lt;/rdf:Seq&gt;<BR>
+&nbsp; &lt;/Predicates&gt;<BR>
+&nbsp; &lt;/Conjunction&gt;<BR>
+&nbsp; &lt;/Body&gt;<BR>
+&lt;/Procedure&gt;</TT>
+<P>
+And, finally, this corresponds to the logical formula
+<P>
+<I>speak(X,Y) &lt;= (author(DOCUMENT,X) and language(DOCUMENT,Y))</I>
+<P>
+So, suppose we have already grabbed from somewhere on the Web some pieces
+of RDF that tell us, for example, that "John" is the author of "technical
+report 231", and that the language of "technical report 231" is
+"English".<BR>
+Then, if we want to know what language does John speak, we can just ask
+<P>
+<TT>what "language" does "John" "speak"?</TT>
+<P>
+which is translated into the corresponding query
+<P>
+<I>speak("John",Y).</I>
+<P>
+Running this query in the corresponding logic program gives the result that
+<I>Y="English"</I>, that is to say, the predicate
+<I>speak("John","English")</I> is true.<BR>
+Hence, the corresponding metalog sentence, returned as answer, is:
+<P>
+<TT>"John" "speaks" "English"</TT>
+
+<P>As far as real data are concerned, among our examples we have run
+the above example using a set of 2700 RDF data model triples that
+correspond with the data available at the World Wide Web Consortium
+technical reports page. This page presents the public documents the
+consortium has published along with their authors, dates, and
+URIs. Therefore, one can get a complete knowledge basis regarding
+W3C's authors, that is flexible and elegantly extendable.
+
+<H2>Related work</H2>
+
+<P>The use of Web infrastructure to accommodate logic programs has
+been suggested by (Sandevall, 1996) and (Loke &amp; Davidson,
+1996). The latter approach suggests using familiar logic program
+notation to place facts and queries on HTML pages. The embedded rules
+also have the ability to refer to other HTML pages with other
+predicates using a namespace mechanism. In this way, their evaluation
+context increases over the amount of HTML pages they retrieve to find
+facts that satisfy the queries.
+
+<H2>Conclusions</H2>
+
+<P>To the best of our knowledge, this is the first work that addresses
+the problem of querying RDF models and extending it with the ability
+of expressing reasoning rules. The metalog model that we have sketched
+is general enough to be of wide use, and powerful enough to fulfill
+most of the generic user's needs.  Moreover, it is elegantly
+integrated within the "big picture" of W3C's standards, with a
+particular eye geared toward extendability and future improvements.
+It tries to lower the "access level" to metadata and reasoning
+management by using a top-level syntax using natural language,
+enabling not only easy and fast writing of complex relationships, but
+also an extremely high readability. Finally, it can be used even
+without the logical extensions, just to provide a user-friendly
+interface to RDF. Future work that we plan to do within W3C is the
+deployment of a publicly accessible prototype of the system, so to
+foster on a large scale use of structured metadata on the Web.
+
+<H3>Acknowledgements</H3>
+
+<P>The authors would like to thank Bert Bos for his help in running
+the test sets.
+
+<H3>References</H3>
+
+<OL>
+  <LI>Das, S.K. (1992). <I>Deductive Databases and Logic
+  Programming</I>. Addison Wesley.
+
+  <LI>Brickley, D., Guha, R.V., Layman, A. (1999). Resource
+  Description Framework (RDF) Schemas. W3C Proposed Recommendation.
+    <BR>
+    <A HREF="https://www.w3.org/TR/">http://www.w3.org/TR/</A>
+
+  <LI>Alin Deutsch (University of Pennsylvania), Mary Fernandez (AT&amp;T Labs),Daniela Florescu (INRIA), Alon Levy (University of Washington), Dan Suciu
+    (AT&amp;T Labs) &nbsp;"XML-QL". W3C Note.
+    <BR>
+    <A HREF="https://www.w3.org/TR/1998/NOTE-xml-ql-19980819">http://www.w3.org/TR/1998/NOTE-xml-ql-19980819</A>
+
+  <LI>
+    Lassila, O., Swick, R. (1999). <I>Resource Description Framework
+    (RDF) Model and Syntax</I>. W3C Proposed Recommendation.<BR>
+    <A href="https://www.w3.org/TR">http://www.w3.org/TR/</A>
+
+  <LI>
+    Loke, S.W., Davison, A. (1996). Logic Programming with the World
+    Wide Web.  <I>Proc. of the 7th ACM Conf. on Hypertext.</I><BR>
+    <A href="http://www.cs.unc.edu/~barman/HT96/P14/lpwww.html">http://www.cs.unc.edu/~barman/HT96/P14/lpwww.html</A>
+
+  <LI>
+    Niemel&auml;, I., Simons, P. (1997). Smodels -- an implementation
+    of the stable model and well-founded semantics for normal logic
+    programs <I>Proc. of the 4th Int. Conf. on Logic Programming and
+    Non-Monotonic Reasoning</I>. Dagstuhl, Germany.<BR>
+    <A href="http://saturn.hut.fi/pub/papers/lpnmr97-sd.ps.gz">http://saturn.hut.fi/pub/papers/lpnmr97-sd.ps.gz</A>
+
+  <LI>
+    Ramakrishnan, R., Srivastava, D., Sudarshan, D. (1992). CORAL:
+    Control, Relations and Logic. <I>Proc. of the Int. Conf. on
+    VLDB.</I>.
+
+  <LI>
+    Sandewall, E. (1996). Towards a World-Wide Data Base. <I>Proc. of
+    the 5th Int. WWW Conf.</I>.
+</OL>
+
+<H3>Appendix A - Query schema in RDF</H3>
+
+<P>In the following, we provide (part of) the Metalog schema, to provide the
+technically oriented reader with more inside on how the schema effectively
+uses RDF schema facilities.
+
+<PRE>
+&lt;RDF xmlns="http://w3.org/TR/1999/PR-rdf-syntax-19990105#"
+     xmlns:rdf="http://w3.org/TR/1999/PR-rdf-syntax-19990105#"
+     xmlns:rdfs="http://www.w3.org/TR/WD-rdf-schema#"&gt;
+&lt;rdfs:Class ID="Procedure" /&gt;
+
+&lt;Predicate ID="Head"&gt;
+  &lt;rdfs:comment xml:lang="en"&gt;Head of the procedure&lt;/rdfs:comment&gt;
+  &lt;rdfs:domain rdf:resource="#Procedure"/&gt;
+  &lt;rdfs:range rdf:resource="#Connector"/&gt;
+  &lt;rdfs:range rdf:resource="#Predicate"/&gt;
+&lt;/Predicate&gt;
+
+&lt;Predicate ID="Body"&gt;
+  &lt;rdfs:comment xml:lang="en"&gt;Body of the procedure&lt;/rdfs:comment&gt;
+  &lt;rdfs:domain rdf:resource="#Procedure"/&gt;
+  &lt;rdfs:range rdf:resource="#Connector"/&gt;
+  &lt;rdfs:range rdf:resource="#Predicate"/&gt;
+&lt;/Predicate&gt;
+
+&lt;Predicate ID="Predicates"&gt;
+  &lt;rdfs:comment xml:lang="en"&gt;Predicates combined with a connector&lt;/rdfs:comment&gt;
+  &lt;rdfs:domain rdf:resource="#Connector"/&gt;
+  &lt;rdfs:range rdf:resource="#Predicate"/&gt;
+  &lt;rdfs:range rdf:resource="#Connector"/&gt;
+  &lt;!-- this last range definition enables recursion --&gt;
+&lt;/Predicate&gt;
+
+&lt;rdfs:Class ID="Connector" /&gt;
+
+&lt;rdfs:Class ID="Conjunction"&gt;
+  &lt;rdfs:subClassOf rdf:resource="#Connector" /&gt;
+&lt;/rdfs:Class&gt;
+
+&lt;rdfs:Class ID="Disjunction"&gt;
+  &lt;rdfs:subClassOf rdf:resource="#Connector" /&gt;
+&lt;/rdfs:Class&gt;
+
+&lt;rdfs:Class ID="Negation"&gt;
+  &lt;rdfs:subClassOf rdf:resource="#Connector" /&gt;
+&lt;/rdfs:Class&gt;
+
+&lt;rdfs:Class ID="Predicate" /&gt;
+
+&lt;Predicate ID="Variable"&gt;
+  &lt;rdfs:comment xml:lang="en"&gt;Variable within a predicate&lt;/rdfs:comment&gt;
+  &lt;rdfs:domain rdf:resource="#Predicate"/&gt;
+  &lt;rdfs:range rdf:resource="http://www.w3.org/FictionalSchemas/useful_types#String"/&gt;
+&lt;/Predicate&gt;
+
+&lt;Predicate ID="Constant"&gt;
+  &lt;rdfs:comment xml:lang="en"&gt;Constant within a predicate&lt;/rdfs:comment&gt;
+  &lt;rdfs:domain rdf:resource="#Predicate"/&gt;
+  &lt;rdfs:range rdf:resource="http://www.w3.org/FictionalSchemas/useful_types#String"/&gt;
+&lt;/Predicate&gt;
+&lt;/RDF&gt;
+</PRE>
+<P>
+  <HR>
+<P>
+</BODY>
+</HTML>

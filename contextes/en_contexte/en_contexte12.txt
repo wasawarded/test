@@ -1,0 +1,18 @@
+
+   Provides students with a broad understanding of the fundamental
+   concepts of computing, logic, and data processing. Concepts include
+   introductory hardware and software architecture, models of computation,
+   representation of data, machine arithmetic, assembler programming,
+--
+   3 credits
+
+Functional and Logic Programming
+
+   Prerequisite(s): COMP 251 with a C or better; MATH 225 recommended.
+--
+   instructions that change program state. However, imperative programming
+   is just one programming paradigm. This course introduces two other
+   programming paradigms: functional and logic programming. Logic
+   programming is based on first-order logic, while functional programming
+   is based on the lambda calculus. Students will learn the basic
+   theoretical foundations as well as how to program in two relevant

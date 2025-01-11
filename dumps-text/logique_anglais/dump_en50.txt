@@ -1,0 +1,547 @@
+   #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+   Pages for logged out editors learn more
+     * Contributions
+     * Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Theoretical foundations and analysis
+     * 2 Computers to assist logicians
+     * 3 Logic applications for computers
+     * 4 See also
+     * 5 References
+     * 6 Further reading
+     * 7 External links
+
+   [ ] Toggle the table of contents
+
+Logic in computer science
+
+   [ ] 7 languages
+     * العربية
+     * Azərbaycanca
+     * فارسی
+     * Português
+     * Українська
+     * 粵語
+     * 中文
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikimedia Commons
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Academic discipline
+   For the academic conference LICS, see Symposium on Logic in Computer
+   Science.
+   [220px-Logic_Gates.svg.png] Diagrammatic representation of computer
+   logic gates
+
+   Logic in computer science covers the overlap between the field of logic
+   and that of computer science. The topic can essentially be divided into
+   three main areas:
+     * Theoretical foundations and analysis
+     * Use of computer technology to aid logicians
+     * Use of concepts from logic for computer applications
+
+Theoretical foundations and analysis
+
+   [edit]
+
+   Logic plays a fundamental role in computer science. Some of the key
+   areas of logic that are particularly significant are computability
+   theory (formerly called recursion theory), modal logic and category
+   theory. The theory of computation is based on concepts defined by
+   logicians and mathematicians such as Alonzo Church and Alan
+   Turing.^[1]^[2] Church first showed the existence of algorithmically
+   unsolvable problems using his notion of lambda-definability. Turing
+   gave the first compelling analysis of what can be called a mechanical
+   procedure and Kurt Gödel asserted that he found Turing's analysis
+   "perfect.".^[3] In addition some other major areas of theoretical
+   overlap between logic and computer science are:
+     * Gödel's incompleteness theorem proves that any logical system
+       powerful enough to characterize arithmetic will contain statements
+       that can neither be proved nor disproved within that system. This
+       has direct application to theoretical issues relating to the
+       feasibility of proving the completeness and correctness of
+       software.^[4]
+     * The frame problem is a basic problem that must be overcome when
+       using first-order logic to represent the goals of an artificial
+       intelligence agent and the state of its environment.^[5]
+     * The Curry–Howard correspondence is a relation between logical
+       systems and programming languages. This theory established a
+       precise correspondence between proofs and programs. In particular
+       it showed that terms in the simply typed lambda calculus correspond
+       to proofs of intuitionistic propositional logic.
+     * Category theory represents a view of mathematics that emphasizes
+       the relations between structures. It is intimately tied to many
+       aspects of computer science: type systems for programming
+       languages, the theory of transition systems, models of programming
+       languages and the theory of programming language semantics.^[6]
+     * Logic programming is a programming, database and knowledge
+       representation paradigm that is based on formal logic. A logic
+       program is a set of sentences about some problem domain.
+       Computation is performed by applying logical reasoning to solve
+       problems in the domain. Major logic programming language families
+       include Prolog, Answer Set Programming (ASP) and Datalog.
+
+Computers to assist logicians
+
+   [edit]
+
+   One of the first applications to use the term artificial intelligence
+   was the Logic Theorist system developed by Allen Newell, Cliff Shaw,
+   and Herbert Simon in 1956. One of the things that a logician does is to
+   take a set of statements in logic and deduce the conclusions
+   (additional statements) that must be true by the laws of logic. For
+   example, if given the statements "All humans are mortal" and "Socrates
+   is human" a valid conclusion is "Socrates is mortal". Of course this is
+   a trivial example. In actual logical systems the statements can be
+   numerous and complex. It was realized early on that this kind of
+   analysis could be significantly aided by the use of computers. Logic
+   Theorist validated the theoretical work of Bertrand Russell and Alfred
+   North Whitehead in their influential work on mathematical logic called
+   Principia Mathematica. In addition, subsequent systems have been
+   utilized by logicians to validate and discover new mathematical
+   theorems and proofs.^[7]
+
+Logic applications for computers
+
+   [edit]
+
+   There has always been a strong influence from mathematical logic on the
+   field of artificial intelligence (AI). From the beginning of the field
+   it was realized that technology to automate logical inferences could
+   have great potential to solve problems and draw conclusions from facts.
+   Ron Brachman has described first-order logic (FOL) as the metric by
+   which all AI knowledge representation formalisms should be evaluated.
+   First-order logic is a general and powerful method for describing and
+   analyzing information. The reason FOL itself is simply not used as a
+   computer language is that it is actually too expressive, in the sense
+   that FOL can easily express statements that no computer, no matter how
+   powerful, could ever solve. For this reason every form of knowledge
+   representation is in some sense a trade off between expressivity and
+   computability. The more expressive the language is, the closer it is to
+   FOL, the more likely it is to be slower and prone to an infinite
+   loop.^[8]
+
+   For example, IF–THEN rules used in expert systems approximate to a very
+   limited subset of FOL. Rather than arbitrary formulas with the full
+   range of logical operators the starting point is simply what logicians
+   refer to as modus ponens. As a result, rule-based systems can support
+   high-performance computation, especially if they take advantage of
+   optimization algorithms and compilation.^[9]
+
+   On the other hand, logic programming, which combines the Horn clause
+   subset of first-order logic with a non-monotonic form of negation, has
+   both high expressive power and efficient implementations. In
+   particular, the logic programming language Prolog is a Turing complete
+   programming language. Datalog extends the relational database model
+   with recursive relations, while answer set programming is a form of
+   logic programming oriented towards difficult (primarily NP-hard) search
+   problems.
+
+   Another major area of research for logical theory is software
+   engineering. Research projects such as the Knowledge Based Software
+   Assistant and Programmer's Apprentice programs have applied logical
+   theory to validate the correctness of software specifications. They
+   have also used logical tools to transform the specifications into
+   efficient code on diverse platforms and to prove the equivalence
+   between the implementation and the specification.^[10] This formal
+   transformation-driven approach is often far more effortful than
+   traditional software development. However, in specific domains with
+   appropriate formalisms and reusable templates the approach has proven
+   viable for commercial products. The appropriate domains are usually
+   those such as weapons systems, security systems, and real-time
+   financial systems where failure of the system has excessively high
+   human or financial cost. An example of such a domain is Very Large
+   Scale Integrated (VLSI) design—the process for designing the chips used
+   for the CPUs and other critical components of digital devices. An error
+   in a chip can be catastrophic. Unlike software, chips can't be patched
+   or updated. As a result, there is commercial justification for using
+   formal methods to prove that the implementation corresponds to the
+   specification.^[11]
+
+   Another important application of logic to computer technology has been
+   in the area of frame languages and automatic classifiers. Frame
+   languages such as KL-ONE can be directly mapped to set theory and
+   first-order logic. This allows specialized theorem provers called
+   classifiers to analyze the various declarations between sets, subsets,
+   and relations in a given model. In this way the model can be validated
+   and any inconsistent definitions flagged. The classifier can also infer
+   new information, for example define new sets based on existing
+   information and change the definition of existing sets based on new
+   data. The level of flexibility is ideal for handling the ever changing
+   world of the Internet. Classifier technology is built on top of
+   languages such as the Web Ontology Language to allow a logical semantic
+   level on top of the existing Internet. This layer is called the
+   Semantic Web.^[12]^[13]
+
+   Temporal logic is used for reasoning in concurrent systems.^[14]
+
+See also
+
+   [edit]
+     * Automated reasoning
+     * Computational logic
+     * Logic programming
+
+References
+
+   [edit]
+    1. ^ Lewis, Harry R. (1981). Elements of the Theory of Computation.
+       Prentice Hall.
+    2. ^ Davis, Martin (11 May 1995). "Influences of Mathematical Logic on
+       Computer Science". In Rolf Herken (ed.). The Universal Turing
+       Machine. Springer Verlag. ISBN 9783211826379. Retrieved 26 December
+       2013.
+    3. ^ Kennedy, Juliette (2014-08-21). Interpreting Godel. Cambridge
+       University Press. ISBN 9781107002661. Retrieved 17 August 2015.
+    4. ^ Hofstadter, Douglas R. (1999-02-05). Gödel, Escher, Bach: An
+       Eternal Golden Braid. Basic Books. ISBN 978-0465026562.
+    5. ^ McCarthy, John; P.J. Hayes (1969). "Some philosophical problems
+       from the standpoint of artificial intelligence" (PDF). Machine
+       Intelligence. 4: 463–502.
+    6. ^ Barr, Michael; Charles Wells (1998). Category Theory for
+       Computing Science (PDF). Centre de Recherches Mathématiques.
+    7. ^ Newell, Allen; J.C. Shaw; H.C. Simon (1963). "Empirical
+       explorations with the logic theory machine". In Ed Feigenbaum
+       (ed.). Computers and Thought. McGraw Hill. pp. 109–133.
+       ISBN 978-0262560924.
+    8. ^ Levesque, Hector; Ronald Brachman (1985). "A Fundamental Tradeoff
+       in Knowledge Representation and Reasoning". In Ronald Brachman and
+       Hector J. Levesque (ed.). Reading in Knowledge Representation.
+       Morgan Kaufmann. p. 49. ISBN 0-934613-01-X. "The good news in
+       reducing KR service to theorem proving is that we now have a very
+       clear, very specific notion of what the KR system should do; the
+       bad new is that it is also clear that the services can not be
+       provided... deciding whether or not a sentence in FOL is a
+       theorem... is unsolvable."
+    9. ^ Forgy, Charles (1982). "Rete: A Fast Algorithm for the Many
+       Pattern/Many Object Pattern Match Problem*" (PDF). Artificial
+       Intelligence. 19: 17–37. doi:10.1016/0004-3702(82)90020-0. Archived
+       from the original (PDF) on 2013-12-27. Retrieved 25 December 2013.
+   10. ^ Rich, Charles; Richard C. Waters (November 1987). "The
+       Programmer's Apprentice Project: A Research Overview" (PDF). IEEE
+       Expert. Archived from the original (PDF) on 2017-07-06. Retrieved
+       26 December 2013.
+   11. ^ Stavridou, Victoria (1993). Formal Methods in Circuit Design.
+       Press Syndicate of the University of Cambridge. ISBN 0-521-443369.
+       Retrieved 26 December 2013.
+   12. ^ MacGregor, Robert (June 1991). "Using a description classifier to
+       enhance knowledge representation". IEEE Expert. 6 (3): 41–46.
+       doi:10.1109/64.87683. S2CID 29575443.
+   13. ^ Berners-Lee, Tim; James Hendler; Ora Lassila (May 17, 2001). "The
+       Semantic Web A new form of Web content that is meaningful to
+       computers will unleash a revolution of new possibilities".
+       Scientific American. 284: 34–43.
+       doi:10.1038/scientificamerican0501-34. Archived from the original
+       on April 24, 2013.
+   14. ^ Colin Stirling (1992). "Modal and Temporal Logics". In S.
+       Abramsky; D. M. Gabbay; T. S. E. Maibaum (eds.). Handbook of Logic
+       in Computer Science. Vol. II. Oxford University Press. pp. 477–563.
+       ISBN 0-19-853761-1.
+
+Further reading
+
+   [edit]
+     *
+
+   Ben-Ari, Mordechai (2012). Mathematical Logic for Computer Science
+   (3rd ed.). Springer-Verlag. ISBN 978-1447141280.
+
+     Harrison, John (2009). Handbook of Practical Logic and Automated
+   Reasoning (1st ed.). Cambridge University Press. ISBN 978-0521899574.
+
+
+
+   Huth, Michael; Ryan, Mark (2004). Logic in Computer Science: Modelling
+   and Reasoning about Systems (2nd ed.). Cambridge University Press.
+   ISBN 978-0521543101.
+
+     Burris, Stanley N. (1997). Logic for Mathematics and Computer Science
+   (1st ed.). Prentice Hall. ISBN 978-0132859745.
+
+External links
+
+   [edit]
+
+     * Article on Logic and Artificial Intelligence at the Stanford
+       Encyclopedia of Philosophy.
+     * IEEE Symposium on Logic in Computer Science (LICS)
+     * Alwen Tiu, Introduction to logic video recording of a lecture at
+       ANU Logic Summer School '09 (aimed mostly at computer scientists)
+
+     * v
+     * t
+     * e
+
+   Logic
+
+     * Outline
+     * History
+
+   Major fields
+
+     * Computer science
+     * Formal semantics (natural language)
+     * Inference
+     * Philosophy of logic
+     * Proof
+     * Semantics of logic
+     * Syntax
+
+   Logics
+     * Classical
+     * Informal
+          + Critical thinking
+          + Reason
+     * Mathematical
+     * Non-classical
+     * Philosophical
+
+   Theories
+     * Argumentation
+     * Metalogic
+     * Metamathematics
+     * Set
+
+   Foundations
+
+     * Abduction
+     * Analytic and synthetic propositions
+     * Antecedent
+     * Consequent
+     * Contradiction
+          + Paradox
+          + Antinomy
+     * Deduction
+     * Deductive closure
+     * Definition
+     * Description
+     * Entailment
+          + Linguistic
+     * Form
+     * Induction
+     * Logical truth
+     * Name
+     * Necessity and sufficiency
+     * Premise
+     * Probability
+     * Proposition
+     * Reference
+     * Statement
+     * Substitution
+     * Truth
+     * Validity
+
+   Lists
+
+   topics
+     * Mathematical logic
+     * Boolean algebra
+     * Set theory
+
+   other
+     * Logicians
+     * Rules of inference
+     * Paradoxes
+     * Fallacies
+     * Logic symbols
+
+     * Philosophy portal
+     * Category
+     * WikiProject (talk)
+     * changes
+
+     * v
+     * t
+     * e
+
+   Digital electronics
+
+   Components
+
+     * Transistor
+     * Resistor
+     * Inductor
+     * Capacitor
+     * Printed electronics
+     * Printed circuit board
+     * Electronic circuit
+     * Flip-flop
+     * Memory cell
+     * Combinational logic
+     * Sequential logic
+     * Logic gate
+     * Boolean circuit
+     * Integrated circuit (IC)
+     * Hybrid integrated circuit (HIC)
+     * Mixed-signal integrated circuit
+     * Three-dimensional integrated circuit (3D IC)
+     * Emitter-coupled logic (ECL)
+     * Erasable programmable logic device (EPLD)
+     * Macrocell array
+     * Programmable logic array (PLA)
+     * Programmable logic device (PLD)
+     * Programmable Array Logic (PAL)
+     * Generic Array Logic (GAL)
+     * Complex programmable logic device (CPLD)
+     * Field-programmable gate array (FPGA)
+     * Field-programmable object array (FPOA)
+     * Application-specific integrated circuit (ASIC)
+     * Tensor Processing Unit (TPU)
+
+   Theory
+
+     * Digital signal
+     * Boolean algebra
+     * Logic synthesis
+     * Logic in computer science
+     * Computer architecture
+     * Digital signal
+          + Digital signal processing
+     * Circuit minimization
+     * Switching circuit theory
+     * Gate equivalent
+
+   Design
+
+     * Logic synthesis
+     * Place and route
+          + Placement
+          + Routing
+     * Transaction-level modeling
+     * Register-transfer level
+          + Hardware description language
+          + High-level synthesis
+     * Formal equivalence checking
+     * Synchronous logic
+     * Asynchronous logic
+     * Finite-state machine
+          + Hierarchical state machine
+
+   Applications
+
+     * Computer hardware
+          + Hardware acceleration
+     * Digital audio
+          + radio
+     * Digital photography
+     * Digital telephone
+     * Digital video
+          + cinematography
+          + television
+     * Electronic literature
+
+   Design issues
+
+     * Metastability
+     * Runt pulse
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Logic_in_computer_science&o
+   ldid=1224919025"
+
+   Categories:
+     * Logic in computer science
+     * Formal methods
+
+   Hidden categories:
+     * Articles with short description
+     * Short description matches Wikidata
+
+     * This page was last edited on 21 May 2024, at 08:19 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

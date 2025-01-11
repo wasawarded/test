@@ -1,0 +1,1380 @@
+				<!DOCTYPE html>
+			<html >
+				<head>
+									<!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <!-- Bootstrap CSS --> 
+        <link rel="stylesheet" href="https://magoerevision.com/assets/css/bootstrap.min.css">
+        <!-- Animate CSS --> 
+        <link rel="stylesheet" href="https://magoerevision.com/assets/css/animate.min.css">
+        <!-- Meanmenu CSS -->
+        <link rel="stylesheet" href="https://magoerevision.com/assets/css/meanmenu.css">
+        <!-- Boxicons CSS -->
+        <link rel="stylesheet" href="https://magoerevision.com/assets/css/boxicons.min.css">
+        <!-- Owl Carousel CSS -->
+        <link rel="stylesheet" href="https://magoerevision.com/assets/css/owl.carousel.min.css">
+        <!-- Owl Carousel Default CSS -->
+        <link rel="stylesheet" href="https://magoerevision.com/assets/css/owl.theme.default.min.css">
+        <!-- Odometer CSS -->
+        <link rel="stylesheet" href="https://magoerevision.com/assets/css/odometer.min.css">
+        <!-- Magnific Popup CSS -->
+        <link rel="stylesheet" href="https://magoerevision.com/assets/css/magnific-popup.min.css">
+        <!-- Imagelightbox CSS -->
+        <link rel="stylesheet" href="https://magoerevision.com/assets/css/imagelightbox.min.css">
+        <!-- Style CSS -->
+        <link rel="stylesheet" href="https://magoerevision.com/assets/css/style.css">
+        <!-- Dark CSS -->
+        <link rel="stylesheet" href="https://magoerevision.com/assets/css/dark.css">
+        <!-- Responsive CSS -->
+		<link rel="stylesheet" href="https://magoerevision.com/assets/css/responsive.css">
+		<title>Les grands principe de la Logique</title>
+        <link rel="icon" type="image/png" href="https://magoe.fr/magoe_android/logo_magoe_education_512.png">
+		<link rel="stylesheet" href="https://magoe.fr/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+									<style>
+							h2
+							{
+								color:red;
+							}
+							h3
+							{
+								color:blue;
+							}
+							h4
+							{
+								color:#2E7D32;
+							}
+							.userContent aside[data-claire-semantic=information],
+							.userContent aside[data-claire-semantic=error],
+							.userContent aside[data-claire-semantic=warning],
+							.userContent div[data-claire-semantic=question]
+							{
+								box-sizing: content-box;
+								position: relative;
+								border-radius: 5px;
+								margin: 25px 0 20px 10px;
+								padding: 10px 10px 10px 30px;
+								min-height: auto
+							}
+
+							.userContent aside[data-claire-semantic=information]::before,
+							.userContent aside[data-claire-semantic=error]::before,
+							.userContent aside[data-claire-semantic=warning]::before,
+							.userContent div[data-claire-semantic=question]::before 
+							{
+								content: '';
+								display: block;
+								position: absolute;
+								border-radius: 0;
+								width: 30px;
+								height: 30px;
+								top: -10px;
+								left: -10px;
+								z-index: 1
+							}
+							.userContent aside[data-claire-semantic=information]::after,
+							.userContent aside[data-claire-semantic=error]::after,
+							.userContent aside[data-claire-semantic=warning]::after,
+							.userContent div[data-claire-semantic=question]::after 
+							{
+								content: " ";
+								background: #fff;
+								display: block;
+								position: absolute;
+								width: 24px;
+								height: 24px;
+								top: -8px;
+								left: -8px;
+								border-radius: 50%
+							}
+							.userContent aside[data-claire-semantic=information] p:last-of-type,
+							.userContent aside[data-claire-semantic=error] p:last-of-type,
+							.userContent aside[data-claire-semantic=warning] p:last-of-type,
+							.userContent div[data-claire-semantic=question] p:last-of-type 
+							{
+								margin: 0
+							}
+
+							.userContent aside[data-claire-semantic=information] a,
+							.userContent aside[data-claire-semantic=information] a:visited,
+							.userContent aside[data-claire-semantic=error] a,
+							.userContent aside[data-claire-semantic=error] a:visited,
+							.userContent aside[data-claire-semantic=warning] a,
+							.userContent aside[data-claire-semantic=warning] a:visited,
+							.userContent div[data-claire-semantic=question] a,
+							.userContent div[data-claire-semantic=question] a:visited 
+							{
+								color: rgba(0, 0, 0, .85);
+								font-weight: 700
+							}
+
+							.userContent [data-claire-semantic=information] 
+							{
+								background: #e6f4fa
+							}
+							.userContent [data-claire-semantic=information]::before 
+							{
+								background: transparent url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczMicgaGVpZ2h0PSczMicgdmlld0JveD0nMCAwIDMyIDMyJz48cGF0aCBmaWxsPScjM2ZhNWRiJyBkPSdNMjYuNCAyMi4yYzEtMS45IDEuNi00IDEuNi02LjMgMC03LjYtNi4yLTEzLjgtMTMuOC0xMy44cy0xMy44IDYuMi0xMy44IDEzLjggNi4yIDEzLjggMTMuOCAxMy44YzMuNSAwIDYuNy0xLjMgOS4yLTMuNWw3LjIgMi00LjEtNS45ek0xMy40IDIyLjNjMC4xIDAuMSAwLjIgMC4xIDAuMyAwLjEgMC4xIDAgMC4zLTAuMSAwLjUtMC4yIDAuNS0wLjQgMS0xIDEuNi0xLjdsMC41IDAuM2MtMC42IDAuOS0xLjMgMS43LTIuMiAyLjQtMC42IDAuNS0xLjIgMC43LTEuOCAwLjctMC40IDAtMC43LTAuMS0wLjktMC4zcy0wLjQtMC41LTAuNC0wLjhjMC0wLjMgMC4xLTAuOSAwLjMtMS43bDEuOC02LjFjMC4zLTEgMS0zLjQgMS0zLjRsMi4xLTAuMy0yLjcgOS42Yy0wLjIgMC42LTAuMyAxLTAuMyAxLjIgMCAwLjEgMCAwLjMgMC4xIDAuNHpNMTcgOC4xYy0wLjMgMC4zLTAuNiAwLjQtMSAwLjRzLTAuNy0wLjEtMS0wLjRjLTAuMy0wLjMtMC40LTAuNi0wLjQtMSAwLTAuNCAwLjEtMC43IDAuNC0xIDAuMy0wLjMgMC42LTAuNCAxLTAuNHMwLjcgMC4xIDEgMC40YzAuMyAwLjMgMC40IDAuNiAwLjQgMSAwIDAuNC0wLjEgMC43LTAuNCAxeicvPjwvc3ZnPg==) 0 0
+							}
+
+							.userContent [data-claire-semantic=warning] 
+							{
+								background: #fdefe1
+							}
+
+							.userContent [data-claire-semantic=warning]::before 
+							{
+								background: transparent url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczMicgaGVpZ2h0PSczMicgdmlld0JveD0nMCAwIDMyIDMyJz48cGF0aCBmaWxsPScjZjM5NTM5JyBkPSdNMjYuNCAyMi4yYzEtMS45IDEuNi00IDEuNi02LjMgMC03LjYtNi4yLTEzLjgtMTMuOC0xMy44cy0xMy44IDYuMi0xMy44IDEzLjggNi4yIDEzLjggMTMuOCAxMy44YzMuNSAwIDYuNy0xLjMgOS4yLTMuNWw3LjIgMi00LjEtNS45ek0xMi43IDIyLjZjLTAuNyAwLTEuMi0wLjYtMS4yLTEuMyAwLTAuOCAwLjYtMS41IDEuNC0xLjUgMC43IDAgMS4yIDAuNiAxLjIgMS4zIDAgMC44LTAuNiAxLjQtMS40IDEuNHpNMTQuMSAxOC4xaC0xLjRsMS43LTEwLjVoMi4xbC0yLjMgMTAuNXonLz48L3N2Zz4=) 0 0
+							}
+
+							.userContent [data-claire-semantic=error] 
+							{
+								background: #f9d2d8
+							}
+
+							.userContent [data-claire-semantic=error]::before 
+							{
+								background: transparent url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczMicgaGVpZ2h0PSczMicgdmlld0JveD0nMCAwIDMyIDMyJz48cGF0aCBmaWxsPScjYzIxOTM2JyBkPSdNMjYuNCAyMi4yYzEtMS45IDEuNi00IDEuNi02LjMgMC03LjYtNi4yLTEzLjgtMTMuOC0xMy44LTcuNiAwLTEzLjggNi4yLTEzLjggMTMuOHM2LjIgMTMuOCAxMy44IDEzLjhjMy41IDAgNi43LTEuMyA5LjItMy41bDcuMiAyLTQuMS01Ljl6TTE3LjcgMTkuNmgtMi41bC0wLjUtMS4yYy0wLjItMC42LTAuNC0xLTAuNS0xLjRoLTAuMWMtMC4yIDAuNC0wLjQgMC44LTAuOCAxLjNsLTAuOSAxLjRoLTIuNmwzLjQtNC0xLjgtMy44aDIuNWwwLjUgMS4yYzAuMiAwLjYgMC40IDEgMC41IDEuM2gwYzAuMy0wLjQgMC41LTAuOCAwLjgtMS4ybDAuOS0xLjJoMi42bC0zLjMgMy44IDEuOCA0eicvPjwvc3ZnPg==) 0 0
+							}
+
+							.userContent [data-claire-semantic=question] 
+							{
+								background: #f4f4f4
+							}
+
+							.userContent [data-claire-semantic=question]::before 
+							{
+								background: transparent url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczMicgaGVpZ2h0PSczMicgdmlld0JveD0nMCAwIDMyIDMyJz48cGF0aCBmaWxsPScjNTY1NjU2JyBkPSdNMjYuNCAyMi4yYzEtMS45IDEuNi00IDEuNi02LjMgMC03LjYtNi4yLTEzLjgtMTMuOC0xMy44cy0xMy44IDYuMi0xMy44IDEzLjggNi4yIDEzLjggMTMuOCAxMy44YzMuNSAwIDYuNy0xLjMgOS4yLTMuNWw3LjIgMi00LjEtNS45ek0xMy4yIDIyLjZjLTAuNyAwLTEuMi0wLjYtMS4yLTEuMyAwLTAuOCAwLjYtMS41IDEuNC0xLjUgMC43IDAgMS4yIDAuNiAxLjIgMS4zIDAgMC44LTAuNiAxLjQtMS40IDEuNHpNMTYuNiAxNC40Yy0xLjEgMS4xLTEuNiAyLTEuNyAzLjIgMCAwLjItMC4xIDAuNC0wLjEgMC42aC0xLjhjMC0wLjIgMC0wLjQgMC0wLjYgMC4xLTEuMiAwLjctMi41IDIuMS00IDEtMSAxLjktMiAxLjktMy4yIDAtMC44LTAuNC0xLjUtMS43LTEuNS0wLjggMC0xLjYgMC4yLTIuMiAwLjZsLTAuMy0xLjNjMC44LTAuNSAxLjgtMC44IDMtMC44IDIuMSAwIDMuMSAxLjQgMy4xIDIuNyAwIDEuNy0xLjEgMy0yLjQgNC4zeicvPjwvc3ZnPg==) 0 0
+							}
+							
+							/*******Nuevos mensajes de error******/
+							  
+							.new-message-box 
+							{
+								margin: 15px 0;
+								padding-left: 20px;
+								margin-bottom: 25px!important;
+							}
+
+							.new-message-box p
+							{
+								font-size: 1.15em;
+								font-weight: 600;
+							}
+
+							.info-tab 
+							{
+								width: 40px;
+								height: 40px;
+								display: inline-block;
+								position: relative;
+								top: 8px;
+							}
+
+							.info-tab {
+								float: left;
+								margin-left: -23px;
+							}
+
+							.info-tab i::before {
+								width: 24px;
+								height: 24px;
+								box-shadow: inset 12px 0 13px rgba(0,0,0,0.5);
+							}
+
+							.info-tab i::after {
+								width: 0;
+								height: 0;
+								border: 12px solid transparent;
+								border-bottom-color: #fff;
+								border-left-color: #fff;
+								bottom: -18px;
+							}
+
+							.info-tab i::before, .info-tab i::after {
+								content: "";
+								display: inline-block;
+								position: absolute;
+								left: 0;
+								bottom: -17px;
+								transform: rotateX(60deg);
+							}
+
+							.note-box, .warning-box, .tip-box-success, .tip-box-danger, .tip-box-warning, .tip-box-info, .tip-box-alert {
+								padding: 12px 8px 3px 26px;
+							}
+
+
+							/***Success****/
+
+							.new-message-box-success {
+								background: #eeeeee;
+								padding: 3px;
+								margin: 10px 0;
+							}
+
+							.tip-icon-success {
+								background: #8BC34A;
+							}
+
+							.tip-box-success {
+								color: #33691E;
+								background: #DCEDC8;
+							}
+
+							.tip-icon-success::before {
+								font-size: 25px;
+								content:"\f00c";
+								top: 8px;
+								left: 11px;
+								font-family: FontAwesome;
+								position: absolute;
+								color: white;
+							}
+
+							.tip-icon-success i::before {
+								background: #8BC34A;
+							}
+
+
+							/*******Danger*******/
+							.new-message-box-danger {
+								background: #eeeeee;
+								padding: 3px;
+								margin: 10px 0;
+							}
+
+							.tip-icon-danger {
+								background: #f44336;
+							}
+
+							.tip-box-danger {
+								color: #b71c1c;
+								background: #FFCCBC;
+							}
+
+							.tip-icon-danger::before {
+								font-size: 25px;
+								content:"\f00d";
+								top: 8px;
+								left: 11px;
+								font-family: FontAwesome;
+								position: absolute;
+								color: white;
+							}
+
+							.tip-icon-danger i::before {
+								background: #f44336;
+							}
+
+							/*******warning*******/
+							.new-message-box-warning {
+								background: #eeeeee;
+								padding: 3px;
+								margin: 10px 0;
+							}
+
+							.tip-icon-warning {
+								background: #FFEB3B;
+							}
+
+							.tip-box-warning {
+								color: #212121;
+								background: #FFF9C4;
+							}
+
+							.tip-icon-warning::before {
+								font-size: 25px;
+								content:"\f071";
+								top: 8px;
+								left: 11px;
+								font-family: FontAwesome;
+								position: absolute;
+								color: #212121;
+							}
+
+							.tip-icon-warning i::before {
+								background: #FFEB3B;
+							}
+
+							/*******info*******/
+							.new-message-box-info {
+								background: #eeeeee;
+								padding: 3px;
+								margin: 10px 0;
+							}
+
+							.tip-box-info {
+								color: #01579B;
+								background: #B3E5FC;
+							}
+
+							.tip-icon-info {
+								background: #03A9F4;
+							}
+
+							.tip-icon-info::before {
+								font-size: 25px;
+								content:"\f129";
+								top: 8px;
+								left: 11px;
+								font-family: FontAwesome;
+								position: absolute;
+								color: white
+							}
+
+							.tip-icon-info i::before {
+								background: #03A9F4;
+							}
+
+
+							/*******info*******/
+							.new-message-box-alert
+							{
+								background: #FF6F00;
+								padding: 3px;
+								margin: 10px 0;
+							}
+
+							.tip-box-alert
+							{
+								color: #212121;
+								background: #FFF8E1;
+							}
+
+							.tip-icon-alert 
+							{
+								background: #FF6F00;
+							}
+
+							.tip-icon-alert::before 
+							{
+								font-size: 25px;
+								content:"\f06a";
+								top: 8px;
+								left: 11px;
+								font-family: FontAwesome;
+								position: absolute;
+								color: white
+							}
+
+							.tip-icon-alert i::before 
+							{
+								background: #FF6F00;
+							}
+		</style>
+						</head>
+				<body>
+							<!--div class="preloader">
+            <div class="loader">
+                <div class="wrapper">
+                    <div class="circle circle-1"></div>
+                    <div class="circle circle-1a"></div>
+                    <div class="circle circle-2"></div>
+                    <div class="circle circle-3"></div>
+                </div>
+            </div>
+        </div-->
+        											<a href='https://magoerevision.com/abonnement/?idMatiere=108&amp;dogovai=parainEnfant' class='buy-now-btn' >
+						<img src='https://magoerevision.com/assets/img/envato.png' />
+						JE M'ABONNE (9.000 GNF / mois)
+					</a>
+						<div class="navbar-area">
+            <div class="main-responsive-nav">
+                <div class="container">
+                    <div class="main-responsive-menu">
+                        <div class="logo">
+                            <a href="https://magoerevision.com/">
+                                <img src="https://magoe.fr/magoe_b_img/logo_magoe_443x92_text.png" class="black-logo" >
+                                <img src="https://magoe.fr/magoe_b_img/logo_magoe_443x92_text.png" class="white-logo" >
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="main-navbar">
+                <div class="container">
+                    <nav class="navbar navbar-expand-md navbar-light">
+                        <a class="navbar-brand" href="https://magoerevision.com/">
+                            <img src="https://magoe.fr/magoe_b_img/logo_magoe_443x92_text.png" class="black-logo" style="height:40px;">
+                            <img src="https://magoe.fr/magoe_b_img/logo_magoe_443x92_text.png" class="white-logo" style="height:40px;">
+                        </a>
+                        <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+                            <ul class="navbar-nav">
+                                <li class="nav-item">
+                                    <a href="https://magoerevision.com/" class="nav-link active">
+                                        Accueil                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        A propos                                        <i class='bx bx-chevron-down'></i>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="#teacher.html" class="nav-link">
+                                                Présentation
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="#teacher-details.html" class="nav-link">
+                                                Equipe
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="#teacher-details.html" class="nav-link">
+                                                Enseignants
+                                            </a>
+                                        </li>
+										                                        <li class="nav-item">
+                                            <a href="#event.html" class="nav-link">
+                                                Prix                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="#event.html" class="nav-link">
+                                                Groupes de révision                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="#event.html" class="nav-link">
+                                                Examens nationaux                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        Programmes 
+                                        <i class='bx bx-chevron-down'></i>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        													<li class="nav-item">
+														<a href="#" class="nav-link">
+															Primaire															<i class='bx bx-chevron-down'></i>
+														</a>
+														<ul class="dropdown-menu">
+																																	<li class="nav-item">
+																			<a href="https://magoerevision.com/nosCours/niveau/?id=1" class="nav-link">
+																				1ère Année																			</a>
+																		</li>
+																																			<li class="nav-item">
+																			<a href="https://magoerevision.com/nosCours/niveau/?id=2" class="nav-link">
+																				2ème Année																			</a>
+																		</li>
+																																			<li class="nav-item">
+																			<a href="https://magoerevision.com/nosCours/niveau/?id=3" class="nav-link">
+																				3ème Année																			</a>
+																		</li>
+																																			<li class="nav-item">
+																			<a href="https://magoerevision.com/nosCours/niveau/?id=4" class="nav-link">
+																				4ème Année																			</a>
+																		</li>
+																																			<li class="nav-item">
+																			<a href="https://magoerevision.com/nosCours/niveau/?id=5" class="nav-link">
+																				5ème Année																			</a>
+																		</li>
+																																			<li class="nav-item">
+																			<a href="https://magoerevision.com/nosCours/niveau/?id=6" class="nav-link">
+																				6ème Année																			</a>
+																		</li>
+																															</ul>
+													</li>
+																									<li class="nav-item">
+														<a href="#" class="nav-link">
+															Collège															<i class='bx bx-chevron-down'></i>
+														</a>
+														<ul class="dropdown-menu">
+																																	<li class="nav-item">
+																			<a href="https://magoerevision.com/nosCours/niveau/?id=7" class="nav-link">
+																				7ème Année																			</a>
+																		</li>
+																																			<li class="nav-item">
+																			<a href="https://magoerevision.com/nosCours/niveau/?id=8" class="nav-link">
+																				8ème Année																			</a>
+																		</li>
+																																			<li class="nav-item">
+																			<a href="https://magoerevision.com/nosCours/niveau/?id=9" class="nav-link">
+																				9ème Année																			</a>
+																		</li>
+																																			<li class="nav-item">
+																			<a href="https://magoerevision.com/nosCours/niveau/?id=10" class="nav-link">
+																				10ème Année																			</a>
+																		</li>
+																															</ul>
+													</li>
+																									<li class="nav-item">
+														<a href="#" class="nav-link">
+															Sciences Expérimentales															<i class='bx bx-chevron-down'></i>
+														</a>
+														<ul class="dropdown-menu">
+																																	<li class="nav-item">
+																			<a href="https://magoerevision.com/nosCours/niveau/?id=14" class="nav-link">
+																				11ème Année																			</a>
+																		</li>
+																																			<li class="nav-item">
+																			<a href="https://magoerevision.com/nosCours/niveau/?id=15" class="nav-link">
+																				12ème Année																			</a>
+																		</li>
+																																			<li class="nav-item">
+																			<a href="https://magoerevision.com/nosCours/niveau/?id=16" class="nav-link">
+																				Terminale																			</a>
+																		</li>
+																															</ul>
+													</li>
+																									<li class="nav-item">
+														<a href="#" class="nav-link">
+															Sciences Mathématiques															<i class='bx bx-chevron-down'></i>
+														</a>
+														<ul class="dropdown-menu">
+																																	<li class="nav-item">
+																			<a href="https://magoerevision.com/nosCours/niveau/?id=11" class="nav-link">
+																				11ème Année																			</a>
+																		</li>
+																																			<li class="nav-item">
+																			<a href="https://magoerevision.com/nosCours/niveau/?id=12" class="nav-link">
+																				12ème Année																			</a>
+																		</li>
+																																			<li class="nav-item">
+																			<a href="https://magoerevision.com/nosCours/niveau/?id=13" class="nav-link">
+																				Terminale																			</a>
+																		</li>
+																															</ul>
+													</li>
+																									<li class="nav-item">
+														<a href="#" class="nav-link">
+															Sciences Sociales															<i class='bx bx-chevron-down'></i>
+														</a>
+														<ul class="dropdown-menu">
+																																	<li class="nav-item">
+																			<a href="https://magoerevision.com/nosCours/niveau/?id=17" class="nav-link">
+																				11ème Année																			</a>
+																		</li>
+																																			<li class="nav-item">
+																			<a href="https://magoerevision.com/nosCours/niveau/?id=18" class="nav-link">
+																				12ème Année																			</a>
+																		</li>
+																																			<li class="nav-item">
+																			<a href="https://magoerevision.com/nosCours/niveau/?id=19" class="nav-link">
+																				Terminale																			</a>
+																		</li>
+																															</ul>
+													</li>
+												                                    </ul>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        Supports
+                                        <i class='bx bx-chevron-down'></i>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="#event.html" class="nav-link">
+                                                Cours à télécharger                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="https://magoerevision.com/nosCours/applicationsWeb/" class="nav-link">
+                                                Jeux éducatifs                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="https://magoerevision.com/nosCours/videos/" class="nav-link">
+                                                Cours vidéos                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#contact.html" class="nav-link">
+                                        Contact
+                                    </a>
+                                </li>
+                            </ul>
+                            <div class="others-options d-flex align-items-center">
+                                											<div class="option-item">
+												<a href="https://magoerevision.com/login.php?linkBack=https://magoerevision.com/nosCours/fiches/single/?id=1514" class="default-btn">
+													S'identifier
+												</a>
+											</div>
+                            			                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <div class="others-option-for-responsive">
+                <div class="container">
+                    <div class="dot-menu">
+                        <div class="inner">
+                            <div class="circle circle-one"></div>
+                            <div class="circle circle-two"></div>
+                            <div class="circle circle-three"></div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="option-inner">
+                            <div class="others-options d-flex align-items-center">
+                                											<div class="option-item">
+												<a href="https://magoerevision.com/login.php?linkBack=https://magoerevision.com/nosCours/fiches/single/?id=1514" class="default-btn">
+													S'identifier
+												</a>
+											</div>
+                            			                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        					<div class="page-banner-area" style="color: #ffffff; background-image:url(https://magoerevision.com/img/bg_item.png);">
+						<div class="d-table">
+							<div class="d-table-cell">
+								<div class="container">
+									<div class="page-banner-content">
+										<h2>Les grands principe de la Logique</h2>
+										<ul>
+											<li>
+												<a href="https://magoerevision.com/">
+													Accueil
+												</a>
+											</li>
+											<li>
+												<a href="https://magoerevision.com/nosCours/">
+													Nos cours												</a>
+											</li>
+											<li>
+															<a href="https://magoerevision.com/nosCours/profil/?id=3">
+																Sciences Mathématiques															</a>
+											</li>
+											<li>
+															<a href="https://magoerevision.com/nosCours/niveau/?id=12">
+																12ème Année															</a>
+											</li>
+											<li>
+															<a href="https://magoerevision.com/nosCours/matiere/?id=108">
+																Philosophie															</a>
+											</li>
+											<li><a href="">Les grands principe de la Logique</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<section class="blog-details-area ptb-100">
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-8 col-md-12">
+									<div class="blog-details-desc">
+																				<div class="article-content">
+											<div class="userContent userContent--smallCourse js-userContent">
+												<div class="row">
+																													<div class="col-xs-12">
+																	<aside id="r-6894864" data-claire-element-id="30792748" data-claire-semantic="information">
+																		<p id="r-6894851" data-claire-element-id="30767256"><strong>Objectifs de la leçon</strong></p>
+																		<!--p id="r-6894852" data-claire-element-id="30767257">À la fin de ce cours, vous serez capable de :</p>
+																		<ul id="r-6894863" data-claire-element-id="30792747">
+																			<li id="r-6894854" data-claire-element-id="30780522">
+																				<p id="r-6894853" data-claire-element-id="30780521">identifier les avantages de Bootstrap ;</p>
+																			</li>
+																			<li id="r-6894856" data-claire-element-id="30782002">
+																				<p id="r-6894855" data-claire-element-id="30782001">créer des mises en page responsives ;</p>
+																			</li>
+																			<li id="r-6894858" data-claire-element-id="30792742">
+																				<p id="r-6894857" data-claire-element-id="30792741">utiliser les composants d'interface utilisateur de Bootstrap pour afficher le contenu ;</p>
+																			</li>
+																			<li id="r-6894860" data-claire-element-id="30792744">
+																				<p id="r-6894859" data-claire-element-id="30792743">ajouter de l'interactivité à un site web ;</p>
+																			</li>
+																			<li id="r-6894862" data-claire-element-id="30792746">
+																				<p id="r-6894861" data-claire-element-id="30792745">créer des fonctionnalités et des thèmes personnalisés à l'aide de Bootstrap.</p>
+																			</li>
+																		</ul-->
+																	</aside>
+																	<aside id="r-6894878" data-claire-element-id="31310627" data-claire-semantic="warning">
+																		<p id="r-6894865" data-claire-element-id="30767270"><strong>Prérequis</strong></p>
+																		<!--p id="r-6894866" data-claire-element-id="30806742">Pour tirer le meilleur parti de ce cours, vous devez déjà posséder des connaissances pratiques de HTML et de CSS. Vous pouvez acquérir ces compétences en suivant les cours suivants :</p>
+																		<ul id="r-6894871" data-claire-element-id="30807694">
+																			<li id="r-6894868" data-claire-element-id="30807693">
+																				<p id="r-6894867" data-claire-element-id="30807692"><a href="/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3">Apprenez à créer votre site web avec HTML 5 et CSS3</a>.</p>
+																			</li>
+																		</ul>
+																		<p id="r-6894872" data-claire-element-id="30767277">Dans la partie 5 de ce cours, vous utiliserez Sass et JavaScript. Si vous devez compléter votre expérience, nous recommandons les cours suivants :</p>
+																		<ul id="r-6894877" data-claire-element-id="30807699">
+																			<li id="r-6894874" data-claire-element-id="30807696">
+																				<p id="r-6894873" data-claire-element-id="30807695"><a href="/fr/courses/6106181-simplifiez-vous-le-css-avec-sass">Simplifiez-vous le CSS avec Sass</a>.</p>
+																			</li>
+																			<li id="r-6909078" data-claire-element-id="30807698">
+																				<p id="r-6909077" data-claire-element-id="30807697"><strong><a href="/fr/courses/6175841-apprenez-a-programmer-avec-javascript">Apprenez à programmer avec JavaScript</a>.</strong></p>
+																			</li>
+																		</ul>
+																		<p id="r-7111612" data-claire-element-id="31310442"><strong>Outils nécessaires :</strong></p>
+																		<ul id="r-7111681" data-claire-element-id="31310626">
+																			<li id="r-7111678" data-claire-element-id="31310623">
+																				<p id="r-7111677" data-claire-element-id="31310622">un éditeur de code ;</p>
+																			</li>
+																			<li id="r-7111680" data-claire-element-id="31310625">
+																				<p id="r-7111679" data-claire-element-id="31310624">Bootstrap</p>
+																			</li>
+																		</ul-->
+																	</aside>
+																</div >
+															
+																<div id='leContenu' style=''>
+																	<h2><strong>Les diff&eacute;rentes approches</strong></h2>
+
+<p>De mani&egrave;re tr&egrave;s g&eacute;n&eacute;rale, il existe quatre approches de la logique&nbsp;:</p>
+
+<p><strong>Historique</strong></p>
+
+<p>Cette premi&egrave;re approche met l&#39;accent sur l&rsquo;&eacute;volution et le d&eacute;veloppement de la logique, en insistant tout particuli&egrave;rement sur la&nbsp;syllogistique&nbsp;aristot&eacute;licienne&nbsp;et les tentatives, depuis&nbsp;<strong><em><span style="color:#ff0000">Leibniz</span></em></strong>, de faire de la logique un v&eacute;ritable&nbsp;calcul algorithmique. Cette approche historique est tout particuli&egrave;rement int&eacute;ressante pour la&nbsp;philosophie&nbsp;car aussi bien&nbsp;<span style="color:#ff0000"><strong><em>Aristote</em></strong></span>, les&nbsp;<span style="color:#ff0000"><strong><em>Sto&iuml;ciens</em></strong></span>&nbsp;ou&nbsp;<span style="color:#ff0000"><strong><em>Leibniz</em></strong></span>&nbsp;ont travaill&eacute; comme philosophes et comme logiciens, tout au long de l&#39;histoire de la logique.</p>
+
+<p><strong>Math&eacute;matique</strong></p>
+
+<p>La&nbsp;logique math&eacute;matique&nbsp;contemporaine est li&eacute;e aux&nbsp;math&eacute;matiques, &agrave; l&rsquo;informatique&nbsp;et &agrave; l&#39;ing&eacute;nierie. L&rsquo;approche math&eacute;matique a une position qui est un peu particuli&egrave;re d&#39;un point de vue&nbsp;&eacute;pist&eacute;mologique, puisqu&#39;elle est &agrave; la fois un outil de d&eacute;finition des&nbsp;math&eacute;matiques, et une branche de ces m&ecirc;mes math&eacute;matiques, donc un objet.</p>
+
+<p><strong>Philosophique</strong></p>
+
+<p>La philosophie, et surtout la&nbsp;philosophie analytique&nbsp;qui &eacute;tudie essentiellement le&nbsp;langage&nbsp;propositionnel, reposent sur un outillage d&rsquo;analyse et argumentatif provenant, d&#39;une part des d&eacute;veloppements logiques r&eacute;alis&eacute;s au cours de l&#39;histoire de la philosophie et, d&#39;autre part, des d&eacute;veloppements r&eacute;cents de la logique math&eacute;matique. Par ailleurs, la philosophie et surtout la&nbsp;philosophie de la logique&nbsp;se donnent pour t&acirc;che d&rsquo;&eacute;clairer les concepts fondamentaux et les m&eacute;thodes de la logique.</p>
+
+<p><strong>Informatique</strong></p>
+
+<p>L&#39;approche informatique &eacute;tudie l&#39;automatisation des calculs&nbsp;et des d&eacute;monstrations, les&nbsp;fondements th&eacute;oriques&nbsp;de la conception des syst&egrave;mes, la&nbsp;programmation&nbsp;et l&#39;intelligence artificielle. L&#39;approche informatique est aujourd&#39;hui cruciale car, en essayant de&nbsp;m&eacute;caniser les raisonnements, voire de les automatiser, la logique et les math&eacute;matiques vivent une v&eacute;ritable r&eacute;volution depuis la fin du&nbsp;xx<sup>e</sup>&nbsp;si&egrave;cle. Et notamment suite &agrave; l&#39;exploitation de la&nbsp;correspondance preuve-programme. Les cons&eacute;quences&nbsp;&eacute;pist&eacute;mologiques&nbsp;de ces d&eacute;veloppements sont encore largement insoup&ccedil;onn&eacute;es.</p>
+
+<h2>Grands domaines de la logique</h2>
+
+<p><strong>Syllogisme&nbsp;</strong>:</p>
+
+<p>Que d&eacute;signe le terme&nbsp;<em>syllogisme&nbsp;</em>? Un discours dans lequel, certaines choses &eacute;tant pos&eacute;es, quelque chose d&rsquo;autres que ces donn&eacute;es en r&eacute;sulte n&eacute;cessairement par le seul fait de ces donn&eacute;es (ex&nbsp;: Socrate est un homme&nbsp;: tous les hommes sont mortels&nbsp;; donc Socrate est un mortel).</p>
+
+<p><strong>Proposition&nbsp;</strong>:</p>
+
+<p>Expression du jugement dans les mots, il a d&eacute;fini la science comme un ensemble de jugements et de propositions.</p>
+
+<p><strong>La Science&nbsp;:</strong></p>
+
+<p>Concept &eacute;galement d&eacute;velopp&eacute; par Aristote comme &eacute;tant le syst&egrave;me dans lequel tout ce qui est connu d&eacute;coule, de mani&egrave;re n&eacute;cessaire, des premiers principes. La science repr&eacute;sente un type de connaissance universelle.</p>
+
+<p>L&rsquo;<strong>universel&nbsp;</strong>:</p>
+
+<p>D&eacute;signe, chez Aristote, ce qui s&rsquo;applique &agrave; tous les cas. Pour parvenir &agrave; la science, il ne faut nullement n&eacute;gliger l&rsquo;<em>induction</em>,</p>
+
+<p>L&rsquo;<strong>induction&nbsp;</strong>:</p>
+
+<p>Consiste dans le passage des cas particuliers &agrave; l&rsquo;universel.</p>
+
+<p>La<strong>&nbsp;non-contradiction</strong>&nbsp;:</p>
+
+<p>Enfin, Aristote a &eacute;nonc&eacute; le&nbsp;<em>principe de non-contradiction</em>. Il est le principe selon lequel il est impossible que le m&ecirc;me attribut appartienne et n&rsquo;appartienne pas en m&ecirc;me temps, au m&ecirc;me sujet et sous le m&ecirc;me rapport, ainsi que celui du&nbsp;<em>tiers</em>&nbsp;exclu.</p>
+
+<p>Le<strong>&nbsp;Tiers exclu</strong>&nbsp;:</p>
+
+<p>Tiers exclu, qui cette fois, est le principe selon lequel, de deux propositions contradictoires, l&rsquo;une est vraie et l&rsquo;autre fausse.</p>
+
+<p>Par leur formalisation logique et l&rsquo;&eacute;nonc&eacute; des grands principes qui structurent notre pens&eacute;e, l&rsquo;<em>Organon&nbsp;</em>et la r&eacute;flexion logique d&rsquo;Aristote tiennent une place centrale dans la philosophie.</p>
+
+<p>&nbsp;</p>
+
+																</div >
+																<div >
+																	<hr><i>2020-06-16 10:17:01</b></i>
+																</div >												</div>
+											</div>
+										</div>
+										<div class="article-footer">
+											<div class="article-tags">
+												<span>
+													<i class='bx bxs-bookmark'></i>
+												</span>
+												<a href="https://magoerevision.com/nosCours/exos/?idMatiere=108" class="btn btn-danger">
+													<b style="color:white;">Exercices</b>
+												</a>
+												<a href="https://magoerevision.com/nosCours/applicationsWeb/?idMatiere=108" class="btn btn-warning">
+													<b style="color:white;">Jeux éducatifs</b>
+												</a>
+											</div>
+											<div class="article-share">
+												<ul class="social">
+													<li><span>Partager sur:</span></li>
+													<li>
+														<a href="https://www.facebook.com/sharer.php?u=https://magoerevision.com/nosCours/fiches/single/?id=1514" target="_blank">
+															<i class='bx bxl-facebook'></i>
+														</a>
+													</li>
+													<li>
+														<a href="https://twitter.com/share?url=https://magoerevision.com/nosCours/fiches/single/?id=1514&amp;text=Les grands principe de la Logique" target="_blank">
+															<i class='bx bxl-twitter'></i>
+														</a>
+													</li>
+													<li>
+														<a href="https://www.linkedin.com/shareArticle?mini=true&url=https://magoerevision.com/nosCours/fiches/single/?id=1514&title=Les grands principe de la Logique&summary=Les grands principe de la Logique&source=Magoé" target="_blank">
+															<i class='bx bxl-linkedin'></i>
+														</a>
+													</li>
+												</ul>
+											</div>
+										</div>
+										<div class="post-navigation">
+											<div class="navigation-links">
+												<div class="nav-previous">
+																													<a href="https://magoerevision.com/nosCours/fiches/single/?id=1513">
+																	<i class='bx bx-chevron-left'></i>
+																	Précédent
+																</a>
+																											</div>
+												<div class="nav-next">
+																									</div>
+											</div>
+										</div>
+										<div class="comments-area">
+																						<h3 class="comments-title">2 commentaires</h3>
+											<ol class="comment-list">
+												<li class="comment">
+																													<div class="comment-body">
+																	<footer class="comment-meta">
+																		<div class="comment-author vcard">
+																			<img src="https://magoe.fr/magoeMembre/membre1_262.png" class="avatar" >
+																			<b class="fn">
+																				Mazoughou Goépogui																			</b>
+																		</div>
+																		<div class="comment-metadata">
+																			<a href="#">
+																				<span>
+																					2020-10-07 13:06:52																				</span>
+																			</a>
+																		</div>
+																	</footer>
+																	<div class="comment-content">
+																		<p>Vous parler du reste de quoi M. Abou Camara ?</p>
+																																			</div>
+																	<!--div class="reply">
+																		<a href="#" class="comment-reply-link">Reply</a>
+																	</div-->
+																</div>
+																<!--ol class="children">
+																	<li class="comment">
+																		<div class="comment-body">
+																			<footer class="comment-meta">
+																				<div class="comment-author vcard">
+																					<img src="assets/img/client/client-2.jpg" class="avatar" alt="image">
+																					<b class="fn">Steven Smith</b>
+																				</div>
+																				<div class="comment-metadata">
+																					<a href="#">
+																						<span>April 24, 2024 at 10:59 am</span>
+																					</a>
+																				</div>
+																			</footer>
+																			<div class="comment-content">
+																				<p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen.</p>
+																			</div>
+																			<div class="reply">
+																				<a href="#" class="comment-reply-link">Reply</a>
+																			</div>
+																		</div>
+																	</li>
+																</ol-->
+																															<div class="comment-body">
+																	<footer class="comment-meta">
+																		<div class="comment-author vcard">
+																			<img src="https://magoe.fr/personne80_72.png" class="avatar" >
+																			<b class="fn">
+																				Abou Camara																			</b>
+																		</div>
+																		<div class="comment-metadata">
+																			<a href="#">
+																				<span>
+																					2020-10-05 10:03:34																				</span>
+																			</a>
+																		</div>
+																	</footer>
+																	<div class="comment-content">
+																		<p>Pourquoi on voit pas les reste au dessus</p>
+																																			</div>
+																	<!--div class="reply">
+																		<a href="#" class="comment-reply-link">Reply</a>
+																	</div-->
+																</div>
+																<!--ol class="children">
+																	<li class="comment">
+																		<div class="comment-body">
+																			<footer class="comment-meta">
+																				<div class="comment-author vcard">
+																					<img src="assets/img/client/client-2.jpg" class="avatar" alt="image">
+																					<b class="fn">Steven Smith</b>
+																				</div>
+																				<div class="comment-metadata">
+																					<a href="#">
+																						<span>April 24, 2024 at 10:59 am</span>
+																					</a>
+																				</div>
+																			</footer>
+																			<div class="comment-content">
+																				<p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen.</p>
+																			</div>
+																			<div class="reply">
+																				<a href="#" class="comment-reply-link">Reply</a>
+																			</div>
+																		</div>
+																	</li>
+																</ol-->
+																												<!--div class="comment-body">
+														<footer class="comment-meta">
+															<div class="comment-author vcard">
+																<img src="assets/img/client/client-3.jpg" class="avatar" alt="image">
+																<b class="fn">Sarah Taylor</b>
+															</div>
+															<div class="comment-metadata">
+																<a href="#">
+																	<span>April 24, 2024 at 10:59 am</span>
+																</a>
+															</div>
+														</footer>
+														<div class="comment-content">
+															<p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen.</p>
+														</div>
+														<div class="reply">
+															<a href="#" class="comment-reply-link">Reply</a>
+														</div>
+													</div-->
+												</li>
+											</ol>
+											<div class="comment-respond">
+												<h3 class="comment-reply-title">Votre impression compte aussi</h3>
+																							</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-4 col-md-12">
+																		<!--div class="class-details-sidebar">
+										<div class="class-details-information">
+											<h3>Information</h3>
+											<ul>
+												<li>
+													<span>Student:</span>
+													25
+												</li>
+												<li>
+													<span>Lectures:</span>
+													6
+												</li>
+												<li>
+													<span>Time:</span>
+													9AM - 11:30AM
+												</li>
+												<li>
+													<span>Learn Day:</span>
+													Monday, Wednesday
+												</li>
+												<li>
+													<span>Language:</span>
+													English
+												</li>
+											</ul>
+										</div>
+										<div class="class-newsletter">
+											<div class="newsletter-content">
+												<h3>Subscribe to Our Newsletter</h3>
+											</div>   
+				
+											<form class="newsletter-form" data-bs-toggle="validator">
+												<input type="email" class="input-newsletter" placeholder="Enter your email" name="EMAIL" required autocomplete="off">
+						
+												<button type="submit">Subscribe</button>
+												<div id="validator-newsletter" class="form-result"></div>
+											</form>
+										</div>
+									</div-->
+									<aside class="widget-area">
+										<!--section class="widget widget_search">
+											<h3 class="widget-title">Search</h3>
+
+											<form class="search-form">
+												<label>
+													<span class="screen-reader-text">Search for:</span>
+													<input type="search" class="search-field" placeholder="Search...">
+												</label>
+												<button type="submit">
+													<i class='bx bx-search-alt'></i>
+												</button>
+											</form>
+										</section-->
+										<section class="widget widget_ketan_posts_thumb">
+											<h3 class="widget-title">Dernières vidéos</h3>
+																					</section>
+										<section class="widget widget_categories">
+											<h3 class="widget-title">Dernièrs exercices</h3>
+											<ul>
+																											<li >
+																<a href="https://magoerevision.com/nosCours/exos/single/?id=2550" >
+																	La logique comme l&#039;art de penser - - Exercices - 0000																</a>
+															</li>
+																													<li >
+																<a href="https://magoerevision.com/nosCours/exos/single/?id=2541" >
+																	Raison et faits  - - Exercices - 0000																</a>
+															</li>
+																													<li >
+																<a href="https://magoerevision.com/nosCours/exos/single/?id=2540" >
+																	 La culture et l&#039;homme  - - Exercices - 0000																</a>
+															</li>
+																													<li >
+																<a href="https://magoerevision.com/nosCours/exos/single/?id=2539" >
+																	La vérité ! - - Exercices - 0000																</a>
+															</li>
+																													<li >
+																<a href="https://magoerevision.com/nosCours/exos/single/?id=2538" >
+																	Les opinions ! - - Exercices - 0000																</a>
+															</li>
+																													<li >
+																<a href="https://magoerevision.com/nosCours/exos/single/?id=2537" >
+																	Résister à la vérité ! - - Exercices - 0000																</a>
+															</li>
+																													<li >
+																<a href="https://magoerevision.com/nosCours/exos/single/?id=2536" >
+																	Le jugement vrai ! - - Exercices - 0000																</a>
+															</li>
+																									</ul>
+										</section>
+										<section class="widget widget_tag_cloud">
+											<h3 class="widget-title">Tags</h3>
+											<div class="tagcloud">
+												<a href="https://magoerevision.com/nosCours/fiches/?idMatiere=108">
+													Leçons
+												</a>
+												<a href="https://magoerevision.com/nosCours/exos/?idMatiere=108">
+													Exercices
+												</a>
+												<a href="https://magoerevision.com/nosCours/videos/?idMatiere=108">
+													Vidéos
+												</a>
+												<a href="https://magoerevision.com/nosCours/applicationsWeb/?idMatiere=108">
+													Jeux éducatifs
+												</a>
+											</div>
+										</section>
+									</aside>
+								</div>
+							</div>
+						</div>
+					</section>
+					<section class="">
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-12 col-md-12">
+									<div class="related-class">
+										<h3>Autres matières</h3>
+										<div class="row">
+																														<div class="col-lg-4 col-md-6">
+												<div class="single-class">
+													<div class="class-image" style="height:200px; overflow:hidden;">
+														<a href="https://magoerevision.com/nosCours/matiere/?id=62">
+															<img src="https://magoerevision.com/img/cours_en_preparation.jpg" >
+														</a>
+													</div>
+													<div class="class-content">
+														<div class="price">9,000 GNF/mois</div>
+														<h3>
+															<a href="https://magoerevision.com/nosCours/matiere/?id=62">
+																1. Anglais															</a>
+														</h3>
+														<p>12ème Année - Sciences Mathématiques</p>
+														<ul class="class-list">
+															<li>
+																<span>Fiches:</span>
+																15															</li>
+															<li>
+																<span>Exos:</span>
+																6 / 6															</li>
+															<li>
+																<span>Vidéos:</span>
+																0															</li>
+															<li>
+																<span>Applications:</span>
+																0															</li>
+														</ul>
+														<div class="class-btn">
+															<a href="https://magoerevision.com/nosCours/matiere/?id=62" class="default-btn">
+																Accéder
+															</a>
+														</div>
+													</div>
+												</div>
+											</div>
+																					<div class="col-lg-4 col-md-6">
+												<div class="single-class">
+													<div class="class-image" style="height:200px; overflow:hidden;">
+														<a href="https://magoerevision.com/nosCours/matiere/?id=55">
+															<img src="https://magoerevision.com/img/cours_en_preparation.jpg" >
+														</a>
+													</div>
+													<div class="class-content">
+														<div class="price">9,000 GNF/mois</div>
+														<h3>
+															<a href="https://magoerevision.com/nosCours/matiere/?id=55">
+																2. Chimie															</a>
+														</h3>
+														<p>12ème Année - Sciences Mathématiques</p>
+														<ul class="class-list">
+															<li>
+																<span>Fiches:</span>
+																18															</li>
+															<li>
+																<span>Exos:</span>
+																33 / 30															</li>
+															<li>
+																<span>Vidéos:</span>
+																0															</li>
+															<li>
+																<span>Applications:</span>
+																0															</li>
+														</ul>
+														<div class="class-btn">
+															<a href="https://magoerevision.com/nosCours/matiere/?id=55" class="default-btn">
+																Accéder
+															</a>
+														</div>
+													</div>
+												</div>
+											</div>
+																					<div class="col-lg-4 col-md-6">
+												<div class="single-class">
+													<div class="class-image" style="height:200px; overflow:hidden;">
+														<a href="https://magoerevision.com/nosCours/matiere/?id=110">
+															<img src="https://magoerevision.com/img/cours_en_preparation.jpg" >
+														</a>
+													</div>
+													<div class="class-content">
+														<div class="price">9,000 GNF/mois</div>
+														<h3>
+															<a href="https://magoerevision.com/nosCours/matiere/?id=110">
+																3. Economie															</a>
+														</h3>
+														<p>12ème Année - Sciences Mathématiques</p>
+														<ul class="class-list">
+															<li>
+																<span>Fiches:</span>
+																16															</li>
+															<li>
+																<span>Exos:</span>
+																25 / 12															</li>
+															<li>
+																<span>Vidéos:</span>
+																0															</li>
+															<li>
+																<span>Applications:</span>
+																0															</li>
+														</ul>
+														<div class="class-btn">
+															<a href="https://magoerevision.com/nosCours/matiere/?id=110" class="default-btn">
+																Accéder
+															</a>
+														</div>
+													</div>
+												</div>
+											</div>
+																											</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</section>
+										<section class="footer-area pt-100 pb-70">
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-3 col-sm-6">
+									<div class="single-footer-widget">
+										<div class="logo">
+											<h2>
+												<a href="index.html">
+													<img src="https://magoe.fr/magoe_b_img/logo_magoe_443x92_text.png" class="black-logo" >
+													<img src="https://magoe.fr/magoe_b_img/logo_magoe_443x92_text.png" class="white-logo" >
+												</a>
+											</h2>
+										</div>
+										<p>Magoé Education, l'application qui vous garantit votré réussite scolaire</p>
+										<ul class="social">
+											<li>
+												<a href="https://www.facebook.com/magoetech" target="_blank">
+													<i class='bx bxl-facebook'></i>
+												</a>
+											</li>
+											<!--li>
+												<a href="#" target="_blank">
+													<i class='bx bxl-twitter'></i>
+												</a>
+											</li>
+											<li>
+												<a href="#" target="_blank">
+													<i class='bx bxl-pinterest-alt'></i>
+												</a>
+											</li>
+											<li>
+												<a href="#" target="_blank">
+													<i class='bx bxl-linkedin'></i>
+												</a>
+											</li-->
+										</ul>
+									</div>
+								</div>
+								<div class="col-lg-3 col-sm-6">
+									<div class="single-footer-widget">
+										<h3>Nous contacter</h3>
+										<ul class="footer-contact-info">
+											<li>
+												<i class='bx bxs-phone'></i>
+												<span>Téléphone</span>
+												<a href="tel:224624055640">
+													224624055640												</a>
+											</li>
+											<li>
+												<i class='bx bx-envelope'></i>
+												<span>Email</span>
+												<a href="mailto:contact@magoe.net">
+													contact@magoe.net												</a>
+											</li>
+											<li>
+												<i class='bx bx-map'></i>
+												<span>Adresse</span>
+												Sonfonia, Commune de Ratoma - Conakry, Rep. de Guinée											</li>
+										</ul>
+									</div>
+								</div>
+								<div class="col-lg-3 col-sm-6">
+									<div class="single-footer-widget pl-5">
+										<h3>Liens utiles</h3>
+										<ul class="quick-links">
+											<li>
+												<a href="https://magoe.fr" target="_blank">
+													Magoé Technologie
+												</a>
+											</li>
+											<li>
+												<a href="https://magoe.fr" target="_blank">
+													Magoé Education
+												</a>
+											</li>
+											<li>
+												<a href="https://magoe.fr" target="_blank">
+													Magoé Mon Ecole
+												</a>
+											</li>
+											<li>
+												<a href="https://magoe.fr" target="_blank">
+													Magoé Makiti
+												</a>
+											</li>
+											<li>
+												<a href="https://magoe.fr/examens/" target="_blank">
+													Les examens nationaux
+												</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+								<div class="col-lg-3 col-sm-6">
+									<!--div class="single-footer-widget">
+										<h3>Photo Gallery</h3>
+										<ul class="photo-gallery-list">
+											<li>
+												<div class="box">
+													<img src="assets/img/footer-gallery/footer-gallery-1.jpg" alt="image">
+													<a href="#" target="_blank" class="link-btn"></a>
+												</div>
+											</li>
+											<li>
+												<div class="box">
+													<img src="assets/img/footer-gallery/footer-gallery-2.jpg" alt="image">
+													<a href="#" target="_blank" class="link-btn"></a>
+												</div>
+											</li>
+											<li>
+												<div class="box">
+													<img src="assets/img/footer-gallery/footer-gallery-3.jpg" alt="image">
+													<a href="#" target="_blank" class="link-btn"></a>
+												</div>
+											</li>
+											<li>
+												<div class="box">
+													<img src="assets/img/footer-gallery/footer-gallery-4.jpg" alt="image">
+													<a href="#" target="_blank" class="link-btn"></a>
+												</div>
+											</li>
+											<li>
+												<div class="box">
+													<img src="assets/img/footer-gallery/footer-gallery-5.jpg" alt="image">
+													<a href="#" target="_blank" class="link-btn"></a>
+												</div>
+											</li>
+											<li>
+												<div class="box">
+													<img src="assets/img/footer-gallery/footer-gallery-6.jpg" alt="image">
+													<a href="#" target="_blank" class="link-btn"></a>
+												</div>
+											</li>
+											<li>
+												<div class="box">
+													<img src="assets/img/footer-gallery/footer-gallery-1.jpg" alt="image">
+													<a href="#" target="_blank" class="link-btn"></a>
+												</div>
+											</li>
+											<li>
+												<div class="box">
+													<img src="assets/img/footer-gallery/footer-gallery-2.jpg" alt="image">
+													<a href="#" target="_blank" class="link-btn"></a>
+												</div>
+											</li>
+											<li>
+												<div class="box">
+													<img src="assets/img/footer-gallery/footer-gallery-3.jpg" alt="image">
+													<a href="#" target="_blank" class="link-btn"></a>
+												</div>
+											</li>
+										</ul>
+									</div-->
+								</div>
+							</div>
+						</div>
+					</section>
+					<div class="copyright-area">
+						<div class="container">
+							<div class="copyright-area-content">
+								<p>
+									Conçu par
+									<a href="https://magoe.fr" target="_blank">
+										Magoé Technologie.
+									</a>
+									Tout droit réservé
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="go-top">
+						<i class='bx bx-up-arrow-alt'></i>
+					</div>
+					<div class="dark-version">
+						<label id="switch" class="switch">
+							<input type="checkbox" onchange="toggleTheme()" id="slider">
+							<span class="slider round"></span>
+						</label>
+					</div>
+										        <!-- dark version -->
+
+        <!-- Jquery Slim JS -->
+        <script src="https://magoerevision.com/assets/js/jquery.min.js"></script>
+        <!-- Bootstrap JS -->
+        <script src="https://magoerevision.com/assets/js/bootstrap.bundle.min.js"></script>
+        <!-- Meanmenu JS -->
+        <script src="https://magoerevision.com/assets/js/jquery.meanmenu.js"></script>
+        <!-- Owl Carousel JS -->
+        <script src="https://magoerevision.com/assets/js/owl.carousel.min.js"></script>
+        <!-- Magnific Popup JS -->
+        <script src="https://magoerevision.com/assets/js/jquery.magnific-popup.min.js"></script>
+        <!-- Imagelightbox JS -->
+		<script src="https://magoerevision.com/assets/js/imagelightbox.min.js"></script>
+        <!-- Odometer JS -->
+        <script src="https://magoerevision.com/assets/js/odometer.min.js"></script>
+        <!-- Jquery Appear JS -->
+        <script src="https://magoerevision.com/assets/js/jquery.appear.min.js"></script>
+        <!-- Ajaxchimp JS -->
+		<script src="https://magoerevision.com/assets/js/jquery.ajaxchimp.min.js"></script>
+		<!-- Form Validator JS -->
+		<script src="https://magoerevision.com/assets/js/form-validator.min.js"></script>
+		<!-- Contact JS -->
+        <script src="https://magoerevision.com/assets/js/contact-form-script.js"></script>
+        <!-- Custom JS -->
+        <script src="https://magoerevision.com/assets/js/main.js"></script>
+				</body>
+			</html>
+		

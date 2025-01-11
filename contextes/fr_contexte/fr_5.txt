@@ -1,0 +1,348 @@
+Introduction à la logique : logique propositionnelle
+Brice Halimi
+LLPHI133
+--
+1.1
+
+Qu’est-ce que la logique ?
+
+Il existe deux définitions traditionnelles concurrentes de la logique : l’une, dite rationaliste,
+identifie la logique à la science du vrai, l’autre, dite psychologiste, identifie la logique à la
+science du raisonnement. La tradition psychologiste remonte à l’empirisme anglais, avec David
+Hume ou John Stuart Mill, mais a aussi pour représentants des philosophes de langue allemande
+du XIXe siècle, tels Ernst Mach et Franz Brentano. Selon cette tradition, les rapports logiques
+se réduisent à des abstractions tirées de relations mentales concrètes. Par exemple, le principe
+de contradiction tiendrait au fait que croire et ne pas croire sont deux états mentaux incompatibles, et ne serait que l’expression idéalisée de cette incompatibilité. Dans la mesure où la
+logique concerne des concepts, des jugements, des raisonnements, des déductions, elle ne fait
+qu’exprimer le fonctionnement normal de notre vie mentale. Mais tout le problème est évidemment de définir la notion de fonctionnement « normal » de notre pensée. Par ailleurs, même à
+supposer qu’on puisse le faire, le simple fait de parler de « lois de la pensée », c’est-à-dire de
+lois auxquelles le raisonnement d’un individu doit se conformer, suggère qu’il est justement
+possible de ne pas s’y conformer. Les lois logiques ne seraient donc pas absolument valides,
+mais seulement normatives, c’est-à-dire qu’elles se contenteraient d’énoncer la façon dont on a
+intérêt à raisonner.
+On peut par opposition souhaiter accorder à la logique le statut de science objective, dont les
+vérités sont indépendantes de la façon dont empiriquement la plupart des hommes raisonnent.
+Les lois logiques, comme par exemple le principe de contradiction (« Une proposition et sa
+1
+
+--
+fausse : nous en sommes absolument certains, c’est-à-dire indépendamment de toute circonstance particulière, et même sans savoir de quelles affirmations il s’agit (du moment qu’elles
+sont contradictoires). On peut avancer un autre argument : au moment même d’observer et de
+décrire la façon dont les individus raisonnent, le psychologue présuppose déjà les lois logiques
+telles que le principe de contradiction : pour que l’observation « L’individu A a fait ceci » ait
+un sens, il faut évidemment déjà admettre qu’elle exclut l’observation contraire « L’individu A
+n’a pas fait ceci ». De façon générale, les vérités logiques ne concernent ni ne constituent aucun
+domaine de connaissance en particulier, et sont valables en amont de toute vérité scientifique
+particulière. Les vérités logiques sont les vérités sans lesquelles il n’y aurait pas de vérité du
+tout. C’est pourquoi le philosophe et logicien allemand Gottlob Frege a pu définir la logique,
+non pas comme la science des lois de la pensée, mais comme « la science de l’être vrai1 ».
+À vrai dire, le rejet d’une explication purement psychologique de la pensée logique est essentiellement motivé par la volonté de rendre compte de l’objectivité très solide propre aux
+mathématiques : l’armature purement logique des raisonnements mathématiques est l’une des
+raisons pour lesquelles les vérités mathématiques peuvent être considérées comme indépendantes de toute condition factuelle, et en particulier comme indépendantes de la façon dont de
+fait la plupart des hommes ont l’habitude de raisonner. Le débat opposant le rationalisme et le
+psychologisme à propos de la logique est en réalité sous-déterminé par le statut à accorder aux
+mathématiques.
+Un débat plus contemporain (ancré dans le XXe siècle et non plus le XIXe siècle) concerne
+le domaine de pertinence de la logique : les lois logiques concernent-elles la pensée en prise
+avec le monde empirique et exprimée par le langage ordinaire, ou bien ne font-elles au contraire
+que schématiser les raisonnements que l’on trouve dans les théories mathématiques ? La logique
+doit-elle être conçue comme une grammaire générale, ou au contraire comme une formalisation
+des mathématiques ? Ce débat n’est pas si éloigné du débat précédent opposant le psychologisme et le rationalisme. Il s’agit même en quelque sorte d’une réédition du même débat. Il ne
+--
+2
+
+peut voir dans la logique, et par conséquent sur les deux intérêts d’une introduction à la logique
+moderne. La logique est à la fois du côté du raisonnement en général, et du côté des mathématiques. C’est du moins ainsi que le philosophe peut commencer par voir les choses. Car pour
+le reste, l’histoire est assez triste. Quelle fut en effet (très grossièrement) l’évolution de la logique depuis la fin du XIXe siècle ? Le philosophe prétendait que la psychologie est incapable
+de rendre compte de la validité très spéciale des mathématiques. Que s’est-il alors passé ? La
+psychologie a décidé d’abandonner le terrain de la logique pure, pour se consacrer à un terrain
+qui lui convient entièrement, celui de la cognition. De son côté, la logique a été happée par
+les mathématiques : prévue pour formaliser de façon uniforme les mathématiques, la logique
+ne s’intéresse plus qu’aux différentes théories mathématiques. Le philosophe s’intéressait à la
+logique comme à ce qui peut être commun au langage ordinaire et aux mathématiques. Mais
+l’étude du langage a décidé de devenir l’étude empirique des différentes grammaires, et la logique utilisée pour formaliser les mathématiques a naturellement fini par devenir une discipline
+mathématique à part entière. Le bilan des courses est qu’entre les sciences cognitives, la linguistique et les mathématiques, il ne reste (apparemment) plus rien de la logique au philosophe.
+Mais ceci est une autre histoire, ou plutôt justement l’histoire de la logique au XXe siècle, dont
+je ne parlerai pas.
+
+--
+Méthodologie
+
+La logique est une discipline spéciale au sein des études philosophiques dans la mesure où
+elle est technique et pratique. Ces deux mots ont une implication simple : il est indispensable
+de s’entraîner et de faire des exercices. Il ne suffit pas d’avoir l’impression d’avoir compris en
+--
+– [Cori et Lascar(1993)] : manuel de référence, qu’on suivra principalement ;
+– [Blanché et Dubucs(1996)] : ouvrage de synthèse permettant de mettre en perspective
+l’énmergence de la logique mathématique ;
+– [Ruyer(1990)] : manuel partiel mais didactique.
+Le parti pris de ce cours est de proposer une introduction élémentaire à la logique mathématique, en s’en tenant à la logique propositionnelle. Introduction élémentaire, mais néanmoins
+à la logique mathématique, de façon à faire d’une pierre deux coups : d’une part, permettre un
+accès aux questions philosophiques dont la discussion demande quelques notions de logique
+(ces notions sont en général très limitées, mais le philosophe, surtout de langue française, prend
+facilement peur) ; d’autre part, étudier une théorie mathématique (la logique propositionnelle)
+qui peut servir d’exemple pour les mathématiques en général.
+
+2
+
+L’idée de logique propositionnelle
+
+2.1
+--
+Énoncés et propositions
+
+L’essentiel est de revenir au double aspect des relations logiques : ce sont à la fois les
+connections fondamentales qui organisent un raisonnement ou articulent un discours, et les
+schémas des déductions qu’on trouve en mathématiques. Considérons l’enchaînement suivant :
+--
+. . . alors ». Par opposition à « être un nombre pair », « 2 », « être un métal » ou « l’acier », « ou »
+et « si . . . alors » ne font référence à aucun domaine de connaissance particulier. On dira que
+ces termes sont des connecteurs logiques : ils permettent de construire des énoncés complexes,
+comme par exemple l’énoncé (5) à partir des deux énoncés simples « L’acier est un métal » et
+« Il pleut sur Brest ». Mais il faut ajouter qu’ils ont chacun une signification telle que certains
+énoncés complexes vont être automatiquement vrais. Les connecteurs logiques ne sont pas simplement un ciment permettant d’assembler les briques que sont les énoncés simples : ce sont
+avant tout des formes de construction.
+La logique propositionnelle est l’étude des connecteurs logiques, à savoir principalement :
+– « ne . . . pas »,
+– « et »,
+--
+– « si . . . alors ».
+Ces expressions correspondent à des formes grammaticales, principalement des conjonctions
+de coordination. Cependant la logique ne s’intéresse pas, comme la grammaire, à des énoncés
+particuliers, comme (4) ou (5), mais plutôt à des schémas d’énoncés, comme (6). En effet, la
+perspective adoptée par la logique consiste à s’intéresser aux connecteurs logiques eux-mêmes
+plutôt qu’aux propositions qu’ils permettent de construire. On peut le dire autrement : les énon-
+
+5
+
+cés simples qui interviennent dans une phrase (c’est-à-dire dans un énoncé complexe) n’intéressent la logique que dans la mesure où ils peuvent être vrais ou faux. La logique vise la généralité en gommant la signification particulière des énoncés, pour ne retenir que le fait d’être ou
+bien vrai ou bien faux. Peu importe ce que signifie « L’acier est un métal » ou bien « Il pleut sur
+Brest » : l’essentiel est que ces deux énoncés est chacun soit vrai soit faux. C’est pourquoi dans
+--
+Définition 2.2. On dit d’une proposition vraie qu’elle a « le vrai » (noté V ) pour valeur de
+vérité, et d’une proposition fausse qu’elle a « le faux » (noté F ) pour valeur de vérité.
+La perspective propre à la logique propositionnelle est donc de remplacer tout énoncé simple
+particulier (par exemple « Il pleut sur Brest ») par une lettre (« p », « q », etc.). Le but de cette
+opération est 1˚) de ne retenir d’un énoncé que le fait qu’il constitue une proposition, c’est-àdire quelque chose qui est soit vrai soit faux ; 2˚) de viser des schémas d’énoncés, des formes
+logiques, plutôt que des énoncés particuliers. En fait, ces deux objectifs vont ensemble, et se
+traduisent par le fait qu’en logique on a affaire à des lettres plutôt qu’à des énoncés simples
+particuliers, et ainsi à des constructions symboliques (« si p, alors p ou q ») plutôt qu’à des
+énoncés complexes écrits en français. L’intérêt de cette abstraction est précisément qu’un certain
+--
+d’ailleurs que de tous les énoncés construits selon le même schéma).
+Convention 1. Désormais, lorsqu’on parlera de « proposition », ce sera toujours en se plaçant
+dans la perspective symbolique propre à la logique. On parlera donc d’énoncés (simples ou
+complexes) pour désigner les phrases du langage ordinaire (par exemple : « Il pleut sur Brest »,
+6
+--
+« S’il pleut sur Brest, alors Dieu n’existe pas »), et de propositions uniquement pour désigner
+les constructions symboliques (par exemple « p », « Si p, alors q », « Si p, alors p ou q », etc.)
+qui interviennent en logique.
+Remarque 2.3. Lorsqu’on parle d’un énoncé au sens d’une phrase du langage ordinaire, c’est
+en se limitant aux phrases qui ont un sens, et une valeur de vérité déterminée. Par exemple :
+--
+n’est ni vrai ni faux.
+Remarque 2.4. Lorsqu’on parle d’énoncés complexes, c’est uniquement pour désigner des
+énoncés construits à l’aide des connecteurs logiques. En particulier, on exclut le cas d’un
+énoncé tel que
+« Othello croit que Desdémone a été déloyale »,
+qui n’est pas construit à partir des énoncés « Othello croit » et « Desdémone a été déloyale » au
+moyen de connecteurs logiques : « que » n’est pas un connecteur logique, et plus radicalement
+« Othello croit » n’est pas un énoncé complet (car dans ce contexte « croire » doit être suivi
+d’un complément d’objet).
+--
+et une proposition complexe est une expression pour n’importe quel schéma d’énoncé, ce qui
+justifie le va-et-vient qu’on peut effectuer entre énoncés (du langage ordinaire) et propositions
+(qui sont les objets étudiés par la logique propositionnelle proprement dite).
+Définition 2.6. Une proposition réduite à une lettre s’appelle une proposition atomique. Une
+proposition qui n’est pas atomique mais est construite à partie de propositions atomiques, s’appelle une proposition complexe.
+--
+2.2
+
+Les différents connecteurs logiques
+
+2.2.1
+--
+est plus clairement exprimée si elle est placée en début de phrase. Ceci revient à exprimer la
+négation de « Le facteur est passé » par « Ce n’est pas le cas que le facteur soit passé ».
+Si l’on décide à présent de se replacer dans la perspective de la logique propositionnelle, et
+donc de considérer des propositions au lieu d’énoncés concrets, la négation de la proposition
+« p » sera « non p », et la négation de la proposition « p ou q » sera « non (p ou q) ».
+--
+négation de « p » s’écrira donc désormais « ¬p », et la négation de la proposition « p ou q » sera
+« ¬(p ou q) ».
+Comme on l’a dit, le propre du point de vue logique est de ne retenir d’une proposition
+que la double possibilité d’être vraie ou fausse. De ce point de vue, quelle est la caractéristique
+essentielle de la négation ? Réponse : la négation transforme une proposition vraie en une proposition fausse, et réciproquement transforme une proposition fausse en une proposition vraie.
+Au niveau des énoncés, on voit bien en effet que si « Il pleut sur Brest » est vrai, alors « Il ne
+pleut pas sur Brest » (ou plutôt : « Ce n’est pas le cas qu’il pleuve sur Brest ») est faux, et réciproquement. L’idée logique de négation est entièrement contenue dans ce jeu de bascule : la
+nagation inverse la valeur de vérité, et ceci suffit à caractériser l’essence de la négation. Gardons
+ce comportement de la négation en tête, on y reviendra bientôt.
+--
+compréhensible étant donné qu’une proposition schématise un énoncé tout entier, sans rentrer
+dans le détail de cet énoncé (c’est-à-dire des prédicats ou des verbes que cet énoncé contient).
+En logique, la conjonction (comme tout à l’heure la négation) est exprimée par un symbole
+spécifique, à savoir « ∧ », qui se lit « et ». Ainsi la conjonction de « p » et de « q » devient :
+« p ∧ q ». De même, la conjonction de « p ou q » et de « si p, alors q » est :
+« (p ou q) ∧ (si p, alors q) ».
+À présent, quelle est la signification logique de la conjonction ? Autrement dit quel est la
+caractéristique d’une conjonction en termes de valeurs de vérité ? La réponse est simple. Si
+j’affirme : « L’acier est un métal et il pleut sur Brest », j’affirme que l’acier est un métal et qu’il
+--
+dite exclusive, qui suppose que les deux disjoints sont incompatibles (c’est le sens de « ou bien
+. . . ou bien » au sens de : « de deux choses l’une »), et la disjonction inclusive, qui n’exclut pas
+que les deux disjoints soient vrais en même temps. Le sens de la disjonction retenu par la logique propositionnelle est seulement celui de la disjonction inclusive. Son symbole est : « ∨ »,
+qui se lit « ou ». Par exemple, on écrira « p ∨ (p ∧ q) » pour dire « p ou bien (p et q) ».
+Le sens de la disjonction (inclusive) découle de ce qu’on vient de dire : pour que la disjonction de deux énoncés soit vraie, il faut et il suffit qu’au moins un des deux énoncés soit vrai.
+--
+s’appelle le conséquent. L’implication exprime un lien de conséquence, mais, contrairement à
+ce qu’on pourrait attendre, cette conséquence n’a pas à être fondée sur un lien de cause à effet
+précis. L’essentiel, d’un point de vue logique, c’est-à-dire du point de vue des valeurs de vérité,
+est que l’antécédent n’est pas vrai sans que le conséquent le soit aussi – quelles que soient les
+raisons pour lesquelles il en est ainsi, c’est-à-dire y compris si aucune raison précise n’explique
+--
+Autrement dit : la seule façon pour une implication d’être fausse est que l’antécédent soit
+vrai et que pourtant le conséquent soit faux. Il s’agit là du sens que l’on attribue par convention
+à l’implication en logique, et ceci constitue un point de divergence important entre le langage
+ordinaire et la logique propositionnelle. Car ordinairement lorsqu’on emploie l’expression « si
+. . . alors », c’est pour exprimer un véritable rapport de cause à effet, ce qui n’est pas le cas de
+l’énoncé (7). Pour mieux souligner le sens très particulier qu’a l’implication en logique, on parle
+aussi d’implication matérielle plutôt que d’implication tout court. Le symbole de l’implication
+(matérielle) est « → », qui se lit : « implique ». Si l’on rejoint le niveau des propositions, le
+--
+On commence maintenant à entrevoir les possibilités de construire des propositions de plus
+en plus complexes à partir des propositions simples telles que p ou q. C’est ce qu’on peut
+appeler le principe de générativité de la logique propositionnelle : il est indéfiniment possible de
+construire des propositions toujours plus complexes à partir de propositions moins complexes.
+
+--
+représente un énoncé qu’on ne spécifie pas (donc une proposition n’est vraie qu’une fois qu’a
+été décidé qu’elle représentait un énoncé considéré comme vrai).
+La logique propositionnelle est la logique des valeurs de vérité. Elle concerne tout ce qui
+peut être dit de la dualité du vrai et du faux, et à ce titre elle intéresse le philosophe. Mais
+la logique propositionnelle est en même temps celle des schémas déductifs. Par exemple, p ∧
+(p → q) → q est le schéma du raisonnement dit par modus ponens, qui est si fréquent en
+mathématiques : j’ai démontré p, or par ailleurs je peux démontrer q en faisant l’hypothèse que
+p est vraie (autrement dit je peux démontrer que p implique q), donc q est démontrée. Ces deux
+aspects se réunissent dans un même domaine d’étude : la logique propositionnelle s’intéresse à
+la façon dont la valeur de vérité d’une proposition complexe (construite à l’aide des connecteurs
+logiques) dépend des valeurs de vérité respectives des propositions simples qu’elle contient.
+
+3
+
+Syntaxe de la logique propositionnelle
+Nous savons désormais construire toutes les propositions. Nous partons de propositions
+
+--
+etc.), et nous construisons à partir de là, au moyen des connecteurs propositionnels – à savoir
+¬, ∧, ∨ et → – des propositions complexes. Nous allons préciser de façon plus formelle le
+mode d’engendrement des propositions. La partie de la logique qui s’intéresse à la formation
+des propositions considérées comme des expressions symboliques s’appelle la syntaxe.
+12
+--
+au fur et à mesure de ce cours. Ce ne sera pas un accident : la théorie des ensembles est
+la théorie fondamentale à l’aide de laquelle les mathématiques sont formulées. Si la théorie
+des ensembles intervient dans la logique propositionnelle, c’est tout simplement parce que la
+logique propositionnelle est une mathématisation de la logique du vrai et du faux, et à ce titre
+elle a recours, comme n’importe quelle théorie mathématique, au langage de la théorie des
+ensembles.
+--
+quatre connecteurs ¬, ∧, ∨ et →. À cela il convient d’ajouter, comme on l’a remarqué, deux parenthèses : « ( » (parenthèse ouvrante) et « ) » (parenthèse fermante) pour ponctuer précisément
+les propositions complexes. L’ensemble de tous ces symboles primitifs (lettres, parenthèses et
+connecteurs) forment ce qu’on appelle l’alphabet de la logique propositionnelle : ce sont les
+symboles dont toutes les propositions vont être formées. On appelle expression (du langage de
+la logique propositionnelle) toute suite de symboles de l’alphabet. Par exemple, ¬ ∨ pr → est
+une expression. Les propositions forment seulement un sous-ensemble de l’ensemble de toutes
+les expressions : elles corresondent aux expressions formées selon certaines règles précises.
+--
+entre énoncés. À tout cela s’ajoutent les parenthèses, cf. remarque suivante. Les différentes
+lettres, les connecteurs, les parenthèses : c’est là ce qui est indispensable pour formuler des
+schémas d’énoncés avec précision. L’alphabet de la logique propositionnelle contient tout cela,
+sans rien ajouter d’autre : cela peut donner l’impression de donner naissance à un langage très
+aride, mais c’est uniquement parce que l’on décide de s’en tenir à l’essentiel.
+--
+lit : « téta »), etc.
+Ces symboles ne sont pas des propositions. Ils n’appartiennent même pas au langage de
+la logique propositionnelle, car ce ne sont pas des expressions formées à l’aide de l’alphabet.
+Ce sont des symboles qui nomment n’importe quelle proposition, c’est pourquoi on les appelle
+des variables. Ils font référence aux propositions, mais ne sont justement pas des propositions.
+Pour cette raison, le langage de la logique propositionnelle (c’est-à-dire l’ensemble de toutes
+les propositions que l’on peut écrire) s’appelle le langage objet, c’est-à-dire le langage qu’on
+étudie, tandis que les variables φ, ψ font partie du métalangage, car ce sont des instruments
+--
+F = G.
+Remarque 3.8 (Remarque importante sur le déroulement du cours). À partir de maintenant,
+nous allons développer la logique propositionnelle proprement dite, c’est-à-dire démontrer un
+20
+
+certain nombre de résultats à propos de l’univers des propositions. La logique ne consiste plus
+à introduire les propositions pour formaliser les énoncés : désormais, la logique consistera à
+faire la théorie mathématique des propositions. Autrement dit, on va démontrer logiquement,
+au moyen de la logique naturelle propre aux mathématiques, un certain nombre de théorèmes
+concernant les propositions.
+Remarque 3.9 (Rappel à propos du raisonnement par récurrence). Quand on veut démontrer
+--
+Théorème 3.10. F = G.
+Démonstration. Pour cela il suffit de vérifier que F ⊆ G et que G ⊆ F. Par construction F
+contient P et est clos pour les connecteurs logiques (si x et y appartiennent à F, alors x est dans
+un certain Fn1 et y dans un certain Fn2 , donc x et y sont dans Fn0 , pour n0 = max (n1 , n2 ), et
+donc x ∧ y est dans Fn0 +1 , donc dans F). Or G est par définition le plus petit des ensembles
+d’expressions contenant P et clos pour les connecteurs logiques, donc G est inclus dans F.
+Réciproquement, montrons que chaque Fn est inclus dans G. On le montre par récurrence
+sur n. F0 = P est contenu dans G par définition de G. Supposons à présent que Fn soit inclus
+--
+4
+
+Sémantique de la logique propositionnelle
+La syntaxe de la logique propositionnelle concernait la morphologie du langage de cette lo-
+
+gique : elle concernait les propositions comme entités purement symboliques, littérales, qu’il est
+--
+Il est courant de noter 1 plutôt que V et 0 plutôt que F . L’intérêt est de pouvoir résumer la
+table de vérité de ∨ en écrivant par exemple : δ(¬p) = 1 − δ(p) et δ((p ∨ q)) = max(δ(p), δ(q)).
+Autrement dit, l’intérêt est de rendre explicite et d’exploiter le calcul des VV (logique propositionnelle comme « calcul propositionnel »).
+Exercice 14. Essayer de réécrire la table de vérité des connecteurs avec des 0 et des 1 plutôt
+que des V et des F . Essayer de trouver la règle de calcul pour δ((p → q)).
+--
+4.2
+
+Tautologies et propositions logiquement équivalentes
+
+Définition 4.6. On appelle tautologie une proposition que toute ddvv satisfait φ (c’est-à-dire
+--
+de φ ne comporte que des « V ». Ce qu’on note : « |= φ ».
+On appelle antilogie toute proposition φ telle que la proposition ¬φ soit une tautologie.
+On dit que deux propositions φ et ψ sont logiquement équivalentes si la proposition ((φ →
+ψ) ∧ (ψ → φ)) (proposition qu’on note également « (φ ↔ ψ) » : le connecteur ↔ » s’appelle
+le biconditionnel et se lit « si et seulement si ») est une tautologie. Ce qu’on note : « φ ≡ ψ ».
+--
+6
+
+Extensions de la logique propositionnelle
+
+6.1
+
+Logique propositionnelle intuitionniste
+
+6.2
+
+Logique modale propositionnelle
+
+6.3
+
+Logique du premier ordre
+
+Références
+[Bell et Machover(1997)] B ELL , J. et M ACHOVER , M. (1997), A Course in Mathematical Logic, Amsterdam : North-Holland.
+[Blanché et Dubucs(1996)] B LANCHÉ , R. et D UBUCS , J. (1996), La logique et son histoire,
+Paris : Armand Colin.
+[Cori et Lascar(1993)] C ORI , R. et L ASCAR , D. (1993), Logique mathématique, Paris : Masson. Vol. 1.
+[van Dalen(2004)] VAN DALEN , D. (2004), Logic and Structure, Berlin : Springer, 4e éd.
+[Frege(1971)] F REGE , G. (1971), Écrits logiques et philosophiques, Paris : Seuil. Traduction
+et introduction de Claude Imbert.
+[Mendelson(1997)] M ENDELSON , E. (1997), Introduction to Mathematical Logic, London :
+Chapman & Hall, 4e éd.
+[Rivenc(1989)] R IVENC , F. (1989), Introduction à la logique, Paris : Payot.
+[Ruyer(1990)] RUYER , B. (1990), Logique, Paris : PUF.
+[Tarski(1941)] TARSKI , A. (1941), Introduction to Logic and to the Methodology of Deductive
+Sciences, Oxford : Oxford University Press.

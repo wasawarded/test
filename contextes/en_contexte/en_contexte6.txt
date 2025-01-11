@@ -1,0 +1,118 @@
+    2. RIF Use Cases and Requirements (Second Edition)
+    3. RIF Core Dialect (Second Edition)
+    4. RIF Basic Logic Dialect (Second Edition)
+    5. RIF Production Rule Dialect (Second Edition)
+    6. RIF Framework for Logic Dialects (Second Edition)
+    7. RIF Datatypes and Built-Ins 1.0 (Second Edition)
+    8. RIF RDF and OWL Compatibility (Second Edition)
+--
+     * 1 Introduction
+     * 2 RIF Dialects
+     * 3 RIF Framework for Logic Dialects
+     * 4 RDF and OWL Compatibility
+     * 5 A General Survey of the RIF Documents
+--
+   rule exchange alone was recognized as a daunting task. Known rule
+   systems fall into three broad categories: first-order,
+   logic-programming, and action rules. These paradigms share little in
+   the way of syntax and semantics. Moreover, there are large differences
+   between systems even within the same paradigm.
+--
+2 RIF Dialects
+
+   The RIF Working Group has focused on two kinds of dialects: logic-based
+   dialects and dialects for rules with actions. Generally, logic-based
+   dialects include languages that employ some kind of logic, such as
+   first-order logic (often restricted to Horn logic) or non-first-order
+   logics underlying the various logic programming languages (e.g., logic
+   programming under the well-founded or stable semantics). The
+   rules-with-actions dialects include production rule systems, such as
+--
+   event-condition-action) rules, such as Reaction RuleML and XChange. Due
+   to the limited resources of the RIF Working Group, it defined only two
+   logic dialects, the Basic Logic Dialect (RIF-BLD) and a subset, the RIF
+   Core Dialect, shared with RIF-PRD; the Production Rule Dialect
+   (RIF-PRD) is the only rules-with-actions dialect defined by the group.
+--
+   RIF-Core, and RIF-PRD all share the foundations of RIF-DTB 1.0.
+
+3 RIF Framework for Logic Dialects
+
+   The RIF Working Group spent almost four years on developing the above
+--
+   community-developed dialects once the RIF Working Group disbands? The
+   Working Group partially addressed these questions by also developing an
+   extensibility framework, called the Framework for Logic Dialects, or
+   RIF-FLD. A comparable framework for rules with actions might be
+   developed later.
+--
+   Developing RIF-FLD as a framework turned out to be feasible because
+   despite the diversity of logical theories underlying the different
+   logic rule systems, they share much of the same syntactic and semantic
+   machinery. Moreover, the ways to combine the different pieces of that
+   machinery in order to create those logic systems are well studied.
+   However, the RIF-FLD specification is unique in that it digests much of
+   this knowledge, presents it in a coherent form, and uses XML even on
+   the framework level.
+
+   RIF-FLD is a very general logic language that includes a great deal of
+   commonly used syntactic and semantic apparatus; however, it purposely
+   leaves certain parameters unspecified to enable designers of concrete
+--
+   RIF-BLD is also intended to serve as an example of dialect design by
+   specialization from the RIF framework -- the preferred mode of
+   specification for various future logic dialects.
+
+   The RIF framework is not a monument that is cut in stone and is likely
+--
+       RIF, developing simple rule examples over movie data.
+
+     * RIF-BLD: The Basic Logic Dialect. This is one of the two major
+       dialects, and the main logic-based dialect, developed by the group.
+       Technically, this dialect corresponds to Horn logic with various
+       syntactic and semantic extensions. The main syntactic extensions
+       include the frame syntax and predicates with named arguments. The
+--
+       Production rules, as they are currently practiced in main-stream
+       systems like Jess or JRules, are defined using ad hoc computational
+       mechanisms, which are not based on a logic. For this reason,
+       RIF-PRD is not part of the suite of logical RIF dialects and stands
+       apart from them. However, significant effort has been extended to
+--
+     * RIF-Core: The Core Dialect. This dialect is a subset of both
+       RIF-BLD and RIF-PRD based on RIF-DTB 1.0, thus enabling limited
+       rule exchange between logic rule dialects and production rules.
+       RIF-Core corresponds to Horn logic without function symbols (often
+       called 'Datalog') with a number of extensions to support features
+       such as objects and frames as in F-logic, internationalized
+       resource identifiers for concepts, and XML Schema datatypes.
+
+     * RIF-FLD: The Framework for Logic Dialects. RIF-FLD is not a dialect
+       in its own right, but rather a general logical extensibility
+       framework. It was introduced in order to drastically lower the
+       amount of effort needed to define and verify new logic dialects
+       that extend the capabilities of RIF-BLD.
+
+--
+
+   [RIF-BLD]
+          RIF Basic Logic Dialect (Second Edition) Harold Boley, Michael
+          Kifer, eds. W3C Recommendation, 5 February 2013,
+          http://www.w3.org/TR/2013/REC-rif-bld-20130205/. Latest version
+--
+
+   [RIF-FLD]
+          RIF Framework for Logic Dialects (Second Edition) Harold Boley,
+          Michael Kifer, eds. W3C Recommendation, 5 February 2013,
+          http://www.w3.org/TR/2013/REC-rif-fld-20130205/. Latest version
+--
+
+   [GL88]
+          The Stable Model Semantics for Logic Programming, M. Gelfond and
+          V. Lifschitz. Logic Programming: Proceedings of the Fifth
+          Conference and Symposium, pages 1070-1080, 1988.
+
+   [GRS91]
+          The Well-Founded Semantics for General Logic Programs, A. Van
+          Gelder, K.A. Ross, J.S. Schlipf. Journal of ACM, 38:3, pages
+          620-650, 1991.

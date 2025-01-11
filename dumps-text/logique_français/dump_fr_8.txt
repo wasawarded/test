@@ -1,0 +1,222 @@
+La logique et l'épistémologie
+La connaissance des choses :
+définition, description, classification
+Marc Kirsch
+Philopsis : Revue numérique
+https://philopsis.fr
+
+Les articles publiés sur Philopsis sont protégés par le droit d’auteur. Toute
+reproduction intégrale ou partielle doit faire l’objet d’une demande d’autorisation
+auprès des éditeurs et des auteurs. Vous pouvez citer librement cet article en en
+mentionnant l’auteur et la provenance.
+
+Ceci est un extrait, retrouvez nos documents complets sur philopsis.fr
+
+Commençons par les mots. Rien ne va de soi dans l’énoncé proposé. La connaissance des
+choses ? Tout fait problème, la connaissance comme les choses. Que compterons nous parmi les
+choses ? Un objet mathématique, Dieu, la mort, une loi physique, un fait social ? Un événement
+historique ? Si l’on en croit Paul Veyne, « les événements ne sont pas des choses, des objets
+consistants, des substances ; ils sont un découpage que nous opérons librement dans la réalité
+[…] Les événements n'ont pas d'unité naturelle ; on ne peut, comme le bon cuisinier du Phèdre,
+les découper selon leurs articulations véritables, car ils n'en ont pas.1 »
+« Les choses » composent un univers indéfini, un chaos de diversité et de différences.
+L’un des grands défis de la connaissance, c’est d’affronter le divers, de le mettre en ordre, de
+rendre possible son appréhension et sa compréhension. Si, comme le veut Aristote, il n’y a
+d’existence que du singulier, et de science que du général, il s’agit donc de passer de la
+collection des singularités à leur classification ordonnée dans le savoir. Ce qui suppose de
+passer de la réalité à la représentation, des choses aux mots. C’est tout le problème de la
+connaissance. Et c’est un vieux débat, en philosophie, de savoir si nous connaissons
+effectivement des choses, qui ont leur être en dehors de nous, et une unité naturelle autonome,
+1
+
+P.Veyne, Comment on écrit l'histoire, Seuil, 1971, p.57
+
+Marc Kirsch- © Philopsis – Tous droits réservés
+1
+
+ou si la connaissance n’atteint que des représentations qu’elle a elle-même produites, ou encore
+selon quelles modalités la connaissance et les choses qu’elles prend pour objet se façonnent
+mutuellement.
+Et qu’est-ce que « la » connaissance ? Qui détient « la » connaissance sur l’or, par
+exemple : le joaillier, qui en exploite les qualités esthétiques et plastiques ? Le géologue
+minéralogiste, qui sait identifier les minéraux et rechercher des gisements aurifères ?
+L’électronicien qui utilise ses propriétés physico-chimiques ? Le physicien ou le chimiste, qui le
+définissent par sa structure comme l’élément de numéro atomique 79 ? L’économiste, qui y voit
+un type de placement et une cote en bourse ? Ou bien encore le poète, pour qui l’or est précieux
+à d’autres titres ? Autant de manières de se rapporter à une chose, d’en avoir une certaine
+connaissance – qui peuvent très bien s’ignorer mutuellement. Autant de manières différentes de
+définir, de décrire, et de classer. Dira-t-on que la vraie connaissance est la réunion de tous ces
+éléments ? Mais qui en est le sujet ? Et que dire alors de la dimension temporelle de la
+connaissance : Archimède connaissait un certain nombre des propriétés de l’or que nous
+connaissons aujourd'hui. Il était loin de les connaître toutes : dirons-nous qu’il ignorait ce qu’est
+l’or2 ? Et si l’on évoque Paracelse, qui attribuait à l’or des propriétés qui n’ont plus pour nous
+aucun sens, on en vient à des univers de pensée devenus incommensurables, au sens de Thomas
+Kuhn, parlant de la succession des paradigmes dans l’histoire de la pensée scientifique. Une
+interprétation nominaliste de cette idée, selon Ian Hacking3, est qu’après une révolution
+scientifique, le monde des choses singulières ne change pas, mais le monde dans lequel travaille
+l’homme de science est entièrement différent, parce que ce n’est pas un monde d’individus,
+mais un monde d’espèces, définies par nos classifications. Ce monde-là change.
+Même au sein du domaine scientifique, il y a donc des approches différentes : la
+connaissance des choses n’est pas uniforme. L’idée est très présente chez Auguste Comte.
+Claude Bernard en fait aussi le constat : « Le chimiste, qui est un expérimental, classe tout
+autrement les mêmes corps que le minéralogiste, qui est un naturaliste4 ». Claude Bernard était
+surtout sensible à la question de la spécificité des approches concernant les phénomènes du
+vivant. Que le vivant soit composé des mêmes éléments que le reste de l’univers non vivant,
+c’est un fait. Qu’on veuille le connaître de la même manière que le non vivant peut mener au
+« fanatisme de l'exactitude physico-chimique », inapproprié en physiologie et en médecine. Il y
+a dans la connaissance des effets de perspective, qui la rendent plurielle, changeante selon les
+usages, les points de vue, les époques. L’unité de la connaissance ne va pas de soi.
+Pour éclairer cet univers conceptuel complexe, on nous propose, en manière d’illustration, voire
+de définition de la connaissance des choses, la juxtaposition de trois termes : définition,
+description et classification. Ces concepts donnent une coloration plutôt empirique et
+descriptive à la connaissance, renvoyant à des processus d’identification et de recensement, à
+des sciences de type taxinomique. À première vue, c’est une conception assez irénique de la
+connaissance, comme si le monde était une collection de choses offertes au savoir, qu’il suffirait
+de définir, décrire, classer. Notre propos sera d’examiner si cette impression est justifiée, si nous
+sommes bien en présence d’opérations intellectuelles sur des choses pré-données. Nous
+chercherons à montrer en quoi ces trois opérations sont liées. Nous garderons comme horizon de
+la réflexion une interrogation plus générale sur la nature de la connaissance, et sur cette manière
+de la concevoir en termes de représentation des choses.
+
+2
+
+Pour des analyses détaillées sur ces questions, on se reportera notamment aux œuvres de Goodman,
+Quine, Putnam et Searle.
+3 I. Hacking, « L’importance de la classification chez le dernier Kuhn », Archives de philosophie, 66-3, automne
+2003.
+4 Principes de médecine expérimentale, 1878, p.15.
+
+Marc Kirsch- © Philopsis – Tous droits réservés
+2
+
+« Définition » fait partie de ces mots débordants de sens et chargés de querelles
+anciennes. Qu’est-ce qui se trouve défini, dans la définition ? Selon Aristote5, c’est la « quiddité »
+de la chose, son essence. Il s’agit de repérer des identités et des différences : définir, c’est
+identifier le genre auquel appartient l’espèce considérée, et reconnaître sa différence spécifique,
+ce qui lui appartient en propre. C’est une manière de classer les choses selon un jeu de
+comparaisons. La définition n’est pas la description d’une chose isolée : elle met les choses en
+relation, les range les unes par rapport aux autres. Elle entend diviser le réel selon ses
+articulations essentielles. Elle suppose une description et un processus de classification par
+division.
+À partir d’Aristote, on distingue les définitions nominales et les définitions réelles. Une
+définition réelle est supposée dire ce qu’est une chose ; lorsqu’on définit un mot ou un symbole,
+on donne leur signification au moyen d’une combinaison de symboles dont le sens est déjà
+connu. C’est ce que fait un dictionnaire. D’un côté, on vise une « essence », de l’autre, on
+délimite un espace de sens à l’intérieur d’un réseau sémantique. À partir de là, les problèmes
+sont inépuisables. Spinoza peut rappeler que le concept de chien n’aboie pas, Magritte peindre
+sa Trahison d’une image, où sous la représentation d’une pipe figure une légende indiquant
+« ceci n’est pas une pipe » – bien que l’image y ressemble, et que le mot la désigne. Image,
+nom, définition : nous sommes dans la représentation. Et il y a un fossé entre ces trois types
+d’instances : (1) le mot, le concept ou l’image ; (2) l’« essence » ou le sens visé ; et (3) la
+réalité. La définition peut-elle atteindre l’essence des choses, comme le voudrait un Socrate
+interrogeant des interlocuteurs qui s’acharnent à donner des exemples en lieu et place de la
+définition demandée – du beau, du courage ou du bien ? Une chose est claire : accéder à la
+représentation n’est pas accéder à l’objet.
+Ajoutons qu’il y a beaucoup de variations sur le concept de définition, selon le domaine
+où on l’applique. Dans une approche kantienne des mathématiques, la définition épuise le
+concept et rend la description inutile. Personne n’aurait l’idée de décrire un triangle : il est
+contenu tout entier dans sa définition et les propriétés qu’elle entraîne. Certaines définitions
+permettent de construire leur objet : le cercle est la figure obtenue en faisant tourner un segment
+de droite autour de l’une de ses extrémités. Mais ce n’est possible que pour des choses très
+particulières comme les objets mathématiques. Kant6 soutient qu’il n’y a que les mathématiques
+qui aient des définitions, à proprement parler, dans la mesure où l’on n’y trouve « aucun
+concept qui précède la définition, puisque c’est par elle que le concept est donné tout d’abord ».
+Les définitions mathématiques constituent absolument leurs concepts, les définitions empiriques
+ne font que les expliquer : elles sont des analyses de concepts donnés antérieurement à la
+définition, et par conséquent il est impossible d’être jamais certain de l’exhaustivité de
+l’analyse. Les définitions ne livrent qu’une description imparfaite du contenu des concepts : une
+connaissance des choses incomplète par principe. À l’opposé, Lakatos7 montre qu’en
+mathématiques, « les définitions sont fréquemment proposées et débattues » lorsque l’on
+cherche à démontrer ou à trouver des contre-exemples à des théorèmes : les concepts
+mathématiques ont eux aussi une histoire, leurs définitions se transforment au cours de l’histoire
+des mathématiques.
+Dans la vie courante, les choses, objets physiques ou êtres vivants, ne sont pas constitués
+par leur définition. On les définit par compréhension, énumérant leurs caractères de manière à
+marquer la spécificité de l’objet défini en le distinguant des autres. Dans certains cas, on les
+définit par extension, en énumérant l’ensemble des objets appartenant à la classe délimitée,
+comme lorsqu’on en dresse la liste des jours de la semaine. C’est une procédure d’énumération,
+à la limite de l’ostension : le degré zéro de la définition – à l’aune de ce qu’était la visée de
+l’essence, pour Socrate. On peut lui opposer, à l’autre extrême, l’ambition démesurée d’une
+5
+6
+7
+
+Topiques, I, 4, 102a, Vrin, 1997.
+Critique de la Raison pure, II, ch. I, S 1, PUF, 1980, p. 501-3.
+Preuves et refutations, Hermann, 1984.
+
+Marc Kirsch- © Philopsis – Tous droits réservés
+3
+
+définition qui entendait poser l’existence de son objet, dans le cas de ce qu’on appelle la preuve
+ontologique de l’existence de Dieu. Elle repose sur une définition, que l’on peut résumer ainsi :
+Dieu est ce dont l’essence enveloppe l’existence. De même qu’on ne peut concevoir un triangle
+qui n’aurait pas trois angles, on ne peut concevoir Dieu dépourvu d’existence. La contrainte
+conceptuelle se trouve projetée dans la réalité. Chez Descartes, en vertu de l’idée que j’en ai,
+Dieu est sommé d’exister. En effet, je ne puis le penser qu’existant, or je le pense : il faut donc
+qu’il soit. Comme dans un écho à deux voix du cogito, je te pense, donc tu es. Kant dissipe
+l’illusion. En définissant Dieu comme un être parfait, on ne fait que créer un concept : or, en
+aucun cas un concept ne peut produire une existence. « Poser un triangle en en supprimant les
+trois angles est contradictoire ; mais faire disparaître à la fois le triangle et les trois angles, il n’y
+a plus là de contradiction. Il en est exactement de même du concept d’un être absolument
+nécessaire. Si vous lui ôtez l’existence, vous supprimez la chose avec tous ses prédicats 8 ».
+Toute proposition d’existence est synthétique : « quelles que soient donc la nature et l’étendue
+de notre concept d’un objet, il nous faut cependant sortir de ce concept pour attribuer à l’objet
+son existence. » Dieu n’est pas une chose donnée dans le monde, mais un concept qui n’est
+appuyé sur aucune intuition. On ne peut pas, par le seul pouvoir de la définition, le faire accéder
+à l’existence. Un tel concept ne nous donne pas de connaissance : Kant conclut que « nul
+homme ne saurait, par de simples idées, devenir plus riche de connaissances, pas plus qu’un
+marchand ne deviendrait riche en argent si, pour augmenter sa fortune, il ajoutait quelques zéros
+à l’état de sa caisse. »
+Dans certains cas, sans être constructive, la définition a un pouvoir normatif et des effets
+réels sur le monde. Ainsi, dans le domaine médico-légal, définir comme critère de mort la mort
+cérébrale conditionne la possibilité de prélever des organes pour effectuer des transplantations.
+Dans ce cas, la définition s’appuie certes sur un savoir médical, mais elle constitue surtout un
+choix qui ne relève pas simplement de critères scientifiques, mais aussi de critères éthiques et
+juridiques, éminemment sociaux. Ici, la définition est pour ainsi dire performative, et elle a un
+effet sur les choses. Définir peut donc être un acte d’autorité, une manifestation de pouvoir. De
+fait, quand on revient à l’étymologie du mot, qui évoque l’idée de circonscrire et de délimiter,
+on ne peut s’empêcher de penser à Rousseau et à cette phrase célèbre par laquelle, selon lui,
+s’invente et se définit la propriété : « le premier qui, ayant enclos un terrain, s’avisa de dire :
+Ceci est à moi, et trouva des gens assez simples pour le croire, fut le vrai fondateur de la société
+civile9 ». Définir, circonscrire – un terrain ou un concept –, c’est une chose ; encore faut-il
+affirmer et imposer une définition à autrui. Définir est donc aussi un acte de communication, un
+acte social. Si connaître, selon Nietzsche, « c’est toujours entrer en relation avec quelque
+chose10 », définir, c’est aussi entrer en relation avec quelqu'un, que ce soit à des fins de savoir
+ou à des fins de pouvoir.
+Dans le cas de la description, le problème paraît plus simple. On est dans un rapport
+empirique et inductif à la chose décrite, avec le souci d’en donner une représentation fidèle et
+complète, d’en faire un tableau exact. Mais là encore, les moyens varient. Michel Foucault
+rapporte que Buffon s’étonne « qu’on puisse trouver chez un naturaliste comme Aldrovandi un
+mélange inextricable de descriptions exactes, de citations rapportées, de fables sans critique, de
+remarques portant indifféremment sur l’anatomie, les blasons, l’habitat, les valeurs
+mythologiques d’un animal, sur les usages qu’on peut en faire dans la médecine ou dans la
+magie11 ». « Tout cela n’est pas description, mais légende », conclut Buffon. Foucault objecte
+qu’Aldrovandi n’est ni crédule, ni mauvais observateur : « simplement, son regard n’était pas lié
+aux choses par le même système, ni la même disposition de l’épistémè ». Aldrovandi vit dans un
+monde où savoir consiste à « rapporter du langage à du langage », où le rapport au monde se fait
+8 Op. cit., I, 2, livre II, ch. 3, S 4, p. 425-31.
+9 Discours sur l’origine de l’inégalité, début de la 2e partie.
+10 La volonté de puissance, I, I, § 175.
+11 Les mots et les choses, Gallimard, 1966, p. 54.
+
+Marc Kirsch- © Philopsis – Tous droits réservés
+4
+
+par l’intermédiaire des mots, qui sont des marques apposées par Dieu sur les choses, des signes
+qu’il faut déchiffrer, et qui font partie de ce qui est à décrire. Ce qui paraît extravagant à Buffon
+est légitime pour Aldrovandi. Le problème est bien de savoir ce qu’il est pertinent de décrire.
+Du point de vue de la connaissance, c’est même le cœur du problème de décider quels sont les
+aspects significatifs et lesquels sont secondaires. Et comme nous l’avons vu dans le cas de l’or,
+la pertinence de la description varie selon les perspectives et les intérêts. À cette remarque
+triviale, nous devons ajouter l’idée de Foucault : la pertinence change avec les systèmes de
+pensée.
+Jusqu'ici, nous avons souligné certaines difficultés propres aux concepts. Il reste à faire
+un sort au concept de classification. En réalité, nous allons plutôt en faire un point de départ
+pour tenter de démêler l’écheveau de questions et de problèmes que soulèvent les termes
+proposés à l’analyse, et pour les articuler plus clairement.
+
+Ceci est un extrait, retrouvez nos documents complets sur philopsis.fr
+
+Marc Kirsch- © Philopsis – Tous droits réservés
+5

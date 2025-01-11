@@ -1,0 +1,11 @@
+   policies or regulations. To address this issue we propose the
+   integration of databases, in particular relational databases, with a
+   logic reasoner and rule engine. We argue that defeasible logic is an
+   appropriate formalism to model rules, in particular when the rules are
+   meant to model regulations. The resulting RuleOMS provides an efficient
+--
+   contribution)
+   Measurements or Duration: 5 pages
+   Keywords: Child Care, Compliance, Defeasible Logic, Online Management
+   System, Reasoning, Regulations, Rule-based
+   DOI: 10.1145/2746090.2746120

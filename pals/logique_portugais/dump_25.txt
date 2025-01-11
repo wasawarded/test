@@ -1,0 +1,397 @@
+   #[1]alternate
+
+   (BUTTON) ☰
+     * [2]Home
+     * [3]Últimas
+     * [4]Agora
+     * [5]Ver
+     * [6]Ouvir
+     * [7]Descobrir
+     * [8]Newsletters
+
+   Atualidade
+     * [9]Subscrever Newsletter
+     * [10]Jornais 10 - 15 - 20
+     * [11]Olhares pelo Mundo
+     * [12]Meteorologia
+     * [13]Guerra Rússia-Ucrânia
+     * [14]Guerra no Médio Oriente
+     * [15]Consulta Aberta
+     * [16]Quiz SIC Notícias
+     * [17]Pets&Vets com André Santos
+     * [18]O Lado B da Bola
+     * [19]Além Fronteiras
+     * [20]Ontem Já Era Tarde
+
+     * [21]País
+     * [22]Ambiente
+     * [23]Educação
+     * [24]Justiça
+     * [25]Política
+     * [26]Mundo
+     * [27]Angola
+     * [28]Brasil
+     * [29]EUA
+     * [30]Europa
+     * [31]Moçambique
+     * [32]Médio Oriente
+     * [33]Desporto
+     * [34]Futebol Internacional
+     * [35]Futebol Nacional
+     * [36]Modalidades
+     * [37]Economia
+     * [38]Banca
+     * [39]Emprego
+     * [40]Habitação
+     * [41]Impostos
+     * [42]Pensões
+     * [43]Saúde e Bem-Estar
+     * [44]Alimentação e Nutrição
+     * [45]Doenças
+     * [46]Medicamentos
+     * [47]Vida Saudável
+     * [48]Cultura
+     * [49]Cinema
+     * [50]Exposições
+     * [51]Livros
+     * [52]Moda
+     * [53]Música
+     * [54]Séries e TV
+     * [55]Teatro e Dança
+
+   Especiais
+     * [56]Perguntas e Respostas
+     * [57]SIC Notícias ao Minuto
+     * [58]Curiosidades da Ciência
+     * [59]Esquecidos
+     * [60]Alterações Climáticas
+     * [61]Saúde Mental
+     * [62]Olhar pela Saúde
+     * [63]Cristiano Ronaldo
+     * [64]Primeira Liga
+     * [65]Fórmula 1
+     * [66]Mundo dos Animais
+     * [67]Insólitos
+
+     * [68]O que é a SIC Notícias
+     * [69]Termos e Condições
+     * [70]Política de Privacidade
+     * [71]Política de Cookies
+     * [72]Contactos
+     * [73]Contactos - Venda de Conteúdos
+     * [74]Publicidade
+     * [75]Ficha Técnica
+     * [76]Sinalização de Emissão
+     * [77]Estatuto Editorial SIC Notícias
+     * [78]Lei da Transparência
+     * [79]Sobre o Nónio
+
+   © SIC NOTÍCIAS 2025
+   [80]SIC Notícias
+   (BUTTON) Pesquisa
+   ____________________ (BUTTON) Pesquisar
+
+   [81]País
+
+O canibalismo no SNS
+
+   Opinião de Tiago Correia, comentador SIC e professor de Saúde
+   Internacional.
+     *
+     *
+     *
+     *
+     *
+     *
+
+   Canva
+
+   Tiago Correia
+
+   [82]Fernando Araújo está a dar os primeiros sinais de vida como CEO do
+   Serviço Nacional de Saúde (SNS). O que diz merece ser ouvido com
+   atenção. Desde logo, porque a estrutura que dirige, a Direção
+   Executiva, compete [83]coordenar a resposta das unidades de saúde,
+   assegurando o funcionamento do SNS em rede. Pela importância do SNS em
+   Portugal e dados os problemas tão bem conhecidos que enfrenta, o
+   responsável máximo desta estrutura tem entre mãos a missão de desatar
+   os nós que vários governos não têm conseguido. Não será por obra do
+   acaso que desde que o Ministério da Saúde existe enquanto tal, apenas 2
+   ministros completaram o termo da legislatura: Maria de Belém e Paulo
+   Macedo.
+
+   Ao CEO do SNS não pode ser pedido o impossível, e a questão não é
+   apenas o SNS ser uma máquina pesada ou o setor privado ter-se tornado
+   mais atrativo para profissionais e utentes. A maior dificuldade de
+   todas é a crónica [84]indefinição política sobre qual é o sistema de
+   saúde desejável para o país na relação entre o setor público, privado e
+   social.
+
+   Fernando Araújo começa a esboçar os contornos do seu entendimento
+   sistémico do SNS. Longe de se lhe passar um cheque em branco, porque
+   este CEO merece o escrutínio que a importância do lugar exige, alguns
+   dos comentários que tem proferido denotam entender a complexidade dos
+   problemas que tem por resolver.
+
+   Um dos problemas que referiu foi ao que apelidou de [85]canibalismo no
+   SNS, entenda-se o facto de instituições públicas roubarem umas às
+   outras profissionais de saúde.
+
+   “Estão abertas as condições para uma diferenciação interna crescente no
+   SNS. Essa diferenciação vai ser encontrada, não só entre os vários
+   hospitais, como entre os serviços médicos de um mesmo hospital.
+   Captação de recursos humanos, organização dos cuidados médicos, regras
+   e procedimentos variados podem estar circunscritos a esses espaços,
+   levando a um setor público internamente desigual”.
+
+   Esta frase não foi proferida por Fernando Araújo. Foi escrita por mim
+   em 2012 quando analisei a crescente autonomia dos hospitais públicos.
+   Era claro na altura aquilo que Fernando Araújo agora sente como um
+   entrave à gestão em rede do SNS.
+
+   As reformas introduzidas permitiram encarar a contratação de certos
+   profissionais – tendencialmente médicos – como se de jogadores de
+   futebol ou estrelas de rock se tratassem. O SNS concorre com os
+   privados e consigo próprio.
+
+   É mau por dois motivos: criam-se lógicas de diferenciação entre os
+   profissionais que não são transparentes nem justas e desvirtua-se
+   aquele que foi o pilar da construção do SNS, ou seja, a transmissão
+   geracional do conhecimento entre profissionais.
+
+   Foram as carreiras – médica, de enfermagem, das tecnologias da saúde,
+   dos auxiliares e de muitos outros grupos profissionais – que fizeram do
+   SNS aquilo que se tornou. Também por isso, parte dos problemas que o
+   SNS enfrenta decorre das revisões às carreiras nos últimos 15 anos.
+
+   O que se impõe para acabar com este canibalismo passa pela
+   uniformização da remuneração no SNS, não obstante a possibilidade de
+   incentivos e de prémios à produtividade, mas num quadro de igualdade de
+   oportunidades e de equidade perante a necessidade de profissionais em
+   especialidades, unidades e regiões carenciadas.
+
+   No fundo, aquilo que Fernando Araújo disse aponta para questões mais
+   estruturais relacionadas com a política de descentralização. E neste
+   tema há algo simples de entender, mas que nem sempre tem sido
+   implementado: não estando em causa a necessidade de agilizar processos,
+   a [86]descentralização pode conter o risco de fragmentação. É isso que
+   as carreiras profissionais na saúde e os mecanismos de contratação
+   pelos prestadores do SNS têm mostrado. A solução passa por perceber que
+   há matérias devem ser descentralizadas e outras que devem manter-se
+   centralizadas.
+
+     *
+     *
+     *
+     *
+     *
+     *
+
+   Relacionados
+     *
+   [87]Economia
+
+[88]Um bom orçamento para a saúde?
+
+   Últimas
+     *
+
+[89]Madeira: Presidente Marcelo convoca Conselho de Estado
+       [90]Reunião convocada para o dia 17 de janeiro, depois de terem
+       sido ouvidos os partidos com assento na Assembleia Legislativa da
+       Madeira a propósito da crise política na região.
+
+     *
+
+[91]Quem irá substituir Justin Trudeau na chefia do Governo canadiano?
+       [92]Depois da demissão de Justin Trudeau, o Partido Liberal tem de
+       encontrar um novo líder, ao mesmo tempo que lida com ameaças do
+       Presidente eleito dos Estados Unidos, Donald Trump e com as
+       eleições no Canadá a poucos meses de distância.
+
+     *
+
+[93]Ex-administrador do Novo Banco constituído arguido, é suspeito de vários
+crimes
+       [94]Em causa poderão estar “factos suscetíveis de constituírem a
+       prática de crimes de fraude fiscal qualificada, branqueamento de
+       capitais e falsificação”, refere a PGR.
+
+     *
+
+[95]Ministro vai convocar comissão de vencimentos para avaliar salários na
+administração do Banco de Portugal
+       [96]O salário de Hélder Rosalino, o primeiro nome proposto para o
+       cargo de secretário-geral do Governo, não caiu no esquecimento. Os
+       cerca de 16 mil euros que o Banco de Portugal paga ao antigo
+       governante vão agora ser discutidos com o ministro das Finanças.
+
+     *
+
+[97]Dinamarca deixa aviso a Trump: Gronelândia "não está à venda"
+       [98]A primeira-ministra da Dinamarca reforça que "a Gronelândia
+       pertence aos gronelandeses", no dia em que o filho de Donald Trump
+       está de visita à ilha do Ártico, um território autónomo da
+       Dinamarca cobiçado pelo Presidente eleito dos Estados Unidos.
+
+     *
+
+[99]Detido suspeito de atear fogo em centro de refugiados em Eindhoven
+       [100]Segundo a polícia neerlandesa, duas pessoas, incluindo o
+       suspeito, foram hospitalizadas por inalação de fumo. As autoridades
+       da região informaram que todo o edifício teve de ser evacuado por
+       precaução.
+
+     *
+
+[101]É freira, vive no Brasil e adora futebol: conheça a 'nova' pessoa mais
+velha do mundo
+       [102]Inah Canabarro Lucas tem 116 anos, viveu duas guerras mundiais
+       e passou os primeiros anos de vida com um peso tão reduzido que
+       muitos não acreditavam que sobrevivesse além da infância.
+
+     *
+
+[103]As (duas) novidades que vão ser testadas na Final Four da Allianz CUP
+       [104]Uma das novidades já é prática em outras ligas, como a Premier
+       League, Serie A ou Bundesliga, mas só agora vai ser testada em
+       Portugal. Outra é mesmo… inédita.
+
+     *
+
+[105]Subiu para 126 número de mortos no sismo no Tibete
+       [106]Segundo balanço feito pela agência oficial chinesa dá conta de
+       um “um total de 126 mortos e 188 feridos”.
+
+     *
+
+[107]Casal alemão confessa homicídio de duas pessoas para roubar bebé
+       [108]O casal, que se ofereceu para ajudar no trabalho de tradução
+       para refugiados que chegavam à Alemanha, sedou as duas vítimas num
+       restaurante antes de o homem as assassinar em dois locais
+       diferentes.
+
+Références
+
+   Liens visibles :
+   1. https://rss.impresa.pt/feed/latest/sicnot.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT,NEWSLETTER&limit=20&pubsubhub=true
+   2. file:///
+   3. file:///ultimas
+   4. file:///agora
+   5. file:///ver
+   6. file:///ouvir
+   7. file:///descobrir
+   8. file:///newsletters
+   9. file:///newsletters
+  10. file:///programas/jornais-10---15---20
+  11. file:///olhares-pelo-mundo
+  12. file:///meteorologia
+  13. file:///especiais/guerra-russia-ucrania
+  14. file:///especiais/guerra-no-medio-oriente
+  15. file:///especiais/consulta-aberta
+  16. file:///especiais/quiz
+  17. file:///especiais/mundo-dos-animais/petsvets
+  18. file:///programas/o-lado-b-da-bola
+  19. file:///especiais/alem-fronteiras
+  20. file:///especiais/ontem-ja-era-tarde
+  21. file:///pais
+  22. file:///pais/ambiente
+  23. file:///pais/educacao
+  24. file:///pais/justica
+  25. file:///pais/politica
+  26. file:///mundo
+  27. file:///mundo/angola
+  28. file:///mundo/brasil
+  29. file:///mundo/eua
+  30. file:///mundo/europa
+  31. file:///mundo/mocambique
+  32. file:///mundo/medio-oriente
+  33. file:///desporto
+  34. file:///desporto/futebol-internacional
+  35. file:///desporto/futebol-nacional
+  36. file:///desporto/modalidades
+  37. file:///economia
+  38. file:///economia/banca
+  39. file:///economia/emprego
+  40. file:///economia/habitacao
+  41. file:///economia/impostos
+  42. file:///economia/pensoes
+  43. file:///saude-e-bem-estar
+  44. file:///saude-e-bem-estar/alimentacao
+  45. file:///saude-e-bem-estar/doencas
+  46. file:///saude-e-bem-estar/medicamentos
+  47. file:///saude-e-bem-estar/vida-saudavel
+  48. file:///cultura
+  49. file:///cultura/cinema
+  50. file:///cultura/exposicoes
+  51. file:///cultura/livros
+  52. file:///cultura/moda
+  53. file:///cultura/musica
+  54. file:///cultura/series-e-tv
+  55. file:///cultura/teatro-e-danca
+  56. file:///especiais/perguntas-e-respostas
+  57. file:///sic-noticias-ao-minuto
+  58. file:///especiais/factos-bizarros-explicados-pela-ciencia
+  59. file:///especiais/esquecidos
+  60. file:///especiais/alteracoes-climaticas
+  61. file:///especiais/saude-mental
+  62. file:///especiais/olhar-pela-saude
+  63. file:///especiais/cristiano-ronaldo
+  64. file:///especiais/primeira-liga
+  65. file:///especiais/formula-1
+  66. file:///especiais/mundo-dos-animais
+  67. file:///especiais/insolitos
+  68. file:///institucional/2013-12-27-O-que-e-a-SIC-Noticias-3dbcceea
+  69. file:///institucional/2013-12-27-Termos-e-Condicoes-5ff03c85
+  70. file:///institucional/2018-10-08-Politica-de-Privacidade-b8e25fd6
+  71. file:///institucional/2013-12-27-Politica-de-Cookies-860ec388
+  72. file:///institucional/2022-07-01-Contactos-87a2d8a4
+  73. file:///institucional/2013-12-27-Contactos---Venda-de-Conteudos-167574a0
+  74. file:///institucional/2013-12-27-publicidade-f215becd
+  75. file:///institucional/2013-12-27-ficha-tecnica-f43fe8c5
+  76. file:///institucional/2013-12-27-Sinalizacao-de-Emissao-0f419d01
+  77. file:///institucional/2013-12-27-estatuto-editorial-sic-noticias-e84e2755
+  78. https://www.impresa.pt/pt/lei-da-transparencia
+  79. https://nonio.net/a-mensagem-nonio/
+  80. file:///
+  81. file:///pais
+  82. https://sicnoticias.pt/pais/2022-09-23-Quem-e-Fernando-Araujo-o-novo-CEO-do-SNS--4e8bed8a
+  83. https://sicnoticias.pt/pais/2022-07-08-Guia-para-entender-o-novo-estatuto-do-SNS--parte-2--medidas-emblematicas-f0262bf8
+  84. https://sicnoticias.pt/especiais/governo/2022-03-28-A-saude-nos-proximos-quatro-anos-197068dc
+  85. https://sicnoticias.pt/pais/2022-11-11-Fernando-Araujo-critica-roubo-de-profissionais-entre-unidades-de-saude-fce6b8a7
+  86. https://sicnoticias.pt/pais/2022-03-21-Que-descentralizacao-para-Portugal--3269a9b2
+  87. file:///economia
+  88. file:///economia/2022-11-01-Um-bom-orcamento-para-a-saude--a7c8b12e?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/economia/2022-11-01-Um-bom-orcamento-para-a-saude--a7c8b12e
+  89. file:///pais/2025-01-07-madeira-presidente-marcelo-convoca-conselho-de-estado-3e711cbc?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/pais/2025-01-07-madeira-presidente-marcelo-convoca-conselho-de-estado-3e711cbc
+  90. file:///pais/2025-01-07-madeira-presidente-marcelo-convoca-conselho-de-estado-3e711cbc
+  91. file:///especiais/perguntas-e-respostas/2025-01-07-quem-ira-substituir-justin-trudeau-na-chefia-do-governo-canadiano--584eb0f9?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/especiais/perguntas-e-respostas/2025-01-07-quem-ira-substituir-justin-trudeau-na-chefia-do-governo-canadiano--584eb0f9
+  92. file:///especiais/perguntas-e-respostas/2025-01-07-quem-ira-substituir-justin-trudeau-na-chefia-do-governo-canadiano--584eb0f9
+  93. file:///pais/2025-01-07-ex-administrador-do-novo-banco-constituido-arguido-e-suspeito-de-varios-crimes-52ae66c9?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/pais/2025-01-07-ex-administrador-do-novo-banco-constituido-arguido-e-suspeito-de-varios-crimes-52ae66c9
+  94. file:///pais/2025-01-07-ex-administrador-do-novo-banco-constituido-arguido-e-suspeito-de-varios-crimes-52ae66c9
+  95. file:///pais/politica/2025-01-07-ministro-vai-convocar-comissao-de-vencimentos-para-avaliar-salarios-na-administracao-do-banco-de-portugal-0b983af4?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/pais/politica/2025-01-07-ministro-vai-convocar-comissao-de-vencimentos-para-avaliar-salarios-na-administracao-do-banco-de-portugal-0b983af4
+  96. file:///pais/politica/2025-01-07-ministro-vai-convocar-comissao-de-vencimentos-para-avaliar-salarios-na-administracao-do-banco-de-portugal-0b983af4
+  97. file:///mundo/2025-01-07-dinamarca-deixa-aviso-a-trump-gronelandia-nao-esta-a-venda-2316a7a5?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/mundo/2025-01-07-dinamarca-deixa-aviso-a-trump-gronelandia-nao-esta-a-venda-2316a7a5
+  98. file:///mundo/2025-01-07-dinamarca-deixa-aviso-a-trump-gronelandia-nao-esta-a-venda-2316a7a5
+  99. file:///mundo/2025-01-07-detido-suspeito-de-atear-fogo-em-centro-de-refugiados-em-eindhoven-ebf01e94?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/mundo/2025-01-07-detido-suspeito-de-atear-fogo-em-centro-de-refugiados-em-eindhoven-ebf01e94
+ 100. file:///mundo/2025-01-07-detido-suspeito-de-atear-fogo-em-centro-de-refugiados-em-eindhoven-ebf01e94
+ 101. file:///mundo/2025-01-07-e-freira-vive-no-brasil-e-adora-futebol-conheca-a-nova-pessoa-mais-velha-do-mundo-8aee1032?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/mundo/2025-01-07-e-freira-vive-no-brasil-e-adora-futebol-conheca-a-nova-pessoa-mais-velha-do-mundo-8aee1032
+ 102. file:///mundo/2025-01-07-e-freira-vive-no-brasil-e-adora-futebol-conheca-a-nova-pessoa-mais-velha-do-mundo-8aee1032
+ 103. file:///desporto/2025-01-07-as--duas--novidades-que-vao-ser-testadas-na-final-four-da-allianz-cup-a1ca0a6b?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/desporto/2025-01-07-as--duas--novidades-que-vao-ser-testadas-na-final-four-da-allianz-cup-a1ca0a6b
+ 104. file:///desporto/2025-01-07-as--duas--novidades-que-vao-ser-testadas-na-final-four-da-allianz-cup-a1ca0a6b
+ 105. file:///mundo/2025-01-07-subiu-para-126-numero-de-mortos-no-sismo-no-tibete-f8532e32?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/mundo/2025-01-07-subiu-para-126-numero-de-mortos-no-sismo-no-tibete-f8532e32
+ 106. file:///mundo/2025-01-07-subiu-para-126-numero-de-mortos-no-sismo-no-tibete-f8532e32
+ 107. file:///mundo/2025-01-07-casal-alemao-confessa-homicidio-de-duas-pessoas-para-roubar-bebe-7d0e197e?utm_source=sicnot&utm_medium=content&utm_campaign=WEB&utm_content=/mundo/2025-01-07-casal-alemao-confessa-homicidio-de-duas-pessoas-para-roubar-bebe-7d0e197e
+ 108. file:///mundo/2025-01-07-casal-alemao-confessa-homicidio-de-duas-pessoas-para-roubar-bebe-7d0e197e
+
+   Liens cachés :
+ 110. file://localhost/economia/2022-11-01-Um-bom-orcamento-para-a-saude--a7c8b12e
+ 111. file://localhost/pais/2025-01-07-madeira-presidente-marcelo-convoca-conselho-de-estado-3e711cbc
+ 112. file://localhost/especiais/perguntas-e-respostas/2025-01-07-quem-ira-substituir-justin-trudeau-na-chefia-do-governo-canadiano--584eb0f9
+ 113. file://localhost/pais/2025-01-07-ex-administrador-do-novo-banco-constituido-arguido-e-suspeito-de-varios-crimes-52ae66c9
+ 114. file://localhost/pais/politica/2025-01-07-ministro-vai-convocar-comissao-de-vencimentos-para-avaliar-salarios-na-administracao-do-banco-de-portugal-0b983af4
+ 115. file://localhost/mundo/2025-01-07-dinamarca-deixa-aviso-a-trump-gronelandia-nao-esta-a-venda-2316a7a5
+ 116. file://localhost/mundo/2025-01-07-detido-suspeito-de-atear-fogo-em-centro-de-refugiados-em-eindhoven-ebf01e94
+ 117. file://localhost/mundo/2025-01-07-e-freira-vive-no-brasil-e-adora-futebol-conheca-a-nova-pessoa-mais-velha-do-mundo-8aee1032
+ 118. file://localhost/desporto/2025-01-07-as--duas--novidades-que-vao-ser-testadas-na-final-four-da-allianz-cup-a1ca0a6b
+ 119. file://localhost/mundo/2025-01-07-subiu-para-126-numero-de-mortos-no-sismo-no-tibete-f8532e32
+ 120. file://localhost/mundo/2025-01-07-casal-alemao-confessa-homicidio-de-duas-pessoas-para-roubar-bebe-7d0e197e

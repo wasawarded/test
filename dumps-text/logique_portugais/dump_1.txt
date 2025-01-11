@@ -1,0 +1,1338 @@
+              [1]SciELO - Scientific Electronic Library Online
+   [grp1c.gif]   [artsrc.gif]
+   [2]vol.15 número1 [3]Crises e Oportunidades [4]Transferência,
+   desenvolvimento e reconhecimento de competências organizacionais em
+   subsidiárias de empresas multinacionais brasileiras  [5] índice de
+   autores [6]índice de assuntos [7]Pesquisa de artigos [8]Home Page
+   [9]lista alfabética de periódicos
+
+Serviços Personalizados
+
+Journal
+
+     * [iconStatistics.gif] [10]SciELO Analytics
+     * [iconStatistics.gif] Google Scholar H5M5 ()
+
+Artigo
+
+     * [11][iconPDFDocument.gif] Português (pdf)
+     * [12][iconXMLDocument.gif] Artigo em XML
+     * [13][iconReferences.gif] Referências do artigo
+     * [14][fulltxt.gif] [15]Como citar este artigo
+     * [iconStatistics.gif] [16]SciELO Analytics
+
+     [17][iconTranslation.gif] Tradução automática
+
+     [18][iconEmail.gif] Enviar este artigo por email
+
+Indicadores
+
+     * Não possue artigos citados Citado por SciELO
+     * [iconStatistics.gif] [19]Acessos
+
+Links relacionados
+
+     * Não possue artigos similares Similares em SciELO
+
+Compartilhar
+
+     * [20][mendeley.png] [21]Mais
+     * [22]Mais
+     __________________________________________________________________
+
+     * [23][iconPermalink.gif] Permalink
+
+   [icon-close.png]
+   ____________________
+
+[24]Economia Global e Gestão
+
+versão impressa ISSN 0873-7444
+
+  Economia Global e Gestão v.15 n.1 Lisboa abr. 2010
+
+
+
+   Da propriedade intelectual à economia do conhecimento (Primeira parte)
+
+
+   Ladislau Dowbor
+
+   [25]ladislau@dowbor.org
+
+   Doutor em Ciências Económicas (Escola Central de Planeamento e
+   Estatística de Varsóvia), Professor Titular da Pontifícia Universidade
+   Católica de São Paulo e consultor de diversas agências das Nações
+   Unidas. É autor de Democracia Econômica (Vozes), O que É Poder Local
+   (Brasiliense) e de numerosos estudos sobre desenvolvimento. Os seus
+   trabalhos estão disponíveis na íntegra, em regime copyleft, em
+   [26]http://dowbor.org. / Phd in Economic Sciences (Central School of
+   Planning and Statiscs of Varsovia), Professor of Economics at the
+   Catholic University of São Paulo, consultant to various United Nations
+   agencies, and author of Democracia Econômica (Vozes), O que É Poder
+   Local (Brasiliense). Books and papers can be found (copyleft) on
+   [27]http://dowbor.org.
+
+
+
+   RESUMO
+
+   O eixo central de geração de valor desloca-se do conteúdo material para
+   o conteúdo de conhecimento incorporado aos processos produtivos. Com
+   isso criou-se uma batalha ideológica e econômica em torno do direito de
+   acesso ao conhecimento. O acesso livre e praticamente gratuito ao
+   conhecimento e à cultura que as novas tecnologias permitem é uma benção
+   e não uma ameaça. Constitui um vetor fundamental de redução dos
+   desequilíbrios sociais e da generalização das tecnologias necessárias à
+   proteção ambiental do planeta. Tentar travar o avanço deste processo,
+   restringir o acesso ao conhecimento e criminalizar os que dele fazem
+   uso não faz o mínimo sentido. Faz sentido, sim, estudar novas regras do
+   jogo capazes de assegurar um lugar ao sol aos diversos participantes do
+   processo. Vale a pena atentarmos para o universo de mudanças que se
+   descortina: são os trabalhos de Lawrence Lessig sobre o futuro das
+   idéias, de James Boyle sobre a nova articulação dos direitos, de Joseph
+   Stiglitz sobre a fragilidade do sistema de patentes, de André Gorz
+   sobre a economia do imaterial, de Jeremy Rifkin sobre a economia da
+   cultura, de Eric Raymond sobre a cultura da conectividade, de Castells
+   sobre a sociedade em rede, de Toffler sobre a terceira onda, de Pierre
+   Lévy sobre a inteligência coletiva, de Hazel Henderson sobre os
+   processos colaborativos e tantos outros inovadores. Nestas propostas,
+   veremos que as mudanças não estão esperando que se desenhem utopias e
+   que um outro mundo está se tornando viável.
+
+   Palavras-chave: Sociedade do Conhecimento, Propriedade Intelectual,
+   Sistema de Patentes, Sociedade em Rede
+
+
+   From the intellectual property to the knowledge based economy
+
+   ABSTRACT
+
+   As the value of goods and services moves from material to knowledge
+   content, the rules of the game are changing. Knowledge can be easily
+   shared, for the benefit of all, and trying to prevent the natural
+   curiosity we all feel in understanding how things happen, as well as
+   the pleasure of creating and sharing cultural innovation, simply makes
+   no sense. The different stakeholders of the creative process have a
+   very legitimate right to earn their living, but certainly not by
+   placing tollbooths at every step of innovation. We need more creativity
+   in the rules of innovation. The present paper is an attempt to make
+   good sense of the contributions of Manuel Castells on the network
+   society, of Alvin Toffler on the megatrends of the knowledge society,
+   of Lawrence Lessig on the future of ideas, of André Gorz on the
+   creative economy, of Jeremy Rifkin on the era of access, of Eric
+   Raymond on the connectivity culture, of Pierre Lévy on the concept of
+   collective intelligence, of Joseph Stiglitz on the limitations of the
+   patent system, of Hazel Henderson on the Win-Win collaborative
+   process, of James Boyle on the rules of the new game, for it is a new
+   game, and just looking for pirates and criminals is not helping.
+
+   Key words: Knowledge Based Society, Intellectual Property, Patent
+   System, Network Society
+
+
+
+     «If nature has made any one thing less susceptible than all others
+     of exclusive property, it is the action of the thinking power called
+     an idea.» [28]^1
+
+     Thomas Jefferson, 1813
+
+
+     «The goal of copyright is to encourage the production of, and public
+     access to, cultural works. It has done its job in encouraging
+     production. Now it operates as a fence to discourage access.» [29]^2
+
+     James Boyle, The Public Domain
+
+
+
+   OS TERMOS DO DEBATE
+
+   É importante deixar claro desde o início que, na visão deste artigo,
+   não vivemos tempos normais, do business as usual. Vivemos o tempo do
+   caos climático, da exclusão efetiva de 4 bilhões de pessoas, ao que o
+   Banco Mundial chama simpaticamente de «benefícios da globalização», da
+   fase final do petróleo e da necessidade de mudança do paradigma
+   energético-produtivo, de uma injustiça planetária que se foi acumulando
+   e agravando  1 bilhão de pessoas com fome, um terço da população
+   mundial ainda cozinhando com lenha, 10 milhões de crianças morrendo a
+   cada ano de fome, de falta de acesso à água limpa e semelhantes, de
+   meio milhão de mães que morrem anualmente de parto quando técnicas
+   baratas e elementares são conhecidas, de 25 milhões de pessoas que já
+   morreram de Aids enquanto as corporações discutem as vantagens das
+   patentes - isto só para mencionar alguns dos nossos dramas, pois as
+   soluções não pertencem ao passado bucólico, mas ao futuro denso em
+   conhecimento e tecnologias que temos pela frente. As tecnologias e o
+   conhecimento em geral devem servir, antes de tudo, para construir
+   respostas a estes desafios.
+
+   A questão do acesso ao conhecimento, portanto, um dos vetores básicos
+   da democratização da economia e do reequilibramento planetário,
+   tornou-se central. Restabelecer o equilíbrio entre a remuneração dos
+   intermediários, as condições de criatividade dos que inovam, e a
+   ampliação do acesso planetário aos resultados  objetivo estratégico de
+   todo o processo  é o desafio que temos de enfrentar.
+
+   As novas tecnologias permitem que o conhecimento adquirido pela
+   humanidade, sob forma de ciência, obras de arte, música, filmes e
+   outras manifestações da economia criativa seja universalmente
+   acessível, a custos virtualmente nulos. Trata-se evidentemente de um
+   imenso bem para a humanidade, para o progresso educacional, científico
+   e cultural de todos. Mas, para os intermediários do acesso aos bens
+   criativos, que controlavam a base material da sua disponibilização,
+   houve uma mudança profunda. Em vez de se adequarem às novas
+   tecnologias, sentem-se ameaçados, e buscam travar o uso das tecnologias
+   de acesso, acusando quem as usa de pirataria e até de falta de ética.
+   Geram-se, assim, duas dinâmicas, uma que busca aproveitar as
+   tecnologias para generalizar o enriquecimento cultural, e outra que
+   busca através de leis, da criminalização e do recurso ao poder do
+   Estado, travar a sua expansão. A tecnologia torna os bens culturais
+   cada vez mais acessíveis, enquanto as leis, por pressão organizada dos
+   intermediários, evoluem simetricamente para cada vez mais dificultar o
+   acesso.
+
+   O mundo corporativo está avançando de maneira dura e organizada: «Em
+   setembro de 1995, a indústria de conteúdos, trabalhando com o
+   Departamento de Comércio dos Estados Unidos, começou a mapear uma
+   estratégia para proteger um modelo de negócios frente às tecnologias
+   digitais. Em 1997 e 1998, esta estratégia foi implementada através de
+   uma série de novas leis destinadas a estender o tempo de copyright da
+   obra, reforçar as penalidades criminais para infringimento de
+   copyright, e para punir o uso de tecnologias que tentavam evitar os
+   entraves digitais colocados em conteúdo digital»[30]^3. Hoje já não
+   podemos ligar o rádio ou a TV sem ouvir denúncias de pirataria e apelos
+   à «ética».
+
+   O resultado prático é conhecido: somente teremos acesso digital a uma
+   obra 70 anos depois da morte do autor (por exemplo, após 2050 para
+   Paulo Freire). O que significa que 90% das obras do século passado
+   ficarão indisponíveis para pesquisa digital, isto quando a realização
+   de lucros sobre o copyright se limita quase integralmente aos 5 ou,
+   quando muito, 10 anos depois da publicação. Imenso prejuízo social para
+   pequenos lucros privados. A solução não é liquidar os direitos de
+   propriedade intelectual, mas limitá-los a 5 anos prorrogáveis por mais
+   5 pelo dono dos direitos, caso ache que vale a pena. Grande parte das
+   obras se tornaram indisponíveis, porque não se consegue sequer
+   identificar o dono dos direitos, isto para quem está disposto a pagar
+   para reeditar.
+
+   O argumento apresentado é que se trata de proteger os direitos do pobre
+   músico que está lutando para sobreviver (help struggling musicians). A
+   figura comove, mas uma olhada no tamanho das corporações que se arvoram
+   em defensores dos humildes, tende a mudar o enfoque. Trata-se, como o
+   qualifica um dos juristas mais importantes da área nos Estados Unidos,
+   James Boyle, de proteger uma renda de monopólio (monopoly rent). E a
+   culpa é jogada em cima de quem acessa e propaga cultura sem pagar. O
+   autor, na realidade, pouco tem a ver com esta história. Os direitos
+   autorais são amplamente assumidos por quem detém o copyright ou as
+   patentes e, neste caso, trata-se quase sempre de intermediários. A
+   realidade é que ao aplicar à economia criativa leis derivadas da
+   propriedade de bens físicos, desequilibramos radicalmente o processo de
+   criação, que precisa de novas regras do jogo.
+
+   Diversas pesquisas no mundo universitário mostram que a esmagadora
+   maioria dos estudantes recorre a formas de acesso aos bens científicos
+   e culturais que podem ser consideradas ilegais. Devemos criminalizar a
+   juventude[31]^4? Para uma pessoa que descobre uma linda música na
+   Internet, enviá-la para um amigo é a reação mais imediata, porque a
+   felicidade não se goza sozinho. Vamos criminalizar isto? Lessig
+   constata uma coisa óbvia: uma lei que parece idiota não é respeitada. E
+   levar jóvens a perder o respeito pela lei pode sim, ser coisa muito
+   séria. Na realidade, devemos enfrentar este hiato crescente entre o que
+   as tecnologias permitem e o que a lei proíbe. Provavelmente, de maneira
+   menos ideológica, ou menos histérica. O uso educacional e científico
+   sem fins lucrativos deve ser liberado. O uso pessoal e interpessoal não
+   comercial deve ser facilitado.
+
+   Segundo James Boyle, «a maior parte das gravações de som feitas há mais
+   de quarenta anos atrás estão comercialmente inacessíveis. Depois de
+   cinquenta anos, apenas uma minúscula porcentagem ainda está sendo
+   comercializada. É extremamente difícil encontrar os donos de direitos
+   dos restantes. Podem ter morrido, fechado o negócio, ou simplesmente se
+   desinteressado. Mesmo se o compositor puder ser encontrado, ou pago por
+   meio de uma associação colecionadora, sem o consentimento do dono do
+   copyright sobre a gravação musical, a obra tem de ficar na biblioteca.
+   Estas são as «obras órfãs», uma categoria que provavelmente constitui a
+   maior parte dos produtos culturais do Séc. XX. No entanto, como já
+   mencionado, sem a autorização do dono do copyright é ilegal copiar ou
+   redistribuir ou executar estas obras, mesmo sobre uma base sem fins
+   lucrativos. O objetivo do copyright é de encorajar a produção e acesso
+   a obras culturais. Desempenhou o seu papel encorajando a produção.
+   Agora opera como uma cerca para impedir o acesso. Conforme passam os
+   anos, continuamos a trancar até 100 por cento da nossa cultura
+   registrada de um determinado ano para beneficiar uma porcentagem cada
+   vez menor  os ganhadores na loteria  numa política cultural
+   grotescamente ineficiente»[32]^5.
+
+   Em outro nível, é curioso constatar a fragilidade dos argumentos
+   segundo os quais a livre disponibilização dos livros impede a sua
+   venda. Paulo Coelho, que recentemente passou a disponibilizar online na
+   íntegra os seus livros, gratuitamente, constatou não a redução mas o
+   aumento das vendas[33]^6. Em ótimo artigo, Cédric Biagini e Guillaume
+   Carnino lembram que «o livro de papel, em sua linearidade e finitude,
+   em sua materialidade e presença, constitui um espaço silencioso que põe
+   em xeque o culto da velocidade e a perda do senso crítico. Ele é um
+   ponto de ancoragem, um objeto de registro para um pensamento coerente e
+   articulado, fora da rede e dos fluxos incessantes de informações e de
+   solicitações: ele permanece sendo um dos últimos pontos de
+   resistência»[34]^7. Uma pessoa que gostou do livro após a leitura de
+   algumas páginas, provavelmente se sentirá estimulada a comprá-lo. Há
+   espaço para todos, sem monopolizar os frutos.
+
+   No caso das músicas, os prejuízos são significativos mas limitados: as
+   corporações calculam quantos downloads gratuitos estão sendo feitos,
+   multiplicam a cifra pelo preço que cobram pelos discos (absolutamente
+   exorbitantes frente ao custo de produção e promoção), imaginando que se
+   não houvesse downloads toda esta gente compraria os discos. A cifra que
+   resulta é imaginária, mas soa bem na propaganda que ouvimos todos os
+   dias.
+
+   No caso de patentes, a questão é ainda mais lastimável, e cada vez mais
+   se constata, conforme veremos abaixo, que o emaranhado de restrições
+   legais chegou a um nível tal que mais atrapalha do que estimula a
+   pesquisa. Um monopólio de 20 anos sobre uma idéia podia ser concebido
+   há meio século, mas não no ritmo moderno de inovação.
+
+   A verdade é que o contexto da economia criativa mudou radicalmente,
+   pois ainda que haja custos na produção de uma obra criativa, uma vez
+   criada, esta obra pode se tornar em fator de enriquecimento de toda a
+   humanidade, já que a disponibilização é praticamente gratuita. Quando a
+   disponibilização exigia suporte material  o livro impresso, o disco, a
+   fita  era natural que fosse cobrado o custo incorporado. Sem a
+   editora, sem a emissora de TV, as pessoas não saberiam da criação. A
+   disponibilização e generalização do conhecimento se fazia graças a
+   elas. Hoje, estas mesmas corporações tentam evitar a disponibilização,
+   pois com a era digital, podemos apreciar um livro, uma música, um
+   filme, sem precisar de suporte material. Em vez de se adaptar às novas
+   tecnologias e buscar outra forma de agregar valor, as mesmas
+   corporações buscam travar o seu acesso e criminalizar o seu uso.
+
+   A IBM, para dar um exemplo de evolução, tentou impedir que se
+   disseminasse o «clone» (assim era designado o PC «pirata») através da
+   tecnologia proprietária microchannel, no final dos anos 1980. Achou que
+   o padrão IBM seria a opção de todos, pela dominação que tinha do
+   mercado. Mas viu que todos fugiram para os «clones», para a livre
+   criação tecnológica. A IBM assimilou a lição, e passou a vender
+   software. Com o software se tornando um bem livre (a própria empresa
+   hoje usa o Linux), passou a vender serviços de arquitetura de
+   informação para empresas. Adaptou-se. Travar o avanço tecnológico
+   através de monopólios não dá bons resultados, e não está dando no nosso
+   caso.
+
+   O que temos pela frente são menos apelos dramáticos à lei e à ética, e
+   mais bom senso na redefinição das regras do jogo que protejam o autor
+   de inovações, os diversos intermediários e, sobretudo, o interesse
+   final de toda criação, que é o enriquecimento cultural e científico de
+   toda a população. O fato de bens culturais e educacionais se tornarem
+   quase gratuitos graças às novas tecnologias, não deve constituir um
+   drama e sim uma imensa oportunidade. Numa era em que se destinam
+   imensos recursos para a educação no mundo, tentar travar o acesso não
+   só não é legítimo, nem ético, como constitui um contrasenso.
+
+
+   A SOCIEDADE DO CONHECIMENTO
+
+   Para as grandes corporações, as novas tecnologias implicam uma pirâmide
+   mais alta, com o poder central estendendo dedos mais compridos para os
+   lugares mais distantes, graças ao poder da conectividade de transmitir
+   ordens mais longe. Implicam também uma forte presença planetária de
+   poder repressivo visando o controle da propriedade intelectual
+   crescentemente apropriada pelas próprias empresas transnacionais. Às
+   «tele-comunicações» corresponde uma «tele-gestão», gestão à distância,
+   global, que gerou, por exemplo, o poder descontrolado dos grandes
+   intermediários financeiros. A corporação da informação e do
+   conhecimento, que, por definição, trabalha com uma matéria-prima não
+   material, navega com conforto neste ambiente. Vistas por este ângulo,
+   as novas tecnologias aparecem como uma oportunidade maior de controle e
+   de apropriação.
+
+   Olhando de outra perspectiva, as mesmas tecnologias que favorecem a
+   globalização podem favorecer os espaços locais, as dimensões
+   participativas, uma conectividade democrática. Para nós usuários não
+   corporativos, estas tecnologias permitem uma rede mais ampla e mais
+   horizontal, com cada localidade  mesmo pequena  recuperando a sua
+   importância ao cruzar a especificidade dos interesses locais com o
+   potencial da colaboração planetária. Dedos mais longos das mesmas
+   corporações não descentralizam nada, apenas significam que a mesma mão
+   tem alcance maior, que a manipulação se dá em maior escala. A
+   apropriação local do potencial de conectividade representa uma dinâmica
+   de democratização. A base tecnológica é a mesma, a materialização
+   política é inversa. Donde o choque, as denúncias de «pirataria», ou até
+   curiosos apelos para a «ética» e às forças repressivas do Estado, por
+   parte de quem o Estado sempre foi apresentado como um impecilho e a
+   falta de ética coisas praticadas pelos outros.
+
+   A mudança nas tecnologias da informação e da comunicação que abre as
+   novas opções, no entanto, está articulada com mudanças tecnológicas
+   mais amplas, que estão elevando o conteúdo de conhecimento de todos os
+   processos produtivos, e reduzindo o peso relativo dos insumos materiais
+   que outrora constituiam o fator principal de produção.
+
+   O conhecimento é um fator de produção? Como se desenvolve a teoria do
+   que Castells chamou de «novo paradigma sócio-técnico»? Castells
+   introduz a categoria interessante de fatores informativos de produção,
+   o que nos leva a uma questão básica: o conhecimento se regula de
+   maneira adequada através dos mecanismos de mercado, como por exemplo os
+   bens e serviços no quadro de uma economia industrial[35]^8?
+
+   O deslocamento do eixo principal de formação do valor das mercadorias
+   do capital fixo para o conhecimento, nos obriga a uma revisão em
+   profundidade do próprio conceito de modo de produção. André Gorz coloca
+   o dedo no ponto preciso ao considerar que «os meios de produção se
+   tornaram apropriáveis e suscetíveis de serem partilhados. O computador
+   aparece como o instrumento universal, universalmente acessível, por
+   meio do qual todos os saberes e todas as atividades podem, em
+   princípio, ser partilhados»[36]^9.
+
+   Yochai Benkler traz com força esta compreensão de que na sociedade da
+   informação muito mais gente pode gerar o seu espaço de criação, não
+   precisando de uma «fábrica» para ser produtiva: «A economia da
+   informação articulada em rede melhora as capacidades práticas dos
+   indivíduos em tres dimensões: 1) melhora a sua capacidade de fazer mais
+   para e por si mesmos; 2) aumenta a sua capacidade de fazer mais em
+   conexões soltas com outros, sem se sentir contrangidos a organizar os
+   relacionamentos através de um sistema de preços ou nos modelos
+   hierárquicos tradicionais de organização social e econômica; e 3)
+   melhora a capacidade dos indivíduos de fazer mais em organizações
+   formais que operam fora da esfera de mercado»[37]^10.
+
+   A teoria que corresponde à economia do conhecimento está apenas
+   nascendo. Lawrence Lessig, no seu The Future of Ideas, nos traz uma
+   análise sistemática e equilibrada deste desafio maior que hoje
+   enfrentamos: a gestão da informação e do conhecimento, e a distribuição
+   equilibrada dos direitos. Focando de maneira precisa como se desenvolve
+   a conectividade planetária, o autor leva cada questão  a da
+   apropriação dos meios físicos de transmissão, a do controle dos códigos
+   de acesso, a do gerenciamento dos conteúdos  a um nível que permite
+   uma avaliação realista e a formulação de propostas práticas. O livro
+   anterior dele, Code, já marcou época. O The Future of Ideas é
+   simplesmente brilhante em termos de riqueza de fontes, de simplicidade
+   na exposição, de ordenamento dos argumentos em torno das
+   questões-chave[38]^11.
+
+   Andamos todos um tanto fracos na compreensão destas novas dinâmicas,
+   oscilando entre visões tétricas do Grande Irmão, ou uma idílica visão
+   da multiplicação das fontes e meios que levariam a uma democratização
+   geral do conhecimento. A realidade, como em tantas questões, é que as
+   simplificações não bastam, e que devemos fazer a lição de casa, estudar
+   o que está acontecendo.
+
+   Tomemos como ponto de partida o fato que hoje, quando pagamos um
+   produto, 25% do que pagamos é para pagar o produto, e 75% para pagar a
+   pesquisa, o design, as estratégias de marketing, a publicidade, os
+   advogados, os contadores, as relações públicas, os chamados
+   «intangíveis», e que Gorz classifica na ampla categoria de «o
+   imaterial». É uma cifra vaga mas razoável, e não é a precisão que nos
+   interessa aqui. Interessa-nos o fato do valor agregado de um produto
+   residir cada vez mais no conhecimento incorporado. Ou seja, o
+   conhecimento, a informação organizada, representam um fator de
+   produção, um capital econômico de primeira linha. Não basta, portanto,
+   referir-se de maneira tradicional à terra, capital e mão de obra como
+   fatores de produção. Formas mais inteligentes da sua integração e
+   articulação, permitidas pelas novas tecnologias, passam a constituir o
+   principal fator de valorização dos processos produtivos. A que
+   parâmetros teóricos pertence o valor «conhecimento» incorporado nos
+   produtos?
+
+   A lógica econômica do conhecimento é diferente da que rege a produção
+   física. O produto físico entregue por uma pessoa deixa de lhe
+   pertencer, enquanto um conhecimento passado a outra pessoa continua com
+   ela, e pode estimular na outra pessoa visões que irão gerar mais
+   conhecimentos e inovações. O conhecimento faz parte do que chamamos em
+   economia de bens «não rivais». Em termos gerais, portanto, a sociedade
+   do conhecimento acomoda-se mal da apropriação privada: envolve um
+   produto que, quando socializado, se multiplica. É por isso, inclusive,
+   que nos copyrights e patentes, só se fala em propriedade temporária. No
+   entanto, o valor agregado ao produto pelo conhecimento incorporado só
+   se transforma em preço, e consequentemente em lucro maior, quando este
+   conhecimento é impedido de se difundir. Quando um bem é abundante, só a
+   escassez gera valor de venda. A batalha do Séc. XX, centrada na
+   propriedade dos meios de produção, evolui para a batalha da propriedade
+   intelectual do Séc. XXI.
+
+   De certa maneira, forma-se uma grande tensão, entre a sociedade
+   realmente existente cada vez mais centrada no conhecimento e o sistema
+   de leis baseado em produtos materiais característicos do século
+   passado. O essencial aqui, é que o conhecimento, uma vez desenvolvido,
+   é indefinidamente reproduzível e, portanto, só se transforma em valor
+   monetário quando alguém dele se apropria, impedindo que outros possam
+   ter acesso sem pagar um pedágio, «direitos». Para os que tentam
+   controlar o acesso ao conhecimento, este só adquire valor de venda ao
+   se criar artificialmente, por meio de leis e repressão e não por
+   mecanismos econômicos, a escassez. Por simples natureza técnica do
+   processo, a aplicação à era do conhecimento das leis da reprodução da
+   era industrial trava o acesso. Curiosamente, impedir a livre circulação
+   de idéias e de criação artística tornou-se um fator, por parte das
+   corporações, de pedidos de maior intervenção do Estado. Os mesmos
+   interesses que levaram a corporação a globalizar o território para
+   facilitar a circulação de bens, levam-na a fragmentar e a dificultar a
+   circulação do conhecimento. É, sem dúvida, liberdade econômica para a
+   corporação, mas às custas da liberdade do usuário.
+
+
+   DIREITOS DE QUEM?
+
+   A questão central de como produzimos, utilizamos e divulgamos o
+   conhecimento envolve, portanto, um dilema: por um lado, é justo que
+   quem se esforçou para desenvolver conhecimento novo seja remunerado
+   pelo seu esforço. Por outro lado, apropriar-se de uma idéia como se
+   fosse um produto material termina por matar o esforço de inovação.
+   Lessig nos traz o exemplo de diretores de cinema nos Estados Unidos que
+   hoje filmam com advogados na equipe: filmar uma cena de rua onde
+   aparece por acaso um outdoor pode levar imediatamente a que a empresa
+   de publicidade exija compensações; filmar o quarto de um adolescente
+   exige uma longa análise jurídica, pois cada flâmula, poster ou quadro
+   pode envolver uso indevido de imagem, gerando outras contestações. A
+   propriedade intelectual não tem limites?
+
+   Numa universidade americana, com a compra das revistas científicas por
+   grandes grupos econômicos, um professor que distribuiu aos seus alunos
+   cópias do seu próprio artigo foi considerado culpado de pirataria.
+   Poderia, quando muito, exigir dos seus alunos que comprem a revista
+   onde está o seu artigo. Todos conhecem a absurda tentativa da Amazon,
+   de proibir outras empresas de utilizar o «one-click» para compras. Um
+   raciocínio de bom senso é que se o «one-click» é bom, deve ter dado
+   lucro à Amazon, que é a forma normal de uma empresa se ver retribuída
+   por uma inovação, e não impedindo outras de utilizar um processo que já
+   era de domínio público. Estamos, na realidade, travando a difusão do
+   progresso, em vez de facilitá-la.
+
+   Lessig parte da visão  explícita na Constituição americana  de que o
+   esforço de desenvolvimento do conhecimento deve ser remunerado, mas o
+   conhecimento em si não constitui uma «propriedade» no sentido comum.
+   Por exemplo, numerosas patentes são propriedade de empresas que, por
+   alguma razão, não têm interesse em utilizar ou desenvolver o
+   conhecimento correspondente, ficando assim uma área congelada. Em
+   outros países, prevalece o princípio de «use it or lose it», de que uma
+   pessoa ou empresa não pode paralisar, através de patentes ou de
+   copyrights, uma área de conhecimento. O conhecimento tem uma função
+   social. O meu carro não deixa de ser meu se eu o esqueço na garagem.
+   Mas idéias são diferentes, não devem ser trancadas, o seu
+   desenvolvimento por outros não deve ser impedido. Isto porque o direito
+   de propriedade intelectual não está baseado no direito natural de
+   propriedade, mas no seu potencial de estimular a criatividade futura.
+
+   Este argumento deve ser bem entendido pois, apesar dos profissionais da
+   área terem em geral a clareza do referencial jurídico diferenciado que
+   os bens intelectuais representam, na argumentação joga-se com a
+   confusão das pessoas quanto ao que é propriedade intelectual. Um bem
+   físico, a minha bicicleta por exemplo, é uma propriedade que se
+   justifica pelo fato de eu a ter adquirido, não expira depois de 20
+   anos, não é condicionada. No caso dos bens intelectuais, a premissa
+   básica é de que se trata de bens de domínio público, que devem circular
+   para o enriquecimento da sociedade, e a figura da apropriação privada
+   (via copyrights ou patentes) assegura apenas direito temporário, e só
+   se justifica porque se considerou que conceder um título temporário de
+   propriedade estimularia as pessoas a produzir inovações e, portanto, a
+   enriquecer ainda mais a sociedade em termos culturais e científicos.
+   Todo o conceito de propriedade intelectual repousa, portanto, não no
+   conceito de propriedade em si  com o qual tenta-se inculcar um
+   sentimento de culpa em quem «furta» uma música ao ouvi-la na Internet 
+   mas na utilidade do controle em termos de gerar mais riqueza cultural
+   para todos. Hoje, com copyrights assegurados até 70 anos depois da
+   morte do autor (em alguns casos até 90 anos), e patentes de 20 anos
+   indefinidamente extendidos através de adendos, este direito está
+   ajudando a produzir e difundir cultura e inovações ou, ao contrário,
+   está travando o processo? Esta é a questão central.
+
+   Segundo o jurista James Boyle, «mais direitos de propriedade, mesmo
+   quando se supõe que ofereçam maiores incentivos, não necessariamente
+   levam a mais e melhor produção e inovação  às vezes justamente o
+   contrário é verdadeiro. Pode ser que direitos de propriedade
+   intelectual restrinjam a inovação, ao colocar múltiplos entraves no
+   caminho de inovações subsequentes. Usando uma boa inversão da idéia da
+   tragédia dos comuns, Heller e Eisenberg se referem a estes efeitos  os
+   custos de transação causados por uma miríade de direitos de propriedade
+   sobre os necessários componentes de alguma inovação subsequente  como
+   a tragédia dos anti-comuns»[39]^12.
+
+   É importante lembrar que o conceito de copyright nasceu para regular
+   relações comerciais de empresas. Se uma empresa imprime o livro, como
+   fica se outra empresa também o imprime? «No mundo dos anos 1950, estas
+   considerações faziam algum sentido  ainda que possamos discordar da
+   definição de interesse público. Muitos assumiam que o copyright não
+   precisava e, provavelmente não devia, regular atos privados não
+   comerciais. A pessoa que empresta um livro a um amigo ou leva um
+   capítulo para a aula é muito diferente da empresa com máquinas
+   impressoras que decide reproduzir mil cópias e vendê-las. A máquina
+   fotocopiadora e o VCR tornaram a distinção mais confusa, e o computador
+   em rede ameaça apagá-la completamente. (...). Numa sociedade em rede,
+   copiar não somente é fácil, é uma parte necessária da transmissão, do
+   armazenamento, do caching, e alguns até diriam, da leitura»[40]^13.
+
+   Na base desta visão está o fato de que o conhecimento não nasce
+   isolado. Toda inovação se apoia em milhares de avanços em outros
+   períodos, em outros países, e com o crescente encalacramento jurídico
+   multiplicam-se as áreas ou os casos em que realizar uma pesquisa
+   envolve tantas complicações jurídicas que as pessoas simplesmente
+   desistem, ou a deixam para mega-empresas com seus amplos departamentos
+   jurídicos. A inovação, o trabalho criativo, não é só um output, é
+   também um input que parte de inúmeros esforços de pessoas e empresas
+   diferentes. Precisa de um ambiente aberto de colaboração. A inovação é
+   um processo socialmente construído, e deve haver limites à sua
+   apropriação individual.
+
+   A empresa que desenvolveu um processo tende a dizer: este processo é
+   meu, durante os próximos 20 anos ninguém pode utilizar o que eu
+   desenvolvi. Gar Alperovitz e Lew Daly fazem um excelente contraponto a
+   esta visão. Como se desenvolvem os processos de inovação? Trata-se de
+   uma ampla construção social, da criação de um ambiente denso em
+   conhecimento e pesquisa, que envolve todo o nosso sistema educacional,
+   imensos investimentos públicos, e um conjunto de infra-estruturas que
+   permitem que estes avanços se generalizem, envolvendo desde a produção
+   de eletricidade, até os sistemas modernos de comunicação e assim por
+   diante. Ou seja, o progresso produtivo que verificamos constitui uma
+   gigantesca maré que levanta todos os barcos.
+
+   Levanta todos os barcos, mas a remuneração vai para alguns
+   proprietários, que colocam uma cerca e dizem ter direitos exclusivos,
+   no que tem sido chamado de novo «enclosure movement». As minorias que
+   se apropriam de uma exorbitante parcela da riqueza gerada pela
+   sociedade, apresentam-se como «inovadores», «capitães da indústria»,
+   «empreendedores» e outros qualificativos simpáticos, mas a realidade é
+   que conforme cresce de maneira impressionante, durante o último século,
+   o conhecimento acumulado e o nível científico geral da sociedade, a
+   porcentagem de idéias que estas elites acrescentam no estoque geral é
+   mínimo, enquanto a sua apropriação tornou-se absolutamente gigantesca,
+   porque colocam um pedágio no produto final que vai ao mercado.
+
+   A apropriação dos intangíveis tanto se dá na mão de poucas corporações,
+   ao nível, por exemplo, dos Estados Unidos, como de poucos países no
+   mundo. Este processo está diretamente ligado às formas modernas de
+   concentração de renda. O 1% de famílias mais ricas dos Estados Unidos
+   se apropria de mais renda do que os 120 milhões na base da
+   sociedade[41]^14. No mundo, 97% das patentes está na mão de empresas de
+   países ricos.
+
+   Ou seja, há um imenso enriquecimento no topo da pirâmide, baseado não
+   no que estas pessoas aportaram, mas no fato de se apropriarem de um
+   acúmulo historicamente construído durante sucessivas gerações. Trata-se
+   de enriquecimento sem os aportes produtivos correspondentes. Na
+   terminologia do livro, Unjust Deserts, trata-se de uma apropriação não
+   merecida (not deserved), e que está deformando cada vez mais as
+   dinâmicas econômicas e a funcionalidade do que temos chamado de
+   mercado[42]^15.
+
+   Para dar um exemplo trazido por Alperovitz e Daly, quando a Monsanto
+   adquire controle exclusivo sobre determinado avanço na área de
+   sementes, como se a inovação tecnológica fosse um aporte apenas dela,
+   esquece o processo que sustentou estes avanços. «O que eles não
+   precisam considerar  nunca  é o imenso investimento coletivo que
+   levou a ciência da genética dos seus inícios isolados ao ponto em que a
+   empresa toma a sua decisão. Todo o conhecimento biológico, estatístico
+   e outro sem o qual nenhuma das sementes altamente produtivas e
+   resistentes a doenças poderiam ser desenvolvidas  e todas as
+   publicações, pesquisas, educação, treinamento e instrumentos técnicos
+   relacionados sem os quais o aprendizado e o conhecimento não poderia
+   ter sido comunicado e fomentado em cada estágio particular de
+   desenvolvimento, e então repassado durante o tempo e apropriado, também
+   numa força de trabalho treinada de técnicos e cientistas  tudo isso
+   chega à empresa sem ônus, um presente do passado». Ao colocar um
+   gargalo no produto final, cobra-se um pedágio sobre o conjunto dos
+   conhecimentos anteriormente desenvolvidos[43]^16.
+
+   É importante ressaltar que não se trata aqui de criticar nem as
+   tecnologias nem a justa remuneração de quem contribui para o seu
+   avanço. Os técnicos nas mais variadas áreas estão desenvolvendo, nesta
+   era da revolução tecnológica, instrumentos impressionantes de
+   progresso. Mas não são os técnicos, nem os cientistas, nem os artistas
+   que desenvolvem as leis que regem a comercialização, a propriação e uso
+   dos aportes criativos: são grupos de pressão, lobbies políticos,
+   escritórios de advocacia, especialistas em marketing e outros
+   negociadores que ditam regras do jogo sem muita preocupação com a
+   utilidade final em termos de sociedade ou com a motivação dos
+   criadores. E estes intermediários, ao tentar maximizar os interesses de
+   um grupo apenas de atores, não estão prestando um bom serviço[44]^17.
+
+
+   A LIBERDADE DO ACESSO
+
+   O problema se agrava drásticamente quando não só as idéias como os
+   veículos da sua transmissão passam a ser controlados. Quando uma
+   produtora de Hollywood controla não só a produção de conteúdos (o
+   filme), mas também os diversos canais de distribuição e até compra as
+   salas de cinema, o resultado é que a liberdade de circulação de idéias
+   se desequilibra radicalmente. Lessig constata que filmes estrangeiros
+   nos Estados Unidos, que representavam, há poucos anos, 10% da
+   bilheteria, hoje representam 0,5%, gerando uma cultura perigosamente
+   isolada do mundo. O que está acontecendo, com o controle progressivo
+   dos três níveis  infra-estrutura física, códigos e conteúdos  é que a
+   liberdade de circulação das idéias, inclusive na Internet, está se
+   restringindo rapidamente. Grandes empresas não param de vasculhar os
+   nossos computadores, através dos «spiders» ou «bots», para ver se, por
+   acaso, não mencionamos sem as devidas autorizações o nome ou um grupo
+   de idéias protegidas.
+
+   Um texto de 1813 de Thomas Jefferson é, neste sentido, muito eloquente:
+   «Se há uma coisa que a natureza fez que é menos suscetível que todas as
+   outras de propriedade exclusiva, esta coisa é a ação do poder de
+   pensamento que chamamos de idéia... Que as idéias devam se expandir
+   livremente de uma pessoa para outra, por todo o globo, para a instrução
+   moral e mútua do homem, e o avanço de sua condição, parece ter sido
+   particularmente e benevolentemente desenhado pela natureza, quando ela
+   as tornou, como o fogo, passíveis de expansão por todo o espaço, sem
+   reduzir a sua densidade em nenhum ponto, e como o ar no qual
+   respiramos, nos movemos e existimos fisicamente, incapazes de
+   confinamento, ou de apropriação exclusiva. Invenções não podem, por
+   natureza, ser objeto de propriedade» [45]^18.
+
+   Uma empresa que instala uma das infraestruturas importantes que é o
+   cabo de fibra ótica é proprietária deste cabo. Mas ela pode ditar quem
+   pode ou quem não pode ter acesso para transmitir neste cabo? Uma
+   empresa pode encontrar incentivo econômico em fazer acordos com outras
+   empresas, garantindo exclusividade, um tipo de curral de comunicação. A
+   Disney batalhou duramente, por exemplo, para ter este tipo de
+   exclusividade. A crueza das batalhas empresariais neste plano abre
+   pouco espaço para o fim último de todo o processo, tão bem expresso por
+   Thomas Jefferson, que é a utilidade social da circulação das idéias. Um
+   governo pode até privatizar a manutenção de uma estrada e autorizar a
+   cobrança de um pedágio, mas assegura o seu caráter público e nenhuma
+   administradora pode impedir o livre acesso de qualquer pessoa a esta
+   estrada. E na infovia, como funciona? Em muitas cidades americanas,
+   como Chicago, a prefeitura está instalando cabos públicos, para
+   assegurar que os usuários possam receber e transmitir o que querem,
+   reduzindo a pressão de empresas privadas para fazer acordos de acesso
+   exclusivo para determinado tipo de clientes. No Canadá, o processo está
+   se generalizando, em reação aos controles que as empresas estão
+   instalando. Como as estradas, as infovias devem constituir os chamados
+   commons, espaços comuns que permitem que os espaços privados
+   comuniquem, interajam com liberdade.
+
+   A análise detalhada do uso do espectro de ondas de rádio e TV é, neste
+   sentido, muito significativa. Na prática, o governo americano concede
+   faixas do espectro a gigantes da comunicação, como o fazemos no Brasil,
+   eliminando virtualmente a possibilidade de cada comunidade ter os seus
+   meios de comunicação, coisa hoje técnicamente perfeitamente possível e
+   barata. O que nos repetem sempre, é que o espectro é limitado, e
+   portanto deve ser atribuído a alguns, e estes alguns naturalmente
+   buscam monopolizar o acesso. Na prática, geramos uma patética
+   «Berlusconi society» .
+
+   O primeiro fato é que a emissão de curto alcance (low power radio
+   service) é perfeitamente possível e não deveria ser condenada como
+   pirataria. O segundo, mais importante, é que a idéia do espectro ser
+   limitado é apresentada como argumento pelas empresas, mas é verdadeira
+   apenas porque utilizam tecnologias que desperdiçam o espectro: como têm
+   o monopólio, não se interessam por exemplo pelo compartilhamento de
+   faixas (software defined radios) que permitem utilizar as ondas da
+   mesma forma que em outros meios, aproveitando os «silêncios» e
+   subutilizações de espectro para assegurar diversas comunicações
+   simultâneas, como hoje acontece em qualquer linha telefônica. Lessig é
+   duro com esse impressionante desperdício de uma riqueza tão importante
+    e natural, não foi criada por ninguém, tanto assim que é concedida
+   por licença pública  que é o espectro eletromagnético: «Poluição é
+   precisamente a maneira como deveríamos considerar estas velhas formas
+   de uso do espectro: torres grandes e estúpidas invadem o éter com
+   emissões poderosas, tornando inviável o florecimento de usos em menor
+   escala, menos barulhentos e mais eficientes A televisão comercial, por
+   exemplo, é um desperdiçador extraordinário de espectro; na maior parte
+   dos contextos, o ideal seria transferi-la do ar para cabos» [46]^19.
+
+   Lessig é um pragmático. No caso do espectro, por exemplo, propõe que se
+   expanda em cada segmento do espectro uma faixa de livre acesso,
+   equilibrando a apropriação privada. Nas várias áreas analisadas, busca
+   soluções que permitam a todos sobreviver. Mas a sua preocupação é
+   clara. Em livre tradução, «a tecnologia, com estas leis, nos promete
+   agora um controle quase perfeito sobre o conteúdo e a sua distribuição.
+   E é este controle perfeito que ameaça o potencial de inovação que a
+   Internet promete»[47]^20.
+
+
+   O CUSTO DO ACESSO
+
+   Rifkin analisa o mesmo processo de outro ponto de vista, pondo em
+   evidência em particular o fato da economia do conhecimento mudar a
+   nossa relação com o processo econômico em geral. O argumento básico é
+   que estamos passando de uma era em que havia produtores e compradores,
+   para uma era em que há fornecedores e usuários. A mudança é profunda.
+   Na prática, não compramos mais um telefone (ou a compra é simbólica).
+   Mas pagamos todo mês pelo direito de usá-lo, de nos comunicarmos.
+   Pagamos também para ter acesso a programas de televisão um pouco mais
+   decentes. Já não pagamos uma consulta médica: pagamos mensalmente um
+   plano para ter direito de acesso a serviços de saúde. A nossa
+   impressora custa uma bagatela, o importante é nos prender na compra
+   regular do toner exclusivo[48]^21.
+
+   Os exemplos são inúmeros. Rifkin define esta tendência como
+   caracterizando «a era do acesso». No nosso A Reprodução Social já
+   analisamos esta tendência, que caracterizamos com o conceito de
+   «capitalismo de pedágio». Basta ver o montante de tarifas que pagamos
+   para ter direito aos serviços de um banco, ou como os condomínios de
+   praia fecham o acesso a um pedaço de mar, e na publicidade nos
+   «oferecem», como se as tivessem criado, as suas maravilhosas ondas. O
+   acesso gratuito ao mar não enche os bolsos de ninguém. Fechemos pois as
+   praias[49]^22.
+
+   Assim o capitalismo gera escassez, pois a escassez eleva os preços.
+   Nesta lógica do absurdo, quanto menos disponíveis os bens, mais ficam
+   caros, e mais adquirem valor potencial para quem os controla. Nada como
+   poluir os rios para nos obrigar a um «pesque-pague», ou a nos induzir a
+   comprar água «produzida». Nada como impedir ou dificultar o nosso
+   acesso ao Skype para obrigar-nos a gastar mais na telefonia celular
+   tradicional.
+
+   Com isto, vão desaparecendo os espaços gratuitos, e ficamos cada vez
+   mais presos na corrida pelo aumento da nossa renda mensal, sem a qual
+   nos veremos privados de uma série de serviços essenciais, inclusive a
+   participação na cultura que nos cerca. Viver deixa de ser um passeio,
+   ou uma construção que nos pertence, para se transformar numa permanente
+   corrida de pedágio em pedágio. Onde antes as pessoas tinham o prazer de
+   tocar um instrumento, hoje pagam o direito de acessar a música. Onde
+   antes jogavam uma pelada na rua, hoje assistem a um espetáculo
+   esportivo, enquanto mastigam salgadinhos no sofá, tudo graças ao
+   «pay-per-view». O que estamos construindo, é um permanente
+   «pay-per-life».
+
+   O deslocamento teórico é significativo. O proprietário de meios de
+   produção tinha a chave da fábrica, bem físico que constituia uma
+   propriedade concreta: hoje é dono de um processo e cobra pela sua
+   utilização. E como os processos tornam-se cada vez mais densos em
+   informação e conhecimento, assumem maior importância a propriedade
+   intelectual, as patentes e os copyrights. O conhecimento constitui um
+   bem que não deixa de pertencer a alguém quando o passa a outros,  e
+   estamos na era da tecnologia da conectividade. Assim a sua facilidade
+   de disseminação torna-se imensa, e a apropriação privada gera entraves.
+   Vemos assim todo o peso da constatação de Gorz vista acima, de que «os
+   meios de produção se tornaram apropriáveis e suscetíveis de serem
+   partilhados». Em termos técnicos, o conhecimento é um bem cujo consumo
+   não reduz o estoque. Não é à toa que a negociação TRIPs (Trade Related
+   Intellectual Property) constitui o principal debate na Organização
+   Mundial do Comércio e está no centro das lutas por uma sociedade livre.
+   Onde no século passado a batalha era em torno da propriedade dos bens
+   de produção, hoje se deslocou para a área da economia da criatividade.
+
+
+   O ACESSO DESIGUAL
+
+   Como escreve Stiglitz, «a inovação está no coração do sucesso de uma
+   economia moderna. A questão é de como melhor promovê-la. O mundo
+   desenvolvido arquitetou cuidadosamente leis que dão aos inovadores um
+   direito exclusivo às suas inovações e aos lucros que delas fluem. Mas a
+   que prêço? Há um sentimento crescente de que algo está errado com o
+   sistema que governa a propriedade intelectual. O receio é que o foco
+   nos lucros para as corporações ricas represente uma sentença de morte
+   para os muito pobres no mundo em desenvolvimento»[50]^23.
+
+   Por exemplo, explica Stiglitz, «isto é particularmente verdadeiro
+   quando patentes tomam o que era previamente de domínio público e o
+   privatizam  o que os juristas da Propriedade Intelectual têm
+   chamado, como vimos, de novo «enclosure movement». Patentes sobre o
+   arroz Basmati (que os indianos pensavam conhecer havia centenas de
+   anos), ou sobre as propriedades curativas do turmeric (gengibre)
+   constituem bons exemplos».
+
+   Segundo o autor, «os países em desenvolvimento são mais pobres não só
+   porque têm menos recursos, mas porque há um hiato em conhecimento. Por
+   isto o acesso ao conhecimento é tão importante. Mas ao reforçar o
+   controle (stranglehold) sobre a propriedade intelectual, as regras de
+   PI (chamadas TRIPS) do acordo de Uruguay reduziram o acesso ao
+   conhecimento por parte dos países em desenvolvimento. O TRIPS impôs um
+   sistema que não foi desenhado de maneira ótima para um país industrial
+   avançado, mas foi ainda menos adequado para um país pobre. Eu era
+   membro do Conselho Econômico do presidente Clinton na época em que a
+   negociação do Uruguay Round se completava. Nós e o Office of Science
+   and Technology Policy nos opunhamos ao TRIPS. Achávamos que era ruim
+   para a ciência americana, ruim para o mundo da ciência, ruim para os
+   países em desenvolvimento» Stiglitz (2006).
+
+   A questão assumiu uma dimensão mais dramática quando, com o colapso
+   climático mundial, torna-se necessário assegurar ao mundo inteiro
+   acesso às mais avançadas tecnologias que permitam substituir práticas
+   intensivas em emissão de gazes de efeito de estufa. A recomendação do
+   relatório das Nações Unidas World Economic and Social Survey 2009,
+   considera essencial, para reduzir a pressão dos desastres ambientais no
+   terceiro mundo, buscar um «regime equilibrado de propriedade
+   intelectual para a transferência de tecnologias». Além de sugerir de se
+   aproveitar ao máximo as «flexibilidades» existentes no sistema, o
+   Survey sugere que «opções como permitir que os países em
+   desenvolvimento possam excluir setores críticos do controle de
+   patentes, bem como um pool global de tecnologia para enfrentar a
+   mudança climática, merecem séria consideração, já que estas opções
+   permitiriam ter segurança e previsibilidade no acesso às tecnologias e,
+   além disso, estimulariam a tão necessária pesquisa e desenvolvimento
+   para uma adaptação local e difusão, o que reduziria os custos das
+   tecnologias. Além do mais, modalidades de acesso às tecnologias com
+   financiamento público para empresas de países em desenvolvimento
+   precisam ser exploradas»[51]^24. Vemos aqui, num relatório de grande
+   importância internacional, explicitada a necessidade de se ir além do
+   protecionismo das patentes. É igualmente curioso constatar que isto não
+   significaria um entrave, e sim um estímulo à «tão necessária pesquisa e
+   desenvolvimento», além de uma redução de custos.
+
+   É uma tomada de posição importante, nesta época em que é bom tom
+   respeitar a propriedade intelectual, sem que as pessoas se dêm conta
+   que estamos essencialmente respeitando a sua monopolização e controle
+   por intermediários. Precisamos de regras mais flexíveis e mais
+   inteligentes, e sobretudo reduzir os prazos absurdos de décadas que
+   extrapolam radicalmente o tempo necessário para uma empresa recuperar
+   os seus investimentos em novas tecnologias. Quanto a patentear bens
+   naturais de países pobres para em seguir cobrar royalties sobre
+   produções tradicionais, já é simplesmente extorsão. A pirataria, neste
+   caso, vem de cima[52]^25.
+
+   Assim, a economia do conhecimento desenha uma nova divisão
+   internacional do trabalho, entre os países que se concentram nos
+   intangíveis  finanças internacionais, pesquisa e desenvolvimento,
+   design, advocacia, contabilidade, publicidade, sistemas de controle  e
+   os que continuam com tarefas centradas na produção física. Onde
+   antigamente tínhamos a produção de matérias-primas num pólo, e produtos
+   industriais no outro, hoje passamos a ter uma divisão mais fortemente
+   centrada na divisão entre produção material e produção imaterial.
+
+   Uma leitura particularmente interessante sobre este tema é o livro de
+   Chang, Chutando a Escada, que mostra como os países hoje desenvolvidos
+   se apropriaram dos conhecimentos gerados em qualquer parte do mundo,
+   por meio de cópia, roubo ou espionagem, sem se preocuparem na época com
+   a propriedade intelectual. Utilizaram a escada para subir, e agora a
+   chutaram para o lado, impedindo outros de seguirem o seu caminho. O que
+   seria do Japão, ou da Coréia, se tivessem sido obrigados a fechar
+   pudicamente os olhos sobre as inovações no resto do mundo, ou a pagar
+   todos os royalties? O livro de Chang é extremamente bem documentado, e
+   mostra como, antes dos asiáticos, os Estados Unidos já adotaram as
+   mesmas práticas relativamente à Inglaterra, bem como a Inglaterra as
+   adotou relativamente à Holanda. O livre acesso dos países pobres ao
+   conhecimento, condição essencial do seu progresso e do reequilibramento
+   planetário, é hoje sistematicamente travado, quando deveria ser
+   favorecido e subvencionado, para reduzir as tragédias sociais e
+   ambientais que se avolumam[53]^26.
+
+     (A concluir no próximo número)
+
+
+   O presente artigo baseia-se em parte no capítulo «Economia do
+   conhecimento» do nosso Democracia Econômica, Ed. Vozes, 2008.
+
+
+
+   REFERÊNCIAS BIBLIOGRÁFICAS
+
+   ALPEROVITZ, G. e DALY, L. (2008), Unjust Deserts: How the Rich are
+   Taking Our Common Inheritance. The New Press, Nova Iorque, Londres,
+
+   ANGELL, M. (2007), A Verdade sobre os Laboratórios Farmacêuticos. Ed.
+   Record, São Paulo.         [ [54]Links ]
+
+   BENKLER, Y. (2009), The Wealth of Networks: How Social Production
+   Transforms Markets and Freedom. Yale University Press, New Haven,
+   Londres.
+
+   BERNERS-LEE, T. (2000), Weaving the Web. Harper Paperbacks, Nova
+   Iorque.
+
+   BIAGINI, C. e CARNINO, G. (2009), Biblioteca de Bolso. Le Monde
+   Diplomatique Brasil. Setembro.
+
+   BOYLE, J. (2008), The Public Domain: Enclosing the Commons of the Mind.
+   Yale University Press, New Haven, Londres.
+
+   CAMPBELL , M. (2009), «Robots to get their own operating system», New
+   Scientist, 8 de Agosto, p. 18.
+
+   «Carta de São Paulo de Acesso aos Bens Culturais». Disponível em:
+   [55]http://stoa.usp.br/acesso.
+
+   CASTELLS, M. (2006), The Rise of the Network Society. Editora
+   Blackwell, Oxford.
+
+   CHANG, H.-J. (2002), Kicking Away the Ladder: Development Strategy in
+   Historical Perspective. Anthem Press, Lo ndres. No Brasil, Chutando a
+   Escada (2003), Unesp, São Paulo.
+
+   CRAVEIRO, G.; MACHADO, J. e ORTELLADO, P. (2008), O Mercado de Livros
+   Técnicos e Científicos no Brasil. GPOPAI, USP Leste, São Paulo.
+
+   «Creative Commons: Disponível em:
+   [56]http://creativecommons.org/licenses/by-nc/2.5/br/ ou
+   [57]http://www.creativecommons.org.br/ .
+
+   DIAS, L.R. (2006) «O direito democrático à comunicação», A Rede:
+   Tecnologia para a inclusão social, ano 2, n.º 17, 15 de Agosto.
+   Disponível em: [58]www.arede.inf.br.
+
+   DOWBOR, L. (2008), Democracia Econômica: Novas Tendências da Gestão
+   Social. Ed. Vozes, Petrópolis.
+
+   DOWBOR, L. «Informação para a cidadania e o desenvolvimento
+   sustentável», Disponível em Artigos Online: [59]http://dowbor.org.
+
+   ECKERSLEY, P. (2009) «Knowledge wants to be free too», New Scientist,
+   27 de Junho, p. 28. Disponível em:
+   [60]http://www.newscientist.com/article/mg20227141.000-finding-a-fair-p
+   rice-for-free-knowledge.html?full=true&print=true
+
+   Electronic Foundation Frontier: [61]www.eff.org.
+
+   GPOPAI  Grupo de Pesquisa em Políticas Públicas para o Acesso à
+   Informação  USP-Leste: [62]www.gpopai.usp.br.
+
+   LESSIG, L. (2001), The Future of Ideas: The Fate of the Commons in an
+   Connected World, Random House, Nova Iorque.
+
+   LESSIG, L. (2008), Remix: Making Art and Commerce Thrive in the Hybrid
+   Economy. The Penguin Press, Nova Iorque.
+
+   MARKS, Paul (2006) «Cities race to reap the rewards of wireless net for
+   all». New Scientist , 25 de Março,
+
+   MIT  [63]http://ocw.mit.edu/OcwWeb/web/home/home/index.htm - site do
+   Massachussets Institute of Technology, ciência disponível em Creative
+   Commons.
+
+   MIT (2009)  Faculty open access to their scholarly articles -
+   [64]http://web.mit.edu/newsoffice/2009/open-access-0320.html - MIT
+   News, 20 de Março.
+
+   ORTELLADO, P. (2009), «Mais acesso à produção cultural». Entrevista em
+   A Rede, ano 6, n.º 51, Setembro. Disponível em: [65]www.arede.inf.br.
+
+   RAYMOND, E. S. (2001), The Cathedral and the Bazaar: Musings on Linux
+   and Open Source, OReilly, Cambridge,
+   [66]http://www.opencontent.org/openpub/.
+
+   RIFKIN, J. (2001), A Era do Acesso, Makron Books, São Paulo.
+
+   STIGLITZ, J. (2006) «A better way to crack it». New Scientist , 16 de
+   Setembro, p. 20.
+
+   TAPSCOTT, D. e WILLIAMS A. (2007), Wikinomics:Como a Colaboração em
+   Massa Pode Mudar o Seu Negócio, Ed. Nova Fronteira, Rio de Janeiro.
+
+   UN (2009), «World Economic and Social Survey 2009  Promoting
+   Development and Saving the Planet». Disponível em:
+   [67]www.un.org/esa/policy/wess/wess2009files/wess09/overview_en.pdf .
+
+   USP-Leste  GPOPAI. Pesquisa disponível em:
+   [68]http://www.gpopai.usp.br/boletim/article86.html.
+
+
+   NOTAS
+
+   ^[69]1«Se a natureza fez alguma coisa menos suscetível do que qualquer
+   outra de constituir propriedade exclusiva, é a ação do poder do
+   pensamento que chamamos de idéia».
+
+   ^[70]2«O objetivo do copyright é de encorajar a produção e acesso a
+   obras culturais. Desempenhou o seu papel encorajando a produção. Agora
+   opera como uma cerca para impedir o acesso» (Boyle, p. 224).
+
+   ^[71]3LESSIG, Lawrence, Remix, p. 39.
+
+   ^[72]4«As a recent survey by the market research firm NPD Group
+   indicated,more than two-thirds of all the music college students
+   acquired was obtained illegally, citado por Lawrence Lessig, em Remix,
+   p. 111. Lessig considera que devemos «reformar leis que tornam
+   criminosa a maior parte do que os nossos filhos fazem com os seus
+   computadores» (p. 19).
+
+   ^[73]5BOYLE, James (2008), The Public Domain: Enclosing the Commons of
+   the Mind, Yale University Press, New Haven & London, , p. 224. No
+   original em inglês: «The majority of sound recordings made more than
+   forty years ago are commercially unavailable. After fifty years, only a
+   tiny percentage is still being sold. It is extremely hard to find the
+   copyright holders of the remainder. They might have died, gone out of
+   business, or simply stopped caring. Even if the composer can be found,
+   or paid through a collection society, without the consent of the holder
+   of the copyright over the musical recording, the work must stay in the
+   library. These are orphan works  a category that probably comprises
+   the majority of twentieth-century cultural artifacts. Yet as I pointed
+   out earlier, without the copyright holders permission, it is illegal
+   to copy or redistribute or perform these works, even if it is done on a
+   nonprofit basis. The goal of copyright is to encourage the production
+   of, and public access to, cultural works. It has done its job in
+   encouraging production. Now it operates as a fence to discourage
+   access. As the years go by, we continue to lock up to 100 percent of
+   our recorded culture from a particular year in order to benefit an
+   ever-dwindling percentage  the lottery winners  in a grotesquely
+   inefficient cultural policy» (p. 224).
+
+   ^[74]6Ver o artigo de Jorge Machado sobre a adesão de Paulo Coelho à
+   «Carta de São Paulo» sobre propriedade intelectual, em
+   [75]http://www.gpopai.usp.br/boletim/article88.html. «Pensei que isto é
+   fantástico. Dar ao leitor a possibilidade de ler o nosso livro e
+   escolher se o quer comprar ou não», diz Paulo Coelho, que criou o blog
+   [76]www.piratecoelho.wordpress.com. Paulo Coelho é, sem dúvida, um
+   «ganhador na loteria», mas entendeu o absurdo do processo.
+
+   ^[77]7BIAGINI, Cédric e CARNINO, Guillaume (2009), «Biblioteca de
+   Bolso», Le Monde Diplomatique Brasil, Setembro, p. 38.
+
+   ^[78]8CASTELLS, Manuel, The Rise of the Network Society, vol. I, p. 75.
+   Castells considera que este novo fator de produção exige intervenção
+   pública: «Deregulation and privatization may be elements of states
+   development strategy, but their impact on economic growth will depend
+   on the actual content of these measures and on their linkage to
+   strategies of positive intervention, such as technological and
+   educational policies to enhance the countrys endowment in
+   informational production factors» (idem, ibid., p. 90).
+
+   ^[79]9GORZ, André (2005), O Imaterial: Conhecimento, Valor e Capital,
+   Ed. Annablume, São Paulo, p. 21. O original fra ncés, LImmatériel, foi
+   publicado em 2003. Yochai Benkler, em particular, insiste muito no fato
+   de que hoje uma pessoa não precisar de investimentos pesados para ser
+   produtiva na era do conhecimento.
+
+   ^[80]10BENKLER, Yochai, (2009), The Wealth of Networks: How Social
+   Production Transforms Markets And Freedom, Yale University Press, New
+   Haven, Londres, p. 8, no original: «The networked information economy
+   improves the practical capacities of individuals along three
+   dimensions: (1) it improves their capacity to do more for and by
+   themselves; (2) it enhances their capacity to do more in loose
+   commonality with others, without being constrained to organize their
+   relationship through a price system or in traditional hierarchical
+   models of social and economic organization; and (3) it improves the
+   capacity of individuals to do more in formal organizations that operate
+   outside the market sphere». É significativo o fato do autor
+   disponibilizar o seu livro gratuitamente online em
+   [81]http://www.benkler.org.
+
+   ^[82]11LESSIG, Lawrence ( 2001) , The Future of Ideas: The Fate of the
+   Commons in a Connected World , Random House, Nova Iorque, 340 pp.
+
+   ^[83]12No original: «More property rights, even though they supposedly
+   offer greater incentives, do not necessarily make for more and better
+   production and innovation  sometimes just the opposite is true. It may
+   be that the intellectual property rights slow down innovation, by
+   putting multiple roadblocks in the way of subsequent innovation. Using
+   a nice inversion of the idea of the tragedy of the commons, Heller and
+   Eisenberg referred to these effects  the transaction costs caused by
+   myriad property rights over the necessary components of some subsequent
+   innovation  as the tragedy of the anticommons», BOYLE, James, The
+   Public Domain, p. 49, itálico do autor. O conceito de «commons» é de
+   difícil tradução. Trata-se de bens de propriedade comum, da comunidade.
+   Temos encontrado o conceito de «domínio público».
+
+   ^[84]13No original: «In the world of the 1950s, these assumptions make
+   some sense  though we might still disagree with the definition of the
+   public interest. It was assumed by many that copyright need not and
+   probably should not regulate private, noncommercial acts. The person
+   who lends a book to a friend or takes a chapter into class is very
+   different from the company with a printing press that chooses to
+   reproduce ten thousand copies and sell them. The photocopier and the
+   VCR make that distinction fuzzier, and the networked computer threatens
+   to erase it altogether. () In a networked society, copying is not only
+   easy, it is a necessary part of transmission, storage, caching, and,
+   some would claim, even reading» (Boyle, p. 51).
+
+   ^[85]14Um seguimento sistemático da concentração de renda nos EUA pode
+   ser encontrado no site [86]www.toomuch.org e nos trabalhos de Sam
+   Pizzigati, publicados no mesmo. No planeta, ver The Inequality
+   Predicament (2005), ONU, Nova Iorque.
+
+   ^[87]15Joseph Stiglitz deve o seu prêmio Nobel do Banco da Suécia ao
+   estudo dos impactos da assimetria da informação. O livre acesso ao
+   conhecimento é assunto bem mais amplo do que as brigas das editoras e
+   outras empresas que fornecem suporte físico a bens culturais. A
+   impressionante acumulação de fortunas por especuladores financeiros
+   está também diretamente ligada ao acesso desigual à informação. Hoje,
+   segundo a revista The Economist, 40% do lucro corporativo nos Estados
+   Unidos vem de renda financeira: «In America the industrys share of
+   total corporate profits climbed from 10% in the early 1980s to 40% at
+   its peak in 2007», «A special report on the future of finance», The
+   Economist, 2009, 24 de Janeiro, p. 20.
+
+   ^[88]16ALPEROVITZ, Gar e DALY Lew, (2008), Unjust Deserts The New
+   Press, Londres, Nova Iorque, p. 55. «What they do not have to consider
+    ever  is the huge collective investment that brought genetic science
+   from its isolated beginnings to the point at which the company makes
+   its decision. All of the biological, statistical, and other knowledge
+   without which none of todays highly productive and disease-resistant
+   seeds could be developed  and all of the publication, research,
+   education, training and related technical devices without which
+   learning and knowledge could not have been communicated and nurtured at
+   each particular stage of development, and then passed on over time and
+   embodied, too, in a trained labor force of technicians and scientists 
+   all of this comes to the company free of charge, a gift of the past».
+
+   ^[89]17Nas mais variadas áreas econômicas, são cada vez menos os
+   produtores  os «engenheiros» do processo econômico, digamos assim, os
+   que desenvolvem processos tecnológicos e produtivos  que controlam o
+   mundo corporativo, e cada vez mais holdings interempresarias,
+   marketeiros, empresas de intermediação financeira, jurídica e
+   semelhantes. Desenvolvemos este conceito do controle dos processos
+   produtivos através dos «intangíveis» em Democracia Econômica, Ed.
+   Vozes, 2008.
+
+   ^[90]18Lessig (2001), op. cit., p. 94, citando T. Jefferson: «If nature
+   has made any one thing less susceptible than all others of exclusive
+   property, it is the action of the thinking power called an idea That
+   ideas should freely spread from one to another over the globe, for the
+   moral and mutual instruction of man, and improvement of his condition,
+   seems to have been peculiarly and benevolently designed by nature, when
+   she made them, like fire, expansible over all space, without lessening
+   their density at any point, and like the air in which we breathe, move,
+   and have our physical being, incapable of confinement, or exclusive
+   appropriation. Inventions then cannot, in nature, be a subject of
+   property.» Ver também Boyle, op. cit., p. 20.
+
+   ^[91]19LESSIG, Lawrence, op. cit., p. 243.
+
+   ^[92]20Idem, p. 249.
+
+   ^[93]21RIFKIN, Jeremy (2001), The Age of Access, Penguin Books, Nova
+   Iorque, publicado no Brasil como A Era do Acesso, pela Makron Books em
+   2001. Esta necessidade de pagar pedágio sobre tudo o que fazemos pode
+   ser opressiva. Muitos investem as suas poupanças na casa própria, na
+   segurança de um teto que não dependerá da capacidade oscilante de pagar
+   o aluguel. Hoje, tudo passa a depender de inúmeros «aluguéis», e não
+   vemos no horizonte a perspectiva de vivermos mais tranquilos. Uma
+   pessoa que, por alguma razão, perde a sua fonte de renda, se vê assim
+   rigorosamente excluída de um conjunto de serviços que exigem
+   regularidade de pagamento. A situação particularmente dramática dos
+   aposentados de baixa renda tem hoje também de ser vista nesta
+   perspectiva mas, na realidade, estamos todos nos sentindo cada vez mais
+   acuados. O pedágio está a cada passo da nossa vida. Bons tempos em que
+   nos queixávamos apenas dos impostos públicos. O conceito de acesso
+   público gratuito está voltando com força, pelo simples bom senso dos
+   consumidores, e pela compreensão das dimensões discriminatórias geradas
+   pela apropriação privada.
+
+   ^[94]22DOWBOR, Ladislau (2003), A Reprodução Social , Ed. Vozes,
+   Petrópolis.
+
+   ^[95]23STIGLIT Z, Joseph ( 2006), «A better way to crack it», New
+   Scientist, 16 de Setembro, p. 20.
+
+   ^[96]24No original em inglês: «A balanced intellectual property regime
+   for technology transfer: Options such as allowing developing countries
+   to exclude critical sectors from patenting, as well as a global
+   technology pool for climate change, merit serious consideration, as
+   these options would provide certainty and predictability in accessing
+   technologies and further enable much-needed research and development
+   for local adaptation and diffusion, which would further reduce the cost
+   of the technologies. In addition, modalities for access to publicly
+   funded technologies by developing-country firms need to be explored» UN
+   (2009), World Economic and Social Survey 2009, Overview, p. 21.
+
+   ^[97]25Nos casos do cupuaçu, do açaí e da familiar rapadura, por
+   exemplo, o Brasil teve de empreender batalhas jurídicas internacionais
+   para recuperar os direitos apropriados por patentes na Alemanha, nos
+   Estados Unidos e no Japão. Países mais fracos não têm sequer como
+   enfrentar o problema. A biopirataria é um problema muito amplo, mas os
+   piratas de olhos azuis não ocupam os mesmos espaços na mídia.
+
+   ^[98]26CHANG, Ha-Joon (2002), Kicking Away the Ladder: Development
+   Strategy in Historical Perspective, Anthem Press, Londres. No Brasil,
+   edição da Unesp, 2003; em outro livro, Globalization, Economic
+   Development and the Role of the State, Chang apresenta os resultados
+   das diversas pesquisas realizadas sobre os impactos do protecionismo
+   assim gerado pelos países desenvolvidos e conclui: «Demonstramos que
+   não há base teórica nem empírica para apoiar o argumento de que uma
+   forte proteção dos direitos privados de propriedade intelectual é
+   necessária para o progresso tecnológico e portanto para o
+   desenvolvimento econômico, particularmente para os países em
+   desenvolvimento». O «a quem aproveita» aqui é claro: 97% das patentes
+   do mundo pertencem aos países desenvolvidos, (p. 293). A ampliação da
+   abrangência de patentes e copyrights constitui na realidade uma nova
+   forma de protecionismo, adaptada à economia do conhecimento, como o são
+   as tarifas aduaneiras sobre bens físicos, tão denunciadas pelos adeptos
+   da globalização.
+
+   Complexo INDEG/ISCTE
+   Avª Prof. Aníbal Bettencourt
+   Campo Grande
+   1600-189 LISBOA
+   [e-mailt.gif]
+   [99]revistas.indeg@iscte.pt
+
+Références
+
+   1. http://scielo.pt/scielo.php?lng=pt
+   2. http://scielo.pt/scielo.php?script=sci_issuetoc&pid=0873-744420100001&lng=pt&nrm=isso
+   3. http://scielo.pt/scielo.php?script=sci_arttext&pid=S0873-74442010000100001&lng=pt&nrm=isso
+   4. http://scielo.pt/scielo.php?script=sci_arttext&pid=S0873-74442010000100003&lng=pt&nrm=isso
+   5. http://scielo.pt/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article^degg&index=AU&format=isso.pft&lang=p&limit=0873-7444
+   6. http://scielo.pt/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article^degg&index=KW&format=isso.pft&lang=p&limit=0873-7444
+   7. http://scielo.pt/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article^degg&format=isso.pft&lang=p&limit=0873-7444
+   8. http://scielo.pt/scielo.php?script=sci_serial&pid=0873-7444&lng=pt&nrm=isso
+   9. http://scielo.pt/scielo.php?script=sci_alphabetic&lng=pt&nrm=isso
+  10. http://analytics.scielo.org/?journal=0873-7444&collection=prt
+  11. file:///pdf/egg/v15n1/v15n1a02.pdf
+  12. http://scielo.pt/scieloOrg/php/articleXML.php?pid=S0873-74442010000100002&lang=pt
+  13. javascript: void(0);
+  14. javascript:void(0);
+  15. javascript:void(0);
+  16. http://analytics.scielo.org/?document=S0873-74442010000100002&collection=prt
+  17. javascript: void(0);
+  18. javascript:void(0);
+  19. http://analytics.scielo.org/w/accesses?document=S0873-74442010000100002&collection=prt
+  20. http://www.mendeley.com/import/?url=http://scielo.pt/scielo.php?script=sci_arttext&pid=S0873-74442010000100002&lng=pt&nrm=isso&tlng=pt
+  21. https://www.addthis.com/bookmark.php?v=250&username=xa-4c347ee4422c56df
+  22. https://www.addthis.com/bookmark.php?v=250&username=xa-4c347ee4422c56df
+  23. javascript:void(0);
+  24. http://scielo.pt/scielo.php?script=sci_serial&pid=0873-7444&lng=pt&nrm=isso
+  25. mailto:ladislau@dowbor.org
+  26. http://dowbor.org/
+  27. http://dowbor.org/
+  28. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#1
+  29. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#2
+  30. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#3
+  31. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#4
+  32. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#5
+  33. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#6
+  34. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#7
+  35. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#8
+  36. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#9
+  37. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#10
+  38. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#11
+  39. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#12
+  40. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#13
+  41. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#14
+  42. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#15
+  43. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#16
+  44. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#17
+  45. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#18
+  46. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#19
+  47. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#20
+  48. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#21
+  49. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#22
+  50. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#23
+  51. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#24
+  52. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#25
+  53. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#26
+  54. javascript:void(0);
+  55. http://stoa.usp.br/acesso
+  56. http://creativecommons.org/licenses/by-nc/2.5/br/
+  57. http://www.creativecommons.org.br/
+  58. http://www.arede.inf.br/
+  59. http://dowbor.org/
+  60. http://www.newscientist.com/article/mg20227141.000-finding-a-fair-price-for-free-knowledge.html?full=true&print=true
+  61. http://www.eff.org/
+  62. http://www.gpopai.usp.br/
+  63. http://ocw.mit.edu/OcwWeb/web/home/home/index.htm
+  64. http://web.mit.edu/newsoffice/2009/open-access-0320.html
+  65. http://www.arede.inf.br/
+  66. http://www.opencontent.org/openpub/
+  67. http://www.un.org/esa/policy/wess/wess2009files/wess09/overview_en.pdf
+  68. http://www.gpopai.usp.br/boletim/article86.html
+  69. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top1
+  70. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top2
+  71. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top3
+  72. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top4
+  73. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top5
+  74. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top6
+  75. http://www.gpopai.usp.br/boletim/article88.html
+  76. http://www.piratecoelho.wordpress.com/
+  77. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top7
+  78. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top8
+  79. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top9
+  80. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top10
+  81. http://www.benkler.org/
+  82. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top11
+  83. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top12
+  84. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top13
+  85. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top14
+  86. http://www.toomuch.org/
+  87. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top15
+  88. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top16
+  89. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top17
+  90. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top18
+  91. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top19
+  92. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top20
+  93. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top21
+  94. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top22
+  95. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top23
+  96. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top24
+  97. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top25
+  98. file:///tmp/lynxXXXXBIWNfW/L17956-6026TMP.html#top26
+  99. mailto:revistas.indeg@iscte.pt

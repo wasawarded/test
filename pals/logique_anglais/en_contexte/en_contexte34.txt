@@ -1,0 +1,30 @@
+    3. Computer Science
+    4. Technical Reports from UMIACS
+    5. Information Retrieval on the World Wide Web and Active Logic: A
+       Survey and Problem Definition
+
+
+   Information Retrieval on the World Wide Web and Active Logic: A Survey
+   and Problem Definition
+   Loading...
+--
+   involves.
+
+   Active Logic is a formalism that has been developed with real-world
+   applications and their challenges in mind. Motivating its design is the
+   thought that one of the factors that supports the flexibility of human
+   reasoning is that it takes place step-wise, in time. Active Logic is
+   one of a family of inference engines (step-logics) that explicitly
+   reason in time, and incorporate a history of their reasoning as they
+   run. This characteristic makes Active Logic systems more flexible than
+   traditional AI systems and therefore more suitable for commonsense,
+   real-world reasoning. In this report we mainly will survey recent
+--
+   concentrate on topic-specific search engines, focused crawling, and
+   finally will propose an Information Integration Environment, based on
+   the Active Logic framework.
+
+   Keywords: Web Information Retrieval, Web Crawling, Focused Crawling,
+   Machine Learning, Active Logic (Also UMIACS-TR-2001-69)
+
+Notes

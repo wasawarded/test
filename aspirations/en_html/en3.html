@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Personal website of Dr. Christian Muise.">
+        <meta name="author" content="Floating Tree">
+        <link rel="shortcut icon" href="../images/christian_icon.png">
+        <link href='http://fonts.googleapis.com/css?family=Roboto:400,500,900,400italic|Roboto+Slab:400,300,700' rel='stylesheet' type='text/css'>
+        <title>DSHARP: Beyond NP Submission</title>
+        <!-- Bootstrap core CSS -->
+        <link href="../css/bootstrap.css" rel="stylesheet">
+        <!-- Custom styles for this template -->
+        <link href="../css/k-style.css" rel="stylesheet">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+          <script src="../../assets/js/html5shiv.js"></script>
+          <script src="../../assets/js/respond.min.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+	
+        <div class="container">
+
+            <div class="jumbotron">
+                    
+                <div class="col-md-12 left-col">
+                    <h1>DSHARP: Fast d-DNNF Compilation with sharpSAT<br /> (Amended Version)</h1>
+                    <h3>Description</h3>
+					<p>As a submission to the <a href="http://beyondnp.org/workshop16/">Beyond NP workshop</a> at AAAI 2016, we amended the <a href="http://www.canadianai.ca/AI_2012/">2012 Canadian AI</a> paper that describes DSHARP [1]. Unfortunately, due to copyright regulations with the publisher Springer, this submission can not be distributed publicly. However, the additional text is reproduced below, and a slightly extended version of the original Canadian AI paper submitted at a prior workshop can be found <a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.170.7753">here</a>.
+				    
+                    <h3>Related Work</h3>
+				    
+				    <p>Relying on the trace of a complete DPLL based solver is the prevailing technique for CNF → d-DNNF compilers, used by both DSHARP and C2D [2]. The DPLL trace has been leveraged for proving bounds on model counting, such as the work of Beame et al. [3]. It has also been used to good effect for proving theoretical results about the worst-case size complexity of the d-DNNF representation [4].</p>
+				    
+				    <p>Knowledge compilers (including the DSHARP software presented in this paper) have played a role as subcomponents in larger systems. One example is in the SAT-based analysis of quantification information flow programs, where efficient methods for conditioned model counting using d-DNNF were exploited [5]. Another example is the Probabilistic Logic Programming framework, ProbLog [6]. Here, the model counters were used to provide probabilistic inference for targeted queries compiled from a given logic program.</p>
+				    
+				    <p>Finally, since the original publication of this work in 2012 by Muise et al., the DSHARP software has been extended in a variety of ways. Most notably, the software has been extended to do model counting with the assumption of stable model semantics [7], as well as extended to do projected model counting and projected knowledge compilation [8].</p>
+				    
+				    <p>For stable model counting, every model represented by the compiled theory must be stable: a notion in logic programming that stipulates that the truth of atoms cannot be self supporting given the logic program’s rules [9]. To accommodate for stable models, DSHARP was modified to include an internal propagator that rules out any model deemed not stable. Subsequently, clauses are learned to rule out the unstable models and the final compiled d-DNNF theory represents all stable models.</p>
+				    
+				    <p>The problem of projected model counting (respectively projected knowledge compilation) is to count the number of models (resp. produce the d-DNNF) for the Boolean theory after projecting away a subset of the variables. Intuitively, a model for the projected theory exists if the same setting of variables corresponds to at least one model of the full theory. DSHARP was modified in a variety of ways to achieve projected model counting and knowledge compilation. These included (1) dedicated variable ordering heuristics to focus on the projected variables; (2) advanced back-tracking to avoid recomputing the same projected model; and (3) a re-determinization method to convert a DNNF theory back into d-DNNF.</p>
+				    
+				    <ol>
+					    <li>Muise, C.; Mcilraith, S. A.; Beck; Christopher, J.; and Hsu, E. 2012. DSHARP: Fast d-DNNF Compilation with sharpSAT. In Canadian Conference on Artificial Intelligence.</li>
+						<li>Darwiche, A. 2004. New advances in compiling CNF to decomposable negational normal form. In Proceedings of European Conference on Artificial Intelligence.</li>
+						<li>Beame, P.; Li, J.; Roy, S.; and Suciu, D. 2013. Lower bounds for exact model counting and applications in probabilistic databases. In Proceedings of the Twenty-Ninth Conference on Uncertainty in Artificial Intelligence, UAI 2013, Bellevue, WA, USA, August 11-15, 2013.</li>
+						<li>Oztok, U., and Darwiche, A. 2014. On compiling CNF into decision-dnnf. In Principles and Practice of Constraint Programming - 20th International Conference, CP 2014, Lyon, France, September 8-12, 2014. Proceedings, 42–57.</li>
+						<li>Klebanov, V.; Manthey, N.; and Muise, C. 2013. SAT-based Analysis and Quantification of Information Flow in Programs. In 10th International Conference on Quantitative Evaluation of SysTems (QEST 2013), 177–192.</li>
+						<li>Fierens, D.; den Broeck, G. V.; Renkens, J.; Shterionov, D. S.; Gutmann, B.; Thon, I.; Janssens, G.; and Raedt, L. D. 2015. Inference and learning in probabilistic logic programs using 15(3):358–401.</li>
+						<li>Aziz, R. A.; Chu, G.; Muise, C.; and Stuckey, P. 2015. Stable model counting and its application in probabilistic logic programming. In The 29th AAAI Conference on Artificial Intelligence.</li>
+						<li>Aziz, R. A.; Chu, G.; Muise, C.; and Stuckey, P. 2015. Projected model counting. In International Conference on Theory and Applications of Satisfiability Testing.</li>
+						<li>Gelfond, M., and Lifschitz, V. 1988. The stable model semantics for logic programming. In Logic Programming, Proceedings of the Fifth International Conference and Symposium, Seattle, Washington, August 15-19, 1988 (2 Volumes), 1070–1080.</li>
+					</ol>
+				   
+                </div>
+                    
+            </div> 
+            
+            <div class="footer">
+                <p>&copy; 2017 Dr. Christian Muise</p>
+            </div>
+
+        </div> <!-- /container -->
+
+        <script src="js/jquery.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+
+    </body>
+</html>

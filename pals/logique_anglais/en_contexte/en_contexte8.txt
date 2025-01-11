@@ -1,0 +1,138 @@
+   Metalog, allows users to write metadata, inference rules and queries in
+   English-like syntax. We will demonstrate how these reasoning rules have
+   equivalent representation both as RDF descriptions and as logic
+   formulae. We will also show how an automated compilation between these
+   translations is possible, showing the effectiveness of the system,
+--
+
+   The second layer consists of a "logical interpretation" of RDF data
+   (optionally enriched with the semantic schema) into logic. This way,
+   the understood semantics of RDF is unwound into its logical components.
+   This means that every reasonment on RDF data can be performed acting
+   upon the corresponding logical view, providing a neat and powerful way
+   to reason about data. We call this level of Metalog the Metalog logic
+   level.
+
+--
+   logical inferences, the user will be able to simply express these using
+   the Metalog language. This layer is translated into the Metalog model,
+   and then using the Metalog logic interpretation, into logic. From here,
+   classic inference engines can then be applied, like logic programming,
+   datalog, theorem provers and so on. Also, all the already existing RDF
+   data will enter this "chain" directly into the Metalog model level.
+--
+The Metalog Model
+
+   We can extend RDF so that the mapping to logic is able to take
+   advantage of all of the logical relationships present in logical
+   systems: that is to say, behind the ability of expressing static facts,
+   we want the ability to encode dynamic reasoning rules, like in logic
+   programming.
+
+--
+   the connectors and, or, implies, and the variables. What the reader
+   should keep in mind is therefore just that the Metalog model provides
+   the "meta-logic" operators to reason with RDF statements.
+
+   Technically, this is quite easy to do: the metalog schema is just a
+--
+   and and or are subinstances of the RDF Bag connector.
+
+The Metalog Logic
+
+   Once we have extended "syntactically" the RDF model with connectors,
+--
+
+   The first correspondence in Metalog is between the basic RDF data model
+   and the predicates in logic. The RDF data model consists of so-called
+   statements Statements are triples where there is a subject (the
+   "resource"), a predicate (the "property"), and an object (the
+--
+   example, the RDF statement expressing the fact that Tim Berners-Lee
+   invented the Web (formally, the RDF triple {invented, Tim Berners-Lee,
+   Web}) is seen in logic as the predicate invented(Tim Berners-Lee, Web).
+   So, in general RDF statements have a natural translation into logic
+   predicates. The exceptions that Metalog does are for the so-called
+   sequencing constructs in RDF: Bag, Seq and Alt. These are codified
+--
+   like a set-like operator (that is to say,
+   Bag(X_1,...,X_n)=Bag(X_p(1),...,X_p(n)) for every permutation p). So,
+   in fact, Metalog logic is a kind of equational logic (see also later,
+   in the case of the mathematical operators).
+
+--
+
+   Then, we disambiguate using the metalog keywords. The basic metalog
+   mapping structure (here, we use a mapping directly to logic rather than
+   to Metalog model for conciseness) follows the classic grammatical model
+   of basic sentence, where we have a subject followed by a predicate and
+   then an object. This triple "subject predicate object" is naturally
+   translated into the logic binary predicate predicate(subject,object).
+   On top of this "basic model" of translation, more sophisticated
+   constructs are added, using the metalog keywords.
+--
+
+   Instead, the fact the ultimate point of the "Metalog chain" is the
+   Metalog logic, leads itself to a natural definition of query:
+   (constructive) satisfability. That is to say, any given logical formula
+   can be queried along the database, to check whether it is satisfable or
+--
+
+   Note that the RDF metalog model and the corresponding translation into
+   logical formulas in the Metalog logic is absolutely general. However,
+   in practice, one need also to then be able to process the resulting
+   logical formulas in an effective ways. In other words, while the
+--
+   particular inference engine to try to effectively deal with the
+   resulting logical knowledge basis. However, there are at least two
+   restrictions of the logic that deserves particular attention: logic
+   programming and datalog (see e.g. [1]). These paradigms are that they
+   are computationally rather efficient, such that there are many
+--
+   implemented) will always return the answer(s) in a finite amount of
+   time. The interesting things that makes these languages particularly
+   appealing in our case is due to the fact that both logic programming
+   and datalog restrict to binary predicates: this means that RDF (without
+   the ordering structures) is already directly mappable, via Metalog,
+   into a logic program. Therefore, just relatively small syntactical
+   constraints enables a metalog language program (and so, logic formula)
+   to be ultimately processed in an effective way using an already
+   existing  logic programming or datalog inference engine. This is indeed
+   what we are currently doing with our current prototype: interfacing
+   with existing logic programming/datalog systems (like, for example ,
+   [8]).
+
+--
+   first is liberal: it is up to the implementation to check whether the
+   metalog language code does actually satisfy the corresponding
+   restrictions such to be interpreted as a logic program, or as a datalog
+   program. This is consistent with the general philosophy of Metalog as
+   being a purely declarative and highly expressive language. The second
+--
+   restriction tag: a restriction tag is a metalog sentence expressing the
+   fact that the code indeed satisfies the appropriate syntactic
+   restrictions. So far, there are two restriction tags, one for logic
+   programming and the other for datalog. It is important to note that
+   these restriction tags are just annotations, that is to say they are in
+   all equivalent to comments, but for the fact that they provide a hint
+   to an eventual application that tries to process the metalog code, that
+   some particular inference engine (for logic programs, datalog programs,
+   etc) could be profitably used. It is semantically transparent, since
+   there is no actual representation of a restriction tag in the metalog
+--
+
+   This formula is just a Horn clause, and as such it means it can be
+   viewed as a logic program.
+
+   So, suppose we have already grabbed from somewhere in the Web some
+   pieces of RDF that tell us, for example, that "John" is the author of
+   "technical report 231", and that the language of "technical report 231"
+   is "English". This, again, can be viewed as part of a logic program
+   (technically, they are facts).
+   Then, if we want to know what language does John speak, we can just ask
+--
+   speak("John",Y).
+
+   Running this query in the corresponding logic program gives the result
+   that Y="English", that is to say, the predicate speak("John","English")
+   is true.

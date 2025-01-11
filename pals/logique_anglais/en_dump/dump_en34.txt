@@ -1,0 +1,137 @@
+   (BUTTON) Skip to main content
+
+   DRUM
+   Communities & Collections
+   All of DRUM
+   ____________________ (BUTTON)
+     * English
+     * العربية
+     * বাংলা
+     * Català
+     * Čeština
+     * Deutsch
+     * Ελληνικά
+     * Español
+     * Suomi
+     * Français
+     * Gàidhlig
+     * हिंदी
+     * Magyar
+     * Italiano
+     * Қазақ
+     * Latviešu
+     * Nederlands
+     * Polski
+     * Português
+     * Português do Brasil
+     * Srpski (lat)
+     * Српски
+     * Svenska
+     * Türkçe
+     * Yкраї́нська
+     * Tiếng Việt
+
+   Log In
+   (BUTTON) UMD Login
+   ____________________ ____________________ (BUTTON) Guest Researcher
+   Login
+   New user? Click here to register. Have you forgotten your password?
+    1. Home
+    2. College of Computer, Mathematical & Natural Sciences
+    3. Computer Science
+    4. Technical Reports from UMIACS
+    5. Information Retrieval on the World Wide Web and Active Logic: A
+       Survey and Problem Definition
+
+
+   Information Retrieval on the World Wide Web and Active Logic: A Survey
+   and Problem Definition
+   Loading...
+   Thumbnail Image
+
+Files
+
+   CS-TR-4291.pdf (305.26 KB)
+   No. of downloads: 4050
+
+Publication or External Link
+
+Date
+
+   2002-08-30
+
+Authors
+
+   Barfourosh, A. Abdollahzadeh
+   Nezhad, H. R. Motahary
+   Anderson, M. L.
+   Perlis, D.
+
+Advisor
+
+Citation
+
+DRUM DOI
+
+Abstract
+
+   As more information becomes available on the World Wide Web (there are
+   currently over 4 billion pages covering most areas of human endeavor),
+   it becomes more difficult to provide effective search tools for
+   information access. Today, people access web information through two
+   main kinds of search interfaces: Browsers (clicking and following
+   hyperlinks) and Query Engines (queries in the form of a set of keywords
+   showing the topic of
+   interest). The first process is tentative and time consuming and the
+   second may not satisfy the user because of many inaccurate and
+   irrelevant results. Better support is needed for expressing one's
+   information need and returning high quality search results by web
+   search tools. There appears to be a need for systems that do reasoning
+   under uncertainty and are flexible enough to recover from the
+   contradictions, inconsistencies, and irregularities that such reasoning
+   involves.
+
+   Active Logic is a formalism that has been developed with real-world
+   applications and their challenges in mind. Motivating its design is the
+   thought that one of the factors that supports the flexibility of human
+   reasoning is that it takes place step-wise, in time. Active Logic is
+   one of a family of inference engines (step-logics) that explicitly
+   reason in time, and incorporate a history of their reasoning as they
+   run. This characteristic makes Active Logic systems more flexible than
+   traditional AI systems and therefore more suitable for commonsense,
+   real-world reasoning. In this report we mainly will survey recent
+   advances in machine learning and crawling problems related to the web.
+   We will review the continuum of supervised to semi-supervised to
+   unsupervised learning problems, highlight the specific challenges which
+   distinguish information retrieval in the hypertext domain and will
+   summarize the key areas of recent and ongoing research. We will
+   concentrate on topic-specific search engines, focused crawling, and
+   finally will propose an Information Integration Environment, based on
+   the Active Logic framework.
+
+   Keywords: Web Information Retrieval, Web Crawling, Focused Crawling,
+   Machine Learning, Active Logic (Also UMIACS-TR-2001-69)
+
+Notes
+
+URI (handle)
+
+   http://hdl.handle.net/1903/1153
+
+Rights
+
+Collections
+
+   Technical Reports from UMIACS
+   Technical Reports of the Computer Science Department
+   Full item page
+   UMD Libraries logo
+   Digital Repository at the University of Maryland
+   University of Maryland, College Park, MD 20742-7011
+   (301) 314-1328
+   drum-help@umd.edu
+     * Send Feedback
+     * Privacy policy
+     * Web Accessibility
+     * Give Now
+     * Cookie settings

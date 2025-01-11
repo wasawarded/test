@@ -1,0 +1,1079 @@
+              [1]SciELO - Scientific Electronic Library Online
+   [grp1c.gif]   [artsrc.gif]
+   [2] número21 [3]A Universidade Portuguesa: o abrir do fecho de acesso -
+   o caso dos maiores de 23 anos [4]Democratização do Ensino Superior
+   Brasileiro: O caso da Universidade Federal da Paraíba  [5] índice de
+   autores [6]índice de assuntos [7]Pesquisa de artigos [8]Home Page
+   [9]lista alfabética de periódicos
+
+Serviços Personalizados
+
+Journal
+
+     * [iconStatistics.gif] [10]SciELO Analytics
+     * [iconStatistics.gif] Google Scholar H5M5 ()
+
+Artigo
+
+     * [11][iconPDFDocument.gif] Português (pdf)
+     * [12][iconXMLDocument.gif] Artigo em XML
+     * [13][iconReferences.gif] Referências do artigo
+     * [14][fulltxt.gif] [15]Como citar este artigo
+     * [iconStatistics.gif] [16]SciELO Analytics
+
+     [17][iconTranslation.gif] Tradução automática
+
+     [18][iconEmail.gif] Enviar este artigo por email
+
+Indicadores
+
+     * Não possue artigos citados Citado por SciELO
+     * [iconStatistics.gif] [19]Acessos
+
+Links relacionados
+
+     * Não possue artigos similares Similares em SciELO
+
+Compartilhar
+
+     * [20][mendeley.png] [21]Mais
+     * [22]Mais
+     __________________________________________________________________
+
+     * [23][iconPermalink.gif] Permalink
+
+   [icon-close.png]
+   ____________________
+
+[24]Revista Lusófona de Educação
+
+versão impressa ISSN 1645-7250
+
+  Rev. Lusófona de Educação  no.21 Lisboa  2012
+
+
+
+   Inovações Tecnológicas e a Expansão do Ensino Superior no Brasil
+
+   Technological Innovations and Expansion of Higher Education in Brazil
+
+
+   Edna G. de Góes Brennand^*& Eládio de Góes Brennand^**
+
+   ^*Investigadora do Programa de Pós-Graduação em Educação da
+   Universidade Federal da Paraíba (UFPB) e do Mestrado Profissional
+   Gestão nas Organizações Aprendentes (UFPB)
+   [25]ebrenna2@uol.com.br
+
+   ^**Investigador do Mestrado Profissional Gestão nas Organizações
+   Aprendentes (UFPB)
+   [26]eladiobrennand@uol.com.br
+
+
+   Resumo
+
+   Este estudo trata do processo de inovação tecnológica e da expansão do
+   ensino superior no Brasil. Sintetiza algumas questões que envolvem a
+   aprendizagem humana e abordagens interdisciplinares que estão
+   relacionadas com os processos de aquisição do conhecimento. Apresenta
+   dados da expansão da educação superior e da criação da Universidade
+   Aberta do Brasil, mostrando suas vinculações com o processo de
+   convergência tecnológica. Busca, nos dados atuais sobre a educação
+   superior brasileira, compreender como a educação mediada pelas
+   tecnologias digitais (educação a distância) reestrutura formas de
+   acesso de jovens e adultos ao mundo seletivo da cultura universitária.
+
+   Palavras-chave: inovação tecnológica; ensino superior; educação a
+   distância.
+
+
+   Abstract
+
+   This paper discusses the process of technological innovation and
+   expansion of higher education. Summarizes some issues involving
+   learning and interdisciplinary approaches that are related to the
+   processes of knowledge acquisition. Presents some of the data from the
+   expansion of higher education and the creation of the Open University
+   of Brazil showing its links with the process of technological
+   convergence. Through the current data on the Brazilian high education,
+   tries to understand how education mediated by digital technologies
+   (e-learning) restructures forms of access for young adults and adults
+   to the selective world of university culture.
+
+   Keywords: technological innovation; high education; e-learning
+
+
+   Introdução
+
+   A última década tem sido marcada por eventos econômicos e políticos dos
+   mais diversos. A guerra do Iraque, o aumento do terrorismo, os
+   integralismos religiosos, a luta pelos direitos humanos, o
+   reconhecimento dos direitos das minorias, o impacto da recessão global
+   no mundo pós-2008 com a crise da economia americana e, mais
+   recentemente, o crescimento dos graves problemas econômicos na zona do
+   euro coloca o planeta em alerta. O crescimento econômico de países
+   emergentes como a China e o Brasil redireciona a geopolítica
+   internacional. As redes de comunicação intensificam nosso contato com
+   estes problemas, nos colocando em permanente estado de leitura e
+   crítica dos acontecimentos através das redes sociais, dos jornais
+   on-line, vídeos pelo celular e internet, construindo uma história
+   testemunhada por todos os povos conectados numa grande rede de
+   informação.
+
+   Neste contexto, a educação superior passa a integrar as macropolíticas
+   de desenvolvimento e inovação, tornando-se parte integrante dos
+   documentos de políticas internacionais. Um dos primeiros objetivos da
+   pesquisa foi compreender como o ensino superior está articulado ao
+   sistema de ciência, tecnologia e inovação, buscando evidências nos
+   seguintes documentos: Livro Branco (Ministério da Ciência e Tecnologia,
+   2002), Livro Azul de Ciência, Tecnologia e Inovação (Ministério da
+   Ciência e Tecnologia, 2010), Relatório UNESCO sobre Ciência (UNESCO,
+   2010) e o Censo da Educação Superior do Brasil (INEP, 2011), que
+   colocam a educação como pedra angular dos processos de inovação e dão a
+   dimensão da discussão atual das relações educação, ciência, tecnologia
+   e inovação.
+
+   Uma das características marcantes da Universidade brasileira apontada
+   no relatório da UNESCO é o investimento público realizado na pesquisa e
+   desenvolvimento. Segundo o documento, o setor público arca com a sua
+   maior parte do financiamento, na ordem de 55%. Aproximadamente três
+   quartos dos cientistas brasileiros continuam trabalhando no setor
+   acadêmico. Os cientistas brasileiros publicaram 26.482 artigos
+   científicos em periódicos indexados pelo Thomson Reuter’s Science
+   Citation Index em 2008, fazendo do país o 13º maior produtor de ciência
+   do mundo. Mais de 90% desses artigos foram gerados em universidades
+   públicas (UNESCO, 2011, p. 33). De forma paradoxal, o documento mostra
+   que, em nível de graduação, o Brasil enfrenta um enorme desafio, uma
+   vez que apenas 16% dos jovens, entre 18 e 24 anos, estavam matriculados
+   no ensino superior neste mesmo ano (UNESCO, 2011, p. 40).
+
+   Considerando o lugar da Universidade brasileira na produção científica
+   internacional, conforme dados acima discutidos, vemos, nos documentos
+   nacionais, que esses desafios são considerados e é possível identificar
+   que a expansão e melhoria do ensino superior estão articuladas às
+   diretrizes estratégicas (UNESCO, 2011, p. 60) que buscam, regularizar e
+   incrementar os fluxos de produção da ciência, resgatando o déficit
+   brasileiro. E, ao consolidar os avanços anteriores, preparar o caminho
+   para novos avanços no conhecimento com o apoio da pesquisa e da
+   inovação no atendimento não somente aos reclamos sociais, mas, também,
+   às necessidades econômicas e aos planos políticos internacionais.
+
+   Para assegurar uma melhor inserção do Brasil na C&T global, os
+   objetivos estratégicos nacionais colocam a expansão da educação com
+   base em dois objetivos fundamentais: realizar a expansão qualificada e
+   diversificada das oportunidades de oferta de ensino superior, orientada
+   a partir de um planejamento indicativo de prioridades; implantar novas
+   diretrizes curriculares, indicando revisões com vistas a formar
+   cientistas e demais profissionais com perfis adequados às novas
+   exigências do Sistema Nacional de Ciência, Tecnologia e Inovação.
+
+   É visível, nos documentos, a preocupação das ações de expansão de
+   programas e cursos superiores por meio de estratégias que busquem a
+   melhoria de qualidade. A discussão da transformação das atuais
+   estruturas curriculares dos cursos de graduação é considerada uma das
+   ações urgentes para aprimorar o ensino, adequando-os às necessidades
+   decorrentes das transformações, em curso, na ciência e na tecnologia.
+   Para isso, o desafio anunciado é buscar a expansão de qualidade com o
+   uso das Tecnologias de Informação e Comunicação (TICs). Aqui
+   encontramos as primeiras constatações de que a educação a Distância é a
+   estratégia escolhida para o incremento do desenvolvimento de novos
+   programas, dispondo de currículos mais flexíveis e inovadores, capazes
+   de fomentar uma nova concepção de ensino compartilhado com a prática
+   profissional. E, ainda, levar a Universidade às regiões menos
+   favorecidas, em especial, às áreas consideradas sensíveis ao seu
+   desenvolvimento.
+
+   Os documentos afirmam a consolidação da cultura de parcerias entre
+   instituições dos poderes executivos federais, estaduais e locais, com
+   instituições do terceiro setor envolvidas em atividades educativas.
+   Para os implementadores de políticas públicas, a parceria entre os três
+   níveis de poderes pode induzir um ambiente favorável a um aprendizado
+   permanente, ajudar a difundir a cultura científica e tecnológica na
+   sociedade e ampliar condições de acesso ao ensino superior e ao
+   letramento digital. Educar para a sociedade do conhecimento (INEP,
+   2011, p. 67) supõe o estímulo à utilização das TIC na universalização
+   do acesso à educação científica e tecnológica; o incentivo ao
+   envolvimento dos meios de comunicação para modernizar e aperfeiçoar o
+   ensino e a construção de uma sociedade em que o conhecimento seja o
+   propulsor de conquistas culturais, sociais e econômicas.
+
+   Um dos grandes desafios anunciados tanto pelos documentos citados como
+   pelo Ministério da Educação-MEC é o de direcionar os benefícios
+   presentes e potenciais das TIC[s] a todos os brasileiros, para evitar o
+   aprofundamento das desigualdades sociais e do hiato digital. Colocam
+   como fator de desenvolvimento sustentável o avanço na universalização
+   do acesso à Universidade pelos jovens, bem como, a alfabetização
+   digital. A educação superior acessível é considerada um bem estratégico
+   para prospecção do futuro e um espaço de redução de desigualdades
+   regionais e sociais, de exploração sustentável das riquezas do
+   território nacional e de fortalecimento da indústria, agregando valor à
+   produção e à exportação por meio da inovação e reforçando o
+   protagonismo internacional em ciência e tecnologia (INEP, 2011).
+
+   Como estratégia fundamental, o programa de inovação nacional defende o
+   desenvolvimento de redes de educação a distância, a ampliação e o
+   aperfeiçoamento de bibliotecas virtuais; o treinamento de professores e
+   produção de conteúdos para internet relacionados à divulgação
+   científica. As conferências Nacionais de Ciência e Tecnologia têm
+   mobilizado milhares de pessoas, envolvendo a comunidade científica,
+   professores de diversos ciclos educacionais, o meio empresarial – em
+   proporção significativamente elevada desde o ano de 2002. Na última
+   conferência, em 2010, com transmissão pela internet, algumas sessões
+   contaram com mais de 40.000 acessos. As discussões tiveram como eixo
+   principal a inovação, tendo a educação como fundamento, como o
+   principal motor do processo de desenvolvimento do País (INEP, 2011).
+
+   Inovação tecnológica e ensino superior no Brasil: cenários da expansão
+
+   No bojo das discussões nacionais e internacionais sobre o ensino
+   superior e em um cenário marcado pela crescente demanda por formação, o
+   Brasil tem conseguido, a partir da última década, elevar o número de
+   matrículas na educação básica, com ênfase no ensino fundamental. Porém,
+   de acordo com os dados apresentados no Plano Nacional de Educação
+   (PNE), de 2001, o Brasil chegou ao século XXI, apresentando um dos
+   índices mais baixos de acesso à educação superior na América Latina, a
+   porcentagem de matriculados na educação superior brasileira, em relação
+   à população de 18 a 24 anos, é inferior a 12%. Esse índice é inferior
+   aos apresentados, na mesma época, por países vizinhos, como a Argentina
+   (40%), a Venezuela (26%), a Bolívia e o Chile (ambos com 20,6%). No
+   Brasil, a maioria das IES está instalada nas Regiões Sul e Sudeste ou,
+   ainda, na região litorânea. Pelo interior do país, existe um alto
+   número de cidadãos que não têm acesso à educação superior, por estarem
+   distantes das instituições responsáveis pela oferta desse nível de
+   ensino (Ministério da Ciência e Tecnologia, 2002).
+
+   Balmant (2006) considera que a avaliação do nosso mapa da educação
+   superior reflete perfeitamente a geografia social brasileira, pois a
+   maioria de cerca de IES está localizada nas Regiões Sul e Sudeste e na
+   costa do país, de modo que cerca de 70% dos municípios brasileiros
+   dispõem somente de ensino básico (ensino fundamental e ensino médio).
+   De acordo com a autora, o Brasil possui cidades onde não há como
+   continuar os estudos após a conclusão desses níveis, fazendo com que
+   uma elevada parcela da população deixe de ter acesso ao ensino
+   superior. Esses números evidenciam a dimensão da exclusão e da
+   desigualdade educacional no Brasil. Como pode ser visto na discussão
+   anterior sobre a educação superior, no plano de desenvolvimento
+   científico e tecnológico, para reverter o quadro de acesso, o Governo
+   Federal, por meio do Plano Nacional de Educação (Ministério da Ciência
+   e Tecnologia, 2002), estabeleceu como meta a inclusão de, pelo menos,
+   30% dos jovens entre 18 e 24 anos no ensino superior até o final da
+   década. A expansão na oferta de ensino superior presencial vem
+   ocorrendo, tanto na esfera pública quanto na privada. Porém, essa
+   expansão tem uma presença hegemônica da iniciativa privada, desde o ano
+   de 1995.
+
+   Dourado (2008) considera que os indicadores relativos a matrículas e
+   vagas nos cursos de graduação presenciais, no ano de 2006, evidenciam a
+   intensificação da privatização da educação superior, como resultado de
+   uma lógica política que procurou aliar a expansão desse nível de ensino
+   ao setor privado, sobretudo, a partir da segunda metade da década de
+   1990. Para ilustrar essa afirmação, o autor, com base em dados do
+   MEC/INEP, mostra que, a partir de 2006, o setor privado passou a
+   responder por 74,14% das 4.676.646 matrículas e por 87,34% das
+   2.629.598 vagas nos cursos de graduação presenciais. Apesar das ações
+   desenvolvidas pelo MEC, nos últimos anos, objetivando ampliar a oferta
+   de vagas em cursos superiores presenciais, com destaque para a criação
+   de novas Universidades e Institutos Federais de Educação, Ciência e
+   Tecnologia e a implantação de novos cursos e campi, o caráter
+   privatista da educação superior ainda é evidente. Além disso, a
+   expansão significativa da educação básica, ao longo da década de 1990,
+   e a consequente pressão por educação superior oriunda dessa expansão, a
+   partir de 2004, também estimularam o Governo Federal a desenvolver
+   algumas ações visando ampliar a oferta de educação superior no Brasil e
+   atender a essa demanda por formação.
+
+   Em consonância com os Planos nacionais de Ciência e Tecnologia, é
+   possível mapear, com destaque, algumas ações: o Programa Universidade
+   para Todos (PROUNI – criado pela Medida Provisória nº 213, de 10 de
+   setembro de 2004, e transformado em lei – Lei nº 11.096, de 13 de
+   janeiro de 2005; a Universidade Aberta do Brasil (UAB – Instituída pelo
+   Decreto nº 5.800, de 08 de junho de 2006) e o Programa de Apoio a
+   Planos de Reestruturação e Expansão das Universidades Federais REUNI –
+   Instituído pelo Decreto nº 6.096, de 24 de abril de 2007.
+
+   Diante das dificuldades para realizar os vultosos investimentos
+   necessários à interiorização e à expansão da oferta de educação
+   superior pública, por meio do ensino presencial, e da necessidade de
+   racionalizar os gastos nas áreas sociais a política educacional
+   vincula-se à política científica, tecnológica e às recomendações do
+   Banco Mundial. Uma das estratégias já anunciadas anteriormente é a
+   adoção da Educação a Distância, por acreditar que essa modalidade
+   educativa é a estratégia mais eficaz para ampliar e interiorizar a
+   oferta de ensino superior gratuito.
+
+   Desde a década de 90, com a Lei de Diretrizes e Bases da Educação
+   Brasileira (LDB), já se fazia referência a uma educação continuada e
+   baseada na comunicação. Por meio do Decreto nº 5.622, de 19.12.2005,
+   que regulamenta os Arts. 80 e 81 da Lei 9394/96 (LDB), onde a Educação
+   a Distância é entendida como a modalidade educacional na qual a
+   mediação didático-pedagógica nos processos de ensino e aprendizagem
+   ocorre com a utilização de meios e tecnologias de informação e
+   comunicação, com estudantes e professores desenvolvendo atividades
+   educativas em lugares e tempos diversos. As instituições, os cursos e
+   os programas da educação a distância passam a ser avaliados pelo
+   Sistema Nacional de Avaliação da Educação Superior (SINAES),
+   integrando-se definitivamente às políticas de oferta de formação
+   universitária.
+
+   Conforme assinalado anteriormente, com a criação da Universidade Aberta
+   do Brasil (UAB), a EaD se converte em política pública nacional.
+   Através da UAB, o Ministério da Educação – MEC - tem a oportunidade de
+   ampliar, diversificar, democratizar e interiorizar a oferta de educação
+   superior pública e gratuita, dentro dos padrões de qualidade
+   apresentados pelas IES públicas federais (Universidades Federais e
+   Institutos Federais de Educação, Ciência e Tecnologia). Além disso,
+   está oferecendo educação superior para as populações que estariam
+   impossibilitadas de estudar, devido à falta de tempo para frequentar
+   uma instituição de ensino presencial ou, ainda, pela inexistência de
+   uma instituição de ensino presencial que lhes possibilitasse o acesso.
+
+   É importante ressaltar que esse modelo de formação oferecido pela UAB
+   está em perfeita sintonia com as orientações do Banco Mundial, que
+   recomenda:
+
+     No parece conveniente enseñar todo un programa de pregrado
+     exclusivamente mediante clases en línea, si lo que se pretende es
+     que los estudiantes aprendan a pensar de manera crítica y a
+     interactuar socialmente como preparación para la vida profesional.
+     La combinación de cursos en línea y cursos en aulas corrientes les
+     da a los alumnos más oportunidades de interacción humana y
+     desarrollo de los aspectos sociales del aprendizaje por medio de la
+     comunicación directa, el debate, el intercambio de ideas y la
+     construcción de consensos. Estas pautas pedagógicas también se
+     aplican al diseño y a la provisión de programas de educación a
+     distancia, que requieren combinar los objetivos de aprendizaje con
+     el apoyo técnico apropiado (Banco Mundial, 2003, p. 47).
+
+   Segundo Martins (2011), no Brasil, a polêmica em torno da influência
+   europeia, na reforma do ensino superior, é reforçada a partir de 2006,
+   quando foi possível registrar a discussão implementada pelos Reitores
+   das Universidades Públicas Federais, abrigados pela Associação Nacional
+   dos Dirigentes das Instituições Federais de Ensino Superior – ANDIFES.
+   A movimentação a respeito do tema levou o governo Lula a recompor o
+   patamar de financiamento do ensino superior pela ampliação da oferta de
+   vagas. Em linha com a proposta da ANDIFES e com inspiração no Processo
+   de Bolonha, a materialização do processo chega por meio do Programa de
+   Apoio a Planos de Reestruturação e Expansão das Universidades Federais
+   – REUNI – que tem como fim imediato o aumento das vagas de ingresso e a
+   redução das taxas de evasão nos cursos presenciais de graduação. O
+   REUNI permite uma expansão do acesso ao ensino superior, o que
+   aumentará expressivamente o contingente de estudantes de camadas
+   sociais de menor renda na universidade pública. O desdobramento
+   necessário dessa democratização é a necessidade de uma política
+   nacional de assistência estudantil que, inclusive, dê sustentação à
+   adoção de políticas afirmativas. O Plano Nacional de Assistência
+   Estudantil (PNAES) consolida o REUNI (BRASIL/MEC, 2007).
+
+   Além disso, a UAB fomenta a modalidade de EaD nas instituições públicas
+   de Ensino Superior e apoia pesquisas em metodologias inovadoras de
+   Ensino Superior, respaldadas em tecnologias digitais, como também
+   incentiva a colaboração entre a União e os entes federativos que
+   atendem aos objetivos do Plano nacional de Ciência Tecnologia e
+   Inovação, e estimula a criação de Centros de Formação Permanente por
+   meio dos polos de apoio presencial em localidades estratégicas. A UAB
+   funciona como articuladora entre as IES e os governos estaduais e
+   municipais, objetivando o atendimento das diversas demandas locais por
+   Educação Superior. Desta maneira, a articulação entre as diversas
+   instâncias estabelece qual instituição de ensino deve ser responsável
+   por ministrar determinado curso em certo município ou em certa
+   microrregião por meio dos polos de apoio presencial, representada, na
+   Figura 1, a seguir.
+
+
+   Figura 1: Estrutura de funcionamento da UAB.
+
+   [n21a10f1.jpg]
+
+
+   Com vistas a atender os objetivos educacionais, gerenciais e
+   institucionais, o Sistema UAB sustenta-se em cinco eixos fundamentais:
+   expansão pública da Educação Superior, considerando os processos de
+   democratização e acesso; aperfeiçoamento dos processos de gestão,
+   possibilitando sua expansão em consonância com as propostas
+   educacionais dos estados e municípios; avaliação da Educação Superior a
+   Distância, tendo por base os processos de flexibilização e regulação
+   implantados pelo MEC; estímulo à investigação em Educação Superior a
+   distância no país; financiamento dos processos de implantação, execução
+   e formação de recursos humanos em Educação Superior a Distância.
+
+   Estudo realizado por Almeida (2010) identifica 88 instituições que
+   integram o Sistema UAB, entre Universidades Federais, Universidades
+   Estaduais e Institutos Federais de Educação, Ciência e Tecnologia
+   (IFET). De 2007 a 2011, cerca de 600 polos de apoio presencial foram
+   aprovados e instalados com cerca de 550 mil vagas criadas. A UAB, em
+   2009, possuía 163 polos de apoio presencial e continua, paulatinamente,
+   ampliando seus polos, no âmbito do Plano de Ações Articuladas (PAR),
+   para equacionar a demanda e a oferta de formação de professores na rede
+   pública da Educação Básica, ampliando a rede para um total de 720
+   polos. As informações publicadas no portal GeoCapes[27]^2,
+   representadas pelo Gráfico 1 a seguir, mostram a distribuição dessas
+   instituições no país.
+
+
+   Gráfico 1
+
+   [n21a10g1.jpg]
+
+
+   Analisando o último Censo da Educação Superior do Brasil, verifica-se
+   que a educação a distância integrou-se definitivamente ao sistema
+   nacional de Educação. Em todos os quadros da expansão, a EaD aparece
+   como integrada a todas as análises das estatísticas oficiais. Os dados
+   atestam a importância dessa estratégia como fundamental para o
+   incremento de vagas. Comparando os dados evolutivos e a distribuição
+   mais equitativa das matrículas, podemos observar a seguinte evolução:
+   em 2001, o número de matriculados no ensino superior era de 3.030.754,
+   evoluindo para 5.449.120 uma expansão da ordem de 81,4% . As
+   matrículas, na modalidade a distância, no intervalo 2001-2010, já chega
+   a representar 14,6% do total de alunos. É visível a evolução a partir
+   do ano de 2006. Os Cursos de Licenciatura correspondem a 45,8%, o
+   Ensino Tecnológico 25,3% e os bacharelados 28,8%. O dado importante é
+   que os bacharelados e cursos tecnológicos juntos chegam a 54,1%,
+   contrariando algumas análises de que a EaD é fundamentalmente voltada
+   para formar professores nas Licenciaturas (BRASIL, 2011).
+
+   Entretanto, é uma experiência recente. Já podemos verificar que foi
+   importante para a democratização do acesso, faltam ainda estudos que
+   venham elucidar e aquilatar o impacto dessa expansão para melhoria da
+   qualidade da educação superior no país e aspectos relacionados à
+   inovação pedagógica e metodológica. Poderemos estar vivenciando a
+   chegada a uma encruzilhada: virtualização da educação bancária ou a
+   emergência de uma educação sem fronteiras?
+
+   3. Inovações Tecnológicas e os desafios da Universidade
+
+   Os dados acima evidenciam que a universidade tem tido um papel
+   fundamental no Brasil, como indutora dos processos de inovação. O papel
+   cada vez mais importante atribuído à ciência e tecnologia coloca esta
+   instituição com diversos papéis: assegurar, por meio do tripé ensino,
+   pesquisa e extensão uma relação com sociedade fundada na busca de
+   respostas aos grandes problemas socioeconômicos e políticos, bem como
+   tornar-se pedra angular para o desenvolvimento das organizações e do
+   mercado. Ao mesmo tempo em que é desafiada a produzir e divulgar um
+   conhecimento crítico que venha contribuir para o bem comum, tem,
+   também, que oferecer respostas às demandas do mercado por formação,
+   geração de produtos, de ciência básica aplicada e tecnologia.
+
+   O conhecimento é o insumo básico da inovação e da pesquisa científica,
+   um fator estratégico chave nos planos de desenvolvimento de qualquer
+   país. Neste sentido, é possível afirmar que existe uma relação positiva
+   entre pesquisa científica e inovação, uma vez que a inovação
+   sustenta-se em elementos como criatividade, mas, também, necessita de
+   uma base de conhecimento prévio principalmente tácito, e da pesquisa
+   científica, que vai atuar com um catalisador dos processos criativos
+   fundamentais da inovação. A criatividade como componente da inovação é
+   defendida por Callon (2007) quando afirma que a qualidade de uma
+   inovação depende da qualidade das ideias que estão na sua origem. Isso
+   nos leva a indagar sobre quais inovações e sobre quais ideias se apoiam
+   as mudanças, no formato do oferecimento de cursos, no âmbito das
+   Universidades brasileiras, e como a educação a distância é inserida nas
+   políticas educativas como elemento de inovação. Se entendermos que os
+   processos de aprendizagem social podem ser definidos com a capacidade
+   de criar competências e habilidades apropriadas pelas pessoas e pela
+   comunidade, constituindose uma ponte para a inovação e para as mudanças
+   sociais, é possível pensar a Universidade como tradição? Ou podemos
+   defendê-la como lócus privilegiado da inovação?
+
+   Se concordarmos com Callon (2007), que a ciência se aplica, se replica,
+   se transforma, se combina e se adapta em novas configurações locais,
+   singulares e, geralmente, diferentes daquelas que prevalecem em sua
+   origem, podemos en-tender as transformações dos modelos educativos como
+   a adaptação local bem sucedida de uma solução já existente e
+   compreendida como inovação? Se assim for, é legítima a ideia da clara
+   relação entre ciência, conhecimento e inovação. O processo de inovação
+   é progressivo. A partir da ideia, passa-se aos primeiros desenhos, às
+   primeiras tentativas, depois aos protótipos e, em seguida, ao
+   desenvolvimento, à comercialização e, finalmente, à validação ou
+   rejeição pelos usuários da inovação. Com base nessas ideias, Callon
+   (2004) afirma que a inovação é um processo coletivo e colaborativo e
+   que, para entendê-la, é preciso mapear os grupos que têm interesse na
+   inovação e aqueles que se opõem a ela, dentro das redes sociotécnicas.
+   Este é um dos nossos objetivos: compreender como a Universidade
+   brasileira traduz suas políticas de uso de tecnologias digitais para
+   formar pessoas, como um processo de inovação.
+
+   Na esteira dessa discussão, visando compreender o processo de
+   modernização e expansão do ensino superior no Brasil e por compreender
+   que as mudanças estruturais e conjunturais precisam ser bem mais
+   situadas, é que estamos adentrando neste novo fenômeno do uso da
+   modalidade de educação a distância como ferramenta de criação de redes
+   de aprendizagem, flexibilização do acesso e melhoria da qualidade do
+   ensino superior. Por expansão, entendemos a movimentação das políticas
+   públicas de educação superior pela abertura de novos territórios,
+   incluindo, neste caso, a criação de Universidades Abertas. Assim,
+   entendemos a inovação como uma ruptura com modelos anacrônicos,
+   essencial para reduzir custos, ampliar o acesso às pessoas e melhorar a
+   qualidade em muitos setores. É essa a perspectiva do modelo de expansão
+   implementado pelo Ministério da Educação para a educação superior? É um
+   processo de inovação ou a simples democratização do acesso pela pressão
+   social? Alguns eventos podem ser buscados como evidências da complexa
+   rede de abordagens possíveis para compreender a educação no contexto
+   destas novas formas de comunicação.
+
+   A mundialização da economia, em cujo bojo trouxe novos fluxos de bens,
+   serviços e informações, cria redes de relações que vão originar formas
+   originais de trocas de mercadorias, serviços, bens culturais e formas
+   de vida. Os intercâmbios comerciais foram gerando o encolhimento das
+   fronteiras entre os diversos países e intensificado trocas entre
+   pessoas, grupos, regiões, Estados e Instituições internacionais,
+   fazendo surgirem novas redes de relações e novos protagonistas tanto no
+   mundo do trabalho, por meio das empresas multinacionais, quanto entre
+   os diversos estratos sociais. Esse processo tem como consequência a
+   emergência de respostas novas e difíceis às questões referentes aos
+   rearranjos que compõem o todo social, seja em sociedades maduras ou em
+   desenvolvimento. A mobilidade de populações e de capital acelerou a
+   circulação de bens, serviços e informações, levando grande parte das
+   sociedades concretas a buscar formas diversas de viver, pensar e gerar
+   condutas de ação pela geração de conhecimentos e tecnologias.
+
+   Esse processo trouxe consigo o fenômeno das migrações. Pessoas ligadas
+   a causas políticas, econômicas e religiosas viabilizam trocas de
+   informações intensas e rápidas, dando origem a grandes redes
+   transculturais, numa dinâmica de conjunto que integra a noção de
+   passado, presente e futuro, instalando o que se pode chamar de uma
+   “cultura informacional mundial”. Como consequência, surgem problemas
+   sociais anacrônicos, gerados pelos antagonismos, e que levam os
+   governos a investirem em estratégias diferenciadas para responderem a
+   cada demanda específica de educação, cultura e desenvolvimento humano.
+   A complexidade das respostas exigidas é cada vez maior, exige análises
+   e sínteses das mais diversas. A emergência de novos movimentos sociais,
+   crises financeiras em países ocidentais, novos protagonistas sociais
+   estão levando a uma compreensão da existência de culturas, no plural, e
+   sua consequente transformação conceitual (Portes, 2006). Esse processo
+   gerou uma revolução no uso e na apropriação das tecnologias da
+   informação e comunicação para fins comerciais e civis. A economia
+   informacional, como marca do processo de mundialização, é caracterizada
+   pela forma como, em larga escala, gera, processa e usa, de forma
+   eficiente, o conhecimento científico e tecnológico estratégico com base
+   nas redes de informação.
+
+   Gerador de novas abordagens sobre as relações tecnologia-sociedade e,
+   consequentemente, sobre a aprendizagem humana, esta temática tem sido
+   atualmente apropriada por novas áreas de discussão crítica dos usos
+   sociais dos artefatos tecnológicos. Essa discussão adentra nas áreas da
+   Ciência da Informação, da Comunicação, do Direito, da Administração, da
+   Economia, entre outras. Hoje são muitas as indagações sobre o novo
+   lócus da aprendizagem e seu potencial frente aos novos desafios: a
+   busca de equações entre as pragmáticas educacionais especializadas e as
+   novas linguagens computacionais (lógicas e matemáticas) que demandam,
+   para si, a universalidade de construir novas for-mas de aprender.
+   Emergem conflitos teóricos conceituais e metodológicos, bem como
+   mecanismos de controle sobre os processos educativos. Esta relação
+   define formas de organização e processos de produção e inovação que
+   potencializam novas formas de educação e de vida. Aparatos tecnológicos
+   avançaram de meios analógicos para digitais e a sociedade passou a
+   presenciar a convergência de aplicações nas áreas da eletrônica
+   digital, das telecomunicações e da informática. Como consequência,
+   pôde-se notar uma evolução significativa nos mais variados ramos, tais
+   como: fontes de energia, tecnologias de transporte e, principalmente,
+   nos meios (e modos) de os indivíduos se informarem e se comunicarem
+   (Castells, 2008). O próprio conceito atribuído à tecnologia -entendida
+   como processo decorrente das inter-relações de produção, experiência e
+   poder, que perpassam os modos de produção, as relações pessoa-ambiente,
+   as interações simbólicas, a produção cultural etc. -ressalta a sua
+   natureza abrangente, ao influenciar matizes variados de organização e
+   expressão da evolução humana. Sua articulação multissetorial,
+   convergindo da gênese biossocial aos desdobramentos culturais,
+   políticos e econômicos impõe, portanto, a adoção de procedimentos
+   metodológicos capazes de propiciar sua análise no enlace com fatores
+   que extrapolam uma aplicação específica, por mais paradoxal que possa
+   parecer.
+
+   Nesse novo panorama, são construídas narrativas e tempos de
+   aprendizagem que as teorias tradicionais não dão conta de explicar. Na
+   esteira da busca de compreensão do papel da educação, na formação
+   destes novos protagonistas, este artigo busca, nos dados atuais sobre a
+   educação superior brasileira, como a educação mediada pelas tecnologias
+   digitais (educação a distância) reestrutura formas de acesso de jovens
+   e adultos ao mundo seletivo da cultura universitária.
+
+   De forma paradoxal, vivemos um estágio de convergência tecnológica (a
+   capacidade do uso de uma mesma plataforma de rede de telecomunicações
+   para transporte de diferentes serviços: telefonia, vídeo, música e
+   internet) propiciada pelo espetacular avanço científico e tecnológico
+   ao mesmo tempo que nos deparamos com dificuldades em pensar esse
+   processo de forma interdisciplinar como ele exige.
+
+   A convergência tem como característica fundamental o potencial de
+   disponibilizar diversos serviços e produtos, tais como TV, rádio,
+   telefonia, vídeo e internet, numa mesma rede de telecomunicações,
+   aglutinando diferentes campos tecnológicos para acesso e compartilham
+   através de uma mesma lógica de geração de informações: a lógica das
+   redes digitais. A formação das redes de informação e conhecimento é
+   institucionalizada, entretanto a emergência das redes sociais
+   complexifica a compreensão sobre estas redes, uma vez que são
+   movimentos pouco institucionalizados, que reúne indivíduos e grupos
+   numa associação cujos limites são móveis e variáveis e sujeitos a
+   reinterpretações.
+
+   Embora, ao falar de convergência, a literatura geralmente aponta para a
+   configuração das relações e interações possíveis na sociedade, através
+   de redes eletrônicas de informação, na maioria das vezes,
+   interorganizacionais, é possível acrescentar, ainda, que elas articulam
+   o global, o regional e o local, isto é, nível mundial; o território,
+   país ou Estado e o lugar (local) onde os fragmentos de rede ganham uma
+   dimensão social através de confrontos e alianças que incluem os
+   sistemas de poder. As redes são virtuais, mas também reais, são
+   técnicas, mas também sociais. Guardam estabilidades, bem como
+   dinamicidade. Elas incluem em si mesmas territorialidade e
+   desterritorialização, interação entre diversos espaços comunitários,
+   articulações locais, regionais e nacionais, temporalidades históricas;
+   sociabilidade político-ético-cultural.
+
+     Há, nas redes, uma criação paralela e eficaz da ordem e da desordem
+     no território, já que as redes integram e desintegram, destroem
+     velhos recortes espaciais e criam outros. Quando ele é visto pelo
+     lado exclusivo da produção da ordem, da integração e da constituição
+     de solidariedades espaciais que interessam a certos agentes, esse
+     fenômeno é como um processo de homogeneização. Sua outra face, a
+     heterogeneização, é ocultada. Mas ela é igualmente presente
+     (Santos, 1996, p. 222).
+
+   As redes digitais (global brain) estão nos levando para uma imersão de
+   for-mas de interpretação de linguagens, diálogos e acesso ao
+   conhecimento por meio de um grande hipertexto onde as experiências do
+   aprender já não são situadas na mera necessidade de manuseio de textos
+   e máquinas, mas, no adentramento em dinâmicas de aprendizagem até então
+   pouco conhecidas. Intensifica-se e fortalece-se o fenômeno da
+   convergência tecnológica que, por meio das telecomunicações, permitiu
+   um sistema integrado de formas de geração e processamento da informação
+   com tecnologias de transmissão diversificadas e integradas. A
+   convergência tecnológica, alavanca o avanço das redes de
+   telecomunicações. A popularização, cada vez maior, do acesso à internet
+   permite que esse conceito seja difundido fora das corporações e da
+   lógica organizacional para invadir a sociedade por meio do uso dos
+   computadores, da telefonia móvel, da televisão na internet, do
+   jornalismo eletrônico, dos serviços on-line, do comércio eletrônico, do
+   e-governement, da educação a distância e, mais recentemente, da
+   televisão digital interativa.
+
+   Silveira (2008, p. 38) ressalta, porém, que “a convergência é um
+   processo e não um ponto final ou um conjunto de aparelhos
+   eletroeletrônicos”. Ao contrário, esse fenômeno torna mais complexas as
+   relações do tipo pessoa-pessoa, pessoa-máquina e máquina-máquina. E,
+   por se tratar de um processo que ocorre num ambiente em rede, ele vem
+   potencializar práticas colaborativas de construção do conhecimento,
+   tais como as que ocorrem em relevantes expressões, tipo as iniciativas
+   wiki [28]^3e o movimento dos softwares livres.
+
+   As ciências humanas, em especial a educação, têm subutilizado os
+   recursos computacionais como ferramentas para ampliação de capacidades
+   cognitivas e mesmo as discussões sobre as questões filosóficas que
+   envolvem as ciências sociais e as ciências computacionais. Pensar o uso
+   das tecnologias digitais como ferramentas de aprendizagem é, sem
+   dúvida, um convite à reflexão sobre a aprendizagem. Pensar a cognição,
+   na perspectiva de compreender processos de aprendizagem humana, é um
+   desafio para educadores de qualquer campo do conhecimento. Exige uma
+   compreensão interdisciplinar e a abertura para transcender campos
+   especializados como a Psicologia, a Antropologia, as Ciências
+   Cognitivas, a Inteligência Artificial, a Biologia, a Bioinformática e
+   outras.
+
+   Essas estratégias de distribuição possibilitam o fortalecimento de
+   mundos associativos virtuais e o surgimento de variedades de
+   arquiteturas de redes de informação, tanto na esfera econômica quanto
+   na política ou na social. Segundo Egler (2007), o processo de
+   compreensão das formas de agregação das redes e de atores tem dimensões
+   relacionais complexas e diferentes composições de relações sociais. A
+   formação de redes auto-organizadas, urbanas e setoriais, se
+   interconecta, propiciando o surgimento de redes materiais e imateriais
+   que se definem reciprocamente. O tecido social se torna mais complexo,
+   uma vez que surgem novas agregações sociais, identidades coletivas,
+   práticas políticas de ação, hierarquias e cooperações horizontais.
+   Assim, tessituras sociais vão sendo criadas, e sua complexidade exige
+   abordagens interdisciplinares para a compreensão de suas
+   especificidades.
+
+   No campo educacional, os desafios são muitos. Na égide dessas
+   transformações e mudanças, o acesso às informações sistematizadas e às
+   formas de capacitação para a tomada de decisões independentes e
+   autônomas requisita das instituições formadoras ações que vão além das
+   fronteiras da educação formal. A sociedade global tem se tornado uma
+   totalidade abrangente e complexa. Por ser ainda pouco conhecida,
+   desafia interpretações, práticas e novos ideais educativos. Os eventos
+   educativos locais, ao se interligarem com outros eventos em rede,
+   modificam sua natureza, tornando-se fluido, pouco.
+
+   É importante salientar que esse processo nada tem de homogeneizador, ao
+   contrário, provoca forças adversas, articulações e tensões, fazendo
+   crer que o mundo é interconectado, plural e complexo. Assim, as
+   singularidades de cada lugar se entrecruzam com outras e abrem espaços
+   de aprendizagem para uma diversidade de ritmos. Por ter como
+   característica básica a dinamização dos recursos de informática, traz,
+   em seu bojo, redes e alianças que tecem lugares educacionais que pedem
+   a aglutinação de signos, símbolos, diferenças e identidades múltiplas e
+   promovem a desterritorialização de expectativas, ideias e tradições,
+   modos de ser, pensar e imaginar. Assim, indagamos: qual o lugar da
+   nossa tradição universitária pautada em currículos fechados,
+   disciplinares, especializados? Quais são as estratégias de superação
+   das práticas docentes? Como instância de geração e disseminação do
+   conhecimento, como a universidade vem enfrentando sua necessidade de se
+   modernizar e de se expandir?
+
+   As redes digitais têm proporcionado o acesso mais amplo de pessoas e
+   grupos às múltiplas formas culturais de representação da realidade,
+   seja concreta seja simbólica (virtuais, científicas, estéticas etc.),
+   entretanto, parece que nossos sistemas educacionais têm sentido
+   dificuldades em reestruturar formas de conhecer e aprender mais
+   adequadas aos desafios impostos por esses sistemas culturais de
+   representação do conhecimento. Nosso esforço através das pesquisas tem
+   sido o de compreender as mudanças nos processos educativos ocasionadas
+   pelo estado da arte do conhecimento científico e tecnológico mundial e
+   seus impactos nos modelos educacionais.
+
+   Considerações finais
+
+   Segundo Santos (2005), tem sido visível e registrado que, nos últimos
+   vinte anos, a universidade sofreu uma erosão, talvez irreparável, na
+   sua hegemonia, decorrente das transformações na produção do
+   conhecimento, com a transição, em curso, do conhecimento universitário
+   convencional para o conhecimento pluriversitário, transdisciplinar,
+   contextualizado, interativo, produzido, distribuído e consumido. Isso
+   ocorreu com base na expansão da produção de ciência e tecnologia, que
+   alterou as relações entre conhecimento e informação, por um lado, e
+   formação e cidadania, por outro.
+
+   O modelo de universidade que ainda guarda a reforma ocorrida no governo
+   militar não se coaduna com a dinâmica da necessidade de formação que a
+   sociedade em permanente evolução e os mercados requerem: jovens e
+   adultos com capacidade de aprender a aprender, permanentemente, e com
+   uma formação autônoma e interdisciplinar sólida. Para a maioria de nós,
+   uma universidade capaz de satisfazer esses critérios está permeando os
+   discursos há cerca de quase duas décadas, mas, em realidade, essa é uma
+   prospecção para o futuro.
+
+   A educação a distância vem causar um grande impacto sobre nosso modelo
+   de Universidade, pois não permite que o ensino, a pesquisa e a extensão
+   se coordenem mais com a burocracia da departamentalização. Assim vão se
+   criando mecanismos de gestão paralela, uma vez que os cursos oferecidos
+   nessa modalidade exigem rapidez de decisões e flexibilidade nas ações,
+   no que se refere ao tempo e ao espaço de aprendizagem, bem como ao
+   imperativo na emergência de metodologias inovadoras. É um modelo de
+   gestão que convida todos os segmentos da Universidade a construírem
+   seus caminhos. Nesse novo espaço educativo, não há mais lugar para o
+   modelo anacrônico da reprodução que começa a se esgotar. As
+   “Universidades virtuais” vão alcançar, devido à própria exigência
+
+   de suas características, um alto grau de flexibilidade nas gestões
+   financeira, acadêmica e pedagógica. Como são “universidades” dentro da
+   própria universidade, serão necessários acordos e diálogos permanentes
+   com as estruturas acadêmicas fixas e convenções que, normalmente,
+   resistem a mudanças e restringem a flexibilidade.
+
+   A universidade virtual está requerendo outra forma de planejamento que
+   exige dinamismo e não se coaduna com práticas protelatórias das
+   estruturas acadêmicas convencionais. No caso da UAB, o convênio com os
+   Municípios, por meio de Polos de Apoio Presenciais, vai,
+   inexoravelmente, provocar tensões positivas no que concerne ao
+   dinamismo e à flexibilidade nas ações educacionais de Estados e
+   Municípios, sob pena de insucesso nas ações implementadas.
+
+   Mas, afinal, onde tudo isso está nos levando? Certamente, à emergência
+   de padrões de gestão acadêmicos mais flexíveis e voltados para a
+   dinâmica da realidade social e a estratégias de inovação na aplicação
+   de recursos públicos para a educação. Não há dúvidas de que trará
+   impactos importantes no uso das TIC[s ]para fins de ensino, pesquisa e
+   extensão, tanto no ensino presencial quanto no ensino a distância. Além
+   disso, não podemos negligenciar o fato de que a cooperação
+   transinstitucional (neste caso, universidades, estados e municípios)
+   maximiza a possibilidade de se promover a expansão educacional e a
+   inclusão digital ao mesmo tempo. Ainda é preciso admitir que as
+   Universidades Públicas brasileiras estejam chegando tardiamente a
+   ocupar esse espaço de formação já testado e aprovado por empresas
+   (Universidades corporativas) e centros de formação permanente como o
+   Serviço Nacional de Aprendizagem Comercial SENAC e o Serviço Brasileiro
+   de Apoio às Micro e Pequenas Empresas - SEBRAE.
+
+   Não podemos, no entanto, afirmar que a preocupação com o processo de
+   expansão é somente nacional. Essas iniciativas objetivando a expansão
+   da oferta de educação superior estão em sintonia com as orientações do
+   Banco Mundial que aponta para a importância desse nível de ensino para
+   o progresso social e econômico e como elemento formador de capital
+   humano de alta qualidade, em uma sociedade onde o conhecimento é visto
+   como o principal motor do desenvolvimento econômico. Podemos ver
+   claramente, aqui, as vinculações entre os eventos mundiais e os locais
+   e verificar a premissa de que, ao se interligarem com outros eventos em
+   rede, os eventos educativos locais modificam sua natureza.
+
+     En efecto, los países que se han beneficiado en mayor medida de la
+     integración a la economía mundial han logrado un aumento más
+     significativo de sus niveles educativos. De otra parte, existe una
+     evidencia cada vez mayor que la educación terciaria es vital para
+     los esfuerzos de una nación, con el fin de aumentar su capital y
+     promover la cohesión social, puesto que tiene un rol de
+     empoderamiento al constituyente primario, fortalecimiento
+     institucional, brinda elementos de regulación y consolida
+     estructuras de gobierno favorables, factores de crecimiento
+     económico y desarrollo (Banco Mundial, 2003, p. 10).
+
+   É importante ressaltar que, no Brasil, a sintonia entre as políticas de
+   expansão da educação superior e as recomendações do BM não se limitam
+   ao reconhecimento da importância da expansão desse nível de ensino, mas
+   à forma como ocorre. As políticas de expansão da educação superior têm
+   se caracterizado pela diversificação institucional, pela
+   desregulamentação, pela liberalização e pelo aprofundamento da
+   privatização. Ressalte-se a vinculação das decisões nacionais à rede
+   global pelo fato de que o processo de mundialização é caracterizado
+   pela forma como, em larga escala, gera, processa e usa, de forma
+   eficiente, o conhecimento científico e tecnológico estratégico com base
+   nas redes de informação e das transformações sociais.
+
+   No caso brasileiro, vimos que a expansão via EaD já se consolidou como
+   política pública para a educação superior. O Ministério da Educação
+   delega à Coordenação de Aperfeiçoamento de Pessoal do Ensino Superior –
+   CAPES – o acompanhamento e a avaliação dos Cursos a Distância, dando
+   assim, credibilidade social à sua política. Dedicada, há mais 50 anos,
+   a gerir e avaliar a pós-graduação brasileira, a CAPES vem conferir aos
+   Cursos a Distância o mesmo status conferido aos cursos presenciais.
+
+   Consolidado o modelo, é chegado o momento de avaliações e pesquisas
+   científicas sobre a multiplicidade de formatos existentes ao longo do
+   território brasileiro. Tem sido objeto de debates em Fóruns
+   especializados, a emergência de dois processos distintos de uso
+   pedagógico da tecnologia. É possível mapear em grandes, médias e
+   pequenas Universidades um processo intensivo de digitalização dos
+   saberes e conhecimentos. Esse processo reproduz, de um lado, o que
+   vamos aqui chamar de virtualização da educação bancária, por outro
+   lado, experiências que caminham na direção da construção de um tipo de
+   aprendizagem mais dinâmica e inovadora. Existem, tanto nos Estados
+   Unidos da América, na Europa, na África, bem como no Brasil, diversas
+   experiências consideradas como boas práticas de uso das tecnologias
+   digitais. São muitos os ambientes de cursos com bibliotecas virtuais,
+   murais eletrônicos, videoconferências, fóruns de discussão etc.,
+   construídos com a intenção de facilitar o acesso à informação.
+   Entretanto, é preciso diferenciar os cursos cuja implementação busca
+   apenas reproduzir o ensino tradicional modernizado pelos conteúdos
+   digitais daqueles cuja produção e implementação buscam fomentar uma
+   forma de aprendizagem mais aberta e dinâmica, explorando sistemas
+   inteligentes e inteligência artificial.
+
+   Ao longo dos estudos desenvolvidos pelo Grupo de Pesquisa Cultura
+   Digital e Educação, muitas experiências estão sendo cadastradas e
+   pesquisas de campo iniciadas com a finalidade de mapear as inovações
+   pedagógicas do uso das mídias e o processo de virtualização da educação
+   tradicional. Estudo pioneiro desenvolvido por Giebelen, em 2011, mostra
+   a dificuldade de acesso aos conteúdos e ambientes onde as análises
+   possam ser realizadas. Com a finalidade de ter acesso ao Ambiente
+   Virtual utilizado em cursos de Administração a Distância no Brasil, das
+   dezoito Universidades Públicas contatadas pelo autor, para análise dos
+   Ambientes Virtuais utilizados, somente uma delas permitiu acesso tanto
+   ao ambiente como aos processos técnicos de gestão.
+
+   Estudos e pesquisas precisam ser incentivados para buscar evidências de
+   que, para além da digitalização de conteúdos, está se consolidando a
+   emergência de uma educação sem fronteiras. Uma educação interativa,
+   aberta e inovadora requer muito mais que ampliação de vagas. Precisa
+   buscar a inovação pedagógica e metodológica como investimento, além de
+   inovações traduzidas de resultados de pesquisa e desenvolvimento de
+   produtos cujo conhecimento seja seu principal insumo. Um processo
+   inovador cujos protagonistas- pesquisadores, professores e alunos,
+   busquem, de forma consciente e intencional, oportunidades de inovação.
+   Se buscarmos um conceito de inovação como ato de atribuir novas
+   capacidades aos recursos (pessoas e processos) para gerar riqueza,
+   estaremos conectando o futuro.
+
+   Na Educação brasileira, se ciência, tecnologia e inovação
+   potencializarem os meios para desenvolver uma formação de qualidade a
+   parcelas da população até então muito distantes dessa realidade social,
+   a universidade estará cumprindo o seu papel de indutora de inovação. E
+   é neste cenário que a educação a distância (EaD) se destaca e pode
+   assumir seu papel mais relevante: combinar educação e tecnologia para
+   aproximar as pessoas, disponibilizando novas possibilidades de busca,
+   troca e consolidação de saberes, pautadas na coletividade e no respeito
+   às singularidades.
+
+   Nesse sentido, já poderemos advogar a mudança conceitual do termo
+   “educação a distância”. Outro eixo para pensar e refletir sobre a
+   categoria “distância”, que seria, agora, configurada como uma questão
+   pedagógica e não mais uma questão geográfica. A convergência
+   tecnológica, ao cunhar um mundo digital e em rede, expandiu as
+   possibilidades de troca e produção de conhecimentos, diminuindo as
+   distâncias entre quem produz e quem consome informações. Nesta rede não
+   pode mais existir produtores e consumidores, mas parceiros de aventura
+   num mundo habitado por sujeitos concretos que partilham mundos de vida
+   diversos. A busca pela construção coletiva de conhecimentos e da
+   viabilização do espaço crítico de narrativas...
+
+     ...Alice não achou muito fora do normal ouvir o Coelho dizer para si
+     mesmo ‘Oh puxa! Oh puxa! Eu devo estar muito atrasado!’ (quando ela
+     pensou nisso depois, ocorreu-lhe que deveria ter achado estranho,
+     mas na hora tudo parecia muito natural); mas, quando o Coelho tirou
+     um relógio do bolso do colete e olhou para ele, apressando-se a
+     seguir. Alice pôs-se em pé e lhe passou a idéia pela mente como um
+     relâmpago, que ela nunca vira antes um coelho com um bolso no colete
+     e menos ainda com um relógio para tirar dele. Ardendo de
+     curiosidade, ela correu pelo campo atrás dele, a tempo de vê-lo
+     saltar para dentro de uma grande toca de coelho embaixo da cerca. No
+     mesmo instante, Alice entrou atrás dele, sem pensar como faria para
+     sair dali... (Carroll, L).
+
+
+   Referências Bibliográficas
+
+   Almeida, J. F. (2010). O design como mecanismo facilitador da
+   aprendizagem na Educação à Distância. Dissertação de Mestrado, Programa
+   de Pós-Graduação em Educação. Universidade Federal da Paraíba, João
+   Pessoa.         [ [29]Links ]
+
+   Balmant, R. O. (2006). O ano em que a EAD se tornou uma política
+   pública. In Anuário Estatístico de Educação Brasileira Aberta e a
+   Distância ABRAEAD – 2006. São Paulo: Editora Monitor.
+
+   Banco Mundial (2003). La enseñanza superior: las lecciones derivadas le
+   la experiencia. Washington, D. C. Serie El desarrollo en la práctica.
+          [ [30]Links ]
+
+   Banco Mundial (2003) Construir sociedades de conocimiento: novos
+   desafíos para la educación terciaria. Washington, D. C.
+   [ [31]Links ]
+
+   Ministério da Ciência e Tecnologia (2002). Livro Branco de Ciência,
+   Tecnologia e Inovação. Brasília         [ [32]Links ]
+
+   Ministério da Educação (MEC) (2001). Instituto Nacional de Estudos e
+   Pesquisas Educacionais Anísio Teixeira (INEP). Sinopse Estatística da
+   Educação Superior 2001. MEC: Brasília-DF.         [ [33]Links ]
+
+   Ministério da Ciência e Tecnologia (2010). Livro Azul de Ciência,
+   Tecnologia e Inovação. Brasília, Brasil.         [ [34]Links ]
+
+   INEP (2011). Senso da Educação Superior do Brasil. Brasília, Instituto
+   Nacional de Estudos e Pesquisas em educação. INEP: Brasil.
+   [ [35]Links ]
+
+   Callon, M. (2007). L’innovation sociale. Quand l’économie redevient
+   politique, in Klein J., Harrisson D. (ed.), L’innovation sociale
+   Emergence et effets sur la transformation des sociétés (pp. 17-42).
+   Québec: Presses de l’Université du Québec.
+
+   Castells, M. (2008). A sociedade em rede. São Paulo: Paz e Terra.
+      [ [36]Links ] Giebelen, W. (2011). Arquiteturas cognitivas
+   construídas no curso de Administração a Distância -Projeto UAB/Banco do
+   Brasil. Dissertação de Mestrado.Programa de Pós-Graduação em Educação.
+   Universidade Federal da Paraíba, João Pessoa.         [ [37]Links ]
+
+   Dourado, L. F. (2008). Políticas e gestão da educação superior a
+   distância: novos marcos regulatórios? Educação & Sociedade, 104 (XIX),
+   891-917.         [ [38]Links ]
+
+   Egler, T. (2007). A ação política dos atores em rede no governo da
+   cidade. Ciberpólis: redes no governo da cidade. Rio de Janeiro: 7
+   Letras.         [ [39]Links ]
+
+   Guimarães, J. M. de M. (2007). Educação, globalização e Educação a
+   distância. Revista Lusófona de Educação, 9, 139-158.
+   [ [40]Links ]
+
+   Martins, C. L. E Nascimento, P.E. (2011). O processo de Bolonha no
+   ensino superior na América Latina: O caso do Brasil. Disponível em
+   <[41]http://www.institut-gouvernance.org/en/analyse/fiche-analyse-433.h
+   tml, consultado em 10/05/2011.         [ [42]Links ]
+
+   Portes, A. (2006). Estudos sobre Migrações Contemporâneas. Lisboa: Fim
+   do Século Edições.         [ [43]Links ]
+
+   Santos, M. (1996). A Natureza do espaço: técnica e tempo: razão e
+   emoção. São Paulo: HUCITEC.         [ [44]Links ]
+
+   Santos, B. S. (2005). A universidade no século XXI: para uma reforma
+   democrática e emancipatória da universidade. Educação, Sociedade &
+   Culturas, 23, 137-202.         [ [45]Links ]
+
+   Silveira, S. A. da. (2008). Convergência digital, diversidade cultural
+   e esfera pública. In Pretto, Nelson De Luca (Org.). Além das redes de
+   colaboração: internet, diversidade cultural e tecnologias do poder (pp.
+   31-50). Salvador: EDUFBA.         [ [46]Links ]
+
+   UNESCO (2010). Relatório sobre Ciência. Brasília: Organização das
+   Nações Unidas para a Educação a Ciência e a Cultura. Representação do
+   Brasil.         [ [47]Links ]
+
+
+   Notas
+
+   ^1 A pesquisa que originou este artigo é fruto de diversos estudos
+   desenvolvidos, no Grupo de Pesquisa Cultura Digital e Educação, para
+   situar a aprendizagem aberta e a distância e os processos cognitivos
+   inovadores dela decorrentes. Situa-se no carrefour interdisciplinar do
+   vasto campo de investigação sobre a ação da mente e os fenômenos
+   cognitivos no contextoda convergência tecnológica. É parte da Pesquisa
+   “A Educação a Distância e a expansão do ensino superior no Brasil e em
+   Portugal, financiada pela CAPES e desenvolvida no âmbito do Projeto de
+   Cooperação Internacional, Coordenação de Aperfeiçoamento de Pessoal do
+   Esino Superior – CAPES – Brasil e da Fundação para a Ciência e a
+   Tecnologia  FCT - Portugal.
+
+   [48]^2 GeoCapes é uma ferramenta de dados georreferencial. De forma
+   simplificada, pode ser definida como uma base de dados que consiste em
+   referenciar informações de acordo com sualocalização geográfica. É uma
+   maneira de disponibilizar informações acerca dos mais diversos cenários
+   em que a Capes participa ou está relacionada.
+
+   [49]^3 Configura como um “site em que as páginas podem ser facilmente
+   alteradas pelos visitantes. Usa convenções de formatação de texto que
+   dispensam conhecimentos de HTML e que permitem a criação automática de
+   links entre as páginas. (Informação baseada no livro “A Internet” de
+   Maria Ercilia e Antonio Graeff. Disponível em
+   [50]http://www1.folha.uol.com.br/folha/informatica/ult124u462348.shtml.
+   Consultado em 8 de março, de 2010.
+
+   Revista Lusófona de Educação
+   Centro de Estudos e Intervenção em Educação e Formação (CeiEF)
+   Avenida do Campo Grande, nº 376
+   1749-024 Lisboa
+   [e-mailt.gif]
+   [51]revista.lusofona@gmail.com
+
+Références
+
+   1. http://scielo.pt/scielo.php?lng=pt
+   2. http://scielo.pt/scielo.php?script=sci_issuetoc&pid=1645-725020120002&lng=pt&nrm=iso
+   3. http://scielo.pt/scielo.php?script=sci_arttext&pid=S1645-72502012000200009&lng=pt&nrm=iso
+   4. http://scielo.pt/scielo.php?script=sci_arttext&pid=S1645-72502012000200011&lng=pt&nrm=iso
+   5. http://scielo.pt/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article^drle&index=AU&format=iso.pft&lang=p&limit=1645-7250
+   6. http://scielo.pt/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article^drle&index=KW&format=iso.pft&lang=p&limit=1645-7250
+   7. http://scielo.pt/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article^drle&format=iso.pft&lang=p&limit=1645-7250
+   8. http://scielo.pt/scielo.php?script=sci_serial&pid=1645-7250&lng=pt&nrm=iso
+   9. http://scielo.pt/scielo.php?script=sci_alphabetic&lng=pt&nrm=iso
+  10. http://analytics.scielo.org/?journal=1645-7250&collection=prt
+  11. file:///pdf/rle/n21/n21a10.pdf
+  12. http://scielo.pt/scieloOrg/php/articleXML.php?pid=S1645-72502012000200010&lang=pt
+  13. javascript: void(0);
+  14. javascript:void(0);
+  15. javascript:void(0);
+  16. http://analytics.scielo.org/?document=S1645-72502012000200010&collection=prt
+  17. javascript: void(0);
+  18. javascript:void(0);
+  19. http://analytics.scielo.org/w/accesses?document=S1645-72502012000200010&collection=prt
+  20. http://www.mendeley.com/import/?url=http://scielo.pt/scielo.php?script=sci_arttext&pid=S1645-72502012000200010&lng=pt&nrm=iso&tlng=pt
+  21. https://www.addthis.com/bookmark.php?v=250&username=xa-4c347ee4422c56df
+  22. https://www.addthis.com/bookmark.php?v=250&username=xa-4c347ee4422c56df
+  23. javascript:void(0);
+  24. http://scielo.pt/scielo.php?script=sci_serial&pid=1645-7250&lng=pt&nrm=iso
+  25. mailto:ebrenna2@uol.com.br
+  26. mailto:eladiobrennand@uol.com.br
+  27. file:///tmp/lynxXXXXZ801e0/L18211-917TMP.html#2
+  28. file:///tmp/lynxXXXXZ801e0/L18211-917TMP.html#3
+  29. javascript:void(0);
+  30. javascript:void(0);
+  31. javascript:void(0);
+  32. javascript:void(0);
+  33. javascript:void(0);
+  34. javascript:void(0);
+  35. javascript:void(0);
+  36. javascript:void(0);
+  37. javascript:void(0);
+  38. javascript:void(0);
+  39. javascript:void(0);
+  40. javascript:void(0);
+  41. http://www.institut-gouvernance.org/en/analyse/fiche-analyse-433.html
+  42. javascript:void(0);
+  43. javascript:void(0);
+  44. javascript:void(0);
+  45. javascript:void(0);
+  46. javascript:void(0);
+  47. javascript:void(0);
+  48. file:///tmp/lynxXXXXZ801e0/L18211-917TMP.html#top2
+  49. file:///tmp/lynxXXXXZ801e0/L18211-917TMP.html#top3
+  50. http://www1.folha.uol.com.br/folha/informatica/ult124u462348.shtml
+  51. mailto:revista.lusofona@gmail.com

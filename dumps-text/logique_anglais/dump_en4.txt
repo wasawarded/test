@@ -1,0 +1,1164 @@
+   #FAQ in RDF FAQ RSS1.0 feed
+
+   W3C SW Logo
+
+   On this page: What is the Semantic Web? | How does the Semantic Web
+   relate to… | How do I participate in the Semantic Web? | Questions on
+   RDF, Ontologies, SPARQL, Rules…
+   Further links: RSS 1.0 feed to this FAQ | Activity News | Activity Home
+   page
+   Expand all questions | Collapse all questions
+
+                  W3C Semantic Web Frequently Asked Questions
+
+     The Semantic Web provides a common framework that allows data to be
+     shared and reused across application, enterprise, and community
+     boundaries. It is a collaborative effort led by W3C with
+     participation from a large number of researchers and industrial
+     partners.
+
+   Click on the question to see the answer; clicking on the question again
+   will collapse it. Alternatively, the "tab" character can be used to
+   jump from question to question and the "enter"/"return" to
+   expand/collapse a it. Finally, all questions can be expanded (or
+   collapsed) with one click.
+
+   There is also a wiki page where new or current questions, and the
+   answers thereof, can be discussed.
+
+What is the Semantic Web?
+
+How would you define the main goals of the Semantic Web?
+
+   The Semantic Web is a Web of data. There is a lot of data we all use
+   every day, and it's not part of the Web. For example, I can see my bank
+   statements on the web, and my photographs, and I can see my
+   appointments in a calendar. But can I see my photos in a calendar to
+   see what I was doing when I took them? Can I see bank statement lines
+   in a calendar? Why not? Because we don't have a web of data. Because
+   data is controlled by applications, and each application keeps it to
+   itself.
+
+   The vision of the Semantic Web is to extend principles of the Web from
+   documents to data. Data should be accessed using the general Web
+   architecture using, e.g., URI-s; data should be related to one another
+   just as documents (or portions of documents) are already. This also
+   means creation of a common framework that allows data to be shared and
+   reused across application, enterprise, and community boundaries, to be
+   processed automatically by tools as well as manually, including
+   revealing possible new relationships among pieces of data.
+
+   Semantic Web technologies can be used in a variety of application
+   areas; for example: in data integration, whereby data in various
+   locations and various formats can be integrated in one, seamless
+   application; in resource discovery and classification to provide
+   better, domain specific search engine capabilities; in cataloging for
+   describing the content and content relationships available at a
+   particular Web site, page, or digital library; by intelligent software
+   agents to facilitate knowledge sharing and exchange; in content rating;
+   in describing collections of pages that represent a single logical
+   “document”; for describing intellectual property rights of Web pages
+   (see, eg, the Creative Commons), and in many others. The list of
+   Semantic Web Case Studies and Use Cases gives some further examples.
+
+   (permalink)
+
+Are there any other definitions or thought of Semantic Web, if any?
+
+   No formal definitions, but of course there are different approaches.
+   Indeed, the complexity and variety of applications referring to the
+   Semantic Web is increasing every day, which means that various
+   application areas, implementers, developers, etc, would emphasize
+   different aspects of Semantic Web technologies. This wide range of
+   applications include data integration, knowledge representation and
+   analysis, cataloguing services, improving search algorithms and
+   methods, social networks, etc.
+
+   (permalink)
+
+What are the major building blocks of the Semantic Web?
+
+   In order to achieve the goals described above, the most important is to
+   be able to define and describe the relations among data (i.e.,
+   resources) on the Web. This is not unlike the usage of hyperlinks on
+   the current Web that connect the current page with another one: the
+   hyperlinks defines a relationship between the current page and the
+   target. One major difference is that, on the Semantic Web, such
+   relationships can be established between any two resources, there is no
+   notion of “current” page. Another major difference is that the
+   relationship (i.e, the link) itself is named, whereas the link used by
+   a human on the (traditional) Web is not and their role is deduced by
+   the human reader. The definition of those relations allow for a better
+   and automatic interchange of data. RDF, which is one of the fundamental
+   building blocks of the Semantic Web, gives a formal definition for that
+   interchange.
+
+   On that basis, additional building blocks are built around this central
+   notion. Some examples are:
+     * Tools to query information described through such relationships
+       (eg, SPARQL)
+     * Tools to have a finer and more detailed classification and
+       characterization of those relationships as well as the resources
+       being characterized. This ensures interoperability, more complex
+       automatic behaviors. For example, a community can agree what name
+       to use for a relationship connecting a page to one’s calendar; this
+       name can then be used by a large number of users and applications
+       without the necessity to redefine such names every time. (E.g., RDF
+       Schemas, OWL, SKOS)
+     * For more complex cases, tools are available to define logical
+       relationships among resources and their relationships (for example,
+       if a relationships binds a person to his/her email address, it is
+       feasible to declare that the email address is unique, ie, the
+       address is not shared by several persons). Tools based on this
+       level (e.g., OWL, Rules) can ensure more interoperability, can
+       reveal inconsistencies and find new relationships.
+     * Tools to extract from, and to bind to traditional data sources to
+       ensure their interchange with data from other sources. (E.g.,
+       GRDDL, RDFa, POWDER)
+
+   (permalink)
+
+What is the “killer application” for the Semantic Web?
+
+   It is difficult to predict what a “killer application” is for a
+   specific technology, and the prediction is often erroneous. That said,
+   the integration of currently unbound and independent “silos” of data in
+   a coherent application is certainly a good candidate. Specific examples
+   are currently explored in areas like Health Care and Life Sciences,
+   Public Administration, Engineering, etc.
+
+   (permalink)
+
+Will I “see” the Semantic Web in my everyday browser?
+
+   Not necessarily, at least not directly. The Semantic Web technologies
+   may act behind the scenes, resulting in a better user experience,
+   rather than directly influencing the “look” on the browser. This is
+   already happening: there are Web Sites (e.g., Sun’s white paper
+   collection site, or Nokia’s support portal for their S60 series device,
+   Oracle’s virtual press room, Harper’s online magazine, or Yahoo!’s
+   Finance portal) that use Semantic Web technologies in the background.
+
+   (permalink)
+
+Is the Semantic Web just research, or does it have industrial applications?
+
+   As all innovative technologies, the Semantic Web underwent an evolution
+   starting at research labs, being then picked up by the Open Source
+   community, then by small and specialized startups and finally by
+   business in general. Remember: the Web was originally developed in a
+   High Energy Physics center!
+
+   At present, the Semantic Web is increasingly used by small and large
+   business. Oracle, IBM, Adobe, Software AG, or Yahoo! are only some of
+   the large corporations that have picked up this technology already and
+   are selling tools as well as complete business solutions. Large
+   application areas, like the Health Care and Life Sciences, look at the
+   data integration possibilities of the Semantic Web as one of the
+   technologies that might offer significant help in solving their R&D
+   problems.
+
+   It is worth consulting the list of Semantic Web Case Studies and Use
+   Cases; it gives a good overview of existing applications. Note that the
+   list is often updated, when new application examples come in.
+
+   (permalink)
+
+Does one have to understand the theory of formal ontologies and logic to use
+the Semantic Web?
+
+   First of all, as pointed out elsewhere in this document, one can
+   develop Semantic Web applications without using ontologies. Very useful
+   applications can be built without those, relying on the most
+   fundamental, and simple concept of the Semantic Web. However, even if
+   ontologies, rules, reasoners, etc, are used, the average user should
+   not care about the complexities of, say, the details of reasoning. All
+   this is done “under the hood”. What the developer needs to operate with
+   are usually simple logical patterns of the sort “Given that
+   (Flipper isA Dolphin) and (Dolphin isAlso Mammal), one can conclude
+   that (Flipper isA Mammal)".
+
+   Compare it to SQL. The official SQL standards, the formal semantics of
+   SQL, and indeed its implementations, are extremely complex and
+   understood by a few specialists only. Nevertheless, a large number of
+   users use SQL in practice, without caring about the underlying
+   complexities.
+
+   (permalink)
+
+How is the Semantic Web related to the existing Web?
+
+   The Semantic Web is an extension of the current Web and not its
+   replacement. Islands of RDF and possibly related ontologies can be
+   developed incrementally. Major application areas (like Health Care and
+   Life Sciences) may choose to “locally” adopt Semantic Web technologies,
+   and this can then spread over the Web in general. In other words, one
+   should not think in terms of “rebuilding” the Web.
+
+   (permalink)
+
+Aren't there major copyright questions if the data in an integration process
+are cached?
+
+   There are and there aren't. There is just the way the Web raises this
+   issue already; after all, documents browsed by a traditional browser
+   are usually cached on the client side. And there aren't, because this
+   does not seem to have created major problems on the Web so far, and the
+   Semantic Web is not fundamentally different in this respect.
+
+   (permalink)
+
+What is the Semantic Web activity at W3C?
+
+   The Semantic Web Activity at W3C groups together all the Working and
+   Interest Groups whose goals are to improve the current Semantic Web
+   technologies or to contribute to their wider adoption. The activity
+   home page gives an up-to-date list of the current work at W3C.
+
+   (permalink)
+
+How does the Semantic Web relate to…
+
+… Artificial Intelligence?
+
+   Some parts of the Semantic Web technologies are based on results of
+   Artificial Intelligence research, like knowledge representation (e.g.,
+   for ontologies or rules), model theory (e.g., for the precise semantics
+   of RDF and RDF Schemas), or various types of logics (e.g., for rules).
+   However, it must be noted that Artificial Intelligence has a number of
+   research areas (e.g., image recognition) that are completely orthogonal
+   to the Semantic Web.
+
+   It is also true that the development of the Semantic Web brought some
+   new perspectives to the Artificial Intelligence community: the “Web
+   effect”, i.e., the merge of knowledge coming from different sources,
+   usage of URIs, the necessity to reason with incomplete data; etc.
+
+   (permalink)
+
+… Description Logic?
+
+   Description Logic is the mathematical theory (stemming from knowledge
+   representation) that is at the basis of some of the technologies
+   defined on the Semantic Web, like the so-called “Direct Semantics” of
+   OWL (loosely referred to as OWL-DL).
+
+   (permalink)
+
+… XML? When should I use RDF and when should I use XML?
+
+   Both formalisms have their strengths and weaknesses; their area of
+   usage is different. The two data models serve different constituencies
+   and the choice really depends on the application. There is no better or
+   worse; only different.
+
+   One of XML’s strengths is its ability to describe strict hierarchies.
+   Applications may rely on and indeed exploit the position of an element
+   in a hierarchy: for example, most browsers provide a different
+   rendering of HTML’s li element depending on how “deep” the enclosing
+   list is. XML makes it easy to control the content via XML Schemas and
+   combine XML data that abide to the same Schema or DTD.
+
+   However, combining different XML hierarchies (technically, DOM trees)
+   within the same application may become very complex. XML is not an easy
+   tool for data integration. On the other hand, RDF consists of a very
+   loose set of relations (triples). Due to its usage of URIs it is very
+   easy to seamlessly merge triple sets, ie, data described in RDF within
+   the same application; it is therefore ideal for the integration of
+   possibly heterogenous information on the Web. But this has its price:
+   reconstructing hierarchies from RDF may become quite complex. As an
+   example, it would be fairly complicated (and unnecessary) to describe,
+   eg, vector graphics, using RDF; use SVG instead!
+
+   RDF based vocabularies, and the accompanying semantic formalisms like
+   RDFS or OWL, also make it easy to define inference possibilities on RDF
+   data. Although this could be done around XML dialects, too, it would
+   remain application specific and not portable.
+
+   For existing XML-based vocabularies, one can develop an GRDDL
+   transformation to RDF using a language such as XSLT and then use the
+   power of RDF to merge your pre-existing XML formats. For new
+   vocabularies, this technique allows you to use both XML and RDF-based
+   versions of your vocabulary, gaining the advantages of both.
+
+   (permalink)
+
+… XML Schemas? What do ontologies buy me that XML and XML Schema don't?
+
+   This issue is also related to the issue of using XML or RDF, addressed
+   in a previous question. First of all, let us quote from the OWL Guide
+   recommendation:
+
+     * An ontology differs from an XML Schema in that it is a knowledge
+       representation, not a message format. Most industry based Web
+       standards consist of a combination of message formats and protocol
+       specifications. These formats have been given an operational
+       semantics, such as, “Upon receipt of this PurchaseOrder message,
+       transfer Amount dollars from AccountFrom to AccountTo and ship
+       Product.” But the specification is not designed to support
+       reasoning outside the transaction context. For example, we won’t in
+       general have a mechanism to conclude that because the Product is a
+       type of Chardonnay it must also be a white wine.
+     * One advantage of OWL ontologies will be the availability of tools
+       that can reason about them. Tools will provide generic support that
+       is not specific to the particular subject domain, which would be
+       the case if one were to build a system to reason about a specific
+       industry-standard XML schema. […] They will benefit from third
+       party tools based on the formal properties of the OWL language,
+       tools that will deliver an assortment of capabilities that most
+       organizations would be hard pressed to duplicate.
+
+   Also, XML data is very sensitive to the XML Schema it refers to. If the
+   XML Schema changes, the same XML data may become invalid, i.e., being
+   rejected by Schema-aware parsers. Somewhat similar dependence on RDF
+   Schemas and Ontologies exist for RDF data, too: if the RDF Schema or
+   OWL Ontology changes, the inferences drawn from the RDF data may
+   change. However, the core RDF data is still usable, there is no notion
+   of the data being “rejected” by, e.g., a parser due to a
+   Schema/Ontology change. In general, RDF is more robust against changing
+   of Schemas and Ontologies than XML is versus Schemas. Note that a GRDDL
+   transformation from XML to RDF may be given by an XML Schema as
+   described in the GRDDL specification. This allows any XML document that
+   validates according to the XML Schema given at the namespace URI of the
+   XML vocabulary to be converted to RDF.
+
+   (permalink)
+
+… HTML meta headers?
+
+   The meta and link elements in HTML can be used to add metadata to an
+   HTML page. In Semantic Web terms, this is equivalent to the process of
+   defining RDF relationships for that page as a “source”. Note, however,
+   that these elements can be used to define relationships for the
+   enclosing HTML file only, whereas the Semantic Web allows the
+   definition of relationships on any resource on the Web. That also means
+   that the meta and link elements can be used by the author of the
+   document only, whereas, on the Semantic Web, anybody could publish
+   metadata concerning that page. GRDDL allows easy and automatic
+   extraction of meta header data, such as that given by Dublin Core, to
+   RDF.
+
+   (permalink)
+
+… tagging, folksonomies
+
+   Tagging has emerged as a popular method of categorizing content. Users
+   are allowed to attach arbitrary strings to their data items (for
+   example, blog entries and photographs). While tagging is easy and
+   useful, it often discards a lot of the semantics of the data. A
+   folksonomy tag is typically 2/3 of an RDF triple. The subject is known:
+   e.g., the URL for the flickr image being tagged, or the URL being
+   bookmarked in delicious. The object is known: e.g.,
+   http://flickr.com/photos/tags/cats or http://del.icio.us/tag/cats. But
+   the predicate to connect them is often missing. Machine-tags lend
+   themselves to RDF more since they better capture the relationship
+   between the subject and the object. Folksonomy providers are encouraged
+   to capture or infer the semantics around their tags and to leverage
+   semantic web technologies such as RDF and SKOS to publish machine
+   readable versions of their concept schemes.
+
+   Another issue arising with tags is that the number of different tags
+   meaning the same things but differing in spelling, lower or upper case,
+   usage of space or underscore characters etc., may create major
+   obstacles to them being used on a larger scale. There are a number of
+   initiatives, start-up companies, projects, etc., that aim at combining
+   the two approaches, providing a little bit of extra rigour using
+   Semantic Web techniques to create new type of applications (Reuters’
+   Open Calais service, Radar Networks’ Twine, the MOAT initiative, Common
+   Tag, etc.).
+
+   (permalink)
+
+… microformats
+
+   Microformats are usually relatively small and simple sets of terms
+   agreed upon by a community. Data models developed within the framework
+   of the Semantic Web have the potential to be more expressive, rigorous,
+   and formal (and are usually larger). Both can be used to express
+   structured data within web pages. In some cases, microformats are
+   appropriate because the extra features provided by Semantic Web
+   technologies are not necessary. Other cases requiring more rigor will
+   not be able to use microformats.
+
+   Data described in microformats each address a specific problem area.
+   One has to develop a program well-adapted to a particular microformat,
+   to the way it uses, say, the class and property="dc:date" content
+   attributes. It also becomes difficult (though possible) to combine
+   different microformats. In contrast, RDF can represent any
+   information—including that extracted from microformats present on the
+   page. This is where microformats can benefit from RDF—the generality of
+   the Semantic Web tools makes it easier to reuse existing tools, eg, a
+   query language and combining statements from different origins easily
+   belongs to the very essence of the Semantic Web.
+
+   GRDDL is a “bridge” to the microformats approach; it defines a general
+   procedure whereby microformats stored in an XHTML file can be
+   transformed into RDF on–the–fly. A list of microformat to RDF
+   vocabulary can be found on on the ESW Wiki. Another technology is RDFa
+   that defines an XHTML1.1 module giving the possibility to use virtually
+   any RDF vocabulary as annotations of the XHTML content; a bit like
+   microformats with somewhat more rigor and a better way of integrating
+   different vocabularies within the same document. There is also an
+   ongoing work to adapt RDFa to the upcoming HTML version, HTML5.
+
+   (permalink)
+
+… Web 2.0?
+
+   One aspect of Web 2.0, beyond the exciting new interfaces and the usage
+   of a common intelligence, is that it pushes intelligence and active
+   agents from the server to the client, more specifically the browser.
+   Development of active client-side application also means that these
+   applications use all kinds of data; data that are on the Web somewhere,
+   or data that is embedded in the page though not necessarily visible on
+   the screen. Examples are microformats type annotation of the page,
+   calendar data on the Web, tagged images or links stored on a web site,
+   etc. This aspect of Web 2.0, ie, that applications are based on
+   combining various types of data (“mashing up” the data) that are spread
+   all around on the Web coincides with the very essence of the Semantic
+   Web. What the Semantic Web provides is a more consistent model and
+   tools for the definition and the usage of qualified relationships among
+   data on the Web. I.e., both technologies focus on intelligent data
+   sharing. A number of typical Web 2.0 demonstrations and applications
+   emerge that, in the background, use Semantic Web tools combined with
+   AJAX and other, exciting user interface approaches.
+
+   In many cases, using RDF-based techniques makes the mashing up process
+   easier, mainly when data collected by one application is reused by
+   another one somewhere down the line. The general nature of RDF makes
+   this “mashup chaining” straightforward, which is not always the case
+   for simpler Web 2.0 applications.
+
+   Trying to present these two approaches as alternatives, or even
+   claiming folksonomies to be superior to the Semantic Web approach, has
+   been a topic of the blogosphere and various publications for a while,
+   but both communities realize these days that these two techniques are
+   complementary rather than competitive.
+
+   (permalink)
+
+How do I participate in the Semantic Web?
+
+Does the Semantic Web require me to manually markup all the existing
+web-pages, or to convert all the data in relational databases into RDF?
+
+   The Semantic Web is about a web of data. The data itself can reside in
+   databases, spreadsheets, Wiki pages, or indeed traditional web pages.
+
+   The challenge is to develop tools that can “export” these data into RDF
+   form: RDF plays the role of a common model, as a kind of a “glue” to
+   integrate the data. That does not mean that the data must be physically
+   converted into RDF form and stored in, say, RDF/XML. Instead, automatic
+   procedures, for example SQL to RDF converters for relational databases,
+   GRDDL processors for XHTML files with microformats, RDFa, etc, can
+   produce RDF data on-the-fly as an answer to, eg, queries. RDF data may
+   also be included in the data via other tools (e.g, Adobe’s XMP data
+   that gets automatically added to JPEG images by Photoshop). Authoring
+   tools also exist to develop, eg, ontologies on a high level instead of
+   editing the ontology files directly. Of course, direct editing of RDF
+   data is sometimes necessary, but it can be expected to become less and
+   less prevalent as smarter editors come to the fore.
+
+   Clearly, lots of development is still to be done in this area, and it
+   is a subject of active Research and Development. The goal is to reuse,
+   as much as possible, existing data in its existing form, and minimize
+   the RDF data that has to be created manually. Note that, in fall 2009,
+   W3C has started a Working Group, called RDB2RDF WG, that aims at
+   standardizing the description on how relational database data should be
+   converted into RDF. First results of that group are expected in early
+   2010.
+
+   (permalink)
+
+Does the Semantic Web require me to put all my data into the public domain?
+What about my sensitive data?
+
+   The Semantic Web provides an application framework that extends the
+   current Web, does not replace it. That also means that the current
+   infrastructure of firewalls, various levels of protections, encryption,
+   etc, remain in place. If, for whatever reason (privacy, business, etc),
+   the data should be kept behind the firewall on the Intranet, rather
+   than being in the open, this just means that that particular Semantic
+   Web application operates on the Intranet. This is not unlike the
+   development of the traditional Web, the usage of Web Services, etc: a
+   number of applications were developed to be used behind corporate
+   firewalls; some of them migrated later to the full Web, some other
+   stayed behind the firewall. The same is valid for Semantic Web
+   applications.
+
+   (permalink)
+
+Where do I find tools for Semantic Web development?
+
+   There are several lists on the Web that give a more-or-less
+   comprehensive overview of the various available tools. There is a Wiki
+   page on the W3C ESW Wiki site that is maintained by the W3C staff as
+   well as the community at large. This page includes references to
+   programming environments, validators that can be used to validate
+   RDF/XML data or OWL ontologies, SPARQL endpoints, specialized editors
+   or triple databases. It also includes references to other lists.
+
+   (permalink)
+
+Are the SW tools as robust and as ubiquitous as, say, the xerces XML parser?
+
+   In general most of the tools are of a good quality already. On the open
+   source domain Jena, Sesame, or Redland, for example, can easily be
+   compared to xerces in their widespread usage and richness of features;
+   databases like Mulgara, AllegroGraph, or Virtuoso are also in
+   widespread use and have undergone a very thorough development in the
+   past few years. There are more and more commercial tools, including
+   editors, professional databases, content management systems, ontology
+   creation and validation tools, etc. The Wiki page on the W3C ESW Wiki
+   site gives a good overview of most of those.
+
+   Obviously, there is room for improvement. SW is a younger technology
+   than XML and it still needs time to catch up and have tools of the same
+   maturity and efficiency level than the XML World. However, huge
+   improvements have already been made in the past few years in all areas,
+   and large-scale enterprise deployment is also happening already. In
+   general: availability of tools is not a reason any more for not
+   developing Semantic Web applications…
+
+   (permalink)
+
+How do I put RDF into my (X)HTML Pages?
+
+   The GRDDL provides a “bridge” to the microformats approach while RDFa
+   provides an XHTML1.1 module that gives the possibility to use virtually
+   any RDF vocabulary as annotations of the XHTML content, yielding RDF
+   data. Both approaches can be used.
+
+   (permalink)
+
+How do I export my data from a Relational Database?
+
+   There are a number of open source tools; see the W3C Wiki page for a
+   few examples. These tools typically have their own languages for
+   defining the mapping between the database to RDF. W3C has started work
+   on defining standards in this area in September 2009, done by the
+   RDB2RDF Working Group.
+
+   In general, methods exist to convert RDF queries (e.g., in SPARQL) into
+   SQL queries on-the-fly; ie, the RDB looks like an RDF store when
+   queried by an RDF tool. The details of the mapping from Relational
+   Tables to RDF notions is usually described for a specific database
+   using either a small ontology and/or a set of rules; this is the only
+   manual information to be generated for the conversion.
+
+   (permalink)
+
+How can I learn more about the Semantic Web?
+
+   Dave Beckett's Resource Description Framework (RDF) Resource Guide
+   gives a quite comprehensive list of references to Semantic Web related
+   articles. The home page of the Semantic Web Activity lists all the
+   recommendations, gives references to some of the presentations,
+   articles, etc, that have been given by the W3C staff or the members of
+   the working groups on the subject. A separate page lists a number of
+   tutorials that might be of interest.
+
+   The (now defunct) Semantic Web Best Practices and Deployment Working
+   Group has produced a number of notes that might be useful when
+   developing ontologies, setting up servers to serve RDF data, using XML
+   Schema datatypes with RDF, etc.
+
+   A number of books have also been published. A list of books is given on
+   W3C’s Wiki site, comprising (at this moment) over 40 books in different
+   languages, published by major publishers like O’Reilly, MIT Press,
+   Cambridge University Press, Springer Verlag, …
+
+   (permalink)
+
+Where can I find papers/publications about the Semantic Web?
+
+   There are a number of conference series that are either dedicated to
+   the Semantic Web or which always have a significant Semantic Web track.
+   The best known are:
+     * The “International Semantic Web Conference” series is a yearly
+       event that publishes its proceedings by Springer (the proceedings
+       are online since 2006). While these conferences typically circulate
+       around the globe, the “European Semantic Web Conference” and the
+       “Asian Semantic Web Conference” series are held somewhere in
+       Europe, respectively in Asia.
+     * The “International World Wide Web Conference” is a major yearly
+       conference on World Wide Web Technologies in general, which always
+       has a strong Semantic Web track both for the academic and the
+       developers’ communities. Look at the page of the organizing
+       committee for further details on these conferences and links to
+       their proceedings.
+     * The yearly Semantic Technologies conference has also become a major
+       event. It is less focussed on the research aspects of the Semantic
+       Web but concentrates rather on the industrial, business aspects,
+       new applications and developments.
+
+   (permalink)
+
+Where do I find ontologies, terminologies, or datasets for my applications?
+
+   There are several portals that collect information on existing
+   ontologies. A good example is SchemaWeb. Another one is the
+   “PingTheSemanticWeb” service which collects information about new RDF
+   documents on the Web based on “pings” sent by applications generating
+   data and on RDF autodiscovery links found by people browsing the Web.
+   It currently contains information about ~7 million RDF files. There are
+   also search engines, like Falcon, Sindice, or Watson and others (see
+   the separate section on the tool’s wiki page) that specialize on
+   searching Semantic Web documents.
+
+   (permalink)
+
+Can I see Semantic Web data directly in my browser?
+
+   You can have a human-readable display of RDF data by using RDF data
+   browsers like the Tabulator, Disco, Sig.ma, VisiNav, or the OpenLink
+   RDF Browser, and web browser extensions like the Semantic Radar. While
+   end users will not have a need to see Semantic Web data (instead they
+   will benefit from better information systems built on top of it) it may
+   be helpful to developers to be aware of Semantic Web data directly so
+   that they can use this information in their applications.
+
+   (permalink)
+
+Is there a community of developers I can join?
+
+   The W3C Semantic Web Interest Group is one of those and probably the
+   best place to join first. It is a public mailing list and is also
+   active on the #swig IRC channel Freenode.
+
+   There are also various grass-root communities that concentrate on some
+   specific aspects or goal around the Semantic Web. Some examples:
+     * DOAP: a project to describe information about open-source software
+       projects
+     * FOAF: a project to describe information about people and their
+       social relations (see also the #foaf IRC channel on Freenode)
+     * SIOC: a project to describe information about online community
+       sites (blogs, bulletin boards, …) and use this information to
+       connect these sites together.
+     * Linking Open Data on the Semantic Web: is project whose goal is to
+       make various open data sources available on the Web as RDF and to
+       set RDF links between data items from different data sources.
+
+   Another source is the PlanetRDF Blog aggregator that aggregates the
+   blogs of a number active Semantic Web developers from around the World.
+
+   (permalink)
+
+Why has W3C developed the new cube logo?
+
+   The new logo has been created as a high level image to represent the
+   Semantic Web, and the technology buttons have been designed to create
+   consistent branding for all of the standards that make up the Semantic
+   Web. Going forwards we are planning to create pictograms for the
+   standards for t-shirts, mugs, etc. In that context, you'll be seeing
+   the familiar blue RDF triple again.
+
+   (permalink)
+
+Questions on RDF, Ontologies, SPARQL, Rules…
+
+What is RDF?
+
+   RDF—the Resource Description Framework—is a standard model for data
+   interchange on the Web. RDF has features that facilitate data merging
+   even if the underlying schemas differ, and it specifically supports the
+   evolution of schemas over time without requiring all the data consumers
+   to be changed.
+
+   RDF extends the linking structure of the Web to use URIs to name the
+   relationship between things as well as the two ends of the link (this
+   is usually referred to as a “triple”). Using this simple model, it
+   allows structured and semi-structured data to be mixed, exposed, and
+   shared across different applications.
+
+   This linking structure forms a directed, labelled graph, where the
+   edges represent the named link between two resources, represented by
+   the graph nodes. This graph view is the easiest possible mental model
+   for RDF and is often used in easy-to-understand visual explanations.
+
+   The “RDF Primer” is a good material for further reading on RDF.
+
+   (permalink)
+
+What formats can RDF be represented in?
+
+   RDF statements (or triples) can be encoded in a number of different
+   formats, whether XML based (e.g., RDF/XML) or not (Turtle, N-triples,
+   …). In general it does not really matter which of these formats (or
+   serializations) are used to express data—the information is represented
+   in RDF triples and the particular format is only the “syntactic sugar”.
+   Most RDF tools can parse several of these serialization formats.
+
+   Compare to “numbers” as opposed to “numerals”. Numbers are mathematical
+   concepts; numerals are a representation thereof using Roman, Arabic,
+   hexadecimal, octal, etc, representations. Some of those representations
+   (like Roman) may be very complicated, some of those may be simpler or
+   more familiar, but they all represent the same abstract concept.
+
+   (permalink)
+
+Isn’t RDF simply an XML application?
+
+   No. The fundamental model of RDF is independent of XML. RDF is a model
+   describing qualified (or named) relationships between two (Web)
+   resources, or between a Web resource and a literal. At that fundamental
+   level, the only commonality between RDF and the XML World is the usage
+   of the XML Schema datatypes to characterize literals in RDF. In fact,
+   using GRDDL, a way to automate mappings from XML to RDF easily, many
+   XML vocabularies can be considered applications of RDF.
+
+   Note that one of the serialization formats of RDF is indeed based on
+   XML (RDF/XML), and this is probably the most widely used format today.
+   But others exist, see the separate question on RDF representation.
+
+   (permalink)
+
+Where is the “Web” in the Semantic Web?
+
+   The Semantic Web standards follow the design principles of the Web in
+   order to allow the growth of a planet-wide collection of
+   semantically-rich data. The key element of this design is the use of
+   Web addresses (URIs) to name things. Because the meaning of a term in a
+   language without central control becomes established by its consistent
+   use to achieve the same effect, and URIs are used around the World to
+   access web pages, the Web is used to establish globally-shared meaning
+   for URIs in the Semantic Web. (This is what people mean when they say
+   RDF URIs are “grounded” in the Web.)
+
+   As with the Web in general, this approach allows the Semantic Web to
+   grow and evolve without any central control or authority, but while
+   still maintaining as much consistency and authorial control as needed
+   for particular applications or particular enterprises. The techniques
+   for doing all this are still evolving, but ideally whenever anyone sees
+   a Semantic Web URI they can use it in their browser and see
+   authoritative documentation about its use. Moreover, whenever some
+   software encounters a URI in a Semantic Web context, it can dereference
+   it and find an ontology which precisely specifies how the term is
+   related to other terms. The software may thus learn and exploit new
+   terms which are synonymous with terms it already knows, or related in
+   more complex and useful (but logically precise) ways.
+
+   All this results in the ability to find and correctly merge data from
+   multiple sources, sometimes even when they are provided with different
+   ontologies.
+
+   “In the Semantic Web, it is not the Semantic which is new, it is the
+   Web which is new” Chris Welty, IBM
+
+   (permalink)
+
+How can I query RDF data?
+
+   The W3C Data Access Working Group has developed the SPARQL Query
+   Language. SPARQL defines queries in terms of graph patterns that are
+   matched against the directed graph representing the RDF data. SPARQL
+   contains capabilities for querying required and optional graph patterns
+   along with their conjunctions and disjunctions. The result of the match
+   can also be used to construct new RDF graphs using separate graph
+   patterns.
+
+   SPARQL can be used as part of a general programming environment, like
+   Jena, but queries can also be sent as messages to a remote SPARQL
+   endpoints using the companion technologies SPARQL Protocol and SPARQL
+   Query Result in XML. Using such SPARQL endpoints, applications can
+   query remote RDF data and even construct new RDF graphs, without any
+   local processing or programming burden. For more questions on SPARQL,
+   see also the separate FAQ on SPARQL.
+
+   (permalink)
+
+Why not use SQL and/or XQuery to query RDF data? Why develop yet another
+query language?
+
+   SPARQL is a query language developed for the RDF data model; queries
+   themselves look and act like RDF. I.e., the queries are independent of
+   the physical representation of the RDF data (the structure of the
+   databases, their representation in an RDF/XML file, etc). If query was
+   done via, for example, XQuery, the application would have to know how
+   that particular RDF data exactly represented as RDF/XML (and RDF/XML is
+   only one of the possible serialization of the RDF data).
+
+   (permalink)
+
+Can I use SPARQL to insert, delete, or update RDF data?
+
+   The current, standardized version of SPARQL deals only with retrieving
+   selected data from RDF graphs. There is no equivalent of the SQL
+   INSERT, UPDATE, or DELETE statements. Most RDF-based applications
+   handle new, changing, and stale data directly via the APIs provided by
+   specific RDF storage systems. Alternatively, RDF data can exist
+   virtually (i.e. created on-demand in response to a SPARQL query). Also,
+   there are systems which create RDF data from other forms of markup,
+   such as Wiki markup or the Atom Syndication Format.
+
+   However, there is indeed demand to cover this functionality, too. The
+   SPARQL Working Group is currently active in developing a new version of
+   SPARQL, and this will include these facilities, too. A first, draft
+   version of the SPARQL 1.1 Update document is already available.
+
+   (permalink)
+
+Will there be a SPARQL “Next”? When will feature X be standardized?
+
+   SPARQL users have asked for many extensions to the SPARQL query
+   language. Some of these have been accomodated by SPARQL
+   implementations. In an attempt to inform SPARQL users and to minimize
+   implementation differences of non-standard SPARQL features a new SPARQL
+   Working Group has been set up early 2009. This group is busy defining
+   the minimal number of extensions that can be done without backward
+   incompatibilities and do not require a too large addition to the
+   initial version of SPARQL. The first drafts have been published in
+   October 2009 and the work is planned to be completed (resulting in an
+   updated version of SPARQL, currently called SPARQL 1.1) by the end of
+   2010.
+
+   (permalink)
+
+What role do ontologies and/or rules have on the Semantic Web?
+
+   On the Semantic Web both ontologies and rules are used to express extra
+   constraints and logical relationships among resources. An example for
+   their usage is to help data integration when, for example, different
+   terms are used to describe the same thing in different data sets, or
+   when a bit of extra knowledge may lead to the discovery of new
+   relationships.
+
+   Ontologies and rules refer to two different traditions stemming from
+   logic, as developed in the past decades. Whereas ontologies are more
+   closely related to classification systems, and particularly to
+   description logic, rules rely more on the advances of logic programming
+   and rule based systems.
+
+   See the separate questions on Ontologies and on Rules.
+
+   (permalink)
+
+What are ontologies in the Semantic Web context?
+
+   Ontologies define the concepts and relationships used to describe and
+   represent an area of knowledge. Ontologies are used to classify the
+   terms used in a particular application, characterize possible
+   relationships, and define possible constraints on using those
+   relationships. In practice, ontologies can be very complex (with
+   several thousands of terms) or very simple (describing one or two
+   concepts only).
+
+   An example for the role of ontologies or rules on the Semantic Web is
+   to help data integration when, for example, ambiguities may exist on
+   the terms used in the different data sets, or when a bit of extra
+   knowledge may lead to the discovery of new relationships.
+
+   A general example may help. A bookseller may want to integrate data
+   coming from different publishers. The data can be imported into a
+   common RDF model, eg, by using converters to the publishers’ databases.
+   However, one database may use the term “author”, whereas the other may
+   use the term “creator”. To make the integration complete, and extra
+   “glue” should be added to the RDF data, describing the fact that the
+   relationship described as “author” is the same as “creator”. This extra
+   piece of information is, in fact, an ontology, albeit an extremely
+   simple one.
+
+   Languages like RDF Schemas and various variants of OWL provide
+   languages to express ontologies in the Semantic Web context. These are
+   stable specifications, published in 2004, with an update of OWL
+   (denoted by “OWL 2”) published 2009.
+
+   (permalink)
+
+What are rules on the Semantic Web?
+
+   The term “rules” in the context of the Semantic Web refers to elements
+   of logic programming and rule based systems bound to Semantic Web data.
+   Rules offer a way to express, for example, constraints on the
+   relationships defined by by RDF, or may be used to discover new,
+   implicit relationships.
+
+   Various rule systems (production rules, Prolog-like systems, etc) are
+   very different from one another, and it is not possible to define one
+   rule language to encompass them all. However, it is possible to define
+   a “core” that is essentially understood by all rule systems. This core
+   is based on restricted kind of rule, called a “Horn” rule, which (like
+   most rules) has the form “if conditions then consequence”, but it
+   places certain restrictions on the kinds of conditions and consequences
+   that can be used.
+
+   A general example may help. While integrating data coming from
+   different sources, the data may include references to persons, their
+   name, homepage, email addresses, etc. However, the data does not say
+   when two persons should be considered as identical, although this is
+   clearly important for a full integration. An extra condition can be
+   expressed stating that “if two persons have similar names, home pages,
+   and email addresses, then they are identical”. Such condition can be
+   naturally expressed with Horn rules.
+
+   The Rule Interchange Format (RIF) Working Group is currently working on
+   a precise definition of this “core” Rule language, on ways to extend
+   this rule language to various variants (production rules, logic
+   programming, etc), to exchange expression of rules among systems, and
+   to define the precise relationships of these rules with OWL ontologies
+   and their usage with RDF triples.
+
+   (permalink)
+
+How do I know when to use OWL and when to Rules? How can I use them both
+together?
+
+   First of all, the question arises whether it is possible to use these
+   two technologies together. The answer is yes. One of the six
+   recommendation track documents of RIF is called “RIF RDF and OWL
+   Compatibility”. In layman’s term, what it describes is how the two
+   “sides”, i.e., the rule and the classification sides, should work
+   together on the same data set. It defines some sort of an interplay
+   between two different mechanisms: the, shall we say, logic programming
+   part and the knowledge representation part. Implementations doing both
+   are a bit like hybrid cars: they have two parallel engines and a well
+   defined connections between those two. That said, the document only
+   defines what the combination means; whether, for example, engines will
+   always succeed in handling the two worlds together in a finite time is
+   not necessarily guaranteed in all cases. But we can be positive: in
+   many cases (ie, by accepting restrictions here and there) this
+   combination does work well, and there are, actually, good
+   implementations out there that do just that.
+
+   The substantive differences is that RIF (i.e., logic programming) and
+   OWL are designed to allow for optimizations of different sets of
+   problems. Very broadly speaking, OWL optimizes for taxonomic reasoning
+   problems within an ontology specification (i.e., without the data), and
+   logic programs optimize for reasoning problems within the data (i.e.,
+   without the ontology). So a reasonable rule of thumb is, if one’s
+   ontology is very large one should probably use OWL, and if data set is
+   very large, one should probably use RIF. That being said, the
+   expressive differences are quite minor, and it very often boils down to
+   personal experience and taste: some feel more comfortable using rules
+   while others prefer knowledge representation.
+
+   (permalink)
+
+What is “inference” on the Semantic Web?
+
+   Broadly speaking, inference on the Semantic Web can be characterized by
+   discovering new relationships. As described elsewhere in this FAQ, the
+   data is modeled as a set of (named) relationships between resources.
+   “Inference” means that automatic procedures can generate new
+   relationships based on the data and based on some additional
+   information in the form of an ontology or a set of rules. Whether the
+   new relationships are explicitly added to the set of data, or are
+   returned at query time, is simply an implementation issue.
+
+   A simple example may help. The data set to be considered may include
+   the relationship (Flipper isA Dolphin). An ontology may declare that
+   “every Dolphin is also a Mammal”. That means that a Semantic Web
+   program understanding the notion of “X is also Y” can add to the set of
+   relationships the statement (Flipper isA Mammal), although that was not
+   part of the original data. One can also say that the new relationship
+   was “discovered”.
+
+   (permalink)
+
+Must I use ontologies for Semantic Web Applications?
+
+   It depends on the application. The answer on the role of ontologies
+   and/or rules includes a very simple ontology example. Some applications
+   may decide not to use even such small ontologies, and rely on the logic
+   of the application program. Some application may choose to use very
+   simple ontologies like the one described, and let a general Semantic
+   Web environment use that extra information to make the identification
+   of the terms. Some applications need an agreement on common
+   terminologies, without any rigor imposed by a logic system. Finally,
+   some applications may need more complex ontologies with complex
+   reasoning procedures. It all depends on the requirements and the goals
+   of the applications.
+
+   The current Semantic Web technologies offer a large palette of
+   languages to describe simple or complex terminologies: RDF Schemas,
+   SKOS, RIF or various dialects/profiles of OWL (OWL DL, OWL 2 QL, OWL 2
+   EL, OWL 2 RL, OWL Full). These technologies differ in expressiveness
+   but also in complexity. Applications have a choice along a range from
+   RDF Schema for representing the simplest ontology level, to OWL Full
+   for maximum expressiveness. In addition semantic web users are
+   encouraged to leverage existing ontologies where possible: e.g., SKOS
+   for representing basic structures like thesauri, taxonomies or other
+   controlled vocabularies. Good places to look for existing ontologies
+   are detailed elsewhere in this FAQ. They also have a choice of not to
+   use any of those; the usage of ontologies is not a requirement for
+   Semantic Web applications.
+
+   (permalink)
+
+Does the Semantic Web try to impose meaning from the top?
+
+   No. What the Semantic Web technologies do is to define the “language”
+   with well understood rules and internal semantics, ie, RDF Schemas,
+   various dialects of OWL, or SKOS. Which of those formalisms are used
+   (if any) and what is “expressed” in those language is entirely up to
+   the applications. Ontologies may be developed by small communities,
+   from “below”, so to say, and shared with other communities.
+
+   (permalink)
+
+Does the Semantic Web require everybody to subscribe to a single, predefined,
+giant ontology?
+
+   Obviously, that would not be feasible. If ontologies are used, they can
+   come from anywhere and be mixed freely. In fact the “ethos” of the
+   Semantic Web is to share and reuse as much as possible, and lot of work
+   is done to semi-automatically bridge different vocabularies. Typical
+   Semantic Web applications mix ontologies developed by different
+   communities on the Web, like the Dublin Core metadata, FOAF
+   (friend-of-a-friend) terms, etc.
+
+   The Semantic Web’s attitude to ontologies is no more than a
+   rationalization of actual data-sharing practice. Applications can and
+   do interact without achieving or attempting to achieve global
+   consistency and coverage. A system that presents a retailer’s wares to
+   customers will harvest information from suppliers’ databases
+   (themselves likely to use heterogeneous formats) and map it onto the
+   retailer’s preferred data format for re-presentation. Automatic tax
+   return software takes bank data, in the bank’s preferred format, and
+   maps them onto the tax form. There is no requirement for global
+   ontologies here. There isn’t even a requirement for agreement or global
+   translations between the specific ontologies being used except in the
+   subset of terms relevant for the particular transaction. Agreement need
+   only be local, but adoption of vocabularies from existing ontologies
+   facilitates data sharing and integration. Of course, some of the
+   vocabularies may become more and more widely used and adopted, but the
+   evolution is more bottom-up, rather than top-down.
+
+   (permalink)
+
+People will never get common agreement on terms; won’t this lead to the
+failure of the Semantic Web?
+
+   The issue, referred to by this question, is that different people will
+   not agree on exactly how to define all concepts. Eg, while most people
+   have a fairly standard concept of a “dog” or a “cat”, not everyone can
+   distinguish between a “scalar” and a “vector”, for instance. Any
+   computer application which tries to standardize its ontology will
+   necessarily distort what at least some people are really trying to
+   express; as a consequence, there will be ontological mismatches across
+   parts of the Web designed by different people. The issue is whether
+   this may not ruin the very goals of the Semantic Web.
+
+   However, the Semantic Web does not rely on having one, big,
+   all-encompassing ontology. Instead, the Semantic Web is built up from
+   small like-minded communities that can find agreement on terms amongst
+   themselves. Applications, then, can and do interact without attempting
+   to achieve global consensus. There is no requirement for global
+   ontologies: instead, an application need only map the terms relevant
+   for a particular transaction into a common vocabulary. Of course,
+   though agreement need only be local, adoption of existing vocabularies
+   facilitates data sharing and integration.
+
+   Note that this issue is, essentially, the same as the one asking
+   whether the Semantic Web requires everybody to subscribe to a single,
+   predefined, giant ontology; see also the answer to that question,
+   including further examples.
+
+   (permalink)
+
+What is involved in developing an ontology using Semantic Web technologies?
+
+   The real difficulty, when developing an ontology, is to understand the
+   problem that has to be modeled and find an agreement on a community
+   level. RDF Schemas and/or OWL provide a framework to formalize those
+   ontologies in a specific language; the time and energy needed to learn
+   and use them is only a fraction of the time needed to develop an
+   ontology itself, ie, understand the terms and the relationships of
+   given area of knowledge and agree with your peers. Ontology development
+   tools, like Protégé or SWOOP, hide most of the syntax complexity and
+   let the user concentrate on the real representation issues.
+
+   (permalink)
+
+Consequences of inconsistency in formal logic: doesn’t that ruin the Semantic
+Web?
+
+   The problem referred to by this question is the fact that, in formal
+   logic, if there is an inconsitency somewhere, then it is possible to
+   draw all conclusions and their negations. The issue is whether this
+   would not create major difficulties on the Semantic Web.
+
+   “Inference” in terms of the Semantic Web can be characterized by
+   discovering new relationships (as explained in the answer of another
+   question). These inferences are mostly done within a restricted,
+   “guarded” subset of first order logic. Usually, reasoning on the
+   Semantic Web does not use the full power of first order (or higher
+   order) logic, and therefore avoids some of the dangerous issues that
+   can come from an inferred inconsistency. In other words, in practice,
+   no major difficulties can be expected.
+
+   (permalink)
+
+Will W3C be standardizing any particular ontologies?
+
+   In general, ontologies should be created and maintained by various,
+   specialized communities. The preference of W3C is to let these other
+   communities develop their own ontologies; this is the case for well
+   known ontologies like the Dublin Core, FOAF, DOAP, etc.
+
+   There are cases, however, when ontologies are developed at W3C. This is
+   the case when, for example, another W3C technology needs its own,
+   specialized ontology (EARL is a good example), when W3C feels that the
+   existence of a particular ontology is crucial for the advancement of
+   the Semantic Web, or when the community prefers to use, for example,
+   the facilities offered by the Incubator Activity of W3C.
+
+   (permalink)
+
+What is SKOS?
+
+   The Simple Knowledge Organization System (SKOS) is an ontology for
+   expressing the basic structure and content of concept schemes such as
+   thesauri, classification schemes, subject heading lists, taxonomies,
+   glossaries, folksonomies, other types of controlled vocabularies. It
+   provides a standard, low-cost way of migrating existing concept schemes
+   to the Semantic Web, so that they can be used as-is for the development
+   of lightweight Semantic Web applications. SKOS is increasingly seen as
+   a bridging technology, providing the missing link between the rigorous
+   logical formalism of ontology languages such as OWL and the chaotic,
+   informal and weakly-structured world of social approaches to
+   information management, as exemplified by social tagging applications.
+
+   (permalink)
+
+Is there an uptake in public datasets for the Semantic Web? Are there major
+data published for the Semantic Web already?
+
+   Major datasets (or access to existing datasets) are created quite often
+   these days. Just some examples:
+     * The DBpedia community effort to query Wikipedia like a database
+       (see also a more detailed blog entry on this project).
+     * IngentaConnect bibliographic metadata (around 200 million triples)
+     * RDF/OWL representation of Wordnet
+     * eBusiness ontology for products and services: eClassOwl
+     * the Gene Ontology, to describe gene and gene products attributes in
+       any organisms
+     * protein sequence and annotation data: UniProt
+     * Geonames Ontology and associated RDF data: geographical features
+       (e.g., information on the city of Berlin) encoded in RDF
+
+   Whereas these are randomly chosen and individual examples, the “Linking
+   Open Data on the Semantic Web” community project aims not only at
+   making various open data sources available on the Web as RDF, but also
+   to create links among the various data sets, thereby creating a nucleus
+   for a Web of Data. All data sets bound together by this projects
+   include billions of RDF triples, with millions of triples among the
+   various datasets.
+
+   (permalink)
+     __________________________________________________________________
+
+
+    Maintained by Ivan Herman (<ivan@w3.org>), (W3C) Semantic Web
+    Activity Lead
+    2009-11-12
+    The faq.js script is the work of Lee Feigenbaum.
+
+   $Id: SW-FAQ.html,v 1.97 2009/11/12 10:51:33 ivan Exp $
+
+   Copyright © 1994-2009 W3C ^® (MIT, ERCIM, Keio), All Rights Reserved.
+   W3C liability, trademark, document use and software licensing rules
+   apply. Your interactions with this site are in accordance with our
+   public and Member privacy statements.
+
+   rdf icon for the file in RDF   Valid XHTML + RDFa

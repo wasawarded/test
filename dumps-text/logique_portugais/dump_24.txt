@@ -1,0 +1,1422 @@
+   #[1]alternate [2]Editar [3]Wikipédia (pt) [4]''Feed'' Atom Wikipédia
+
+   [5]Saltar para o conteúdo
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) mover para a barra lateral (BUTTON) ocultar
+   Navegação
+     * [6]Página principal
+     * [7]Conteúdo destacado
+     * [8]Eventos atuais
+     * [9]Esplanada
+     * [10]Página aleatória
+     * [11]Portais
+     * [12]Informar um erro
+
+   Colaboração
+     * [13]Boas-vindas
+     * [14]Ajuda
+     * [15]Páginas de testes públicas
+     * [16]Portal comunitário
+     * [17]Mudanças recentes
+     * [18]Manutenção
+     * [19]Criar página
+     * [20]Páginas novas
+     * [21]Contato
+
+   [22]Wikipédia
+   [23]Busca
+   ____________________
+   (BUTTON) Pesquisar
+
+   [ ] Aspeto
+
+     * [24]Donativos
+     * [25]Criar uma conta
+     * [26]Entrar
+
+   [ ] Ferramentas pessoais
+     * [27]Donativos
+     * [28]Criar uma conta
+     * [29]Entrar
+
+   Páginas para editores sem sessão iniciada [30]saber mais
+     * [31]Contribuições
+     * [32]Discussão
+
+Conteúdo
+
+   (BUTTON) mover para a barra lateral (BUTTON) ocultar
+     * [33]Início
+     * [34]1 Introdução
+     * [35]2 Coisas Musicais
+       (BUTTON) Alternar a subsecção Coisas Musicais
+          + [36]2.1 Os desafios para criar coisas musicais
+          + [37]2.2 Possíveis soluções para criar coisas musicais
+     * [38]3 Campos Relacionados
+       (BUTTON) Alternar a subsecção Campos Relacionados
+          + [39]3.1 Performance musical em rede
+          + [40]3.2 Arte Interativa
+          + [41]3.3 Música ubíqua
+          + [42]3.4 Web Audio, Computação na Nuvem e Computação na borda
+          + [43]3.5 Tecnologias vestíveis
+     * [44]4 Desafios da IoMusT
+       (BUTTON) Alternar a subsecção Desafios da IoMusT
+          + [45]4.1 Desafios Tecnológicos
+          + [46]4.2 Desafios Artísticos
+          + [47]4.3 Desafios legais, privacidade e segurança
+          + [48]4.4 Desafios Sociais
+          + [49]4.5 Desafios Econômicos
+          + [50]4.6 Desafios Ambientais
+     * [51]5 Possíveis Cenários de Uso
+       (BUTTON) Alternar a subsecção Possíveis Cenários de Uso
+          + [52]5.1 Cenário 1 - Experiências aumentadas e imersivas
+          + [53]5.2 Cenário 2 - Audiência co-localizada e audiência remota
+          + [54]5.3 Cenário 3 - Ensaios remotos
+          + [55]5.4 Cenário 4 - Aprendizado de música
+          + [56]5.5 Cenário 5 - Sessão de improviso com instrumentos
+            eletroacústicos e coisas musicais
+     * [57]6 Referências
+
+   [ ] Alternar o índice
+
+Internet das Coisas Musicais
+
+   [ ] 1 língua
+     * [58]English
+
+   [59]Editar hiperligações
+
+     * [60]Artigo
+     * [61]Discussão
+
+   [ ] português
+
+     * [62]Ler
+     * [63]Editar
+     * [64]Editar código-fonte
+     * [65]Ver histórico
+
+   [ ] Ferramentas
+   Ferramentas
+   (BUTTON) mover para a barra lateral (BUTTON) ocultar
+   Operações
+     * [66]Ler
+     * [67]Editar
+     * [68]Editar código-fonte
+     * [69]Ver histórico
+
+   Geral
+     * [70]Páginas afluentes
+     * [71]Alterações relacionadas
+     * [72]Carregar ficheiro
+     * [73]Páginas especiais
+     * [74]Hiperligação permanente
+     * [75]Informações da página
+     * [76]Citar esta página
+     * [77]Obter URL encurtado
+     * [78]Descarregar código QR
+
+   Imprimir/exportar
+     * [79]Criar um livro
+     * [80]Descarregar como PDF
+     * [81]Versão para impressão
+
+   Noutros projetos
+     * [82]Elemento Wikidata
+
+   Aspeto
+   (BUTTON) mover para a barra lateral (BUTTON) ocultar
+   Origem: Wikipédia, a enciclopédia livre.
+
+   A Internet das Coisas Musicais (também conhecida como IoMusT, do inglês
+   Internet of Musical Things) é uma área de pesquisa que pretende levar
+   conectividade da [83]Internet das Coisas^[84][1]^[85][2]^[86][3] para
+   as práticas musicais e artísticas. Além disso, engloba conceitos
+   oriundos da [87]computação musical, música ubíqua,^[88][4]
+   [89]interação humano-computador,^[90][5]^[91][6] [92]inteligência
+   artificial,^[93][7] [94]realidade aumentada, [95]realidade virtual,
+   [96]jogos, arte participativa^[97][8] e novas interfaces para expressão
+   musical.^[98][9] De uma perspectiva computacional, a IoMusT se refere a
+   redes locais ou remotas embarcadas com dispositivos capazes de gerarem
+   e/ou reproduzirem conteúdo musical.^[99][10]^[100][11]
+
+Introdução
+
+   [[101]editar | [102]editar código-fonte]
+
+   O termo Internet das Coisas é extensível a todo objeto do cotidiano
+   conectado à internet, tendo suas capacidades aumentadas ao trocar
+   informações com outros elementos presentes na rede para atingirem um
+   objetivo em comum.^[103][1]^[104][2]^[105][3] Graças aos avanços
+   tecnológicos ocorridos nas últimas décadas, seu uso tem se espalhado
+   para diversas áreas de atuação, auxiliando em análises médicas,
+   controle de tráfego e segurança de residências. Quando seus conceitos
+   se encontram com a música, surge a Internet das Coisas Musicais
+   (IoMusT).
+
+   O termo “Internet das Coisas Musicais” também recebe inúmeras
+   classificações, conforme o uso de determinados autores. Hazzard et
+   al,^[106][12] por exemplo, emprega-o no contexto de instrumentos
+   musicais que possuem [107]código QR que direciona o usuário para uma
+   página com informações a cerca deste instrumento, como data de
+   fabricação e história. Keller e Lazzarini,^[108][13] no que lhe
+   concerne, utilizam este termo na pesquisa de música ubíqua (ubimus),
+   enquanto Turchet et al.^[109][14] definem a IoMusT como um subcampo da
+   Internet das Coisas, onde dispositivos interoperáveis podem se conectar
+   entre si, auxiliando a interação entre musicistas e o público.
+
+   Assim como a IoT, a Internet das Coisas Musicais pode abranger diversos
+   ecossistemas. Mas geralmente, é marcada por ser empregada em atividades
+   musicais (ensaios, concertos, gravações e ensino de música) e contarem
+   com provedores de serviços e informações.
+
+   Para além das vantagens tecnológicas e artísticas que este campo
+   oferece, ainda surgem novas oportunidades para a indústria musical,
+   proporcionando o surgimento de novos serviços e aplicações capazes de
+   explorar a interconexão entre dispositivos lógicos e físicos, sempre
+   mantendo o propósito artístico em mente.^[110][15]
+
+Coisas Musicais
+
+   [[111]editar | [112]editar código-fonte]
+
+   Uma coisa musical é formalmente definida como “dispositivo
+   computacional capaz de adquirir, processar, atuar ou trocar dados que
+   sirvam a um propósito musical”.^[113][10] Em suma, estes objetos são
+   entidades que podem ser usadas para a prática musical, podem estar
+   conectadas em redes locais e/ou remotas e atuam como remetentes ou
+   destinatárias de mensagens. Elas podem ser, por exemplo, um instrumento
+   inteligente (instrumentos que usam sensores, atuadores e conexão sem
+   fio para processamento de áudio),^[114][16]^[115][17] dispositivos
+   vestíveis ou qualquer outro capaz de controlar, gerar ou executar
+   conteúdo musical pela rede.
+
+   Diferentemente dos dispositivos tradicionais de áudio, como microfones
+   e alto-falantes, as coisas musicais não são úteis sozinhas, surgindo a
+   necessidade de inseri-las em uma cadeia de equipamentos.^[116][18]
+   Sendo assim, surge a necessidade de pensar padrões, protocolos e meios
+   de comunicação entre elas. Estes desafios serão analisados a seguir.
+
+Os desafios para criar coisas musicais
+
+   [[117]editar | [118]editar código-fonte]
+
+   O primeiro desafio diz respeito ao [119]hardware utilizado nas coisas
+   musicais.^[120][18] Primeiramente, deve-se ter em mente que estes
+   dispositivos não são analógicos. Por conta disso, eles podem ser
+   reprogramados e devem apresentar conexão com a [121]internet e/ou
+   apresentarem outra possibilidade de comunicação com outros
+   equipamentos.
+
+   Segundamente, elas não são dispositivos computacionais tradicionais.
+   Isso quer dizer que elas são programadas para um propósito geral, não
+   somente para realizar determinadas tarefas, como é o caso de
+   [122]smartphones e [123]computadores pessoais. Finalmente, é importante
+   ressaltar que elas serão empregadas em um contexto artístico e musical.
+   Desse modo, as características estéticas são tão importantes quanto as
+   computacionais.^[124][18]
+
+   Posto isso, ficam claros os desafios de hardware, que passam tanto pela
+   capacidade de processamento quanto pelo armazenamento e consumo de
+   energia das coisas musicais, que devem ser suficientemente bons para
+   aguentarem apresentações artísticas, ao passo que não devem encarecer
+   estes objetos nem torná-los pouco ergonômicos e de difícil manuseio.
+   Além disso, elas devem ser capazes de assumirem diferentes papéis em
+   diferentes cenários. Assim, devem permitir que os usuários adicionem ou
+   removam componentes (como sensores e atuadores) visando serem
+   adaptáveis, expressivos e versáteis.^[125][19]^[126][20]
+
+   O segundo desafio trata do comportamento das coisas musicais. Elas
+   prioritariamente devem trocar dados sonoros, mas é desejável que elas
+   também troquem dados de controle parâmetros de processamento.^[127][10]
+   Nesse sentido, elas devem adaptar seu modo de funcionamento de modo a
+   conseguir cooperar com os outros elementos presentes na rede, e também
+   terem seus [128]softwares e lógicas de funcionamento atualizados de
+   forma remota.^[129][18]
+
+   A terceira adversidade é possivelmente o tópico mais sensível e mais
+   difícil de se lidar. Deve-se pensar em quais dados são possíveis de
+   serem compartilhados e como fazer isso. Para formato de áudio, pode-se
+   pensar em formatos [130]Pulse Code Moduation (PCM), como o [131]WAV,
+   pelo fato dele ser o mais comum em sistemas de processamento de áudio
+   em tempo real. Entretanto, questões como latência e qualidade não são
+   asseguradas. Já arquivos no formato [132]MP3, [133]FLAC ou [134]OGG
+   exigem maior processamento e a latência oriunda disso pode tornar o
+   ambiente impraticável.^[135][18]
+
+Possíveis soluções para criar coisas musicais
+
+   [[136]editar | [137]editar código-fonte]
+
+   Possíveis soluções para os problemas citados passam pelo uso de
+   elementos comuns na IoT na prática musical ou pela atribuição de
+   capacidade de conexão à rede por conta dos objetos tradicionais de
+   áudio. As unidades de efeitos (como [138]pedais de guitarra) devem ser
+   construídas de modo que o usuário tenha liberdade de remover ou inserir
+   botões e [139]sensores, enquanto que em unidades lógicas o software
+   seja passível de modificação. Já os equipamentos de áudio devem enviar
+   e receber dados pela rede e também serem controlados de forma remota.
+   Isso pode ser útil para adaptar estes elementos aos diferentes tipos de
+   dados que circulam na rede.^[140][18]
+
+   Já os instrumentos musicais terão funcionamento similar ao dos
+   instrumentos musicais inteligentes, onde serão equipados com sensores e
+   atuadores capazes de capturar estímulos do ambiente e dos próprios
+   musicistas. As ferramentas de auxílio musical, como metrônomos e
+   afinadores, podem ser transpostas para meios digitais, enquanto as
+   ferramentas de auxílio ao espetáculo, como canhões de luzes e fumaça,
+   podem ser controlados e sincronizados pela rede.^[141][18]
+
+   Entretanto, a IoMusT não se trata apenas de fazer adaptações do que já
+   existe, mas também por criar dispositivos, capazes de gerarem novas
+   perspectivas para as práticas musicais.
+
+Campos Relacionados
+
+   [[142]editar | [143]editar código-fonte]
+
+   Esta seção revisa alguns dos vários domínios de aplicação que auxiliam
+   um ambiente de IoMusT. A análise não pretende ser exaustiva, visando
+   descrever as principais características e funcionalidades de cada área.
+
+Performance musical em rede
+
+   [[144]editar | [145]editar código-fonte]
+
+   Uma performance por rede é uma interação em tempo real via máquina, que
+   permite que artistas dispersos pelo globo interajam entre si como se
+   estivessem no mesmo ambiente. Embora não pretenda substituir o modelo
+   tradicional, ela contribui com criação musical e com sua interações
+   sociais, promovendo a criatividade e o intercâmbio de
+   culturas.^[146][21]^[147][22]
+
+   Dentre suas principais características, constam: baixa latência, onde
+   os sons produzidos devem ser ouvidos quase instantaneamente;
+   sincronização, para evitar que longos atrasos prejudiquem a interação
+   no ambiente; interoperabilidade por meio de padronização, que permite
+   que aparelhos distintos possam se comunicar pela rede; escalabilidade,
+   que torna o sistema abrangente e permite a participação distribuída
+   entre os usuários; e fácil integração e participação, aspectos que
+   garantem que os usuários não tenham dificuldade para encontrar
+   dispositivos na rede, bem como possam se conectar ou desconectar dela
+   quando bem quiserem.^[148][23] Quanto aos desafios dessa área, eles
+   podem ser ilustados pela exigência de alta largura de banda e ordenação
+   no fluxo transmitido, além de sensibilidade ao atraso na entrega de
+   pacotes de dados.^[149][24]
+
+Arte Interativa
+
+   [[150]editar | [151]editar código-fonte]
+
+   A arte sempre teve sua interação marcada pela relação do artista com o
+   meio que ele dispõe para materializar a obra, enquanto ao público cabia
+   apenas o papel de observar tudo de forma passiva. Isso começou a mudar
+   quando movimentos artísticos liderados por Allan Kaprow e pelos grupos
+   Fluxos e Gutai começaram a permitir uma participação mais ativa da
+   audiência.^[152][25] Nesse contexto, surge a arte interativa,
+   caracterizada por permitir ao espectador um grau de envolvimento ativo
+   no espetáculo, seja caminhando entre as instalações e esculturas, ou
+   produzindo sons, imagens e movimentos.^[153][26]^[154][27]
+
+   A arquitetura desses ambientes é concebida para lidar com diferentes
+   tipos de sinais, que vão desde áudio e vídeo até aqueles produzidos
+   pelo corpo humano, como as batidas do coração. Sendo assim, elas também
+   requerem funcionalidades que garantam interoperabilidade e lidem com o
+   atraso na entrega de dados.
+
+Música ubíqua
+
+   [[155]editar | [156]editar código-fonte]
+
+   A música ubíqua,^[157][4] geralmente abreviada para ubimus, é um campo
+   de pesquisa que combina música, tecnologia e processos criativos com
+   forte engajamento social e comunitário. Embora sua proposta original
+   seja voltada para a produção musical, as atuais novidades tecnológicas
+   têm aberto novas dimensões sociais e cognitivas para esta área,
+   levando-a se interessar cada vez mais por temas educacionais e
+   artísticos. Assim, as perspectivas atuais abrangem uma ampla
+   diversidade de assuntos e atores, que vão desde participantes casuais a
+   músicos altamente treinados.^[158][28]
+
+   O ecossistema ubimus suporta a integração de ferramentas de áudios e a
+   interação com o público, podendo ser reconfigurável para atender as
+   necessidades dos usuários. Consequentemente, os conceitos almejados não
+   dependem de implementações específicas. Outras características
+   importantes são as abordagens conceituais e a confiança em métodos
+   empíricos. Estes aspectos estimulam o desenvolvimento de tecnologias
+   para a criação de música, em especial aquelas que utilizam de objetos e
+   espaços comuns no dia a dia dos envolvidos no processo.
+
+Web Audio, Computação na Nuvem e Computação na borda
+
+   [[159]editar | [160]editar código-fonte]
+
+   O Web Audio é uma API de [161]JavaScript voltada para processamento e
+   sintetização de áudio em aplicações web, representando uma evolução
+   tecnológica neste segmento. Apresenta algumas características comuns
+   aos [162]DAWs, como roteamento de sinais de áudio, baixa latência e
+   aplicação de efeitos. Também permite performances participativas em
+   rede e expandem as capacidades de uso de smartphones nesses meios.
+
+   Seu ambiente utiliza nós de áudio para manipulação de som em um
+   contexto musical. Eles são ligados pelas suas entradas e saídas, para
+   criar caminhos para o roteamento do áudio, que é modificado pelos nós
+   de efeito ao longo do trajeto. Dessa forma, é capaz de suportar
+   inúmeras fontes com diferentes layouts, além de ser flexível e criar
+   funções complexas com efeitos dinâmicos.^[163][29]
+
+   O Web Audio abre caminho para usar os navegadores de internet com
+   finalidade musical. Dentre as vantagens observadas a partir disso,
+   estão a fácil distribuição (não requer instalação) e manutenção,
+   independência de plataforma e arquitetura, segurança (o navegador pode
+   impedir que plugins com comportamento incorreto afetem o sistema) e
+   surgimento de novos tipos de colaboração.^[164][29]
+
+   Já a computação em nuvem é uma estrutura composta por servidores
+   distribuídos que simulam uma rede centralizada, permitindo o
+   balanceamento de carga e a replicação de recursos, minimizando a
+   quantidade de consumo da rede e melhorando sua escalabilidade e
+   confiabilidade. Ela pretende prover inúmeros serviços, indo desde
+   armazenamento de arquivos até intercomunicação entre aplicativos
+   musicais, oferecendo um nível sem precedentes de participação e
+   desempenho.^[165][30]
+
+   Sua principal característica é permitir aos usuários acessarem os
+   serviços sem a necessidade de conhecimento sobre a tecnologia
+   utilizada. Assim, eles podem acessá-los sob demanda e independente da
+   localização. Outros pontos que merecem destaque nesta rede são: amplo
+   acesso, elasticidade e gerenciamento de recursos.^[166][31]
+
+   A infraestrutura da computação em nuvem é, na maioria das vezes,
+   compostas por inúmeras máquinas físicas conectadas em rede. Cada
+   máquina apresenta as mesmas configurações de software, podendo se
+   distinguir na unidade central de processamento, uso de memória e
+   capacidade de armazenamento em disco. Este modelo foi desenvolvido com
+   três objetivos principais em mente: i) reduzir o custo na aquisição e
+   composição dos elementos que forma a infraestrutura da rede, permitindo
+   que ela sejam heterogêneos e adaptáveis aos recursos exigidos; ii)
+   flexibilidade na adição ou substituição de recursos computacionais;
+   iii) facilidade de acesso aos serviços fornecidos por ele, onde os
+   usuários necessitam somente que suas máquinas tenham um sistema
+   operacional, navegador e acesso à internet para acessar os recursos
+   disponíveis na nuvem.^[167][32]
+
+   Apesar de todas as vantagens acima listadas sobre o uso de computação
+   em nuvem, seu modo de funcionamento centralizado cria muita carga de
+   serviço na rede, em especial nos custos e recursos de banda larga para
+   transmissão de dados. Além disso, o desempenho da rede piora com o
+   aumento na quantidade de dados. Para sanar este problema, surge a
+   computação na borda, que é um paradigma que combina propriedades da
+   computação em nuvem com comunicação em tempo real. O termo ``borda’’ se
+   refere a todos os recursos computacionais e de rede entre as fontes de
+   dados e os servidores em nuvem. Desse modo, os objetos presentes no
+   ambiente não apenas consumem dados e serviços, mas também realizam
+   processamento computacional, diminuindo o estresse na rede e reduzindo
+   de forma significativa a latência na troca de
+   mensagens.^[168][33]^[169][34]
+
+   Os principais atributos deste modelo de computação giram entorno da
+   distribuição geográfica, suporte à mobilidade, reconhecimento de
+   localização, recursos computacionais e serviços próximos ao usuário
+   final, baixa latência, sensibilidade ao contexto e
+   heterogeneidade.^[170][35]
+
+Tecnologias vestíveis
+
+   [[171]editar | [172]editar código-fonte]
+
+   A computação vestível é uma nova abordagem que vem redefinindo a forma
+   como acontece a interação humano-máquina, onde os aparelhos eletrônicos
+   passam a estar diretamente conectados ao corpo do usuário. Eles são
+   chamados de dispositivos vestíveis e são construídos de forma que as
+   tecnologias e estruturas neles contidos sejam imperceptíveis, atuando
+   como uma extensão do próprio ser humano. Dentre os modelos mais
+   populares atualmente estão os [173]smartwatches e as
+   smartbands.^[174][36]
+
+   Embora sejam pequenos, eles são capazes de continuamente detectar,
+   coletar e carregar inúmeros dados fisiológicos e sensoriais, que visam
+   melhorar atividades típicas do cotidiano, como realizar pagamentos,
+   ajudar na localização, monitorar a saúde física e mental, fornecer
+   análises sobre determinada atividade física e auxiliar na prática
+   artística.
+
+   Eles devem ser capazes de cumprir três metas principais: atribuir
+   mobilidade ao usuário, isto é, permitir que usem o dispositivo em
+   diversos locais; aumentar a realidade, como por exemplo, gerar imagens
+   ou sons que não fazem parte do mundo real; e fornecer sensibilidade ao
+   contexto, que é a capacidade do equipamento se adaptar a diferentes
+   ambientes e estímulos.^[175][37]
+
+   É importante destacar que apesar de apresentarem conectividade e
+   lidarem com uma grande quantidade de dados, nem todos os dispositivos
+   vestíveis são elementos de IoT, e consequentemente, de IoMusT. Para que
+   assim sejam considerados, eles obrigatoriamente deve ter acesso à
+   internet.
+
+   Seguindo uma linha um pouco diferente, mas ainda fazendo uso de
+   conceitos oriundos da computação vestível, aparecem os tecidos
+   inteligentes (e-textiles). Eles consistem em roupas aprimoradas com
+   sensores e apresentam algumas vantagens em comparação com os
+   dispositivos vestíveis, como mais conforto, interfaces mais naturais
+   para interação humana e menor intrusividade. A partir disso, os
+   equipamentos eletrônicos que são usados junto ao corpo humano podem ser
+   classificados de acordo com o local no qual são inseridos (pulso,
+   cabeça, pés e etc) e se já existem ou ainda estão em fase de
+   prototipagem.^[176][38]
+
+Desafios da IoMusT
+
+   [[177]editar | [178]editar código-fonte]
+
+   Além de enfrentar os problemas inerentes ao uso da tecnologia^[179][39]
+   e também aqueles presentes na IoT,^[180][40] a Internet das Coisas
+   Musicais enfrenta problemas específicos, que abrangem desde questões
+   tecnológicas até aquelas artísticas e ambientais. Os principais deles
+   são destacados a seguir.
+
+Desafios Tecnológicos
+
+   [[181]editar | [182]editar código-fonte]
+
+   A possibilidade de ocorrência da IoMusT é dependente de aspectos da
+   rede, como [183]largura de banda, [184]latência e [185]jitter. A partir
+   disso, é necessário que estas redes expandam seu funcionamento para
+   além do estado-da-arte atual, em prol de fornecer melhor condições de
+   conexão e lidar com os três aspectos citados, além de garantir
+   sincronização e boa qualidade da representação do áudio conteúdo
+   multimodal.
+
+   No que diz respeito a latência, confiabilidade e sincronização, elas
+   surgem como uma das principais demandas na transmissão de áudio via
+   rede e em tempo real, seja ela local ou remota, cabeada ou sem fio.
+   Isso ocorre por conta do caráter randômico desse tipo de comunicação, o
+   que pode causar perdas nos dados transmitidos e a dessincronização
+   entre eles, até mesmo em redes de pequeno porte.^[186][10]
+
+   Ainda sobre a sincronização, ela é de difícil ocorrência em
+   dispositivos que não compartilham o mesmo relógio global. Até mesmo em
+   casos que isso ocorre, mas com os objetos em redes diferentes, é
+   necessário uma ressincronização de tempos em tempos. Os protocolos
+   existentes são insuficientes para suprir esta demanda.^[187][41]
+
+   A importância de se discutir interoperabilidade e padronização dos
+   dispositivos presentes nesse ambiente passa pelo ponto em que estes
+   conceitos são pilares essenciais para sua implementação. Isso se deve
+   ao fato dos dispositivos não se conhecerem previamente e não terem
+   informações dos elementos nos quais eles vão se conectar. Mas dada a
+   heterogeneidade destes objetos, em muitos casos eles não operam sob os
+   mesmos protocolos nem são capazes de interpretarem os dados oriundos de
+   seus vizinhos.^[188][11]
+
+Desafios Artísticos
+
+   [[189]editar | [190]editar código-fonte]
+
+   A principal diferença entre IoMusT e IoT se dá pela preocupação do
+   primeiro campo com questões artísticas.^[191][10] Apesar de
+   proporcionar vantagens, como a possibilidade de criação entre
+   musicistas dispostos em locais diferentes do globo, conectividade
+   massiva e novas formas de participação por parte do público, alguns
+   problemas se destacam. Dentre eles, a ruptura com o modelo tradicional
+   de interações artísticas, como observado em bandas e orquestras; falta
+   de feedback visual; escolha de quais elementos serão exibidos e/ou
+   controlados pelo público; ausência de sistemas de backup para concertos
+   remotos; dispositivos caros, inacessíveis e pouco ergonômicos e falta
+   de investimento para elaboração da infraestrutura
+   necessária.^[192][10]^[193][11]^[194][42]
+
+Desafios legais, privacidade e segurança
+
+   [[195]editar | [196]editar código-fonte]
+
+   Com a enorme quantidade de dados gerados nestes ambientes, surgem
+   preocupações legais sobre os dados pessoais, uma vez que os
+   dispositivos são capazes de coletar informações dos usuários envolvidos
+   no processo. Aparecem ainda questões que envolvem infrações em material
+   protegido, violação de [197]copyright e quebra da propriedade
+   intelectual.^[198][10]
+
+   Vale citar também os problemas referentes a segurança. Por se tratar de
+   um sistema que se comunica pela rede, a IoMusT está sujeita a
+   tentativas de roubo a dados sensíveis, ataques de negação de serviços e
+   trojans. Possíveis soluções passam por algoritmos de encriptação, mas
+   isso pode acarretar em alto uso de energia e de memória dos
+   dispositivos.^[199][43]
+
+Desafios Sociais
+
+   [[200]editar | [201]editar código-fonte]
+
+   Um dos primeiros pensadores a analisar o impacto da tecnologia na
+   sociedade foi Herbert Marcuse.^[202][39] Dentre os problemas citados
+   pelo autor, estão: abundância de tecnologia para uma parte da população
+   e escassez para outra; estabelecimento de padrões e demandas por parte
+   da classe dominante; submissão dos trabalhadores a grandes empresas;
+   retenção do poder econômico e perda da individualidade de pensamento.
+   Todos estes problemas estão presentes também na IoMusT.^[203][11]
+
+   Aliado a isso, outros problemas podem ser acentuados, como acesso
+   não-heterogêneo às tecnologias, uma vez que pessoas que vivem em áreas
+   suburbanas ou rurais não têm as mesmas possibilidades de acesso que
+   pessoas que vivem em áreas mais densas; falta de infraestrutura, que
+   aumenta a diferença sociocultural entre pessoas e classes; consumo
+   excessivo, necessidade constante de inovação e apartheid
+   social.^[204][44]^[205][11]
+
+Desafios Econômicos
+
+   [[206]editar | [207]editar código-fonte]
+
+   Ao passo que a IoMusT pode revolucionar a indústria da música ao
+   fornecer algoritmos de inteligência artificial capazes de mixar e
+   alterar o som, reduzindo os custos de produção, ela também pode
+   impactar negativamente a parte criativa desta área ao substituir
+   tarefas humanas por soluções baseadas em máquina, além de causar
+   redução de oportunidades de emprego na área.^[208][11]
+
+Desafios Ambientais
+
+   [[209]editar | [210]editar código-fonte]
+
+   Com o crescimento de dispositivos eletroeletrônicos gerados por esta
+   área, surge também uma preocupação com as questões ambientais, em
+   especial aquelas que dizem respeito a geração de resíduos, poluição na
+   confecção e uso destes materiais, uso de materiais químicos que podem
+   ser tóxicos, uso de recursos não-renováveis e possíveis ocorrências de
+   distúrbios ecológicos.^[211][45]^[212][46]
+
+Possíveis Cenários de Uso
+
+   [[213]editar | [214]editar código-fonte]
+
+   A IoMusT permite repensar algumas atividades musicais, como
+   apresentações ao vivo e ensaios, multiplicando as possibilidades de
+   interação entre os atores envolvidos nestes cenários (musicistas,
+   audiência, engenheiros de som, professores, alunos e etc.).^[215][10]
+   Diante dessa breve elucidação, é possível pensar em alguns cenários de
+   uso que são detalhados a seguir.
+
+Cenário 1 - Experiências aumentadas e imersivas
+
+   [[216]editar | [217]editar código-fonte]
+
+   Imagine que ao chegar no concerto de sua banda favorita, as pessoas
+   possam escolher diferentes interfaces que irão lhes acompanhar durante
+   toda a apresentação. Uma pessoa pode escolher um óculos inteligente
+   (dispositivo computacional que adiciona informações de acordo com o que
+   seu usuário visualiza), outra escolhe uma pulseira que responde aos
+   estímulos musicais e uma terceira seleciona um conjunto de sensores e
+   de alto-falantes. Todos esses objetos podem rastrear os movimentos do
+   usuário e enviar essas informações para a banda. A banda, por sua vez,
+   pode adequar sua performance de acordo com as emoções do público, bem
+   como enviar-lhes estímulos que serão interpretados pelos objetos que
+   eles estão usando.^[218][10]
+
+Cenário 2 - Audiência co-localizada e audiência remota
+
+   [[219]editar | [220]editar código-fonte]
+
+   Novamente, imagine os usuários com equipamentos vestíveis capazes de
+   capturarem seus dados fisiológicos. A partir do registro dos movimentos
+   e emoções de seu utente (como, por exemplo, a frequência cardíaca), os
+   musicistas podem decidir qual a próxima música a ser executada, os
+   coreógrafos podem criar passos que melhor se adequam aos sentimentos
+   registrados, e a própria audiência pode fazer uso destes dados para
+   controlar elementos que auxiliam no espetáculo, como canhões de luzes e
+   fumaça.^[221][10]^[222][47]
+
+   Enquanto isso, pessoas que não conseguiram comparecer fisicamente ao
+   local da apresentação podem experienciar o concerto utilizando óculos
+   de realidade virtual ou sistemas de vídeo em 360°, permitindo
+   visualizar os bastidores do palco e os detalhes por trás dos
+   musicistas. A IoMusT também prediz a possibilidade de um aplicativo que
+   permita controle remoto. Desse modo, aspectos presentes no concerto
+   podem ser modificados pelo público que está ao redor do
+   globo.^[223][10]^[224][47]
+
+Cenário 3 - Ensaios remotos
+
+   [[225]editar | [226]editar código-fonte]
+
+   Outro possível cenário é um estúdio que utiliza conceitos de IoMusT
+   para gravar tanto artistas solos, duplas e grupos pequenos quanto
+   orquestras com os mais variados instrumentos. Para tal, a interface de
+   gravação pode adequar seu tamanho conforme a quantidade de equipamentos
+   conectados a ela. Músicos podem gravar mesmo se não estiverem no mesmo
+   local físico e arquivos de áudio podem ser gravados para serem
+   posteriormente mixados e masterizados.^[227][47] Outras possibilidades
+   passam pela captura do áudio de um instrumento que não se encontra no
+   mesmo lugar físico, mixagem e configuração remota dos sistemas de
+   áudio, obtenção de dados a cerca do desempenho dos musicistas e muitos
+   outros.^[228][10]
+
+Cenário 4 - Aprendizado de música
+
+   [[229]editar | [230]editar código-fonte]
+
+   O aprendizado de música é enriquecido pela IoMusT ao se permitir o uso
+   de aplicativos para tal, sendo eles responsáveis por exibirem as
+   partituras a serem executadas, capturarem áudio em tempo real e
+   sugerirem melhorias. Ainda, podem ser utilizados óculos inteligentes
+   que indicam a posição correta dos dedos no instrumento e
+   compartilhamento de dados na nuvem que podem ser visualizados por
+   professores, que irão indicar melhorias e os próximos passos a serem
+   feitos.^[231][10]
+
+Cenário 5 - Sessão de improviso com instrumentos eletroacústicos e coisas
+musicais
+
+   [[232]editar | [233]editar código-fonte]
+
+   Este modelo trata de uma sessão de improvisos que combina instrumentos
+   tradicionais e dispositivos eletrônicos que trocam informações pela
+   rede. Estes instrumentos podem ser plugados em alto-falantes ou
+   conectados a patches, ao passo que os usuários/musicistas os manipulam
+   a partir de sistemas computacionais. Elementos gráficos, como vídeos,
+   animações e informações musicais podem ser exibidos para auxiliar no
+   processo; alguns usuários podem participar apenas controlando
+   parâmetros dos instrumentos, como volume, gravação, efeitos dos
+   instrumentos (delay e reverb, por exemplo), além de alterarem cores e
+   resoluções na parte gráfica. Ainda, é capaz de comportar um técnico de
+   som que gerencia as conexões, removendo aqueles que apresentam baixa
+   capacidade de conexão à rede ou conectando aqueles que desejam trocar
+   informações.^[234][47]
+
+Referências
+
+    1. ↑ ^[235]a ^[236]b Atzori, Luigi; Iera, Antonio; Morabito, Giacomo
+       (28 de outubro de 2010). [237]«The Internet of Things: A survey».
+       Computer Networks (em inglês) (15): 2787–2805.
+       [238]ISSN [239]1389-1286.
+       [240]doi:[241]10.1016/j.comnet.2010.05.010. Consultado em 15 de
+       outubro de 2021  ^[[242]não consta na fonte citada]
+    2. ↑ ^[243]a ^[244]b Borgia, Eleonora (1 de dezembro de 2014).
+       [245]«The Internet of Things vision: Key features, applications and
+       open issues». Computer Communications (em inglês): 1–31.
+       [246]ISSN [247]0140-3664.
+       [248]doi:[249]10.1016/j.comcom.2014.09.008. Consultado em 15 de
+       outubro de 2021  ^[[250]não consta na fonte citada]
+    3. ↑ ^[251]a ^[252]b Miorandi, Daniele; Sicari, Sabrina; De
+       Pellegrini, Francesco; Chlamtac, Imrich (1 de setembro de 2012).
+       [253]«Internet of things: Vision, applications and research
+       challenges». Ad Hoc Networks (em inglês) (7): 1497–1516.
+       [254]ISSN [255]1570-8705.
+       [256]doi:[257]10.1016/j.adhoc.2012.02.016. Consultado em 15 de
+       outubro de 2021  ^[[258]não consta na fonte citada]
+    4. ↑ ^[259]a ^[260]b Keller, Damián; Lazzarini, Victor; Pimenta,
+       Marcelo S., eds. (2014). [261]Ubiquitous Music. Col: Computational
+       Music Science. Cham: Springer International Publishing
+    5. [262]↑ Preece, Jenny (2015). [263]Interaction design : beyond
+       human-computer interaction. Yvonne Rogers, Helen Sharp 4.ª ed.
+       Chichester, West Sussex: [s.n.] [264]OCLC [265]904425795
+    6. [266]↑ Rowland, Claire (2015). [267]Designing Connected Products :
+       UX for the Consumer Internet of Things. Elizabeth Goodman, Martin
+       Charlier, Ann Light, Alfred Lui 1.ª ed. Sebastopol, CA: [s.n.]
+       [268]OCLC [269]909772560
+    7. [270]↑ Burgoyne, John Ashley; Fujinaga, Ichiro; Downie, J. Stephen
+       (2015). [271]«Music Information Retrieval». John Wiley & Sons, Ltd
+       (em inglês): 213–228. [272]ISBN [273]978-1-118-68060-5.
+       [274]doi:[275]10.1002/9781118680605.ch15. Consultado em 15 de
+       outubro de 2021
+    8. [276]↑ Wu, Yongmeng; Zhang, Leshao; Bryan-Kinns, Nick; Barthet,
+       Mathieu (janeiro de 2017). [277]«Open Symphony: Creative
+       Participation for Audiences of Live Music Performances». IEEE
+       MultiMedia (1): 48–62. [278]ISSN [279]1070-986X.
+       [280]doi:[281]10.1109/mmul.2017.19. Consultado em 15 de outubro de
+       2021
+    9. [282]↑ Herausgeber, Jensenius, Alexander Refsum Herausgeber Lyons,
+       Michael. [283]A NIME Reader Fifteen Years of New Interfaces for
+       Musical Expression. [S.l.: s.n.] [284]OCLC [285]981923724
+   10. ↑ ^[286]a ^[287]b ^[288]c ^[289]d ^[290]e ^[291]f ^[292]g ^[293]h
+       ^[294]i ^[295]j ^[296]k ^[297]l ^[298]m Turchet, Luca; Fischione,
+       Carlo; Essl, Georg; Keller, Damian; Barthet, Mathieu (2018).
+       [299]«Internet of Musical Things: Vision and Challenges». IEEE
+       Access: 61994–62017. [300]ISSN [301]2169-3536.
+       [302]doi:[303]10.1109/ACCESS.2018.2872625. Consultado em 15 de
+       outubro de 2021
+   11. ↑ ^[304]a ^[305]b ^[306]c ^[307]d ^[308]e ^[309]f Vieira, Rômulo;
+       Barthet, Mathieu; Schiavoni, Flávio Luiz (5 de novembro de 2020).
+       [310]«Everyday Use of the Internet of Musical Things: Intersections
+       with Ubiquitous Music». [311]doi:[312]10.5281/zenodo.4247759.
+       Consultado em 15 de outubro de 2021
+   12. [313]↑ Hazzard, Adrian; Benford, Steve; Chamberlain, Alan;
+       Greenhalgh, Chris; Kwon, Hyosun (1 de janeiro de 2014).
+       [314]«Musical intersections across the digital and physical» (em
+       inglês). Consultado em 15 de outubro de 2021
+   13. [315]↑ Keller, Damián; Lazzarini, Victor (7 de março de 2017).
+       [316]«Ecologically Grounded Creative Practices in Ubiquitous
+       Music». Organised Sound (1): 61–72. [317]ISSN [318]1355-7718.
+       [319]doi:[320]10.1017/s1355771816000340. Consultado em 15 de
+       outubro de 2021
+   14. [321]↑ Turchet, Luca & Fischione, Carlo & Barthet, Mathieu.
+       «Towards the Internet of Musical Things». Aalto University School.
+       Proceedings of the 14th Sound and Music Computing Conference:
+       13--20  |acessodata= requer |url= ([322]ajuda) !CS1 manut: Nomes
+       múltiplos: lista de autores ([323]link)
+   15. [324]↑ Turchet, Luca; Fischione, Carlo; Essl, Georg; Keller,
+       Damian; Barthet, Mathieu (2018). [325]«Internet of Musical Things:
+       Vision and Challenges». IEEE Access: 61994–62017.
+       [326]ISSN [327]2169-3536.
+       [328]doi:[329]10.1109/ACCESS.2018.2872625. Consultado em 15 de
+       outubro de 2021
+   16. [330]↑ Turchet, Luca & McPherson, Andrew & Fischione, Carlo
+       "McPherson", "Fischione". «Smart Instruments: Towards an Ecosystem
+       of Interoperable Devices Connecting Performers and Audiences».
+       "Zentrum für Mikrotonale Musik und Multimediale Komposition (ZM4)".
+       "Proceedings of Sound and Music Computing Conference": 498 -- 505
+       |acessodata= requer |url= ([331]ajuda) !CS1 manut: Nomes múltiplos:
+       lista de autores ([332]link)
+   17. [333]↑ Aramaki, Mitsuko; Davies, Matthew E. P.; Kronland-Martinet,
+       Richard; Ystad, Sølvi, eds. (2018). [334]«Music Technology with
+       Swing». Lecture Notes in Computer Science (em inglês).
+       [335]ISSN [336]0302-9743. [337]doi:[338]10.1007/978-3-030-01692-0.
+       Consultado em 15 de outubro de 2021
+   18. ↑ ^[339]a ^[340]b ^[341]c ^[342]d ^[343]e ^[344]f ^[345]g Vieira,
+       Romulo; Goncalves, Luan; Schiavoni, Flavio (24 de novembro de
+       2020). [346]«The things of the Internet of Musical Things: defining
+       the difficulties to standardize the behavior of these devices».
+       Florianopolis, Brazil: IEEE: 1–7. [347]ISBN [348]978-1-7281-8286-5.
+       [349]doi:[350]10.1109/SBESC51047.2020.9277862. Consultado em 15 de
+       outubro de 2021
+   19. [351]↑ Polianytsia, Andrii; Starkova, Olena; Herasymenko,
+       Kostiantyn (outubro de 2016). [352]«Survey of hardware IoT
+       platforms». Kharkiv, Ukraine: IEEE: 152–153.
+       [353]ISBN [354]978-1-5090-5715-3.
+       [355]doi:[356]10.1109/INFOCOMMST.2016.7905364. Consultado em 15 de
+       outubro de 2021
+   20. [357]↑ Maksimovic, Mirjana & Vujovic, Vladimir & Davidovic, Nikola
+       & Milosevic, Vladimir & Perisic, Branko. «Raspberry Pi as Internet
+       of Things hardware: Performances and Constraints». "University of
+       Kragujevac". "Proceedings of International Conference on
+       Electrical, Electronic and Computing Engineering"  |acessodata=
+       requer |url= ([358]ajuda) !CS1 manut: Nomes múltiplos: lista de
+       autores ([359]link)
+   21. [360]↑ Gresham-Lancaster, Scot. “The Aesthetics and History of the
+       Hub: The Effects of Changing Technology on Network Computer Music.”
+       Leonardo Music Journal, vol. 8, The MIT Press, 1998, pp. 39–44,
+       https://doi.org/10.2307/1513398.
+   22. [361]↑ Lazzaro, John; Wawrzynek, John (2001). [362]«A case for
+       network musical performance». Port Jefferson, New York, United
+       States: ACM Press (em inglês): 157–166.
+       [363]ISBN [364]978-1-58113-370-7.
+       [365]doi:[366]10.1145/378344.378367. Consultado em 16 de outubro de
+       2021
+   23. [367]↑ Alexandraki, Chrisoula & Koutlemanis, P. & Gasteratos,
+       Petros & Valsamakis, Nikolas & Milolidakis, Giannis. (2008).
+       Towards the implementation of a generic platform for networked
+       music performance: The diamouses approach.
+   24. [368]↑ Xiaoyuan Gu, Matthias Dick (2004). [369]«NMP - a new
+       networked music performance system». Dallas, TX, USA: IEEE:
+       176–185. [370]ISBN [371]978-0-7803-8798-0.
+       [372]doi:[373]10.1109/GLOCOMW.2004.1417570. Consultado em 16 de
+       outubro de 2021
+   25. [374]↑ Nardim, Thaise Luciane. Allan Kaprow, performance e
+       colaboração: estratégias para abraçar a vida como potência
+       criativa. Campinas, SP: [s.n.], 2009
+   26. [375]↑ Forny, Leonardo, y  "Arte e Interação: Nos Caminhos da Arte
+       Interativa?." Razón y Palabra, vol.  , no. 53, 2006, pp. .
+       Redalyc,  https://www.redalyc.org/articulo.oa?id=199520728009
+   27. [376]↑ Rômulo Vieira, Igino de Oliveira Júnior, Marcela Almeida,
+       and Flávio Luiz Schiavoni. 2020. Uma aproximação entre participação
+       do público em espetáculo artístico e jogos: racionalidade e
+       improviso. In Proceedings of SBGames 2020, 116–124. Retrieved from
+       https://www.sbgames.org/proceedings2020/ArtesDesignFull/209608.pdf
+   28. [377]↑ Keller, Damián; Schiavoni, Flávio; Lazzarini, Victor (8 de
+       agosto de 2019). [378]«Ubiquitous music: Perspectives and
+       challenges». Journal of New Music Research (em inglês) (4):
+       309–315. [379]ISSN [380]0929-8215.
+       [381]doi:[382]10.1080/09298215.2019.1659828. Consultado em 16 de
+       outubro de 2021
+   29. ↑ ^[383]a ^[384]b Smus, Boris (2013). [385]Web audio API.
+       Sebastopol, CA: O'Reilly Media. [386]OCLC [387]848884051
+   30. [388]↑ De Carvalho Junior, Antônio Deusany, Queiroz, Marcelo, Essl,
+       Georg. «Computer Music through the Cloud: Evaluating a Cloud
+       Service for Collaborative Computer Music Applications». "University
+       of North Texas". "Proceedings of International Computer Music
+       Conference 2015"  |acessodata= requer |url= ([389]ajuda) !CS1
+       manut: Nomes múltiplos: lista de autores ([390]link)
+   31. [391]↑ Dillon, Tharam; Wu, Chen; Chang, Elizabeth (abril de 2010).
+       [392]«Cloud Computing: Issues and Challenges»: 27–33.
+       [393]doi:[394]10.1109/AINA.2010.187. Consultado em 16 de outubro de
+       2021
+   32. [395]↑ Sousa, Flávio & Moreira, Leonardo & Machado, Javam. (2021).
+       Computação em Nuvem: Conceitos, Tecnologias, Aplicações e Desafios.
+   33. [396]↑ Khan, Wazir Zada; Ahmed, Ejaz; Hakak, Saqib; Yaqoob, Ibrar;
+       Ahmed, Arif (agosto de 2019). [397]«Edge computing: A survey».
+       Future Generation Computer Systems (em inglês): 219–235.
+       [398]doi:[399]10.1016/j.future.2019.02.050. Consultado em 16 de
+       outubro de 2021
+   34. [400]↑ Shi, Weisong; Cao, Jie; Zhang, Quan; Li, Youhuizi; Xu, Lanyu
+       (outubro de 2016). [401]«Edge Computing: Vision and Challenges».
+       IEEE Internet of Things Journal (5): 637–646.
+       [402]ISSN [403]2327-4662. [404]doi:[405]10.1109/JIOT.2016.2579198.
+       Consultado em 16 de outubro de 2021
+   35. [406]↑ Yu, Wei; Liang, Fan; He, Xiaofei; Hatcher, William Grant;
+       Lu, Chao; Lin, Jie; Yang, Xinyu (2018). [407]«A Survey on the Edge
+       Computing for the Internet of Things». IEEE Access: 6900–6919.
+       [408]ISSN [409]2169-3536.
+       [410]doi:[411]10.1109/ACCESS.2017.2778504. Consultado em 16 de
+       outubro de 2021
+   36. [412]↑ Mann, S. (fevereiro de 1997). [413]«Wearable computing: a
+       first step toward personal imaging». Computer (2): 25–32.
+       [414]doi:[415]10.1109/2.566147. Consultado em 16 de outubro de
+       2021
+   37. [416]↑ Billinghurst, M.; Starner, T. (janeiro de 1999).
+       [417]«Wearable devices: new ways to manage information». Computer
+       (1): 57–64. [418]doi:[419]10.1109/2.738305. Consultado em 16 de
+       outubro de 2021
+   38. [420]↑ Seneviratne, Suranga; Hu, Yining; Nguyen, Tham; Lan, Guohao;
+       Khalifa, Sara; Thilakarathna, Kanchana; Hassan, Mahbub;
+       Seneviratne, Aruna (abril de 2017). [421]«A Survey of Wearable
+       Devices and Challenges». IEEE Communications Surveys & Tutorials
+       (4): 2573–2620. [422]ISSN [423]1553-877X.
+       [424]doi:[425]10.1109/COMST.2017.2731979. Consultado em 16 de
+       outubro de 2021
+   39. ↑ ^[426]a ^[427]b Oliveira, F. T. (2017). Apontamentos sobre a
+       tecnologia em Herbert Marcuse. Revista Primordium, 1(2). Recuperado
+       de http://www.seer.ufu.br/index.php/primordium/article/view/39059
+   40. [428]↑ Kranenburg, Rob & Bassi, Alex. (2012). IoT Challenges.
+       Communications in Mobile Computing. 1. 10.1186/2192-1121-1-9.
+   41. [429]↑ Rottondi, Cristina; Chafe, Chris; Allocchio, Claudio; Sarti,
+       Augusto (2016). [430]«An Overview on Networked Music Performance
+       Technologies». IEEE Access: 8823–8843. [431]ISSN [432]2169-3536.
+       [433]doi:[434]10.1109/ACCESS.2016.2628440. Consultado em 16 de
+       outubro de 2021
+   42. [435]↑ Avila, Juan Pablo Martinez; Greenhalgh, Chris; Hazzard,
+       Adrian; Benford, Steve; Chamberlain, Alan (2 de maio de 2019).
+       [436]«Encumbered Interaction: a Study of Musicians Preparing to
+       Perform». Glasgow Scotland Uk: ACM (em inglês): 1–13.
+       [437]ISBN [438]978-1-4503-5970-2.
+       [439]doi:[440]10.1145/3290605.3300706. Consultado em 16 de outubro
+       de 2021
+   43. [441]↑ Weber, Rolf H. (1 de outubro de 2015). [442]«Internet of
+       things: Privacy issues revisited». Computer Law & Security Review
+       (em inglês) (5): 618–627. [443]ISSN [444]0267-3649.
+       [445]doi:[446]10.1016/j.clsr.2015.07.002. Consultado em 16 de
+       outubro de 2021
+   44. [447]↑ Igino Silva Junior; Flávio Schiavoni. 2019. Sustainable
+       Interfaces for Music Expression. In Proceedings of the 17th
+       Brazilian Symposium on Computer Music, 63–68.
+   45. [448]↑ Cubitt, Sean (2017). [449]Finite media : environmental
+       implications of digital technologies. Durham: [s.n.]
+       [450]OCLC [451]952139233
+   46. [452]↑ Eren, Halit. (2002). Impact of Technology on Environment.
+   47. ↑ ^[453]a ^[454]b ^[455]c ^[456]d Rômulo Vieira and Flávio
+       Schiavoni. 2021. Sunflower: an environment for standardized
+       communication of IoMusT. In Audio Mostly 2021 (AM '21). Association
+       for Computing Machinery, New York, NY, USA, 175–181.
+       DOI:https://doi.org/10.1145/3478384.3478414
+
+   Obtida de
+   "[457]https://pt.wikipedia.org/w/index.php?title=Internet_das_Coisas_Mu
+   sicais&oldid=64337994"
+   [458]Categorias:
+     * [459]Internet das coisas
+     * [460]Computação musical
+
+   Categorias ocultas:
+     * [461]!CS1 inglês-fontes em língua (en)
+     * [462]!Artigos com falha na verificação
+     * [463]!Páginas com referências sem URL e com acessodata
+     * [464]!CS1 manut: Nomes múltiplos: lista de autores
+
+     * Esta página foi editada pela última vez às 14h57min de 4 de
+       setembro de 2022.
+     * Este texto é disponibilizado nos termos da licença
+       [465]Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)
+       da Creative Commons; pode estar sujeito a condições adicionais.
+       Para mais detalhes, consulte as [466]condições de utilização.
+
+     * [467]Política de privacidade
+     * [468]Sobre a Wikipédia
+     * [469]Avisos gerais
+     * [470]Código de conduta
+     * [471]Programadores
+     * [472]Estatísticas
+     * [473]Declaração sobre ''cookies''
+     * [474]Versão móvel
+
+     * [475]Wikimedia Foundation
+     * [476]Powered by MediaWiki
+
+Références
+
+   1. file://pt.m.wikipedia.org/wiki/Internet_das_Coisas_Musicais
+   2. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Especial:Mudanças_recentes&feed=atom
+   5. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#bodyContent
+   6. file:///wiki/Wikipédia:Página_principal
+   7. file:///wiki/Portal:Conteúdo_destacado
+   8. file:///wiki/Portal:Eventos_atuais
+   9. file:///wiki/Wikipédia:Esplanada
+  10. file:///wiki/Especial:Aleatória
+  11. file:///wiki/Portal:Índice
+  12. file:///wiki/Wikipédia:Informe_um_erro
+  13. file:///wiki/Wikipédia:Boas-vindas
+  14. file:///wiki/Ajuda:Página_principal
+  15. file:///wiki/Ajuda:Página_de_testes
+  16. file:///wiki/Wikipédia:Portal_comunitário
+  17. file:///wiki/Especial:Mudanças_recentes
+  18. file:///wiki/Wikipédia:Manutenção
+  19. file:///wiki/Ajuda:Guia_de_edição/Como_começar_uma_página
+  20. file:///wiki/Especial:Páginas_novas
+  21. file:///wiki/Wikipédia:Contato
+  22. file:///wiki/Wikipédia:Página_principal
+  23. file:///wiki/Especial:Pesquisar
+  24. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=pt.wikipedia.org&uselang=pt
+  25. file:///w/index.php?title=Especial:Criar_conta&returnto=Internet+das+Coisas+Musicais
+  26. file:///w/index.php?title=Especial:Entrar&returnto=Internet+das+Coisas+Musicais
+  27. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=pt.wikipedia.org&uselang=pt
+  28. file:///w/index.php?title=Especial:Criar_conta&returnto=Internet+das+Coisas+Musicais
+  29. file:///w/index.php?title=Especial:Entrar&returnto=Internet+das+Coisas+Musicais
+  30. file:///wiki/Ajuda:Introduction
+  31. file:///wiki/Especial:Minhas_contribuições
+  32. file:///wiki/Especial:Minha_discussão
+  33. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html
+  34. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Introdução
+  35. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Coisas_Musicais
+  36. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Os_desafios_para_criar_coisas_musicais
+  37. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Possíveis_soluções_para_criar_coisas_musicais
+  38. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Campos_Relacionados
+  39. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Performance_musical_em_rede
+  40. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Arte_Interativa
+  41. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Música_ubíqua
+  42. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Web_Audio,_Computação_na_Nuvem_e_Computação_na_borda
+  43. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Tecnologias_vestíveis
+  44. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Desafios_da_IoMusT
+  45. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Desafios_Tecnológicos
+  46. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Desafios_Artísticos
+  47. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Desafios_legais,_privacidade_e_segurança
+  48. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Desafios_Sociais
+  49. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Desafios_Econômicos
+  50. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Desafios_Ambientais
+  51. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Possíveis_Cenários_de_Uso
+  52. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Cenário_1_-_Experiências_aumentadas_e_imersivas
+  53. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Cenário_2_-_Audiência_co-localizada_e_audiência_remota
+  54. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Cenário_3_-_Ensaios_remotos
+  55. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Cenário_4_-_Aprendizado_de_música
+  56. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Cenário_5_-_Sessão_de_improviso_com_instrumentos_eletroacústicos_e_coisas_musicais
+  57. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Referências
+  58. https://en.wikipedia.org/wiki/Internet_of_Musical_Things
+  59. https://www.wikidata.org/wiki/Special:EntityPage/Q109323154#sitelinks-wikipedia
+  60. file:///wiki/Internet_das_Coisas_Musicais
+  61. file:///w/index.php?title=Discussão:Internet_das_Coisas_Musicais&action=edit&redlink=1
+  62. file:///wiki/Internet_das_Coisas_Musicais
+  63. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit
+  64. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit
+  65. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=history
+  66. file:///wiki/Internet_das_Coisas_Musicais
+  67. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit
+  68. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit
+  69. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=history
+  70. file:///wiki/Especial:Páginas_afluentes/Internet_das_Coisas_Musicais
+  71. file:///wiki/Especial:Alterações_relacionadas/Internet_das_Coisas_Musicais
+  72. file:///wiki/Wikipedia:Carregar_ficheiro
+  73. file:///wiki/Especial:Páginas_especiais
+  74. file:///w/index.php?title=Internet_das_Coisas_Musicais&oldid=64337994
+  75. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=info
+  76. file:///w/index.php?title=Especial:Citar&page=Internet_das_Coisas_Musicais&id=64337994&wpFormIdentifier=titleform
+  77. file:///w/index.php?title=Especial:UrlShortener&url=https://pt.wikipedia.org/wiki/Internet_das_Coisas_Musicais
+  78. file:///w/index.php?title=Especial:QrCode&url=https://pt.wikipedia.org/wiki/Internet_das_Coisas_Musicais
+  79. file:///w/index.php?title=Especial:Livro&bookcmd=book_creator&referer=Internet+das+Coisas+Musicais
+  80. file:///w/index.php?title=Especial:DownloadAsPdf&page=Internet_das_Coisas_Musicais&action=show-download-screen
+  81. file:///w/index.php?title=Internet_das_Coisas_Musicais&printable=yes
+  82. https://www.wikidata.org/wiki/Special:EntityPage/Q109323154
+  83. file:///wiki/Internet_das_coisas
+  84. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:0-1
+  85. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:1-2
+  86. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:2-3
+  87. file:///wiki/Computação_musical
+  88. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:6-4
+  89. file:///wiki/Interação_Humano-computador
+  90. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-5
+  91. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-6
+  92. file:///wiki/Inteligência_artificial
+  93. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-7
+  94. file:///wiki/Realidade_aumentada
+  95. file:///wiki/Realidade_virtual
+  96. file:///wiki/Jogo
+  97. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-8
+  98. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-9
+  99. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 100. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:7-11
+ 101. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=1
+ 102. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=1
+ 103. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:0-1
+ 104. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:1-2
+ 105. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:2-3
+ 106. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-12
+ 107. file:///wiki/Código_QR
+ 108. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-13
+ 109. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-14
+ 110. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-15
+ 111. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=2
+ 112. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=2
+ 113. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 114. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-16
+ 115. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-17
+ 116. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:4-18
+ 117. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=3
+ 118. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=3
+ 119. file:///wiki/Hardware
+ 120. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:4-18
+ 121. file:///wiki/Internet
+ 122. file:///wiki/Smartphone
+ 123. file:///wiki/Computador_pessoal
+ 124. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:4-18
+ 125. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-19
+ 126. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-20
+ 127. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 128. file:///wiki/Software
+ 129. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:4-18
+ 130. file:///wiki/Modulação_por_código_de_pulsos
+ 131. file:///wiki/WAV
+ 132. file:///wiki/MP3
+ 133. file:///wiki/FLAC
+ 134. file:///wiki/Ogg
+ 135. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:4-18
+ 136. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=4
+ 137. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=4
+ 138. file:///wiki/Pedal_de_guitarra
+ 139. file:///wiki/Sensor
+ 140. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:4-18
+ 141. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:4-18
+ 142. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=5
+ 143. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=5
+ 144. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=6
+ 145. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=6
+ 146. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-21
+ 147. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-22
+ 148. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-23
+ 149. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-24
+ 150. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=7
+ 151. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=7
+ 152. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-25
+ 153. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-26
+ 154. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-27
+ 155. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=8
+ 156. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=8
+ 157. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:6-4
+ 158. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-28
+ 159. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=9
+ 160. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=9
+ 161. file:///wiki/JavaScript
+ 162. file:///wiki/Digital_audio_workstation
+ 163. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:5-29
+ 164. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:5-29
+ 165. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-30
+ 166. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-31
+ 167. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-32
+ 168. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-33
+ 169. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-34
+ 170. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-35
+ 171. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=10
+ 172. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=10
+ 173. file:///wiki/Relógio_inteligente
+ 174. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-36
+ 175. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-37
+ 176. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-38
+ 177. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=11
+ 178. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=11
+ 179. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:8-39
+ 180. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-40
+ 181. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=12
+ 182. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=12
+ 183. file:///wiki/Largura_de_banda
+ 184. file:///wiki/Latência
+ 185. file:///wiki/Jitter
+ 186. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 187. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-41
+ 188. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:7-11
+ 189. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=13
+ 190. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=13
+ 191. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 192. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 193. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:7-11
+ 194. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-42
+ 195. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=14
+ 196. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=14
+ 197. file:///wiki/Direito_autoral
+ 198. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 199. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-43
+ 200. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=15
+ 201. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=15
+ 202. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:8-39
+ 203. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:7-11
+ 204. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-44
+ 205. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:7-11
+ 206. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=16
+ 207. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=16
+ 208. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:7-11
+ 209. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=17
+ 210. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=17
+ 211. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-45
+ 212. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-46
+ 213. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=18
+ 214. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=18
+ 215. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 216. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=19
+ 217. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=19
+ 218. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 219. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=20
+ 220. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=20
+ 221. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 222. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:9-47
+ 223. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 224. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:9-47
+ 225. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=21
+ 226. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=21
+ 227. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:9-47
+ 228. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 229. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=22
+ 230. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=22
+ 231. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 232. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=23
+ 233. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=23
+ 234. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:9-47
+ 235. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:0_1-0
+ 236. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:0_1-1
+ 237. https://www.sciencedirect.com/science/article/pii/S1389128610001568
+ 238. file:///wiki/International_Standard_Serial_Number
+ 239. file://www.worldcat.org/issn/1389-1286
+ 240. file:///wiki/Digital_object_identifier
+ 241. https://dx.doi.org/10.1016/j.comnet.2010.05.010
+ 242. file:///wiki/Wikipédia:Verificabilidade
+ 243. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:1_2-0
+ 244. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:1_2-1
+ 245. https://www.sciencedirect.com/science/article/pii/S0140366414003168
+ 246. file:///wiki/International_Standard_Serial_Number
+ 247. file://www.worldcat.org/issn/0140-3664
+ 248. file:///wiki/Digital_object_identifier
+ 249. https://dx.doi.org/10.1016/j.comcom.2014.09.008
+ 250. file:///wiki/Wikipédia:Verificabilidade
+ 251. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:2_3-0
+ 252. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:2_3-1
+ 253. https://www.sciencedirect.com/science/article/pii/S1570870512000674
+ 254. file:///wiki/International_Standard_Serial_Number
+ 255. file://www.worldcat.org/issn/1570-8705
+ 256. file:///wiki/Digital_object_identifier
+ 257. https://dx.doi.org/10.1016/j.adhoc.2012.02.016
+ 258. file:///wiki/Wikipédia:Verificabilidade
+ 259. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:6_4-0
+ 260. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:6_4-1
+ 261. http://link.springer.com/10.1007/978-3-319-11152-0
+ 262. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-5
+ 263. https://www.worldcat.org/oclc/904425795
+ 264. file:///wiki/OCLC
+ 265. file://www.worldcat.org/oclc/904425795
+ 266. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-6
+ 267. https://www.worldcat.org/oclc/909772560
+ 268. file:///wiki/OCLC
+ 269. file://www.worldcat.org/oclc/909772560
+ 270. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-7
+ 271. https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch15
+ 272. file:///wiki/International_Standard_Book_Number
+ 273. file:///wiki/Especial:Fontes_de_livros/978-1-118-68060-5
+ 274. file:///wiki/Digital_object_identifier
+ 275. https://dx.doi.org/10.1002/9781118680605.ch15
+ 276. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-8
+ 277. https://dx.doi.org/10.1109/mmul.2017.19
+ 278. file:///wiki/International_Standard_Serial_Number
+ 279. file://www.worldcat.org/issn/1070-986X
+ 280. file:///wiki/Digital_object_identifier
+ 281. https://dx.doi.org/10.1109/mmul.2017.19
+ 282. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-9
+ 283. http://worldcat.org/oclc/981923724
+ 284. file:///wiki/OCLC
+ 285. file://www.worldcat.org/oclc/981923724
+ 286. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-0
+ 287. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-1
+ 288. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-2
+ 289. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-3
+ 290. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-4
+ 291. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-5
+ 292. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-6
+ 293. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-7
+ 294. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-8
+ 295. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-9
+ 296. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-10
+ 297. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-11
+ 298. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-12
+ 299. https://ieeexplore.ieee.org/document/8476543/
+ 300. file:///wiki/International_Standard_Serial_Number
+ 301. file://www.worldcat.org/issn/2169-3536
+ 302. file:///wiki/Digital_object_identifier
+ 303. https://dx.doi.org/10.1109/ACCESS.2018.2872625
+ 304. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:7_11-0
+ 305. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:7_11-1
+ 306. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:7_11-2
+ 307. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:7_11-3
+ 308. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:7_11-4
+ 309. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:7_11-5
+ 310. https://zenodo.org/record/4247759
+ 311. file:///wiki/Digital_object_identifier
+ 312. https://dx.doi.org/10.5281/zenodo.4247759
+ 313. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-12
+ 314. https://nottingham-repository.worktribe.com/output/998749/musical-intersections-across-the-digital-and-physical
+ 315. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-13
+ 316. https://dx.doi.org/10.1017/s1355771816000340
+ 317. file:///wiki/International_Standard_Serial_Number
+ 318. file://www.worldcat.org/issn/1355-7718
+ 319. file:///wiki/Digital_object_identifier
+ 320. https://dx.doi.org/10.1017/s1355771816000340
+ 321. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-14
+ 322. file:///wiki/Ajuda:Erros_nas_referências#accessdate_missing_url
+ 323. file:///wiki/Categoria:!CS1_manut:_Nomes_múltiplos:_lista_de_autores
+ 324. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-15
+ 325. https://ieeexplore.ieee.org/document/8476543/
+ 326. file:///wiki/International_Standard_Serial_Number
+ 327. file://www.worldcat.org/issn/2169-3536
+ 328. file:///wiki/Digital_object_identifier
+ 329. https://dx.doi.org/10.1109/ACCESS.2018.2872625
+ 330. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-16
+ 331. file:///wiki/Ajuda:Erros_nas_referências#accessdate_missing_url
+ 332. file:///wiki/Categoria:!CS1_manut:_Nomes_múltiplos:_lista_de_autores
+ 333. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-17
+ 334. https://link.springer.com/book/10.1007/978-3-030-01692-0
+ 335. file:///wiki/International_Standard_Serial_Number
+ 336. file://www.worldcat.org/issn/0302-9743
+ 337. file:///wiki/Digital_object_identifier
+ 338. https://dx.doi.org/10.1007/978-3-030-01692-0
+ 339. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:4_18-0
+ 340. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:4_18-1
+ 341. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:4_18-2
+ 342. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:4_18-3
+ 343. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:4_18-4
+ 344. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:4_18-5
+ 345. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:4_18-6
+ 346. https://ieeexplore.ieee.org/document/9277862/
+ 347. file:///wiki/International_Standard_Book_Number
+ 348. file:///wiki/Especial:Fontes_de_livros/978-1-7281-8286-5
+ 349. file:///wiki/Digital_object_identifier
+ 350. https://dx.doi.org/10.1109/SBESC51047.2020.9277862
+ 351. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-19
+ 352. http://ieeexplore.ieee.org/document/7905364/
+ 353. file:///wiki/International_Standard_Book_Number
+ 354. file:///wiki/Especial:Fontes_de_livros/978-1-5090-5715-3
+ 355. file:///wiki/Digital_object_identifier
+ 356. https://dx.doi.org/10.1109/INFOCOMMST.2016.7905364
+ 357. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-20
+ 358. file:///wiki/Ajuda:Erros_nas_referências#accessdate_missing_url
+ 359. file:///wiki/Categoria:!CS1_manut:_Nomes_múltiplos:_lista_de_autores
+ 360. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-21
+ 361. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-22
+ 362. http://portal.acm.org/citation.cfm?doid=378344.378367
+ 363. file:///wiki/International_Standard_Book_Number
+ 364. file:///wiki/Especial:Fontes_de_livros/978-1-58113-370-7
+ 365. file:///wiki/Digital_object_identifier
+ 366. https://dx.doi.org/10.1145/378344.378367
+ 367. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-23
+ 368. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-24
+ 369. http://ieeexplore.ieee.org/document/1417570/
+ 370. file:///wiki/International_Standard_Book_Number
+ 371. file:///wiki/Especial:Fontes_de_livros/978-0-7803-8798-0
+ 372. file:///wiki/Digital_object_identifier
+ 373. https://dx.doi.org/10.1109/GLOCOMW.2004.1417570
+ 374. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-25
+ 375. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-26
+ 376. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-27
+ 377. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-28
+ 378. https://www.tandfonline.com/doi/full/10.1080/09298215.2019.1659828
+ 379. file:///wiki/International_Standard_Serial_Number
+ 380. file://www.worldcat.org/issn/0929-8215
+ 381. file:///wiki/Digital_object_identifier
+ 382. https://dx.doi.org/10.1080/09298215.2019.1659828
+ 383. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:5_29-0
+ 384. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:5_29-1
+ 385. https://www.worldcat.org/oclc/848884051
+ 386. file:///wiki/OCLC
+ 387. file://www.worldcat.org/oclc/848884051
+ 388. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-30
+ 389. file:///wiki/Ajuda:Erros_nas_referências#accessdate_missing_url
+ 390. file:///wiki/Categoria:!CS1_manut:_Nomes_múltiplos:_lista_de_autores
+ 391. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-31
+ 392. https://ieeexplore.ieee.org/document/5474674/
+ 393. file:///wiki/Digital_object_identifier
+ 394. https://dx.doi.org/10.1109/AINA.2010.187
+ 395. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-32
+ 396. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-33
+ 397. https://linkinghub.elsevier.com/retrieve/pii/S0167739X18319903
+ 398. file:///wiki/Digital_object_identifier
+ 399. https://dx.doi.org/10.1016/j.future.2019.02.050
+ 400. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-34
+ 401. http://ieeexplore.ieee.org/document/7488250/
+ 402. file:///wiki/International_Standard_Serial_Number
+ 403. file://www.worldcat.org/issn/2327-4662
+ 404. file:///wiki/Digital_object_identifier
+ 405. https://dx.doi.org/10.1109/JIOT.2016.2579198
+ 406. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-35
+ 407. http://ieeexplore.ieee.org/document/8123913/
+ 408. file:///wiki/International_Standard_Serial_Number
+ 409. file://www.worldcat.org/issn/2169-3536
+ 410. file:///wiki/Digital_object_identifier
+ 411. https://dx.doi.org/10.1109/ACCESS.2017.2778504
+ 412. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-36
+ 413. http://ieeexplore.ieee.org/document/566147/
+ 414. file:///wiki/Digital_object_identifier
+ 415. https://dx.doi.org/10.1109/2.566147
+ 416. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-37
+ 417. http://ieeexplore.ieee.org/document/738305/
+ 418. file:///wiki/Digital_object_identifier
+ 419. https://dx.doi.org/10.1109/2.738305
+ 420. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-38
+ 421. http://ieeexplore.ieee.org/document/7993011/
+ 422. file:///wiki/International_Standard_Serial_Number
+ 423. file://www.worldcat.org/issn/1553-877X
+ 424. file:///wiki/Digital_object_identifier
+ 425. https://dx.doi.org/10.1109/COMST.2017.2731979
+ 426. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:8_39-0
+ 427. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:8_39-1
+ 428. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-40
+ 429. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-41
+ 430. http://ieeexplore.ieee.org/document/7769205/
+ 431. file:///wiki/International_Standard_Serial_Number
+ 432. file://www.worldcat.org/issn/2169-3536
+ 433. file:///wiki/Digital_object_identifier
+ 434. https://dx.doi.org/10.1109/ACCESS.2016.2628440
+ 435. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-42
+ 436. https://dl.acm.org/doi/10.1145/3290605.3300706
+ 437. file:///wiki/International_Standard_Book_Number
+ 438. file:///wiki/Especial:Fontes_de_livros/978-1-4503-5970-2
+ 439. file:///wiki/Digital_object_identifier
+ 440. https://dx.doi.org/10.1145/3290605.3300706
+ 441. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-43
+ 442. https://www.sciencedirect.com/science/article/pii/S0267364915001156
+ 443. file:///wiki/International_Standard_Serial_Number
+ 444. file://www.worldcat.org/issn/0267-3649
+ 445. file:///wiki/Digital_object_identifier
+ 446. https://dx.doi.org/10.1016/j.clsr.2015.07.002
+ 447. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-44
+ 448. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-45
+ 449. https://www.worldcat.org/oclc/952139233
+ 450. file:///wiki/OCLC
+ 451. file://www.worldcat.org/oclc/952139233
+ 452. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-46
+ 453. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:9_47-0
+ 454. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:9_47-1
+ 455. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:9_47-2
+ 456. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:9_47-3
+ 457. https://pt.wikipedia.org/w/index.php?title=Internet_das_Coisas_Musicais&oldid=64337994
+ 458. file:///wiki/Especial:Categorias
+ 459. file:///wiki/Categoria:Internet_das_coisas
+ 460. file:///wiki/Categoria:Computação_musical
+ 461. file:///wiki/Categoria:!CS1_inglês-fontes_em_língua_(en)
+ 462. file:///wiki/Categoria:!Artigos_com_falha_na_verificação
+ 463. file:///wiki/Categoria:!Páginas_com_referências_sem_URL_e_com_acessodata
+ 464. file:///wiki/Categoria:!CS1_manut:_Nomes_múltiplos:_lista_de_autores
+ 465. https://creativecommons.org/licenses/by-sa/4.0/deed.pt
+ 466. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 467. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/pt-br
+ 468. file:///wiki/Wikipédia:Sobre
+ 469. file:///wiki/Wikipédia:Aviso_geral
+ 470. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 471. https://developer.wikimedia.org/
+ 472. https://stats.wikimedia.org/#/pt.wikipedia.org
+ 473. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 474. file://pt.m.wikipedia.org/w/index.php?title=Internet_das_Coisas_Musicais&mobileaction=toggle_view_mobile
+ 475. https://wikimediafoundation.org/
+ 476. https://www.mediawiki.org/

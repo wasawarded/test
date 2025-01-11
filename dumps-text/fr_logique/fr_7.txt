@@ -1,0 +1,302 @@
+     * Recherche
+     * Accéder directement au contenu
+     * Pied de page
+
+   Logo Logo (BUTTON)
+
+     * Documentation
+     * (BUTTON) FR
+       Français (FR)
+       Anglais (EN)
+     * (BUTTON) Se connecter
+
+     * Portail HAL SHS
+     * (BUTTON) Recherche ____________________
+       Loading...
+       (BUTTON)
+
+Recherche avancée
+       Information de documents
+       (title_t) Titres
+          + Titres
+          + Sous-titre
+          + Titre de l'ouvrage
+          + Titre du volume (Série)
+          + Champ de recherche par défaut (multicritères) + texte intégral
+            des PDF
+          + Résumé
+          + Texte intégral indexé des documents PDF
+          + Mots-clés
+          + Type de document
+          + Sous-type de document
+          + Tous les identifiants du document
+          + Identifiant HAL du dépôt
+          + Langue du document (texte)
+          + Pays (Texte)
+          + Ville
+          + À paraître (true ou false)
+       ____________________ (BUTTON) Ajouter
+       Auteur
+       (auth_t) Auteur (multicritères)
+          + Auteur (multicritères)
+          + Auteur : Nom complet
+          + Auteur : Nom de famille
+          + Auteur : Prénom
+          + Auteur : Complément de nom, deuxième prénom
+          + Auteur : Organisme payeur
+          + Auteur : IdHal (chaîne de caractères)
+          + Auteur : Fonction
+          + Auteur : personID (entier)
+          + Auteur : Identifiant de l'organisme payeur
+          + Auteur : Identifiant de la structure
+          + Directeur de thèse
+          + Éditeur
+          + Éditeur scientifique
+          + Éditeur de la série
+       ____________________ (BUTTON) Ajouter
+       Structure
+       (structure_t) Structure (multicritères)
+          + Structure (multicritères)
+          + Structure : Acronyme
+          + Structure : Nom
+          + Structure : Code
+          + Structure : Pays
+          + Structure : Type
+          + Structure : État dans le référentiel
+          + Structure : Identifiant HAL de la structure
+          + Structure/équipe de recherche : Pays
+          + Structure/regroupement d'équipes : Pays
+          + Structure/laboratoire : Pays
+          + Structure/regroupement de laboratoires : Pays
+          + Structure/institution : Pays
+          + Structure/regroupement d'institutions : Pays
+       ____________________ (BUTTON) Ajouter
+       Autres
+       (text) Champ de recherche par défaut (multicritères)
+          + Champ de recherche par défaut (multicritères)
+          +
+          + Revues (multicritères)
+          + Revue : Éditeur
+          + Revue : Titre abrégé
+          + Revue : Titre
+          + Revue : Identifiant interne
+          + Revue : Date de début de publication
+          + Revue : ISSN électronique
+          + Revue : ISSN
+          + Revue : Éditeur
+          + Revue : Couleur dans SHERPA/RoMEO
+          + Revue : État dans le référentiel
+          +
+          + Colloque (multicritères)
+          + Colloque : Titre
+          + Colloque : Organisateur
+          + Colloque : date de début (Année)
+          + Colloque : date de fin (Année)
+          + Conférence invitée (oui/non)
+          +
+          + Projets ANR (multicritères)
+          + Projet ANR : Acronyme
+          + Projet ANR : Acronyme du programme
+          + Projet ANR : Code décision (référence)
+          + Projet ANR : Nom
+          + Projet ANR : Identifiant interne
+          + Projet ANR : État dans le référentiel
+          +
+          + Projets européens (multicritères)
+          + Projet européen : Acronyme
+          + Projet européen : Identifiant de l'appel à projet
+          + Projet européen : Référence
+          + Projet européen : Nom
+          + Projet européen : Date de fin
+          + Projet européen : Financement
+          + Projet européen : Date de début
+          + Projet européen : État dans le référentiel
+          + Projet européen : Identifiant interne
+          +
+          + Date de production : année
+          + Date de mise en ligne : année
+          + Date de publication : année
+          + Date d'écriture : année
+          + Date de modification du dépôt : année
+          + Date de dépôt : année
+          + Date de publication électronique : année
+          +
+          + Collection HAL (multicritères)
+          + Collection HAL : catégorie
+          + Collection HAL : Code
+          + Collection HAL : Nom
+          + Collection HAL : Identifiant interne
+          +
+          + Identifiant interne du contributeur/déposant
+          + Nom complet du contributeur/déposant
+          +
+          + Domaines
+          + Domaine primaire
+          + Domaine racine
+          + Sous-domaine niveau 1
+          + Sous-domaine niveau 2
+          + Sous-domaine niveau 3
+          +
+          + Statut du document
+          + Version du document
+          + Type de dépôt
+          + Type de document
+          + ISBN
+          + Numéro - référence
+          + Identifiant DOI
+          +
+          + Classification
+          + Audience
+          + Vulgarisation
+          + Comité de lecture - texte (oui ou non)
+          + Actes de colloque
+          + Référence interne
+          + Financement
+          + Collaborations
+       ____________________ (BUTTON) Ajouter
+
+       (Lancer la recherche) Lancer la recherche
+       (BUTTON) Recherche experte (SolR)
+
+Recherche experte (SolR)
+
+       ___________________________________________________________________
+       ___________________________________________________________________
+       ___________________________________________________________________
+       ___________________________________________________________________
+       (BUTTON) Lancer la recherche
+       (BUTTON) Vers la recherche avancée
+     * Déposer
+
+   HAL SHS : Sciences humaines et sociales
+
+     * Accueil
+     * Parcourir
+          + Par discipline
+          + Par date de publication, rédaction
+          + Par type de publication
+     * Services
+          + Consulter les laboratoires connus de HAL SHS
+     * Documentation HAL
+
+   (BUTTON) ×
+
+   (BUTTON) ×
+
+   (BUTTON) ×
+
+   Loading...
+   (BUTTON) ×
+
+   Article Dans Une Revue Travaux de logique du CdRS Année : 2008
+
+Définir la logique
+
+   Denis Bonnay (1)
+   (BUTTON) Afficher plus de détails
+   1 IHPST - Institut d'Histoire et de Philosophie des Sciences et des
+   Techniques
+   Denis Bonnay
+     * Fonction : Auteur
+     * PersonId : 829848
+
+   Institut d'Histoire et de Philosophie des Sciences et des Techniques
+   (BUTTON) Réduire la vue détaillée
+
+Résumé
+
+   (BUTTON) fr
+   Qu'est-ce que la logique, et quels problèmes spécifiques rencontre-t-on
+   lorsqu'on esssaie de la définir ? Cet article en français 'destiné à un
+   large public' présente les définitions en termes de preuves et en
+   termes sémantiques des opérations logiques. Mais comment de telles
+   définitions sont-elles possibles si d'une part, on doit définir le plus
+   compliqué à l'aide du plus simple, et si d'autre part la logique est ce
+   qu'il y a de plus simple ? J'examine à la lumière de ce problème les
+   concessions faites dans chacune des deux traditions, preuve-théorique
+   et sémantique.
+
+Mots clés
+
+   (BUTTON) fr
+   logique
+
+Domaines
+
+   Histoire, Philosophie et Sociologie des sciences
+   (BUTTON) Liste complète des métadonnées
+
+   Denis Bonnay  : Connectez-vous pour contacter le contributeur
+
+   https://shs.hal.science/halshs-00791628
+
+   Soumis le : jeudi 21 février 2013-14:01:33
+
+   Dernière modification le : lundi 9 décembre 2024-15:36:03
+
+   Fichier non déposé
+
+Dates et versions
+
+   halshs-00791628 , version 1 (21-02-2013)
+
+Identifiants
+
+     * HAL Id : halshs-00791628 , version 1
+
+Citer
+
+   (BUTTON)
+   Denis Bonnay. Définir la logique. Travaux de logique du CdRS, 2008, 1
+   (1), pp.1-20. ⟨halshs-00791628⟩
+
+Exporter
+
+   BibTeX XML-TEI Dublin Core DC Terms EndNote DataCite
+
+Collections
+
+   UNIV-PARIS1 ENS-PARIS CNRS IHPST HIPHISCITECH PSL
+
+   45 Consultations
+   0 Téléchargements
+
+Partager
+
+   More
+
+   Contact
+     * Support
+
+   Ressources
+     * Documentation
+     * Formation
+     * FAQ
+     * API
+     * OAI-PMH
+     * AuréHAL
+
+   Informations
+     * À propos
+     * Données personnelles
+     * Mentions légales
+     * Accessibilité
+     * Conformité RGAA
+
+   Questions juridiques
+     * Je publie, quels sont mes droits ?
+     * Loi pour une République numérique
+     * Stratégie de non-cession des droits
+     * SHERPA/RoMEO
+
+   Portails
+     * Portails institutionnels
+     * HAL
+     * HAL SHS
+     * HAL Thèses
+     * MédiHAL
+
+   CCSD
+     * CCSD
+     * Episciences
+     * Sciencesconf

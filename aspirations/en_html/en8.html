@@ -1,0 +1,675 @@
+<HTML>
+<HEAD>
+  <STYLE>
+  DIV.abstract {
+    font-style: italic;
+  }
+  DIV.copyright {
+    font-style: bold;
+    margin: 5%;
+  }
+  .example {
+      background: orange;
+      padding: 0.2em 1em 0.2em 1em;
+      border: none;
+      whitespace: pre;
+      font-family: monospace;
+  }
+  P.caption {
+    font-weight: bold;
+  }
+</STYLE>
+  <!-- Created with AOLpress/2.0 -->
+  <TITLE>Towards the Semantic Web: Metalog</TITLE>
+  <LINK rel=stylesheet href="https://www.w3.org/StyleSheets/Core/Modernist" type="text/css">
+</HEAD>
+<BODY BGCOLOR="white">
+<H1 ALIGN=Center>
+  Towards the Semantic Web: Metalog
+</H1>
+<DIV class=authors>
+  <H3 ALIGN=Center>
+    <A HREF="https://www.w3.org/People/Massimo/">Massimo
+    Marchiori</A><SUP>1,2</SUP>, <A HREF="https://www.w3.org/People/Janne/">Janne
+    Saarela</A><SUP>1,3</SUP><BR>
+    {massimo,jsaarela}@w3.org
+  </H3>
+</DIV>
+<DIV class=organization>
+  <H2 ALIGN=Center>
+    <I><A HREF="https://www.w3.org">The World Wide Web Consortium
+    (W3C)</A></I><SUP>1</SUP><BR>
+    <A HREF="http://www.lcs.mit.edu"><I>MIT</I></A><SUP>2</SUP>
+    <A HREF="http://www.inria.fr"><I>INRIA</I></A><SUP>3</SUP><BR>
+  </H2>
+  <CENTER>
+    <SMALL> Contact: M. Marchiori, W3C, MIT Lab for Computer Science, 545 Technology
+    Sq., Cambridge MA 02139<BR>
+    Phone: +1 (617) 253 2442 Fax: +1 (617) 258 5999</SMALL>
+  </CENTER>
+</DIV>
+<DIV class=abstract>
+  The new W3C standard RDF (Resource Description Framework) describes a metadata
+  infrastructure which can accommodate classification elements from different
+  vocabularies i.e. schemas. The underlying model consists of a labeled directed
+  acyclic graph which can be linearized into eXtensible Markup Language (XML)
+  transfer syntax for interchange between applications.This paper will demonstrate
+  how a new system, Metalog, allows users to write metadata, inference rules
+  and queries in English-like syntax. We will demonstrate how these reasoning
+  rules have equivalent representation both as RDF descriptions and as logic
+  formulae. We will also show how an automated compilation between these
+  translations is possible, showing the effectiveness of the system, which
+  aims to be a first step towards the ambitious project of Tim Berners-Lee's
+  semantic web.
+</DIV>
+<H2>
+  The Metalog Approach
+</H2>
+<P>
+RDF provides the basis for structuring the data present in the web in a
+consistent and accurate way. However, RDF is only the first step towards
+the construction of what Tim Berners-Lee calls the <I>semantic web</I>, a
+World Wide Web where data is structured, <I>and</I> users can fully benefit
+by this structure when accessing information on the web. RDF only provides
+the "basic vocabulary" in which data can be expressed and structured. Then,
+the whole problem of <I>accessing</I> an <I>managing</I> these data structured
+arises.
+<P>
+Metalog provides a "logical" view of metadata present on the web. The Metalog
+approach is composed by two major layers.
+<P>
+The first layer consists in an enrichment of the RDF model. Metalog provides
+way to express logical relationships like "and", "or" and so on, and to build
+up complex <I>inference rules</I> that encode logical reasoning. This "semantic
+layer" builds on top of RDF using a so-called <I>RDF schema</I>. We call
+this level of Metalog the <I>Metalog model</I> level.
+<P>
+The second layer consists of a "logical interpretation" of RDF data (optionally
+enriched with the semantic schema) into logic. This way, the understood semantics
+of RDF is unwound into its logical components. This means that every reasonment
+on RDF data can be performed acting upon the corresponding logical view,
+providing a neat and powerful way to reason about data. We call this level
+of Metalog the <I>Metalog logic</I> level.
+<P>
+The third layer is a language interface to writing structured data and reasoning
+rules. In principle, the first component already suffices: data and rules
+can be written directly in RDF, using RDF syntax and the metalog schema.
+However, this is not convenient from the practical viewpoint. Indeed, RDF
+syntax aims at being more an encoding language rather than a user-friendly
+language, and it is well recognised in the RDF community and among vendors
+that the typical applications will provide more user-friendly interfaces
+between the "raw RDF" code and the user. Our proposed language is innovative
+in that it tries to stress user-friendliness as much as possible: a program
+is a collection of <I>natural language</I> assertions. We think this feature
+will be particularly important for the wide deployment not only of metalog,
+but of RDF itself: the measure of the success of metadata and proper structuring
+of information on the web is given by the number of people that will actually
+lose time and energy in write (and/or translate) data into the structured
+format. Therefore, it is of primary importance that the entry level is kept
+extremely easy, to avoid that the difficulty of just learning how to encode
+and structure data will just block the widespread diffusion of metadata in
+the web. Also, this level incorporates in a natural way the concept of
+<I>query</I> to interact with the structured data and the inference rule.
+We call this level of Metalog the <I>Metalog language</I> level.
+<P>
+Another important feature of the language, in this respect, is indeed that
+it can be used just as an interface to RDF, without the metalog extensions.
+This way, users will be able to access and structure metadata using RDF in
+a smooth and seamless way, using the metalog language.
+<P>
+Therefore, the typical interaction of the user with the Metalog system will
+be: in the "building" process of setting up the data and the logical inferences,
+the user will be able to simply express these using the Metalog language.
+This layer is translated into the Metalog model, and then using the Metalog
+logic interpretation, into logic. From here, classic inference engines can
+then be applied, like logic programming, datalog, theorem provers and so
+on. Also, all the already existing RDF data will enter this "chain" directly
+into the Metalog model level.
+<H2>
+  The Metalog Model
+</H2>
+<P>
+We can extend RDF so that the mapping to logic is able to take advantage
+of all of the logical relationships present in logical systems: that is to
+say, behind the ability of expressing <I>static facts</I>, we want the ability
+to encode <I>dynamic reasoning rules,</I> like in logic programming.
+<P>
+In order to do so, we need at least:
+<UL>
+  <LI>
+    the connectors: <I>and</I>, <I>or</I>, <I>implies</I>
+  <LI>
+    variables
+</UL>
+<P>
+The metalog schema extends plain RDF with this "logical layer", enabling
+to express arbitrary logical relationships within RDF. In fact, the metalog
+schema provides more accessories besides the aforementioned basic ones (like
+for example, the "<I>not</I>" connector, and support for <I>math</I> operators):
+anyway, for the sake of clarity, we don't go into further details on this
+topic: the basic building blocks are the connectors <I>and</I>, <I>or</I>,
+<I>implies</I>, and the variables. What the reader should keep in mind is
+therefore just that the Metalog model provides the "meta-logic" operators
+to reason with RDF statements.
+<P>
+Technically, this is quite easy to do: the metalog schema is just a schema
+as defined by the RDF schema specification where, for example, <I>and</I>
+and <I>or</I> are subinstances of the RDF <I>Bag</I> connector.
+<H2>
+  The Metalog Logic
+</H2>
+<P>
+Once we have extended "syntactically" the RDF model with connectors, the
+next step is to provide a <I>semantical</I> interpretation of these, in
+conjunction with a semantical interpretation of the RDF model (that is to
+say, a semantical interpretation of the "Metalog model" as a whole).
+<P>
+The first correspondence in Metalog is between the basic RDF data model and
+the predicates in logic. The RDF data model consists of so-called
+<I>statements</I> Statements are triples where there is a subject (the
+"resource"), a predicate (the "property"), and an object (the "literal").
+Metalog views an RDF statement in the logical setting as just a binary predicate
+involving the subject and the literal. For example, the RDF statement expressing
+the fact that <I>Tim Berners-Lee invented the Web </I>(formally, the RDF
+triple <I>{invented, Tim Berners-Lee, Web}</I>) is seen in logic as the predicate
+<I>invented(Tim Berners-Lee, Web)</I>. So, in general RDF statements have
+a natural translation into logic predicates. The exceptions that Metalog
+does are for the so-called <I>sequencing</I> constructs in RDF: Bag, Seq
+and Alt. These are codified using specific varyadic functors (named, indeed,
+Bag, Seq and Alt...), with in addition in the Bag case equations to make
+the Bag operator act like a set-like operator (that is to say,
+Bag(X_1,...,X_n)=Bag(X_p(1),...,X_p(n)) for every permutation p). So, in
+fact, Metalog logic is a kind of equational logic (see also later, in the
+case of the mathematical operators).
+<P>
+The second natural correspondence is the interpretation of the specific Metalog
+extension: the connectors <I>and</I>, <I>or</I> and <I>implies</I> are
+interpreted as the logical conjunction, disjunction and implication,
+respectively. Variables are interpreted as logical variables. En passant,
+we mention the other extensions provided by Metalog, the <I>not</I> connector
+and the mathematical extensions. Metalog provides support for integer arithmetic,
+with the functions <I>add</I>, <I>sub</I>, <I>times</I>, <I>divide</I>, and
+the predicates <I>less</I>, <I>greater</I>, <I>less_or_equal</I>,
+<I>greater_or_equal</I>, that have the expected equational interpretation.
+As far as the <I>not</I> connector is concerned, things are less easy: while
+for the other interpretation the logical interpretation is rather straightforward
+(in other words, in the almost totality of the useful logics, these operators
+have all the same interpretation), a logical interpretation of the not connector
+is not as plain: there are different alternatives to consider, giving different
+logics. The Metalog choice follows from the intrinsic nature of the World
+Wide Web (where the Metalog system is expected to be used), as a distributed
+knowledge basis, with possibly partial information available: we chose the
+interpretation of the <I>not</I> connector to be <I>negation as failure
+(NAF)</I>, that is to say, we opted for the Closed World Assumption (CWA).
+Another point to consider is that since the interpretation of the <I>not</I>
+is in any case such a delicate parameter, the interpretation of the not as
+NAF has been kept as flexible as possible, using namespaces, as we will see
+next.
+<P>
+Summing up, the mapping between the Metalog model and logical formulas is
+then completely natural: for each RDF statement that does not use a metalog
+connector, there is a corresponding logical predicate as defined before.
+Then, the metalog connectors are translated into the corresponding logical
+connectors as described above.
+<H3>
+  Namespaces
+</H3>
+<P>
+Metalog employs different namespaces for its extensions, in order to allows
+easy extensibility, modification and reuse of its components. Therefore,
+there are <I>three</I> different namespaces in action: the first namespace
+(<TT>http://www.w3.org/RDF/Metalog</TT>) is for the connectors <I>and</I>,
+<I>or</I>, <I>implies</I>, and for the variables (that is to say, the "core"
+set of Metalog). Then, the <I>not</I> connector has a different namespace
+(namely <TT>http://www.w3.org/RDF/Metalog/not/NAF</TT>), thus allowing other
+different not's to be used if needed. Finally, all the mathematical extensions
+have yet another namespaces (<TT>http://www.w3.org/RDF/Metalog/Math</TT>),
+to allow easy upgrade/extensions of the mathematical facilities in the future.
+<H2>
+  The Metalog Syntax
+</H2>
+<P>
+The third layer is then the actual syntax interface between the user and
+the Metalog model layer.
+<P>
+The metalog syntax has been explicitly designed with the purpose of being
+totally natural-language based, trying to avoid any possible technicalities,
+and therefore making the language extremely readable and self-descriptive.
+<P>
+The way metalog reaches this scope is by a careful use of upper/lower case,
+quotes, and by allowing a rather liberal positioning of the keywords (an
+advanced parser then disambiguates the keywords from each metalog program
+line).
+<P>
+Upper/lower case is used to distinguish between normal keywords and variables:
+variables are expressed using names all in upper case (for example,
+<TT>FOO</TT> is a variable). Words that are in lower case either are
+<I>keywords</I> (reserved words), or if not, they are ignored. For example,
+<TT>then</TT> is a keyword, while <TT>foo</TT> is not, and so it is just
+ignored (it is only syntactic sugaring). Other words can be either keywords,
+or they are just ignored. In the current version of metalog, words cannot
+intermingle upper and lower case: this helps to reduce errors and to improve
+readability, since it strengthens the layout difference between variables
+and the other words.
+<P>
+Finally, any name which is between double quotes (for example,
+<TT>"John"</TT>) is a datum (a fixed constant).
+<H3>
+  Keywords
+</H3>
+<P>
+The following set of keywords are reserved in metalog. Interpretation of
+the keywords is done in metalog on a positional basis: the position of the
+keyword with respect to other keywords and/or other data determines the
+interpretation of the sentence. The reserved keywords are:
+<UL>
+  <LI>
+    <TT>then</TT> is a keyword for the logical implication (=&gt;)<BR>
+    For example,<BR>
+    <TT>if SHE has a "degree" in "math" then SHE "is" "smart"</TT><BR>
+    is translated into the logical formula<BR>
+    <I>degree(SHE,"math") =&gt; is(SHE,"smart")</I><BR>
+    (Note that, here and in the following examples, we provide directly the
+    translation into the logical formula, to save space; a more detailed translation
+    would have to also show the intermediate RDF model, which is in any case
+    trivial to derive).
+  <LI>
+    <TT>imply</TT> is a keyword for the logical implication (=&gt;)
+  <LI>
+    <TT>implies</TT> is a keyword for the logical implication (=&gt;)
+  <LI>
+    <TT>and</TT> can be either the metalog <I>and</I> (the "logical-and"), or
+    it can be used to indicate the presence of an RDF Bag (the "bag-and"): this
+    is disambiguated by the context<BR>
+    For example, <TT><BR>
+    if SHE has a "degree" in "math" and SHE has a "degree" in "computer science"
+    as well then SHE "is" "really smart"</TT>.<BR>
+    is translated into the logical formula<BR>
+    (<I>degree(SHE,"math") and degree(SHE,"computer science"))=&gt; is(SHE,"really
+    smart")</I><BR>
+    On the other hand, as said, and can be used to denote an RDF Bag (a set):<BR>
+    <TT>the "technical report 231" has as "authors" "Mary" and "John"</TT>.<BR>
+    is translated into the logical formula:<BR>
+    <TT><I>authors("technical report 231",Bag("Mary","John"))</I></TT>
+  <LI>
+    <TT>or</TT> can be either the metalog <I>or</I>, or it can be used to indicate
+    the presence of an RDF Alt (an alternatives list) : this is disambiguated
+    by the context
+  <LI>
+    <TT>order</TT> the presence of this keyword turns an RDF Bag into an RDF
+    Seq (an ordered list).<BR>
+    For example,<BR>
+    <TT>the "technical report 231" has as "authors" "Mary" and "John"</TT> <TT>in
+    this order</TT>.<BR>
+    is translated into the logical formula:<BR>
+    <TT><I>authors("technical report 231",Seq("Mary","John"))</I></TT>
+  <LI>
+    <TT>not</TT> can be combined with other metalog constructs.<BR>
+    For example<BR>
+    <TT>if SHE has a "degree" in "math" then SHE "is" not "stupid"</TT>.<BR>
+    is translated into the logical formula<BR>
+    <I>degree(SHE,"math") =&gt; not(is(SHE,"stupid"))</I>
+</UL>
+<P>
+The dot is the separator between metalog program lines. For formatting purposes,
+carriage returns, line feeds can tabs can be used: they are simply ignored.
+Commas, semicolons and question marks are reserved keywords: we'll explain
+commas in the next section, and question marks in the "Queries" section.
+On the other hand, semicolons are reserved for future use.
+<P>
+<I>Note</I>: metalog programs also have a number of other keywords to deal
+with, to name some, namespaces (via the keyword <TT>namespace</TT>), mathematical
+operators, versioning. We will not go in further details since we won't be
+explicitly using namespaces sugaring here, but en passant we just mention
+that essentially the <TT>namespace</TT> keyword has the same functionality
+as the <TT>xmlns</TT> attribute for XML namespaces. And, as said, there are
+a number of other keywords that deal with numbers operations (e.g.,
+<TT>greater</TT>, <TT>less</TT>, etc.), but for the sake of brevity we don't
+go in their (rather obvious) description.
+<H3>
+  Parsing
+</H3>
+<P>
+Parsing is positional. Let's introduce some terminology here. Call "quotation"
+everything that in a metalog language chunk is among quotes; keyword and
+variable have just the usual metalog meaning. Call a "holder" either a variable
+or a quotation. So for example, in
+<P>
+<TT>SHE has a "degree" in "math" then SHE "is" "smart"</TT>
+<P>
+the quotations are <TT>"degree"</TT>, <TT>"math"</TT>, <TT>"is"</TT> and
+<TT>"smart"</TT>, the variables are <TT>SHE</TT>, all of these are holders;
+the keywords are: <TT>then</TT>. Interpretation then occurs as follows.
+<P>
+First, a so-called <I>strip-off </I>phase occurs, where all the "junk" (parts
+that are neither quotations nor variables nor keywords) are eliminated. Note
+that it is not strictly necessary for the parser to do a strip-off in advance,
+and indeed in our current implementation the strip-off occurs incrementally,
+as the sentences are processed, in a much more efficient way. But, for the
+sake of explanation, it's clearer to assume this strip-off part is executed
+in advance. So, in the above example, after strip-off we obtain <TT>SHE "degree"
+"math" then SHE "is" "smart".</TT>
+<P>
+Then, we disambiguate using the metalog keywords. The basic metalog mapping
+structure (here, we use a mapping directly to logic rather than to Metalog
+model for conciseness) follows the classic grammatical model of basic sentence,
+where we have a <I>subject</I> followed by a <I>predicate</I> and then an
+<I>object</I>. This triple "<I>subject predicate object</I>" is naturally
+translated into the logic binary
+predicate&nbsp;<I>predicate(subject,object)</I>. On top of this "basic model"
+of translation, more sophisticated constructs are added, using the metalog
+keywords.
+<P>
+Metalog has several interoperating rules that deal with keyword processing
+and ambiguities. In the following, we describe the core parsing algorithm,
+to give an idea of the kind of algorithmic involved.
+<P>
+Let's refer to level 1, 2 or 3 if we are at a position where we expect to
+have a "subject", "predicate" or "object". For example, if we are parsing
+the above example from left to right, and we are at the point <TT>if SHE
+has a "degree"</TT>, then we've just parsed a level 2 ("degree") and expect
+a level 3. Parsing occurs left-to-right, according to the above general pattern,
+only that when a keywords is found, various things can happen: if we find
+a "<TT>then</TT>", "<TT>imply</TT>" or "<TT>implies</TT>" keyword, it means
+we translate all what was to the left (say, obtaining <I>#LEFT#</I>), all
+what is to the right (say, obtaining <I>#RIGHT#</I>), and logically translate
+to "<I>#LEFT# =&gt; #RIGHT#</I>" (here, <I>=&gt;</I> denotes logical
+implication). Note that a "<TT>then</TT>" can generally occur only when a
+level 1 is expected (although,&nbsp;the above definition is more general).
+<P>
+If we find an "<TT>and</TT>": if the "<TT>and</TT>" occurs when a level 1
+is expected, then it could be a logical-and or the bag-and; if there's a
+holder soon after the object to the right of the and, then it's a logical-and;
+otherwise, it's a bag-and, and the level still stays 3. If the "<TT>and</TT>"
+occurs when a level 2 is expected, then it's a bag-and: it means that the
+holder soon before the <TT>and</TT>, and the next to come, are concatenated
+into an RDF Bag construct (Bag than can be turned into an RDF Seq if the
+"<TT>order</TT>" keyword is found).
+<P>
+Logical-and translation: we have the logical translation "<I>#LEFT# and
+#RIGHT#</I>". For example, take the metalog sentence
+<P>
+<TT>if SHE and HE have a "degree" in "math" and "science" and "John" "is"
+"good" then .... </TT>
+<P>
+Doing the strip off, we obtain: <TT></TT>
+<P>
+<TT>SHE and HE "degree" "math" and "science" and "John" "is" "good" then
+.... </TT>
+<P>
+Now we start the parsing from left to right (in the following, the denote
+with Bag(a,b,c,...) the bag composed by elements a, b, c, ...):
+<P>
+<TABLE BORDER CELLPADDING="2">
+  <TR>
+    <TD><TT>SHE</TT></TD>
+    <TD>level 1</TD>
+  </TR>
+  <TR>
+    <TD><TT>and</TT></TD>
+    <TD>where a level 2 was expected, so...</TD>
+  </TR>
+  <TR>
+    <TD><TT>HE</TT></TD>
+    <TD>... Bag(SHE,HE) is the new level 1</TD>
+  </TR>
+  <TR>
+    <TD><TT>"degree"</TT></TD>
+    <TD>level 2</TD>
+  </TR>
+  <TR>
+    <TD><TT>"math"</TT></TD>
+    <TD>level 3</TD>
+  </TR>
+  <TR>
+    <TD><TT>and</TT></TD>
+    <TD>where level 1 was expected: after "science" there is a keyword, so it's
+      a bag-and, which means...</TD>
+  </TR>
+  <TR>
+    <TD><TT>"science"</TT></TD>
+    <TD>... Bag("math","science") is level 3</TD>
+  </TR>
+  <TR>
+    <TD><TT>and</TT></TD>
+    <TD>where level 1 was expected: after "John" there is a holder
+      ("<TT>good</TT>"), so it's a logical-and</TD>
+  </TR>
+  <TR>
+    <TD><TT>"John"</TT></TD>
+    <TD>level 1</TD>
+  </TR>
+  <TR>
+    <TD><TT>"is"</TT></TD>
+    <TD>level 2</TD>
+  </TR>
+  <TR>
+    <TD><TT>"good"</TT></TD>
+    <TD>level 3</TD>
+  </TR>
+  <TR>
+    <TD><TT>then</TT></TD>
+    <TD>all of the above (<I>#LEFT#</I>), implies all of the following
+      (<I>#RIGHT#</I>)</TD>
+  </TR>
+  <TR>
+    <TD><TT>...</TT></TD>
+    <TD>...</TD>
+  </TR>
+</TABLE>
+<P>
+So, the final logical translation is
+<P>
+<TT><I>degree(Bag(SHE,HE),Bag("math","science")) and is("John","good") =&gt;
+.... </I></TT>
+<P>
+Another important component in the metalog language syntax is represented
+by <I>punctuation</I>. Punctuation plays a relevant role to define the structure
+of metalog: for example, <I>dots</I> ("<TT>.</TT>") &nbsp;are used to separate
+metalog sentences, and <I>question marks</I> ("<TT>?</TT>") to denote queries.
+Besides these, <I>commas</I> are used to act as delimiter, a helpful construct
+in case ambiguities arise. For example, consider the following example, obtained
+slightly modifying the above example:
+<P>
+<TT>if SHE and HE have a "degree" in "math" and "science" and "John" and
+"Mary" "are" "good" then .... </TT>
+<P>
+This sentence is given the supposedly wrong interpretation by Metalog that
+<P>
+<I>degree(Bag(SHE,HE),Bag("math","science","John")) and are("Mary","good")
+=&gt; .... </I>
+<P>
+while to express the fact that both John and Mary are good we can use the
+comma punctuation: the above example becomes
+<P>
+<TT>if SHE and HE have a "degree" in "math" and "science", and "John" and
+"Mary" "are" "good" then ....</TT>
+<P>
+or equivalently
+<P>
+<TT>if SHE and HE have a "degree" in "math" and "science", and "John" and
+"Mary" "are" "good", then ....</TT>
+<P>
+The formal rule to deal with commas in the parsing process is that a comma
+forces a level 1.
+<H2>
+  Queries
+</H2>
+<P>
+In general, query languages are formal languages to retrieve data from a
+database. Standardized languages already exist to retrieve information from
+different types of databases such as Structured Query Language (SQL) for
+relational databases and Object Query Language (OQL) for object databases.
+<P>
+Semi-structured query languages such as XML-QL [3] operate on the document
+level structure.
+<P>
+With RDF, the most suitable approach is to focus on the underlying data model.
+Even though XML-QL could be used to query RDF descriptions in their XML encoded
+form, a single RDF data model could not be correctly determined with a single
+XML-QL query due to the fact that RDF allows several XML syntax encodings
+for the same data model. And, XML-QL and other similar XML query languages
+(see QL'98 [7]) have the big limitation to query syntactically, and not
+semantically.
+<P>
+Instead, the fact the ultimate point of the "Metalog chain" is the Metalog
+logic, leads itself to a natural definition of query: (constructive)
+satisfability. That is to say, any given logical formula can be queried along
+the database, to check whether it is satisfable or not (and, in the positive
+case, the appropriate variable bindings are to be returned). We provide a
+construct in the Metalog language to express such a query: the <I>question
+mark</I> every metalog language sentence ending with a question mark is supposed
+to be a query, and as such it should not be added to the knowledge base,
+but its satisfability can be possibly checked by an appropriate inference
+engine.
+<H2>
+  Computability
+</H2>
+<P>
+Note that the RDF metalog model and the corresponding translation into logical
+formulas in the Metalog logic is absolutely general. However, in practice,
+one need also to then be able to process the resulting logical formulas in
+an effective ways. In other words, while the Metalog model nicely extends
+RDF with the full power of first order predicate calculus (and more), thus
+increasing by far the <I>expressibility</I> of basic RDF, there is still
+the other, <I>computational</I>, side of the coin: how to process and effectively
+reason with all these logical inference rules.
+<P>
+Metalog as such does not impose computability restriction, as its primary
+goal is to provide expressibility means to codify logical data and relationships
+(and relative queries). Then, it is up to the particular inference engine
+to try to effectively deal with the resulting logical knowledge basis. However,
+there are at least two restrictions of the logic that deserves particular
+attention: <I>logic programming </I>and <I>datalog</I> (see e.g. [1]). These
+paradigms are that they are computationally rather efficient, such that there
+are many implementations available that implement these languages; moreover,
+in the case of datalog, querying is also always terminating: that is to say,
+no matter what query we give, a datalog program (if correctly implemented)
+will always return the answer(s) in a <I>finite</I> amount of time. The
+interesting things that makes these languages particularly appealing in our
+case is due to the fact that both logic programming and datalog restrict
+to binary predicates: this means that RDF (without the ordering structures)
+is already directly mappable, via Metalog, into a logic program. Therefore,
+just relatively small syntactical constraints enables a metalog language
+program (and so, logic formula) to be ultimately processed in an effective
+way using an already existing &nbsp;logic programming or datalog inference
+engine. This is indeed what we are currently doing with our current prototype:
+interfacing with existing logic programming/datalog systems (like, for example
+, [8]).
+<P>
+The way Metalog deals with such syntactic restrictions is twofold. The first
+is liberal: it is up to the implementation to check whether the metalog language
+code does actually satisfy the corresponding restrictions such to be interpreted
+as a logic program, or as a datalog program. This is consistent with the
+general philosophy of Metalog as being a <I>purely declarative </I>and
+<I>highly expressive</I> language. The second way is to actually annotate
+the metalog language code with a <I>restriction tag</I>: a restriction tag
+is a metalog sentence expressing the fact that the code indeed satisfies
+the appropriate syntactic restrictions. So far, there are two restriction
+tags, one for logic programming and the other for datalog. It is important
+to note that these restriction tags are just <I>annotations</I>, that is
+to say they are in all equivalent to comments, but for the fact that they
+provide a hint to an eventual application that tries to process the metalog
+code, that some particular inference engine (for logic programs, datalog
+programs, etc) could be profitably used. It is <I>semantically transparent</I>,
+since there is no actual representation of a restriction tag in the metalog
+model layer.
+<H3>
+  A more detailed example
+</H3>
+<P>
+Suppose we want to encode the rule that if a person is the author of a document
+in some language (for example, English), then he can speak in that language.
+The corresponding metalog program would be:
+<P>
+<TT>if the "language" of a DOCUMENT is Y <BR>
+and the "author" of the DOCUMENT is X <BR>
+then X can "speak" Y.</TT>
+<P>
+This can be translated into the following piece of XML/RDF syntax:
+<P>
+<TT>&lt;implies&gt;<BR>
+&nbsp; &lt;rdf:Seq&gt;<BR>
+&nbsp; &nbsp; &lt;rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &lt;and&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &lt;rdf:Seq&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;Predicate
+name="language"&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;rdf: seq&gt; <BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&lt;rdf:li&gt;&lt;Variable&gt;DOCUMENT&lt;/Variable&gt;&lt;/rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&lt;rdf:li&gt;&lt;Variable&gt;Y&lt;/Variable&gt;&lt;/rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/rdf:seq&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/Predicate&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;Predicate
+name="author"&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;rdf: seq&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&lt;rdf:li&gt;&lt;Variable&gt;DOCUMENT&lt;/Variable&gt;&lt;/rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&lt;rdf:li&gt;&lt;Variable&gt;X&lt;/Variable&gt;&lt;/rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+&nbsp;&lt;/rdf:seq&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/Predicate&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &lt;/rdf:Seq&gt;<BR>
+&nbsp; &nbsp; &nbsp; &lt;/and&gt;<BR>
+&nbsp; &nbsp; &lt;/rdf:li&gt;<BR>
+&nbsp; &nbsp; &lt;rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &lt;Predicate name="speak"&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &lt;rdf: seq&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&lt;rdf:li&gt;&lt;Variable&gt;X&lt;/Variable&gt;&lt;/rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&lt;rdf:li&gt;&lt;Variable&gt;Y&lt;/Variable&gt;&lt;/rdf:li&gt;<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &lt;/rdf:seq&gt;<BR>
+&nbsp; &nbsp; &nbsp; &lt;/Predicate&gt;<BR>
+&nbsp; &nbsp; &lt;/rdf:li&gt;<BR>
+&nbsp; &lt;/rdf:Seq&gt;<BR>
+&lt;/implies&gt;</TT>
+<P>
+And, finally, this corresponds to the logical formula
+<P>
+<I>speak(X,Y) &lt;= (author(DOCUMENT,X) and language(DOCUMENT,Y))</I>
+<P>
+This formula is just a Horn clause, and as such it means it can be viewed
+as a logic program.
+<P>
+So, suppose we have already grabbed from somewhere in the Web some pieces
+of RDF that tell us, for example, that "John" is the author of "technical
+report 231", and that the language of "technical report 231" is "English".
+This, again, can be viewed as part of a logic program (technically, they
+are <I>facts</I>).<BR>
+Then, if we want to know what language does John speak, we can just ask
+<P>
+<TT>what "language" does "John" "speak"?</TT>
+<P>
+which is translated into the corresponding query
+<P>
+<I>speak("John",Y).</I>
+<P>
+Running this query in the corresponding logic program gives the result that
+<I>Y="English"</I>, that is to say, the predicate
+<I>speak("John","English")</I> is true.<BR>
+Hence, the corresponding metalog sentence, returned as answer, is:
+<P>
+<TT>"John" "speaks" "English"</TT>
+<H3>
+  More Applications
+</H3>
+<P>
+The more ambitious project that we are tackling right now using Metalog is
+the complete management of the W3C web site. W3C is a complex organization,
+and its web site is the big white board on which information is shared and
+processed. Thousands of people every day look for related information, and
+produce new information on the W3C site. All this information is stored like
+the state of the art allows: part is stored in separate databases files,
+and the vast majority just resides in static web pages. Therefore, to access
+and manipulate the information, one has to either go and perform a manual
+search, or resort on primitive tools like the local Altavista-based search
+engine. The "next-generation" W3C site, instead, will hopefully be based
+on the Metalog infrastructure. As much as possible of the data will b

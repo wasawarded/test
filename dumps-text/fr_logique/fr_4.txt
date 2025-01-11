@@ -1,0 +1,262 @@
+   #ConcepToit » Flux ConcepToit » Flux des commentaires JSON oEmbed
+   (JSON) oEmbed (XML)
+
+   Aller au contenu
+
+   ConcepToit
+
+   (BUTTON) Menu
+     * êTre Humain
+          + Anatomie
+          + Être humain
+          + Psychologie
+          + Santé
+          + Valeurs
+     * Sciences Naturelles
+          + Astronomie
+          + Chimie
+          + Écologie
+          + géologie
+          + la biologie
+          + Les animaux
+          + Math
+          + Physique
+          + Sciences naturelles
+     * Sciences Sociales
+          + Démographie
+          + Droit
+          + Géographie
+          + Histoire
+          + Philosophie
+          + Reliefs et écosystèmes
+          + Sciences sociales
+     * SociéTé
+          + Art
+          + Connaissances
+          + Culture
+          + Culture et société
+          + Economie et Finances
+          + L’informatique
+          + La technologie
+          + Société
+          + Sociétés et commerces
+          + sport
+
+Logique
+
+   [INS: :INS]
+
+   Nous expliquons ce qu’est la logique et les caractéristiques de la
+   logique philosophique, aristotélicienne, mathématique, informatique,
+   formelle et informelle.
+   [logique.jpg] La logique est utilisée dans des processus variés tels
+   que la démonstration, l’inférence ou la déduction.
+
+Qu’est-ce que la logique ?
+
+   La logique est une science formelle , qui fait partie de la philosophie
+   et des mathématiques . Il se concentre sur l’étude des procédures de
+   pensée valides et invalides , c’est-à-dire des processus tels que la
+   démonstration, l’inférence ou la déduction, ainsi que des concepts tels
+   que les erreurs, les paradoxes et la vérité .
+
+   La logique est une discipline extrêmement ancienne , née indépendamment
+   chez les penseurs des grandes civilisations classiques et antiques ,
+   comme la Chine, la Grèce ou l’Inde. Dès son origine, il a été compris
+   comme une manière de juger la pensée pour en vérifier la validité
+   formelle, c’est-à-dire pour reconnaître quelle est la procédure de
+   raisonnement idéale , celle qui conduit réellement à la vérité.
+
+   Cependant, à partir du XXe siècle, il a été considéré comme un domaine
+   plus proche des mathématiques, car les applications de ces dernières
+   ont acquis une grande importance industrielle, sociale et
+   technologique.
+
+   Le mot « logique » a son origine dans le mot grec logiké (« doué de
+   raison »), venant du terme logos , équivalent à « parole » ou
+   « pensée ».
+
+   Cependant, dans le langage courant, nous utilisons ce mot comme
+   synonyme de « sens commun » , c’est-à-dire une façon de penser valable
+   ou valorisée, dans leurs contextes possibles respectifs . Il est
+   également utilisé comme synonyme de « façon de penser », comme
+   lorsqu’il se réfère à la « logique sportive », à la « logique
+   militaire », etc.
+
+   Voir aussi: Pensée mathématique
+
+logique philosophique
+
+   Avec ce terme, on appelle les domaines de la philosophie dans lesquels
+   les méthodes de la logique sont utilisées pour résoudre ou faire
+   avancer certains dilemmes philosophiques, et peuvent être traitées dans
+   ce qui est considéré comme une logique traditionnelle ou, au contraire,
+   une logique non classique. C’est-à-dire la logique dans le cadre de la
+   philosophie.
+
+   C’est une discipline très proche de la philosophie du langage , et
+   s’inscrit essentiellement dans la continuité de la logique de
+   l’Antiquité, centrée sur la pensée et le langage naturel . Nous
+   utilisons couramment ce nom pour le distinguer de la logique
+   mathématique plus récente.
+
+logique aristotélicienne
+
+   Au sein de la logique philosophique, la logique aristotélicienne est
+   connue comme la tradition de pensée qui commence avec les travaux du
+   philosophe grec Aristote de Stagire (384-322 av. J.-C.), considéré
+   comme le fondateur occidental de la logique et l’une des parties les
+   plus importantes de la tradition philosophique mondiale. .
+
+   Les principaux travaux d’Aristote sur la logique sont rassemblés dans
+   son Órganon (grec pour «instrument»), compilé par Andronicus de Rhodes
+   plusieurs siècles après leur écriture. Ils déploient tout un système
+   logique qui a été extrêmement influent en Europe et au Moyen-Orient
+   jusqu’après le Moyen Âge .
+
+   Dans cet ouvrage, en outre, Aristote a postulé les axiomes fondamentaux
+   de la logique :
+     * Le principe de non-contradiction. Selon laquelle quelque chose ne
+       peut pas être et ne pas être en même temps (A et ¬A ne peuvent pas
+       être vrais en même temps).
+     * Le principe d’identité. Selon laquelle quelque chose est toujours
+       identique à lui-même (A est toujours égal à A).
+     * Le principe du tiers exclu. Selon quoi quelque chose est ou n’est
+       pas vrai, sans gradations possibles (A ou alors ¬A).
+
+Logique mathématique
+
+   La logique mathématique, également appelée logique symbolique, logique
+   formelle, logique théorique ou logistique, est connue comme l’
+   application de la pensée logique à certains domaines des mathématiques
+   et des sciences .
+
+   Cela implique l’étude du processus d’inférence, à travers des systèmes
+   de représentation formels, tels que la logique propositionnelle, la
+   logique modale ou la logique du premier ordre, qui permettent de
+   « traduire » le langage naturel en langage mathématique afin de
+   développer des preuves rigoureuses.
+
+   La logique mathématique couvre quatre grands domaines, qui sont :
+     * Théorie des modèles. Celle-ci propose l’étude des théories
+       axiomatiques et de la logique mathématique à travers des structures
+       mathématiques appelées groupes, champs ou graphes, attribuant ainsi
+       un contenu sémantique aux constructions purement formelles de la
+       logique.
+     * Théorie de la preuve. Aussi appelée théorie de la preuve, elle
+       propose des preuves utilisant des objets mathématiques et des
+       techniques mathématiques comme moyen de vérifier des problèmes
+       logiques. Ainsi, là où la théorie des modèles s’occupe de donner
+       une sémantique (un sens) aux structures formelles de la logique, la
+       théorie de la preuve s’occupe plutôt de leur syntaxe (leur ordre).
+     * Théorie des ensembles . Axé sur l’étude de collections abstraites
+       d’objets, compris en eux-mêmes comme des objets, ainsi que sur
+       leurs opérations de base et leurs interrelations. Cette branche de
+       la logique mathématique est l’une des plus fondamentales qui
+       existent, à tel point qu’elle constitue un outil de base de toute
+       théorie mathématique.
+     * Théorie de la calculabilité. Domaine partagé entre les
+       mathématiques et le calcul ou l’informatique , il étudie les
+       problèmes de décision auxquels un algorithme (équivalent à une
+       machine de Turing) peut être confronté. Pour cela, il utilise la
+       théorie des ensembles, en les comprenant comme des ensembles
+       calculables ou non calculables.
+
+logique de calcul
+
+   [logique-2.jpg] La logique computationnelle crée des systèmes
+   informatiques intelligents.
+
+   La logique computationnelle est la même logique mathématique mais
+   appliquée au domaine de l’informatique , c’est-à-dire à différents
+   niveaux fondamentaux de l’informatique : circuits de calcul,
+   programmation logique et gestion des algorithmes. L’intelligence
+   artificielle en fait également partie , un domaine relativement récent
+   dans le domaine.
+
+   On pourrait dire que, d’une manière générale, la logique
+   computationnelle aspire à alimenter un système informatique à travers
+   des structures logiques qui expriment, en langage mathématique, les
+   différentes possibilités de la pensée humaine, créant ainsi des
+   systèmes informatiques intelligents.
+
+Logique formelle et informelle
+
+   Il fait aussi souvent la distinction entre deux champs distincts de la
+   logique : formel et informel, de par son approche du langage dans
+   lequel les énoncés sont exprimés.
+     * logique formelle. C’est celui qui s’occupe du langage formel,
+       c’est-à-dire de la manière d’exprimer son contenu, en l’utilisant
+       strictement, sans ambiguïté, de manière à ce que la voie déductive
+       puisse être analysée à partir de la validité de ses formes (d’où
+       son nom ). ).
+     * logique informelle. Au lieu de cela, il étudie ses arguments a
+       posteriori, en distinguant les formes valides et invalides en
+       fonction des informations fournies, quelle que soit leur forme
+       logique ou leur langage formel. Cette variante a émergé au milieu
+       du XXe siècle en tant que discipline au sein de la philosophie.
+
+   Continuer avec : Épistémologie
+
+Articles relatifs:
+
+     * paradoja-arbol-desierto-e1559862074728 Paradoxe
+     * ramas-de-la-filosofia-disciplinas-filosoficas-e1570622991302
+       Disciplines Philosophiques
+     * conocimiento-filosofico-platon-e1566159684245 Connaissances
+       Philosophiques
+     * informatica-1-e1590711788135 L'Informatique
+     * ciencia-antigua-e1545498857181 Sciences Anciennes
+     * ciencia La Science
+     * inferencia-e1612821373988 InféRence
+     * experimentacion-cientifica1-e1537979540123 ExpéRimentation
+       Scientifique
+
+   Rechercher
+   ____________________ (BUTTON) Rechercher
+   [INS: :INS]
+
+   Conceptoit.net
+
+   [INS: :INS]
+
+   Gérer le consentement aux cookies
+   Nous utilisons nos propres cookies pour le bon fonctionnement de notre
+   site web, des cookies Google Analytics à des fins statistiques et des
+   cookies publicitaires Google Adsense pour afficher des publicités
+   personnalisées basées sur votre profil anonyme. Pour plus
+   d'informations, vous pouvez consulter la liste des fournisseurs
+   d'annonces avec lesquels nous travaillons ainsi que la politique de
+   confidentialité de Google. Vous pouvez accepter ou gérer vos paramètres
+   de cookies en cliquant sur "Configurer".
+   Fonctionnel [ ] Fonctionnel Toujours activé
+   Le stockage ou l’accès technique est strictement nécessaire dans la
+   finalité d’intérêt légitime de permettre l’utilisation d’un service
+   spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans
+   le seul but d’effectuer la transmission d’une communication sur un
+   réseau de communications électroniques.
+   Préférences [ ] Préférences
+   Le stockage ou l’accès technique est nécessaire dans la finalité
+   d’intérêt légitime de stocker des préférences qui ne sont pas demandées
+   par l’abonné ou la personne utilisant le service.
+   Statistiques [ ] Statistiques
+   Le stockage ou l’accès technique qui est utilisé exclusivement à des
+   fins statistiques. Le stockage ou l’accès technique qui est utilisé
+   exclusivement dans des finalités statistiques anonymes. En l’absence
+   d’une assignation à comparaître, d’une conformité volontaire de la part
+   de votre fournisseur d’accès à internet ou d’enregistrements
+   supplémentaires provenant d’une tierce partie, les informations
+   stockées ou extraites à cette seule fin ne peuvent généralement pas
+   être utilisées pour vous identifier.
+   Marketing [ ] Marketing
+   Le stockage ou l’accès technique est nécessaire pour créer des profils
+   d’utilisateurs afin d’envoyer des publicités, ou pour suivre
+   l’utilisateur sur un site web ou sur plusieurs sites web ayant des
+   finalités marketing similaires.
+   Gérer les options Gérer les services Gérer {vendor_count} fournisseurs
+   En savoir plus sur ces finalités
+   (BUTTON) Accepter (BUTTON) Refuser (BUTTON) Voir les préférences
+   (BUTTON) Enregistrer les préférences Voir les préférences
+   {title} {title} {title}
+
+   (BUTTON) Gérer le consentement

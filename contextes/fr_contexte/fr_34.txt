@@ -1,0 +1,5 @@
+   La régulation des usages d’une plate-forme peut se faire par contrat,
+   avec par exemple des éditeurs qui “décident de limiter le nombre de
+   mots-clés” possibles pour explorer la base de données selon une logique
+   de TDM (text and data mining), poursuit Alain Bensoussan. “L’ensemble
+   des requêtes leur appartient donc, et l’ensemble des informations

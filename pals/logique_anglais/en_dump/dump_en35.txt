@@ -1,0 +1,333 @@
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-PWWZSH
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-MKCV6V9
+
+   (BUTTON) Search App Architecture (BUTTON) Search the TechTarget Network
+   ____________________ (BUTTON)
+   Login Register
+   Explore the Network
+     * TechTarget Network
+     * Software Quality
+     * Cloud Computing
+     * TheServerSide
+
+     * Search App Architecture
+     *
+          + API Management
+          + App Development & Design
+          + App Management Tools
+          + Architecture Management
+          + EAI
+       Other Content
+          + News
+          + Features
+          + Tips
+          + Webinars
+          + 2024 IT Salary Survey Results
+          + Sponsored Sites
+          + More
+               o Answers
+               o Conference Guides
+               o Definitions
+               o Opinions
+               o Podcasts
+               o Quizzes
+               o Tech Accelerators
+               o Tutorials
+               o Videos
+
+     * Follow:
+     *
+     *
+     *
+     *
+
+     * Home
+     * Application development and design
+
+   Definition
+
+WebLogic
+
+     * Share this item with your network:
+     *
+     *
+     *
+     *
+     *
+
+     *
+     *
+     *
+          +
+          +
+          +
+          +
+
+   Peter Loshin
+   By
+     * Peter Loshin, Former Senior Technology Editor
+
+What is Oracle WebLogic Server?
+
+   Oracle WebLogic Server is a leading e-commerce online transaction
+   processing (OLTP) platform, developed to connect users in distributed
+   computing production environments and to facilitate the integration of
+   mainframe applications with distributed corporate data and
+   applications.
+
+   WebLogic is an Application Server that runs on a middle tier, between
+   back-end databases and related applications and browser-based thin
+   clients. WebLogic Server mediates the exchange of requests from the
+   client tier with responses from the back-end tier.
+   Oracle WebLogic Server architecture Oracle WebLogic Server operates as
+   middleware for distributed enterprise applications.
+
+   WebLogic Server is based on Java Platform, Enterprise Edition (Java EE)
+   (formerly known as Java 2 Platform, Enterprise Edition or J2EE), the
+   standard platform used to create Java-based multi-tier enterprise
+   applications. Java EE platform technologies were developed through the
+   efforts of BEA Systems and other vendors in collaboration with the main
+   developer, Sun Microsystems.
+
+   Because Java EE applications are standardized modules, WebLogic can
+   automate many system-level tasks that would otherwise have demanded
+   programming time.
+
+What is WebLogic used for?
+
+   Enterprises use WebLogic Server to develop distributed applications,
+   enabling users to access applications from a client -- web browser,
+   mobile device or any other type of client program or device using a
+   program written in Java or any other language -- and systems on the
+   back end -- databases, enterprise information systems or mainframe
+   applications.
+
+WebLogic features and capabilities
+
+   As one component of Oracle's Fusion middleware platform, WebLogic
+   capabilities include the following:
+     * support for databases including Oracle Database, Oracle MySQL
+       Enterprise, Microsoft SQL Server and IBM DB2;
+     * .NET interoperability;
+     * native integration with other middleware and APIs; and
+     * support for a security model that separates security code from
+       business logic.
+
+   typical middleware architecture Oracle WebLogic Server is a component
+   of Oracle's Fusion middleware platform.
+
+   The main features of WebLogic server include the following:
+     * connectors that make it possible for any legacy application on any
+       client to interoperate with server applications;
+     * Enterprise JavaBean (EJB) components;
+     * resource pooling;
+     * connection sharing enables improved application scalability; and
+     * an administration console with a user interface makes management
+       tasks more efficient and includes features such as:
+          + Secure Sockets Layer (SSL) support for the encryption of data
+            transmissions; and
+          + authentication and Authorization mechanisms to make
+            applications and transactions secure.
+
+WebLogic server architecture
+
+   A WebLogic server installation includes at least one WebLogic server
+   instance but may include multiple server instances on one or more
+   separate computer servers.
+
+   Multiple WebLogic servers are administered together as a unit called a
+   domain. Each WebLogic domain includes a single administration server
+   and may contain additional server instances managed by the
+   administration server. When these managed servers are configured to be
+   part of a WebLogic Server cluster, they enable scaling for
+   high-availability applications.
+
+   WebLogic Server domains can also be deployed on a public cloud, using
+   the Oracle Cloud Infrastructure Container Engine for Kubernetes.
+
+   IFRAME:
+   https://www.youtube.com/embed/fO3vUMc_WbI?autoplay=0&modestbranding=1&r
+   el=0&widget_referrer=https://www.techtarget.com/searchapparchitecture/d
+   efinition/WebLogic&enablejsapi=1&origin=https://www.techtarget.com
+
+How popular is WebLogic?
+
+   WebLogic Server is intended for high-traffic applications, so it is not
+   surprising that it is not used by many sites. According to W3Techs --
+   Word Wide Web Technology Surveys, usage statistics for WebLogic Server
+   indicate it is used by less than 0.1% of all websites running a known
+   web server.
+
+   However, WebLogic Server market share increases for the top-ranking
+   busiest sites. As an integral part of Oracle's application server
+   stack, WebLogic Server does not need to be popular outside of its
+   target market: large enterprises that require highly scalable server
+   environments for OLTP applications.
+
+Oracle WebLogic Server vs. Apache Tomcat
+
+   The Apache Tomcat web server is often compared with WebLogic Server.
+   The Tomcat web server serves static content and dynamic content in web
+   applications delivered in Java servlets and JavaServer Pages.
+
+   The fundamental difference between WebLogic Server and Apache Tomcat is
+   that WebLogic is an application server. That means WebLogic includes
+   components that provide web services as well as a server environment
+   for accessing enterprise data resources like databases and transaction
+   processing.
+   Apache Tomcat vs Oracle WebLogic Server The difference between WebLogic
+   Server and Apache Tomcat is the difference between an application
+   server and a web server.
+
+History of WebLogic
+
+   WebLogic server was the first J2EE application server.
+     * 1995: WebLogic, Inc. founded.
+     * 1997: First release of WebLogic Tengah.
+     * 1998: WebLogic, Inc., acquired by BEA Systems.
+     * 2008: BEA Systems acquired by Oracle.
+     * 2020: WebLogic Server version 14 released.
+
+   WebLogic Server can solve some thorny problems for enterprises that
+   need to tightly integrate their information systems with a scalable
+   OLTP platform. It may be too much for simpler applications; find out if
+   Apache Tomcat server works better for your applications.
+   This was last updated in December 2021
+
+Continue Reading About WebLogic
+
+     * App dev focuses on low-code, Kubernetes development in 2021
+
+     * Kubernetes basics: A step-by-step implementation tutorial
+
+     * Oracle Cloud Infrastructure targets devs and installed base
+
+     * Get to know the core Oracle IaaS offerings
+
+     * Tomcat vs. WebSphere: How these application servers compare
+
+Related Terms
+
+   What is a 3-tier application architecture?
+          A three-tier application architecture is a modular client-server
+          architecture that consists of a presentation tier, an ...
+          See complete definition
+
+   What is an application?
+          An application, also referred to as an application program or
+          application software, is a computer software package that
+          performs ... See complete definition
+
+   What is Mojo programming language and what is it used for?
+          Mojo is a high-performance programming language initially
+          designed to unify and simplify the development of applications
+          across ... See complete definition
+
+Dig Deeper on Application development and design
+
+     *
+
+Tips for migrating to OpenJDK
+     *
+
+embedded Tomcat
+       CameronMcKenzie
+       By: Cameron McKenzie
+     *
+
+Oracle WebLogic users get a bridge to Kubernetes deployment
+       BethPariseau
+       By: Beth Pariseau
+     *
+
+Is Apache Tomcat the right Java application server for you?
+       TimCulverhouse
+       By: Tim Culverhouse
+
+   Sponsored News
+     * The Power of 16th Generation Dell PowerEdge R960 servers with Intel
+       Xeon ... –Dell Technologies and Intel
+     * How advanced AI-powered digital assistants can improve physician
+       documentation –Oracle Healthcare
+     * See More
+
+   Vendor Resources
+     * Replace or Rebuild? A Guide to Maximizing Server Value –Dell EMC
+       and Microsoft
+     * A Computer Weekly buyer's guide to application modernisation
+       –TechTarget ComputerWeekly.com
+
+   Latest TechTarget resources
+     * Software Quality
+     * Cloud Computing
+     * Java
+
+   Search Software Quality
+     * 13 must-know Markdown tips and tricks
+       Use these tips to improve your Markdown-based documentation,
+       streamline your approach and structure your documents.
+     * Professional Scrum Developer exam questions and answers
+       Professional Scrum Developer is a highly respected certification,
+       but it's not easy to get. Take this sample PSD exam to test ...
+     * How to choose the best Markdown editor for your use case
+       A dedicated authoring tool helps writers take full advantage of
+       Markdown. Find one that supports your development projects, ...
+
+   Search Cloud Computing
+     * How to launch an Amazon EC2 Mac instance
+       Amazon EC2 Mac instances empower macOS and iOS developers with
+       essential capabilities for app development, testing and
+       deployment...
+     * Top public cloud service providers of 2025: How they compare
+       As the market share gap tightens among AWS, Microsoft and Google,
+       see how their features and offerings stack up against each ...
+     * The future of hybrid cloud: What to expect in 2025 and beyond
+       For companies modernizing their business operations, hybrid cloud's
+       embrace of AI, edge computing and integration promises unique...
+
+   TheServerSide.com
+     * Stubs vs. mocks in software testing
+       Running a software test and need to simulate a function or object?
+       Here's how to choose between two common options, stubs vs. ...
+     * A JavaScript functional programming basic tutorial
+       JavaScript's versatility makes it useful for webpages and web
+       servers, but also functional programming. This tutorial shows how
+       ...
+     * Why Agile estimation and planning never works
+       Modern application development can defy traditional project
+       planning and delivery. Here's how to incorporate more flexibility
+       ...
+
+     * About Us
+     * Editorial Ethics Policy
+     * Meet The Editors
+     * Contact Us
+     * Advertisers
+     * Partner with Us
+     * Media Kit
+     * Corporate Site
+
+     * Contributors
+     * Reprints
+     * Answers
+     * Definitions
+     * E-Products
+     * Events
+     * Features
+
+     * Guides
+     * Opinions
+     * Photo Stories
+     * Quizzes
+     * Tips
+     * Tutorials
+     * Videos
+
+   All Rights Reserved, Copyright 2019 - 2025, TechTarget
+   Privacy Policy
+   Cookie Preferences
+   Cookie Preferences
+   Do Not Sell or Share My Personal Information
+
+   Close

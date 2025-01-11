@@ -1,0 +1,91 @@
+DSHARP: Fast d-DNNF Compilation with sharpSAT
+(Amended Version)
+
+Description
+
+   As a submission to the Beyond NP workshop at AAAI 2016, we amended the
+   2012 Canadian AI paper that describes DSHARP [1]. Unfortunately, due to
+   copyright regulations with the publisher Springer, this submission can
+   not be distributed publicly. However, the additional text is reproduced
+   below, and a slightly extended version of the original Canadian AI
+   paper submitted at a prior workshop can be found here.
+
+Related Work
+
+   Relying on the trace of a complete DPLL based solver is the prevailing
+   technique for CNF → d-DNNF compilers, used by both DSHARP and C2D [2].
+   The DPLL trace has been leveraged for proving bounds on model counting,
+   such as the work of Beame et al. [3]. It has also been used to good
+   effect for proving theoretical results about the worst-case size
+   complexity of the d-DNNF representation [4].
+
+   Knowledge compilers (including the DSHARP software presented in this
+   paper) have played a role as subcomponents in larger systems. One
+   example is in the SAT-based analysis of quantification information flow
+   programs, where efficient methods for conditioned model counting using
+   d-DNNF were exploited [5]. Another example is the Probabilistic Logic
+   Programming framework, ProbLog [6]. Here, the model counters were used
+   to provide probabilistic inference for targeted queries compiled from a
+   given logic program.
+
+   Finally, since the original publication of this work in 2012 by Muise
+   et al., the DSHARP software has been extended in a variety of ways.
+   Most notably, the software has been extended to do model counting with
+   the assumption of stable model semantics [7], as well as extended to do
+   projected model counting and projected knowledge compilation [8].
+
+   For stable model counting, every model represented by the compiled
+   theory must be stable: a notion in logic programming that stipulates
+   that the truth of atoms cannot be self supporting given the logic
+   program’s rules [9]. To accommodate for stable models, DSHARP was
+   modified to include an internal propagator that rules out any model
+   deemed not stable. Subsequently, clauses are learned to rule out the
+   unstable models and the final compiled d-DNNF theory represents all
+   stable models.
+
+   The problem of projected model counting (respectively projected
+   knowledge compilation) is to count the number of models (resp. produce
+   the d-DNNF) for the Boolean theory after projecting away a subset of
+   the variables. Intuitively, a model for the projected theory exists if
+   the same setting of variables corresponds to at least one model of the
+   full theory. DSHARP was modified in a variety of ways to achieve
+   projected model counting and knowledge compilation. These included (1)
+   dedicated variable ordering heuristics to focus on the projected
+   variables; (2) advanced back-tracking to avoid recomputing the same
+   projected model; and (3) a re-determinization method to convert a DNNF
+   theory back into d-DNNF.
+    1. Muise, C.; Mcilraith, S. A.; Beck; Christopher, J.; and Hsu, E.
+       2012. DSHARP: Fast d-DNNF Compilation with sharpSAT. In Canadian
+       Conference on Artificial Intelligence.
+    2. Darwiche, A. 2004. New advances in compiling CNF to decomposable
+       negational normal form. In Proceedings of European Conference on
+       Artificial Intelligence.
+    3. Beame, P.; Li, J.; Roy, S.; and Suciu, D. 2013. Lower bounds for
+       exact model counting and applications in probabilistic databases.
+       In Proceedings of the Twenty-Ninth Conference on Uncertainty in
+       Artificial Intelligence, UAI 2013, Bellevue, WA, USA, August 11-15,
+       2013.
+    4. Oztok, U., and Darwiche, A. 2014. On compiling CNF into
+       decision-dnnf. In Principles and Practice of Constraint Programming
+       - 20th International Conference, CP 2014, Lyon, France, September
+       8-12, 2014. Proceedings, 42–57.
+    5. Klebanov, V.; Manthey, N.; and Muise, C. 2013. SAT-based Analysis
+       and Quantification of Information Flow in Programs. In 10th
+       International Conference on Quantitative Evaluation of SysTems
+       (QEST 2013), 177–192.
+    6. Fierens, D.; den Broeck, G. V.; Renkens, J.; Shterionov, D. S.;
+       Gutmann, B.; Thon, I.; Janssens, G.; and Raedt, L. D. 2015.
+       Inference and learning in probabilistic logic programs using
+       15(3):358–401.
+    7. Aziz, R. A.; Chu, G.; Muise, C.; and Stuckey, P. 2015. Stable model
+       counting and its application in probabilistic logic programming. In
+       The 29th AAAI Conference on Artificial Intelligence.
+    8. Aziz, R. A.; Chu, G.; Muise, C.; and Stuckey, P. 2015. Projected
+       model counting. In International Conference on Theory and
+       Applications of Satisfiability Testing.
+    9. Gelfond, M., and Lifschitz, V. 1988. The stable model semantics for
+       logic programming. In Logic Programming, Proceedings of the Fifth
+       International Conference and Symposium, Seattle, Washington, August
+       15-19, 1988 (2 Volumes), 1070–1080.
+
+   © 2017 Dr. Christian Muise

@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar" prefix="og: https://ogp.me/ns#" class="no-js">
+<head><meta charset="UTF-8"><script type="70e18340d61cb720140f59de-text/javascript">if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script type="70e18340d61cb720140f59de-text/javascript">(()=>{class RocketLazyLoadScripts{constructor(){this.v="1.2.5.1",this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this.t.bind(this),this.touchStartHandler=this.i.bind(this),this.touchMoveHandler=this.o.bind(this),this.touchEndHandler=this.h.bind(this),this.clickHandler=this.u.bind(this),this.interceptedClicks=[],this.interceptedClickListeners=[],this.l(this),window.addEventListener("pageshow",(t=>{this.persisted=t.persisted,this.everythingLoaded&&this.m()})),document.addEventListener("DOMContentLoaded",(()=>{this.p()})),this.delayedScripts={normal:[],async:[],defer:[]},this.trash=[],this.allJQueries=[]}k(t){document.hidden?t.t():(this.triggerEvents.forEach((e=>window.addEventListener(e,t.userEventHandler,{passive:!0}))),window.addEventListener("touchstart",t.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",t.touchStartHandler),document.addEventListener("visibilitychange",t.userEventHandler))}_(){this.triggerEvents.forEach((t=>window.removeEventListener(t,this.userEventHandler,{passive:!0}))),document.removeEventListener("visibilitychange",this.userEventHandler)}i(t){"HTML"!==t.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),t.target.addEventListener("click",this.clickHandler),this.L(t.target,!0),this.M(t.target,"onclick","rocket-onclick"),this.C())}o(t){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),t.target.removeEventListener("click",this.clickHandler),this.L(t.target,!1),this.M(t.target,"rocket-onclick","onclick"),this.O()}h(){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}u(t){t.target.removeEventListener("click",this.clickHandler),this.L(t.target,!1),this.M(t.target,"rocket-onclick","onclick"),this.interceptedClicks.push(t),t.preventDefault(),t.stopPropagation(),t.stopImmediatePropagation(),this.O()}D(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach((t=>{t.target.dispatchEvent(new MouseEvent("click",{view:t.view,bubbles:!0,cancelable:!0}))}))}l(t){EventTarget.prototype.addEventListenerBase=EventTarget.prototype.addEventListener,EventTarget.prototype.addEventListener=function(e,i,o){"click"!==e||t.windowLoaded||i===t.clickHandler||t.interceptedClickListeners.push({target:this,func:i,options:o}),(this||window).addEventListenerBase(e,i,o)}}L(t,e){this.interceptedClickListeners.forEach((i=>{i.target===t&&(e?t.removeEventListener("click",i.func,i.options):t.addEventListener("click",i.func,i.options))})),t.parentNode!==document.documentElement&&this.L(t.parentNode,e)}S(){return new Promise((t=>{this.T?this.O=t:t()}))}C(){this.T=!0}O(){this.T=!1}M(t,e,i){t.hasAttribute&&t.hasAttribute(e)&&(event.target.setAttribute(i,event.target.getAttribute(e)),event.target.removeAttribute(e))}t(){this._(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this.R.bind(this)):this.R()}p(){let t=[];document.querySelectorAll("script[type=rocketlazyloadscript][data-rocket-src]").forEach((e=>{let i=e.getAttribute("data-rocket-src");if(i&&0!==i.indexOf("data:")){0===i.indexOf("//")&&(i=location.protocol+i);try{const o=new URL(i).origin;o!==location.origin&&t.push({src:o,crossOrigin:e.crossOrigin||"module"===e.getAttribute("data-rocket-type")})}catch(t){}}})),t=[...new Map(t.map((t=>[JSON.stringify(t),t]))).values()],this.j(t,"preconnect")}async R(){this.lastBreath=Date.now(),this.P(this),this.F(this),this.q(),this.A(),this.I(),await this.U(this.delayedScripts.normal),await this.U(this.delayedScripts.defer),await this.U(this.delayedScripts.async);try{await this.W(),await this.H(this),await this.J()}catch(t){console.error(t)}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this.everythingLoaded=!0,this.S().then((()=>{this.D()})),this.N()}A(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((t=>{t.hasAttribute("data-rocket-src")?t.hasAttribute("async")&&!1!==t.async?this.delayedScripts.async.push(t):t.hasAttribute("defer")&&!1!==t.defer||"module"===t.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(t):this.delayedScripts.normal.push(t):this.delayedScripts.normal.push(t)}))}async B(t){if(await this.G(),!0!==t.noModule||!("noModule"in HTMLScriptElement.prototype))return new Promise((e=>{let i;function o(){(i||t).setAttribute("data-rocket-status","executed"),e()}try{if(navigator.userAgent.indexOf("Firefox/")>0||""===navigator.vendor)i=document.createElement("script"),[...t.attributes].forEach((t=>{let e=t.nodeName;"type"!==e&&("data-rocket-type"===e&&(e="type"),"data-rocket-src"===e&&(e="src"),i.setAttribute(e,t.nodeValue))})),t.text&&(i.text=t.text),i.hasAttribute("src")?(i.addEventListener("load",o),i.addEventListener("error",(function(){i.setAttribute("data-rocket-status","failed"),e()})),setTimeout((()=>{i.isConnected||e()}),1)):(i.text=t.text,o()),t.parentNode.replaceChild(i,t);else{const i=t.getAttribute("data-rocket-type"),n=t.getAttribute("data-rocket-src");i?(t.type=i,t.removeAttribute("data-rocket-type")):t.removeAttribute("type"),t.addEventListener("load",o),t.addEventListener("error",(function(){t.setAttribute("data-rocket-status","failed"),e()})),n?(t.removeAttribute("data-rocket-src"),t.src=n):t.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(t.text)))}}catch(i){t.setAttribute("data-rocket-status","failed"),e()}}));t.setAttribute("data-rocket-status","skipped")}async U(t){const e=t.shift();return e&&e.isConnected?(await this.B(e),this.U(t)):Promise.resolve()}I(){this.j([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}j(t,e){var i=document.createDocumentFragment();t.forEach((t=>{const o=t.getAttribute&&t.getAttribute("data-rocket-src")||t.src;if(o){const n=document.createElement("link");n.href=o,n.rel=e,"preconnect"!==e&&(n.as="script"),t.getAttribute&&"module"===t.getAttribute("data-rocket-type")&&(n.crossOrigin=!0),t.crossOrigin&&(n.crossOrigin=t.crossOrigin),t.integrity&&(n.integrity=t.integrity),i.appendChild(n),this.trash.push(n)}})),document.head.appendChild(i)}P(t){let e={};function i(i,o){return e[o].eventsToRewrite.indexOf(i)>=0&&!t.everythingLoaded?"rocket-"+i:i}function o(t,o){!function(t){e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=i(arguments[0],t),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=i(arguments[0],t),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(o)}function n(e,i){let o=e[i];e[i]=null,Object.defineProperty(e,i,{get:()=>o||function(){},set(n){t.everythingLoaded?o=n:e["rocket"+i]=o=n}})}o(document,"DOMContentLoaded"),o(window,"DOMContentLoaded"),o(window,"load"),o(window,"pageshow"),o(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}F(t){let e;function i(e){return t.everythingLoaded?e:e.split(" ").map((t=>"load"===t||0===t.indexOf("load.")?"rocket-jquery-load":t)).join(" ")}function o(o){if(o&&o.fn&&!t.allJQueries.includes(o)){o.fn.ready=o.fn.init.prototype.ready=function(e){return t.domReadyFired?e.bind(document)(o):document.addEventListener("rocket-DOMContentLoaded",(()=>e.bind(document)(o))),o([])};const e=o.fn.on;o.fn.on=o.fn.init.prototype.on=function(){return this[0]===window&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=i(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{const e=arguments[0][t];delete arguments[0][t],arguments[0][i(t)]=e}))),e.apply(this,arguments),this},t.allJQueries.push(o)}e=o}o(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>e,set(t){o(t)}})}async H(t){const e=document.querySelector("script[data-webpack]");e&&(await async function(){return new Promise((t=>{e.addEventListener("load",t),e.addEventListener("error",t)}))}(),await t.K(),await t.H(t))}async W(){this.domReadyFired=!0,await this.G(),document.dispatchEvent(new Event("rocket-readystatechange")),await this.G(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.G(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this.G(),window.dispatchEvent(new Event("rocket-DOMContentLoaded"))}async J(){await this.G(),document.dispatchEvent(new Event("rocket-readystatechange")),await this.G(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.G(),window.dispatchEvent(new Event("rocket-load")),await this.G(),window.rocketonload&&window.rocketonload(),await this.G(),this.allJQueries.forEach((t=>t(window).trigger("rocket-jquery-load"))),await this.G();const t=new Event("rocket-pageshow");t.persisted=this.persisted,window.dispatchEvent(t),await this.G(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted}),this.windowLoaded=!0}m(){document.onreadystatechange&&document.onreadystatechange(),window.onload&&window.onload(),window.onpageshow&&window.onpageshow({persisted:this.persisted})}q(){const t=new Map;document.write=document.writeln=function(e){const i=document.currentScript;i||console.error("WPRocket unable to document.write this: "+e);const o=document.createRange(),n=i.parentElement;let s=t.get(i);void 0===s&&(s=i.nextSibling,t.set(i,s));const c=document.createDocumentFragment();o.setStart(c,0),c.appendChild(o.createContextualFragment(e)),n.insertBefore(c,s)}}async G(){Date.now()-this.lastBreath>45&&(await this.K(),this.lastBreath=Date.now())}async K(){return document.hidden?new Promise((t=>setTimeout(t))):new Promise((t=>requestAnimationFrame(t)))}N(){this.trash.forEach((t=>t.remove()))}static run(){const t=new RocketLazyLoadScripts;t.k(t)}}RocketLazyLoadScripts.run()})();</script>
+	
+	<meta name="viewport" content="width=device-width">
+	<title>بحث عن المنطق وأهميته وأنواعه - موسوعة</title>
+
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" href="https://www.mosoah.com/wp-content/themes/mosoah2023/img/favicon.png?v=2" type="image/x-icon" />
+	<!-- <link rel="stylesheet" href="https://www.adintop.com/sticky_assets/mosoah.css"> -->
+	<!-- <script type="rocketlazyloadscript" data-rocket-src="https://code.jquery.com/jquery-2.2.0.min.js" data-rocket-type="text/javascript"></script> -->
+
+
+
+    <link data-minify="1" rel="stylesheet" href="https://www.mosoah.com/wp-content/cache/min/1/wp-content/themes/mosoah2023/style.css?ver=1689805933" />
+
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	<![endif]-->
+	<!--
+	<script type="rocketlazyloadscript" data-rocket-src="http://code.jquery.com/jquery-1.9.1.min.js"></script>-->
+	
+	
+<!-- Search Engine Optimization by Rank Math PRO - https://s.rankmath.com/home -->
+<meta name="description" content="يُعد أرسطو هو أول من أطلق مجموعة عن الأبحاث في علم المنطق والتي سُميت أورغانون، فيما اعتمد في منطقة على الاستدلال، ولكن سرعان ما تبدل مفهوم هذا العلم من وجهة"/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://www.mosoah.com/people-and-society/philosophy/%d8%a8%d8%ad%d8%ab-%d8%b9%d9%86-%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82/" />
+<meta property="og:locale" content="ar_AR" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="بحث عن المنطق وأهميته وأنواعه - موسوعة" />
+<meta property="og:description" content="يُعد أرسطو هو أول من أطلق مجموعة عن الأبحاث في علم المنطق والتي سُميت أورغانون، فيما اعتمد في منطقة على الاستدلال، ولكن سرعان ما تبدل مفهوم هذا العلم من وجهة" />
+<meta property="og:url" content="https://www.mosoah.com/people-and-society/philosophy/%d8%a8%d8%ad%d8%ab-%d8%b9%d9%86-%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82/" />
+<meta property="og:site_name" content="موسوعة" />
+<meta property="article:section" content="الفلسفة" />
+<meta property="og:updated_time" content="2019-09-14T11:52:12+03:00" />
+<meta property="og:image" content="https://www.mosoah.com/wp-content/uploads/2019/09/بحث-عن-المنطق.png" />
+<meta property="og:image:secure_url" content="https://www.mosoah.com/wp-content/uploads/2019/09/بحث-عن-المنطق.png" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="800" />
+<meta property="og:image:alt" content="بحث عن المنطق" />
+<meta property="og:image:type" content="image/png" />
+<meta property="article:published_time" content="2019-09-14T11:51:24+03:00" />
+<meta property="article:modified_time" content="2019-09-14T11:52:12+03:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="بحث عن المنطق وأهميته وأنواعه - موسوعة" />
+<meta name="twitter:description" content="يُعد أرسطو هو أول من أطلق مجموعة عن الأبحاث في علم المنطق والتي سُميت أورغانون، فيما اعتمد في منطقة على الاستدلال، ولكن سرعان ما تبدل مفهوم هذا العلم من وجهة" />
+<meta name="twitter:site" content="@mosoah" />
+<meta name="twitter:creator" content="@sameh" />
+<meta name="twitter:image" content="https://www.mosoah.com/wp-content/uploads/2019/09/بحث-عن-المنطق.png" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="روان مرسي" />
+<meta name="twitter:label2" content="Time to read" />
+<meta name="twitter:data2" content="Less than a minute" />
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.mosoah.com/#organization","name":"\u0645\u0648\u0633\u0648\u0639\u0629","sameAs":["https://twitter.com/mosoah"]},{"@type":"WebSite","@id":"https://www.mosoah.com/#website","url":"https://www.mosoah.com","name":"\u0645\u0648\u0633\u0648\u0639\u0629","publisher":{"@id":"https://www.mosoah.com/#organization"},"inLanguage":"ar"},{"@type":"ImageObject","@id":"https://www.mosoah.com/wp-content/uploads/2019/09/\u0628\u062d\u062b-\u0639\u0646-\u0627\u0644\u0645\u0646\u0637\u0642.png","url":"https://www.mosoah.com/wp-content/uploads/2019/09/\u0628\u062d\u062b-\u0639\u0646-\u0627\u0644\u0645\u0646\u0637\u0642.png","width":"1280","height":"800","caption":"\u0628\u062d\u062b \u0639\u0646 \u0627\u0644\u0645\u0646\u0637\u0642","inLanguage":"ar"},{"@type":"WebPage","@id":"https://www.mosoah.com/people-and-society/philosophy/%d8%a8%d8%ad%d8%ab-%d8%b9%d9%86-%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82/#webpage","url":"https://www.mosoah.com/people-and-society/philosophy/%d8%a8%d8%ad%d8%ab-%d8%b9%d9%86-%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82/","name":"\u0628\u062d\u062b \u0639\u0646 \u0627\u0644\u0645\u0646\u0637\u0642 \u0648\u0623\u0647\u0645\u064a\u062a\u0647 \u0648\u0623\u0646\u0648\u0627\u0639\u0647 - \u0645\u0648\u0633\u0648\u0639\u0629","datePublished":"2019-09-14T11:51:24+03:00","dateModified":"2019-09-14T11:52:12+03:00","isPartOf":{"@id":"https://www.mosoah.com/#website"},"primaryImageOfPage":{"@id":"https://www.mosoah.com/wp-content/uploads/2019/09/\u0628\u062d\u062b-\u0639\u0646-\u0627\u0644\u0645\u0646\u0637\u0642.png"},"inLanguage":"ar"},{"@type":"Person","@id":"https://www.mosoah.com/author/rwan/","name":"\u0631\u0648\u0627\u0646 \u0645\u0631\u0633\u064a","url":"https://www.mosoah.com/author/rwan/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/5112625450fe98e905a4090ea7b10a38?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/5112625450fe98e905a4090ea7b10a38?s=96&amp;d=mm&amp;r=g","caption":"\u0631\u0648\u0627\u0646 \u0645\u0631\u0633\u064a","inLanguage":"ar"},"sameAs":["http://www.mosoah.com","https://twitter.com/sameh"],"worksFor":{"@id":"https://www.mosoah.com/#organization"}},{"@type":"Article","headline":"\u0628\u062d\u062b \u0639\u0646 \u0627\u0644\u0645\u0646\u0637\u0642 \u0648\u0623\u0647\u0645\u064a\u062a\u0647 \u0648\u0623\u0646\u0648\u0627\u0639\u0647 - \u0645\u0648\u0633\u0648\u0639\u0629","keywords":"\u0628\u062d\u062b \u0639\u0646 \u0627\u0644\u0645\u0646\u0637\u0642","datePublished":"2019-09-14T11:51:24+03:00","dateModified":"2019-09-14T11:52:12+03:00","articleSection":"\u0627\u0644\u0641\u0644\u0633\u0641\u0629","author":{"@id":"https://www.mosoah.com/author/rwan/","name":"\u0631\u0648\u0627\u0646 \u0645\u0631\u0633\u064a"},"publisher":{"@id":"https://www.mosoah.com/#organization"},"description":"\u064a\u064f\u0639\u062f \u0623\u0631\u0633\u0637\u0648 \u0647\u0648 \u0623\u0648\u0644 \u0645\u0646 \u0623\u0637\u0644\u0642 \u0645\u062c\u0645\u0648\u0639\u0629 \u0639\u0646 \u0627\u0644\u0623\u0628\u062d\u0627\u062b \u0641\u064a \u0639\u0644\u0645 \u0627\u0644\u0645\u0646\u0637\u0642 \u0648\u0627\u0644\u062a\u064a \u0633\u064f\u0645\u064a\u062a \u0623\u0648\u0631\u063a\u0627\u0646\u0648\u0646\u060c \u0641\u064a\u0645\u0627 \u0627\u0639\u062a\u0645\u062f \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u0639\u0644\u0649 \u0627\u0644\u0627\u0633\u062a\u062f\u0644\u0627\u0644\u060c \u0648\u0644\u0643\u0646 \u0633\u0631\u0639\u0627\u0646 \u0645\u0627 \u062a\u0628\u062f\u0644 \u0645\u0641\u0647\u0648\u0645 \u0647\u0630\u0627 \u0627\u0644\u0639\u0644\u0645 \u0645\u0646 \u0648\u062c\u0647\u0629","copyrightYear":"2019","copyrightHolder":{"@id":"https://www.mosoah.com/#organization"},"name":"\u0628\u062d\u062b \u0639\u0646 \u0627\u0644\u0645\u0646\u0637\u0642 \u0648\u0623\u0647\u0645\u064a\u062a\u0647 \u0648\u0623\u0646\u0648\u0627\u0639\u0647 - \u0645\u0648\u0633\u0648\u0639\u0629","@id":"https://www.mosoah.com/people-and-society/philosophy/%d8%a8%d8%ad%d8%ab-%d8%b9%d9%86-%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82/#richSnippet","isPartOf":{"@id":"https://www.mosoah.com/people-and-society/philosophy/%d8%a8%d8%ad%d8%ab-%d8%b9%d9%86-%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82/#webpage"},"image":{"@id":"https://www.mosoah.com/wp-content/uploads/2019/09/\u0628\u062d\u062b-\u0639\u0646-\u0627\u0644\u0645\u0646\u0637\u0642.png"},"inLanguage":"ar","mainEntityOfPage":{"@id":"https://www.mosoah.com/people-and-society/philosophy/%d8%a8%d8%ad%d8%ab-%d8%b9%d9%86-%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-rtl-css'  href='https://www.mosoah.com/wp-includes/css/dist/block-library/style-rtl.min.css?ver=6.0.9' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<style id='rocket-lazyload-inline-css' type='text/css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:url(https://www.mosoah.com/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}
+</style>
+<link rel="alternate" type="application/json+oembed" href="https://www.mosoah.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mosoah.com%2Fpeople-and-society%2Fphilosophy%2F%25d8%25a8%25d8%25ad%25d8%25ab-%25d8%25b9%25d9%2586-%25d8%25a7%25d9%2584%25d9%2585%25d9%2586%25d8%25b7%25d9%2582%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.mosoah.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mosoah.com%2Fpeople-and-society%2Fphilosophy%2F%25d8%25a8%25d8%25ad%25d8%25ab-%25d8%25b9%25d9%2586-%25d8%25a7%25d9%2584%25d9%2585%25d9%2586%25d8%25b7%25d9%2582%2F&#038;format=xml" />
+<link rel="preload" as="image" href="https://www.mosoah.com/wp-content/uploads/2019/09/بحث-عن-المنطق-1024x640.png" imagesrcset="https://www.mosoah.com/wp-content/uploads/2019/09/بحث-عن-المنطق-1024x640.png 1024w, https://www.mosoah.com/wp-content/uploads/2019/09/بحث-عن-المنطق-300x188.png 300w, https://www.mosoah.com/wp-content/uploads/2019/09/بحث-عن-المنطق-768x480.png 768w, https://www.mosoah.com/wp-content/uploads/2019/09/بحث-عن-المنطق.png 1280w" imagesizes="(max-width: 1024px) 100vw, 1024px" /><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>	
+
+<script type="rocketlazyloadscript" data-minify="1" async data-rocket-src="https://www.mosoah.com/wp-content/cache/min/1/tag/js/gpt.js?ver=1689805934"></script>
+<script type="rocketlazyloadscript">
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/108861785/mosoah_rectangle/mosoah_rectangle_poststart', [300, 250], 'div-gpt-ad-1668164821967-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<meta name="google-site-verification" content="Az57yLSUBQyVTgOUs-7yS7aiVP0E8gfpLZFNDbkj8is" />
+
+</head>
+
+<body class="rtl post-template-default single single-post postid-197930 single-format-standard">
+	<header id="top" class="header_area">
+		<div class="container">
+			<div class="header_row">
+				<a class="logo-wrap" href="https://www.mosoah.com">			 
+				  <img width="200" height="50" alt="الموسوعة العربية الشاملة" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%2050'%3E%3C/svg%3E" data-lazy-src="https://www.mosoah.com/wp-content/themes/mosoah2023/img/logo-w.svg"><noscript><img width="200" height="50" alt="الموسوعة العربية الشاملة" src="https://www.mosoah.com/wp-content/themes/mosoah2023/img/logo-w.svg"></noscript>			 
+				</a>
+                <a href="#" class="mainM_t" aria-label="Mobile Menu" onclick="if (!window.__cfRLUnblockHandlers) return false; document.getElementById('mobileNav').style.display = 'block';" data-cf-modified-70e18340d61cb720140f59de-="">
+					<i class="bar"></i>
+					<i class="bar"></i>
+					<i class="bar"></i>
+				</a>
+                <a href="#" class="search_mobile_ico" aria-label="Search" onclick="if (!window.__cfRLUnblockHandlers) return false; document.getElementById('mainSearch').style.display = 'block';" data-cf-modified-70e18340d61cb720140f59de-=""><i class="icon-diw icon-search-c2"></i></a>
+				<div class="mainMenu">
+					<div class="menu-menu-1-container">
+                        <ul id="menu-menu-1" class="navigation-main">
+                            <li><a href="https://www.mosoah.com/%D9%85%D8%A7%D9%87%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9%D8%9F/">عن الموسوعة</a></li>
+                            <li><a href="https://www.mosoah.com/new/">جديد المواضيع</a></li>
+                            <li><a href="https://www.mosoah.com/categories/">التصنيفات </a></li>
+                            <li><a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; document.getElementById('mainSearch').style.display = 'block';" class="gap-10 flex-row txt_yellow" data-cf-modified-70e18340d61cb720140f59de-=""><i class="icon-diw icon-search-c2"></i> ابحث هنا</a></li>    
+                       </ul>
+                    </div>			
+                </div>
+			</div>
+		</div>
+        
+        <div id="mobileNav">
+            <a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; document.getElementById('mobileNav').style.display = 'none';" class="close-mobileNav" data-cf-modified-70e18340d61cb720140f59de-="">
+                <span class="icon-diw icon-close-w"></span>
+            </a>
+            <div class="menu-menu-1-container">
+                <ul id="menu-menu-1" class="navigation-main">
+                    <li><a href="https://www.mosoah.com/%D9%85%D8%A7%D9%87%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9%D8%9F/">عن الموسوعة</a></li>
+                    <li><a href="https://www.mosoah.com/new/">جديد المواضيع</a></li>
+                    <li><a href="https://www.mosoah.com/categories/">التصنيفات </a></li>
+               </ul>
+            </div>	
+        </div>	
+		
+	
+		
+	</header>
+	
+    <form id="mainSearch"  action="https://www.mosoah.com" >
+        <a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; document.getElementById('mainSearch').style.display = 'none';" class="close-mainSearch" data-cf-modified-70e18340d61cb720140f59de-="">
+            <span class="icon-diw icon-close-w"></span>
+        </a>
+        <div class="text-search-field">
+            <input type="text" placeholder="أكتب كلمة البحث هنا ..." name="s" >
+        </div>
+    </form>
+	
+	
+	
+	
+	  <div class="mainContentWrap"> 
+       <div class="container">
+
+            <div class="row">				
+				<div class="col-w-8 col-m-12">
+
+							
+					<div class="tags-wrapper clearfix"><div class="breadcrumbs"><span><a class="breadcrumbs__link" href="https://www.mosoah.com/" ><span>الرئيسية</span></a><meta content="1" /></span><span class="breadcrumbs__separator"> › </span><span><a class="breadcrumbs__link" href="https://www.mosoah.com/people-and-society/" ><span>الناس و المجتمع</span></a><meta content="2" /></span><span class="breadcrumbs__separator"> › </span><span><a class="breadcrumbs__link" href="https://www.mosoah.com/people-and-society/philosophy/" ><span>الفلسفة</span></a><meta content="3" /></span><span class="breadcrumbs__separator"> › </span></div></div><!-- .breadcrumbs -->					<section class="section article_wrapper">
+						<div class="content-link1">
+						<h1 class="title">بحث عن المنطق وأهميته وأنواعه</h1>
+						</div>
+                        <div class="meta_article">
+                            <span class="author"> <span class="icon-diw icon-user"></span><span class="txt"><a href="https://www.mosoah.com/author/rwan/"> روان مرسي</a></span></span>
+                            <span class="publish_date"><span class="icon-diw icon-date"></span><span class="txt">14 سبتمبر، 2019</span></span>
+
+                        </div>
+
+						<div style="display:block;margin:5px auto;width: 315px;max-height: 265px;overflow: hidden;;" class="adintop-ads">
+
+							<!-- /108861785/mosoah_rectangle/mosoah_rectangle_poststart -->
+<div id='div-gpt-ad-1668164821967-0' style='min-width: 300px; min-height: 250px;'>
+  <script type="rocketlazyloadscript">
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1668164821967-0'); });
+  </script>
+</div>
+							
+
+							</div>
+						
+						<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;بحث عن المنطق&quot;}" data-sheets-userformat="{&quot;2&quot;:14528,&quot;9&quot;:2,&quot;10&quot;:2,&quot;14&quot;:[null,2,0],&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:12}">نُقدم إليكم بحث عن المنطق أو  logikḗ كما يُطلق عليه في اليونانية؛ الذي يُعد واحداً من أبرز العلوم في الفلسفة التي شغلت العلماء على مر الزمان، فقد برز علم المنطق في عهد أرسطو، وتوالت الدراسات في هذا المجال الذي يُعتبر نوع من العلوم المنهجية الذي يعتمد على قوانين المعرفة الحقيقة، فضلاً عن الاستنتاجات التي يخرج بها هذا العلم والتي توضح العلاقة بين افتراضات الاستدلال ونتائجها، فهيا بنا نقترب أكثر من هذا العلم من خلال هذا المقال الذي تتناوله موسوعة، تابعونا.<br />
+</span></p>
+<h2><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;بحث عن المنطق&quot;}" data-sheets-userformat="{&quot;2&quot;:14528,&quot;9&quot;:2,&quot;10&quot;:2,&quot;14&quot;:[null,2,0],&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:12}">بحث عن المنطق</span></h2>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;بحث عن المنطق&quot;}" data-sheets-userformat="{&quot;2&quot;:14528,&quot;9&quot;:2,&quot;10&quot;:2,&quot;14&quot;:[null,2,0],&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:12}"> يُعد أرسطو هو أول من أطلق مجموعة عن الأبحاث في علم المنطق والتي سُميت أورغانون، فيما اعتمد في منطقة على الاستدلال، ولكن سرعان ما تبدل مفهوم هذا العلم من وجهة نظر فرنسيس بيكون، وجون ستيورت ميل ليعتمد علم المنطق على منطق الاستقراء.</span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;بحث عن المنطق&quot;}" data-sheets-userformat="{&quot;2&quot;:14528,&quot;9&quot;:2,&quot;10&quot;:2,&quot;14&quot;:[null,2,0],&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:12}"> وعلى صعيدٍ أخر نجد أن هناك المنطق الرياضي الذي يعتمد على ربط المنطق بعلم الرياضيات وجاء هذا النوع من العلوم على يد لايبنتس وبرتراند راسل، فيما تفرع هذا العلم وتغلغل ليُستخدم في شتى المجالات العلمية.</span></p>
+<h3>تعريف المنطق</h3>
+<p>هناك العديد من التعريفات التي جاءت في المنطق والتي ربطت هذا العلم بمختلف العلوم الأخرى والمشاعر، لذا نستعرض فيما يلي هذه التعريفات التي من بينها :</p>
+<ul>
+<li>قام القدماء في العصور الأولى بتعريف المنطق بأنه آلة قانونية تعصم الذهن من الوقوع في الخطأ .</li>
+<li>بينما في بعض العصور التالية أشير إلى علم المنطق بأنه هو العلم الذي يدرس القواعد والقوانين العامة المتعلقة بالتفكير والشعور الإنساني الصحيح.</li>
+<li>كما يُعرف علم المنطق بأنه هو العلم ذات الصلة بالمعقولات الثانية، وهذا إن لم يكن متعلق بالمعقولات الأولى، الجدير بالذكر أن هذا التعريف دقيق للغاية إلا أنه معقد، حيث يعتمد عليه المتخصصون في علم الفلسفة لفهم علم المنطق.</li>
+<li>فيما يُعرف أرسطو علم المنطق بأنه &#8220;آلة العلم وأدا البحث والمعرفة الصحيحة&#8221;.</li>
+</ul>
+<h3>تعريف المنطق الصوري</h3>
+<p>يُعتبر المنطق الصوري أو الشكلي كما يُطلق عليه نوع من علم المنطق الذي يعتمد على صورة القياس والاستدلال، فيما لا يُمكن اعتماد صحة الاستدلال من عدمه إلا من خلال القياس المنطقي، الجدير بالذكر أن أرسطو هو الذي تبنى هذا النوع من العلوم فضلاً عن الاهتمام بالإمكان الواقعي للتأكد من صحة الاستدلالات.</p>
+<ul>
+<li>المنطق الصوري هو الذي يُعرف بأنه علم آلي يهتم بصيانة الذهن عن الوقوع في خطأ الفكر، وكذا فهو المعيار الأساسي للتفكير الصحيح الذي اعتبره أرسطو.</li>
+</ul>
+<h3>أنواع المنطق</h3>
+<p>تتعدد أنواع المنطق، فقد تنقسم إلى المنطق الرسمي والغير رسمي، فهيا بنما نصحبكم في جولة للتعرف عليهم من خلال السطور التالية.</p>
+<ul>
+<li><strong>المنطق الرسمي: </strong>هو عبارة عن مجموعة من المعرف التي تُعبر عن الحقائق الراسخة التي لا جدال فيها، بهدف حساب منهجي لمجموعة من الظواهر، الجدير بالذكر أن هذا النوع من المنطق هو الذي يُعتمد عليه الفلاسفة المعاصرين.  <strong><br />
+</strong></li>
+<li><strong>المنطق الغير رسمي</strong>: هو عبارة عن تحليل الإنسان اليومي وتفسيره للحجج، فيما ينقسم إلى نوعين هما؛ الاستدلال الاستقرائي والاستنتاجي، فإن الاستدلال الاستقرائي هو عبارة عن جمع البيانات والتفاصيل حول موضوع بعينه، فضلاً عن توسيع المفاهيم، ويأتي هذا المفهوم على عكس الاستدلال الاستنتاجي؛ إذ أنه عبارة عن تناول الموضوع بشكل عام ومن ثم التخصيص والتحديد.</li>
+</ul>
+<h3>أهمية المنطق</h3>
+<p>يميل علم المنطق إلى مساعدة الأفراد في حياتهم على تعلم كيفية ترتيب الأفكار والدقة والاستنتاج، فهو الذي يبرز أهميته فيما يلي:</p>
+<ul>
+<li>تنظيم خطوات البحث عن طريق القوانين الموضوعة.</li>
+<li>الدقة في التعبير والألفاظ، فضلاً عن طرح الأفكار بصورة واضحة لا يشوبها التشويش، وذلك بهدف التأثير والإقناع.</li>
+<li>العمل على التفرقة بين الألفاظ والعبارات والأقوال والكلمات.</li>
+<li>التركيز على استخدام أدوات اللغة العربية، ومفرداتها وأقسامها.</li>
+</ul>
+<p>استعرضنا من خلال هذا المقال العديد من المعلومات حول علم المنطق الذي لا يتجزأ عن العلوم الأخرى، إذ أنه وثيق الصلة بشتى العلوم، فضلاً عن أهميته التي باتت ضرورة في حياتنا اليومية.</p>
+	
+						<p>
+							
+						</p>
+<div class="content-link">
+  <span>هام :</span> <a target="_blank" href="https://apps.apple.com/app/apple-store/id1635502757?pt=119090854&ct=HijriDates&mt=8"><b>احصل على تطبيق التقويم الهجري والميلادي</b></a>
+</div>
+
+						
+
+						
+																			<a href="https://www.mosoah.com/people-and-society/philosophy/%d8%a8%d8%ad%d8%ab-%d8%b9%d9%86-%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82/" title="بحث عن المنطق وأهميته وأنواعه">
+								<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20640%20360'%3E%3C/svg%3E" height="360" width="640" alt="بحث عن المنطق وأهميته وأنواعه" data-lazy-src="https://www.mosoah.com/wp-content/uploads/2019/09/بحث-عن-المنطق-640x360.png" /><noscript><img src="https://www.mosoah.com/wp-content/uploads/2019/09/بحث-عن-المنطق-640x360.png" height="360" width="640" alt="بحث عن المنطق وأهميته وأنواعه" loading="lazy" /></noscript>
+							</a>
+								
+<p></p>
+<div class="content-link">
+
+<strong>مواضيع ننصح بها :</strong><br>
+
+<ul>	  
+<li><a href="https://hijridates.com/names-of-allah.html"><strong>أسماء الله الحسنى</strong></a></li>
+<li><a href="https://hijridates.com/adhkar-alsabah.html"><strong>أذكار الصباح</strong></a></li>
+<li><a href="https://hijridates.com/age-calculator.html"><strong>حساب العمر</strong></a></li>
+  </ul>
+</div>						
+					
+						
+					</section>
+					<section class="section">
+                        <div class="title_section">
+                            <h3 class="title">الوسوم</h3>
+							                        </div>
+                    </section>
+                    
+							
+				
+				</div>
+				<div class="col-w-4 col-m-12">				
+					<div class="sidebar">
+			
+	<div class="widget">
+		<div class="widget_title">
+			<h3> شاهد أيضا </h3>
+		</div>
+		<div class="widget_content">
+			<div class="list_posts">
+			                <div class="article">
+                    
+                    <h4 class="article_title"><a href="https://www.mosoah.com/people-and-society/philosophy/%d8%ae%d8%b5%d8%a7%d8%a6%d8%b5-%d8%a7%d9%84%d9%86%d9%85%d8%b7-%d8%a7%d9%84%d8%ad%d8%ac%d8%a7%d8%ac%d9%8a/" title="خصائص النمط الحجاجي"> خصائص النمط الحجاجي</a></h4>
+                </div>
+                            <div class="article">
+                    
+                    <h4 class="article_title"><a href="https://www.mosoah.com/people-and-society/philosophy/focus-on-nuclear-disarmament/" title="عوامل ظهور النزعة العقلية عند المسلمين"> عوامل ظهور النزعة العقلية عند المسلمين</a></h4>
+                </div>
+                            <div class="article">
+                    
+                    <h4 class="article_title"><a href="https://www.mosoah.com/people-and-society/philosophy/characteristics-of-perception-in-philosophy/" title="خصائص الإدراك في الفلسفة"> خصائص الإدراك في الفلسفة</a></h4>
+                </div>
+                            <div class="article">
+                    
+                    <h4 class="article_title"><a href="https://www.mosoah.com/people-and-society/philosophy/stages-of-development-of-islamic-philosophy/" title="مراحل تطور الفلسفة الإسلامية"> مراحل تطور الفلسفة الإسلامية</a></h4>
+                </div>
+                            <div class="article">
+                    
+                    <h4 class="article_title"><a href="https://www.mosoah.com/people-and-society/philosophy/standards-of-scientific-truth/" title="من معايير الحقيقة العلميّة"> من معايير الحقيقة العلميّة</a></h4>
+                </div>
+            				
+				
+				
+				
+			</div>
+		</div>
+	</div>
+				
+	
+	
+	<div class="widget">
+		<div class="widget_title">
+			<h3>تصنيفات</h3>
+		</div>
+		<div class="widget_content">
+			<div class="list_categories">
+				<ul>
+					<li><a href="https://www.mosoah.com/foods-and-drinks/" title="أكلات و مشروبات">أكلات و مشروبات</a></li> <li><a href="https://www.mosoah.com/games/" title="ألعاب">ألعاب</a></li> <li><a href="https://www.mosoah.com/gold-rate/" title="اسعار الذهب والعملات">اسعار الذهب والعملات</a></li> <li><a href="https://www.mosoah.com/news/" title="الاخبار">الاخبار</a></li> <li><a href="https://www.mosoah.com/internet-and-telecom/" title="الانترنت والاتصالات">الانترنت والاتصالات</a></li> <li><a href="https://www.mosoah.com/business-and-industry/" title="التجارة و الصناعة">التجارة و الصناعة</a></li> <li><a href="https://www.mosoah.com/beauty-and-fitness/" title="التجميل و اللياقة">التجميل و اللياقة</a></li> <li><a href="https://www.mosoah.com/recreation-and-hobbies/" title="الترفيه و الهوايات">الترفيه و الهوايات</a></li> <li><a href="https://www.mosoah.com/shopping/" title="التسوق">التسوق</a></li> <li><a href="https://www.mosoah.com/animals/" title="الحيوانات">الحيوانات</a></li> <li><a href="https://www.mosoah.com/travel/" title="السفر">السفر</a></li> <li><a href="https://www.mosoah.com/law-and-government/" title="القوانين والحكومات">القوانين والحكومات</a></li> <li><a href="https://www.mosoah.com/computer-and-electronics/" title="الكمبيوتر و الإلكترونيات">الكمبيوتر و الإلكترونيات</a></li> <li><a href="https://www.mosoah.com/references/" title="المراجع">المراجع</a></li> <li><a href="https://www.mosoah.com/c/" title="المناهج التعليمية">المناهج التعليمية</a></li> <li><a href="https://www.mosoah.com/home/" title="المنزل">المنزل</a></li> <li><a href="https://www.mosoah.com/finance/" title="الموارد المالية">الموارد المالية</a></li> <li><a href="https://www.mosoah.com/calendar/" title="المواعيد والفعاليات">المواعيد والفعاليات</a></li> <li><a href="https://www.mosoah.com/people-and-society/" title="الناس و المجتمع">الناس و المجتمع</a></li> <li><a href="https://www.mosoah.com/sport/" title="رياضة">رياضة</a></li> <li><a href="https://www.mosoah.com/autos-and-vehicles/" title="سيارات و وسائل النقل">سيارات و وسائل النقل</a></li> <li><a href="https://www.mosoah.com/health/" title="صحة">صحة</a></li> <li><a href="https://www.mosoah.com/science/" title="علوم">علوم</a></li> <li><a href="https://www.mosoah.com/arts-and-entertainment/" title="فنون و ترفيه">فنون و ترفيه</a></li> <li><a href="https://www.mosoah.com/videos/" title="فيديو">فيديو</a></li> <li><a href="https://www.mosoah.com/books-and-literature/" title="كتب و أدب">كتب و أدب</a></li> <li><a href="https://www.mosoah.com/career-and-education/" title="وظائف و تعليم">وظائف و تعليم</a></li> 					<li><a href="https://pregnancy-calculate.com/">حاسبة الحمل</a></li>
+					<li><a href="https://saudisalary.com/academic-calendar/">التقويم الدراسي</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="widget">
+		<div class="widget_title">
+			<h3>الاكثر بحثا</h3>
+		</div>
+		<div class="widget_content">
+			<div class="tags_list_widget">
+				<a href="https://www.mosoah.com/people-and-society/interpretation-of-dreams/">تفسير الاحلام</a>
+				<a href="https://www.mosoah.com/health/medicines/">ادوية</a>
+				<a href="https://www.mosoah.com/career-and-education/education/">تعليم</a>
+				<a href="https://www.mosoah.com/references/ask-an-experts/">اسال الخبراء</a>
+				<a href="https://saudisalary.com/school-start.php">كم باقي على المدرسه</a>
+				<a href="https://saudisalary.com/salaries.php">كم باقي على الراتب</a>
+				<a href="https://hijridates.com/">تاريخ اليوم هجري</a>
+				<a href="https://hijridates.com/date-converter.html">تحويل التاريخ</a>
+				<a href="https://saudisalary.com/usd-to-sar.php">تحويل من دولار الى ريال</a>
+				<a href="https://hijridates.com/ksa-national-day.html">كم باقي على اليوم الوطني</a>
+				<a href="https://www.mosoah.com/references/douknow/">هل تعلم</a>
+				<a href="https://hijridates.com/gold-price.html">سعر الذهب اليوم في السعودية</a>
+				<a href="https://www.mosoah.com/references/how-to/">موسوعة كيف</a>
+			</div>
+		</div>
+	</div>
+	
+</div>				</div>	
+							</div>
+		   
+
+			   <div class="content-link1">
+						<h3 class="title">المزيد من المواضيع</h3>
+				</div>
+		   		<div class="tags_list_widget">
+<a href="https://www.mosoah.com/people-and-society/religion-and-spirituality/god-names/">اسماء الله الحسنى</a>
+<a href="https://www.mosoah.com/people-and-society/relationships-and-dating/congratulations-birthday/">تهنئة عيد ميلاد</a>
+<a href="https://www.mosoah.com/people-and-society/relationships-and-dating/%D8%A3%D8%AC%D9%85%D9%84-%D8%B9%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D9%83%D9%84%D9%85%D8%A7%D8%AA-%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D8%AE%D9%8A%D8%B1/">صباح الخير</a>
+<a href="https://www.mosoah.com/career-and-education/education/%D9%85%D9%82%D8%AF%D9%85%D8%A9-%D8%A7%D8%B0%D8%A7%D8%B9%D8%A9-%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9/">اذاعة مدرسية</a>
+<a href="https://www.mosoah.com/people-and-society/relationships-and-dating/%D8%B9%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B4%D9%83%D8%B1-%D9%88%D8%AA%D9%82%D8%AF%D9%8A%D8%B1/">شكر وتقدير</a>
+<a href="https://www.mosoah.com/people-and-society/religion-and-spirituality/%D8%AF%D8%B9%D8%A7%D8%A1-%D8%AE%D8%AA%D9%85-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D9%85%D9%83%D8%AA%D9%88%D8%A8/">دعاء ختم القران</a>
+<a href="https://www.mosoah.com/people-and-society/relationships-and-dating/a-prayer-for-the-patient/">دعاء للمريض</a>
+<a href="https://www.mosoah.com/people-and-society/religion-and-spirituality/%D8%AF%D8%B9%D8%A7%D8%A1-%D8%B5%D8%A8%D8%A7%D8%AD-%D9%8A%D9%88%D9%85-%D8%AC%D8%AF%D9%8A%D8%AF/">دعاء الصباح</a>
+<a href="https://www.mosoah.com/people-and-society/religion-and-spirituality/how-to-ask-for-prayer/">صلاة الاستخارة</a>
+<a href="https://www.mosoah.com/career-and-education/education/%D9%85%D9%82%D8%AF%D9%85%D8%A9-%D8%A8%D8%AD%D8%AB-%D9%88%D8%AE%D8%A7%D8%AA%D9%85%D8%A9/">خاتمة بحث</a>
+<a href="https://www.mosoah.com/people-and-society/womens-interests/short-stories-of-children-before-bedtime/">قصص اطفال</a>
+<a href="https://www.mosoah.com/news/edu-news/noor-guardian-system-link-primary-login/">نظام نور ولي الأمر تسجيل دخول</a>
+<a href="https://www.mosoah.com/health/medicines/%D8%A7%D8%A8%D8%B1%D8%A9-%D8%A7%D9%88%D8%B2%D9%85%D8%A8%D9%83/">اوزمبك</a>
+<a href="https://www.mosoah.com/references/ask-an-experts/%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%A8%D8%B1%D9%8A%D8%AF-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6/">صندوق البريد الرياض</a>
+<a href="https://www.mosoah.com/references/dictionaries-and-encyclopedias/%D9%85%D8%B9%D9%86%D9%89-%D8%B3%D8%A7%D9%8A%D9%83%D9%88/">معنى سايكو</a>
+<a href="https://www.mosoah.com/games/puzzles-and-brainteasers/fruits-names-without-points/">فواكه بدون نقاط</a>
+<a href="https://www.mosoah.com/references/dictionaries-and-encyclopedias/%D8%A7%D8%B3%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D9%87/">اسم محمد بالانجليزي</a>
+<a href="https://www.mosoah.com/career-and-education/education/%D8%B9%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AE%D9%88%D8%A7%D8%B7%D8%B1-%D8%AC%D9%85%D9%8A%D9%84%D8%A9/">خواطر جميلة</a>
+<a href="https://www.mosoah.com/autos-and-vehicles/automotive-news/%D9%85%D8%A7-%D9%87%D9%8A-%D8%B1%D8%B3%D9%88%D9%85-%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%85%D8%A7%D8%B1%D8%A9/">رسوم تجديد الاستمارة</a>
+<a href="https://www.mosoah.com/health/medicines/coxicam/">كوكسيكام</a>
+<a href="https://www.mosoah.com/health/medicines/%D8%A7%D8%A8%D8%B1%D8%A9-%D8%A7%D9%88%D8%B2%D9%85%D8%A8%D9%83/">ابرة اوزمبك</a>
+<a href="https://www.mosoah.com/health/alternative-and-natural-medicine/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%88%D8%B3%D8%B9%D8%B1-%D8%AF%D8%B1%D9%8A%D9%85-%D9%88%D9%88%D8%AA%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/">دريم ووتر</a>
+<a href="https://www.mosoah.com/people-and-society/religion-and-spirituality/%D8%A2%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%83%D9%8A%D9%86%D8%A9-%D9%85%D9%83%D8%AA%D9%88%D8%A8%D8%A9/">ايات السكينه</a>
+<a href="https://www.mosoah.com/law-and-government/immigration-and-visas/%D9%87%D9%84-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%AF%D8%A7%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D9%81%D9%84%D8%A8%D9%8A%D9%86-%D9%85%D9%81%D8%AA%D9%88%D8%AD/">استقدام من الفلبين</a>
+<a href="https://www.mosoah.com/health/medicines/%D8%A7%D8%A8%D8%B1%D8%A9-%D8%A7%D9%88%D8%B2%D9%85%D8%A8%D9%83/">ابر اوزمبك</a>
+<a href="https://www.mosoah.com/animals/pets/cats-names/">اسامي قطط</a>
+<a href="https://www.mosoah.com/health/medicines/%D8%AF%D9%88%D8%A7%D8%B9%D9%8A-%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84-%D8%AF%D9%88%D8%A7%D8%A1-%D8%A8%D8%B3%D9%83%D9%88%D8%A8%D8%A7%D9%86-buscopan-%D9%84%D9%84%D9%85%D8%BA%D8%B5-%D9%88%D8%A7%D9%87/">بسكوبان</a>
+<a href="https://www.mosoah.com/news/edu-news/noor-guardian-system-link-primary-login/">نظام نور ولي الأمر تسجيل دخول 1445</a>
+<a href="https://www.mosoah.com/career-and-education/education/%D9%85%D9%81%D9%87%D9%88%D9%85-%D9%88%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D9%88%D9%81%D8%A7%D8%A6%D8%AF%D8%AA%D9%87/">الامن والسلامة</a>
+<a href="https://www.mosoah.com/references/ask-an-experts/the-nearest-absher-device-to-my-site/">أقرب جهاز أبشر من موقعي</a>
+<a href="https://www.mosoah.com/career-and-education/education/research-introduction/">مقدمة بحث</a>
+<a href="https://www.mosoah.com/career-and-education/education/%D9%85%D9%82%D8%AF%D9%85%D8%A9-%D8%B9%D9%86-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D8%A8%D8%B3%D9%8A%D8%A9/">الثقافة الملبسية</a>
+<a href="https://www.mosoah.com/references/ask-an-experts/%D9%86%D8%B8%D8%A7%D9%85-%D9%86%D9%88%D8%B1-%D9%84%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D8%A8%D8%B1%D9%82%D9%85-%D8%A7%D9%84%D9%87%D9%88%D9%8A%D8%A9-%D9%88%D8%B1%D9%82/">نظام نور برقم الهوية 1445</a>
+<a href="https://www.mosoah.com/foods-and-drinks/beverages/%D9%87%D9%84-%D8%B1%D9%8A%D8%AA%D8%A7-%D9%85%D8%B4%D8%B1%D9%88%D8%A8-%D8%B7%D8%A7%D9%82%D8%A9/">هل ريتا مشروب طاقه</a>
+<a href="https://www.mosoah.com/people-and-society/religion-and-spirituality/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%AA%D8%B4%D9%87%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D9%88%D8%A7%D9%84%D8%A7%D8%AE%D9%8A%D8%B1/">حكم التشهد الأول والاخير</a>
+<a href="https://www.mosoah.com/career-and-education/education/%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D8%A7%D9%84%D8%AD%D8%B1%D9%88%D9%81-%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9/">الحروف الانجليزيه</a>
+<a href="https://www.mosoah.com/science/math/%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%A7%D9%84%D8%AA%D8%A8%D8%B1%D9%8A%D8%B1-%D9%88%D8%A7%D9%84%D8%A8%D8%B1%D9%87%D8%A7%D9%86/">بحث عن التبرير والبرهان</a>
+<a href="https://www.mosoah.com/health/medicines/%D8%AA%D8%AC%D8%B1%D8%A8%D8%AA%D9%8A-%D9%85%D8%B9-%D8%AD%D8%A8%D9%88%D8%A8-%D9%81%D9%8A%D8%B1%D9%88%D8%AC%D9%84%D9%88%D8%A8%D9%8A%D9%86/">تجربتي مع حبوب فيروجلوبين</a>
+<a href="https://www.mosoah.com/people-and-society/religion-and-spirituality/%D9%85%D9%88%D8%B9%D8%AF-%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D9%85-%D9%81%D9%8A-%D8%B1%D9%85%D8%B6%D8%A7%D9%86/">موعد صلاة القيام</a>
+<a href="https://www.mosoah.com/health/womens-health/get-period-in-an-hour/">تنزيل الدورة خلال ساعة</a>
+<a href="https://www.mosoah.com/health/medicines/rovinak/">تحاميل روفيناك</a>
+<a href="https://www.mosoah.com/news/edu-news/noor-guardian-system-link-primary-login/">نظام نور ولي الأمر</a>
+<a href="https://www.mosoah.com/news/ksa-news/%D8%AC%D8%AF%D9%88%D9%84-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D9%82%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1%D9%85%D9%8A%D9%86/">مواعيد رحلات القطار</a>
+<a href="https://www.mosoah.com/games/puzzles-and-brainteasers/%D8%AC%D9%85%D8%A7%D8%AF-%D8%A8%D8%AD%D8%B1%D9%81-%D8%B0/">جماد بحرف ذ</a>
+<a href="https://www.mosoah.com/games/board-and-card-games/%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-%D8%A8%D9%84%D8%A7%D8%AF-%D8%A8%D8%AD%D8%B1%D9%81-%D9%88/">بلاد بحرف و</a>
+<a href="https://www.mosoah.com/science/physics/%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B6%D9%88%D8%A1/">اساسيات الضوء</a>
+<a href="https://www.mosoah.com/games/puzzles-and-brainteasers/%D8%AC%D9%85%D8%A7%D8%AF-%D8%A8%D8%AD%D8%B1%D9%81-%D8%A7%D9%84%D9%86%D9%88%D9%86-%D9%86/">جماد بحرف ن</a>
+<a href="https://www.mosoah.com/health/medicines/rofenac/">روفيناك</a>
+<a href="https://www.mosoah.com/health/medicines/%D8%AA%D8%AC%D8%B1%D8%A8%D8%AA%D9%8A-%D9%85%D8%B9-%D8%A8%D8%AE%D8%A7%D8%AE-%D8%A7%D9%81%D9%88%D8%AC%D9%8A%D9%86-%D9%84%D9%84%D8%B4%D8%B9%D8%B1/">تجربتي مع بخاخ افوجين</a>
+<a href="https://www.mosoah.com/references/dictionaries-and-encyclopedias/%D9%85%D9%86-%D8%A3%D8%AC%D9%85%D9%84-%D8%AD%D9%83%D9%85-%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9-%D9%88%D9%82%D8%B5%D9%8A%D8%B1%D8%A9/">حكمة قصيرة معناها جميل جداً</a>
+<a href="https://www.mosoah.com/foods-and-drinks/restaurants-and-delivery/%D8%A7%D9%82%D8%B1%D8%A8-%D9%85%D8%B7%D8%B9%D9%85-%D8%B9%D9%88%D8%A7%D8%A6%D9%84-%D9%85%D9%86-%D9%85%D9%88%D9%82%D8%B9%D9%8A/">اقرب مطعم من موقعي</a>
+<a href="https://www.mosoah.com/references/ask-an-experts/%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%AF%D8%AE%D9%88%D9%84-%D8%B9%D9%84%D9%85/">علم تسجيل الدخول</a>
+<a href="https://www.mosoah.com/foods-and-drinks/beverages/%D9%85%D8%B4%D8%B1%D9%88%D8%A8%D8%A7%D8%AA-%D8%B3%D8%AA%D8%A7%D8%B1-%D8%A8%D8%A7%DA%A9%D8%B3-%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%AF%D8%A9-%D8%A7%D9%84%D8%AC%D8%A7%D9%87%D8%B2%D8%A9/">مشروبات ستار باکس الباردة</a>
+<a href="https://www.mosoah.com/internet-and-telecom/social-network/five-luxury-insta-profiles/">يوزرات انستا</a>
+<a href="https://www.mosoah.com/foods-and-drinks/beverages/new-barneys-menu/">بارنز منيو</a>
+<a href="https://www.mosoah.com/people-and-society/religion-and-spirituality/%D9%87%D9%84-%D9%8A%D8%BA%D9%81%D8%B1-%D8%A7%D9%84%D9%84%D9%87-%D9%84%D9%85%D9%85%D8%A7%D8%B1%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D8%A9/">هل يغفر الله ممارس العادة</a>
+<a href="https://www.mosoah.com/games/puzzles-and-brainteasers/%D8%A7%D8%B3%D8%A6%D9%84%D8%A9-%D9%85%D8%AD%D8%B1%D8%AC%D8%A9-%D9%84%D9%84%D8%AD%D8%A8%D9%8A%D8%A8-18/">اسئلة محرجة 18</a>
+<a href="https://www.mosoah.com/references/dictionaries-and-encyclopedias/%D8%A7%D8%B3%D9%85%D8%A7%D8%A1-%D9%82%D8%B7%D8%B7-%D8%B0%D9%83%D9%88%D8%B1/">اسماء قطط ذكور</a>
+<a href="https://www.mosoah.com/references/ask-an-experts/%D9%85%D8%A7-%D9%87%D9%8A-%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D9%81%D9%8A-%D8%AD%D8%A7%D9%81%D8%B2-2020/">شروط حافز</a>
+<a href="https://www.mosoah.com/career-and-education/education/%D8%AC%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%A8%D9%8A%D9%86-%D9%87%D9%85%D8%B2%D8%A9-%D8%A7%D9%84%D9%88%D8%B5%D9%84-%D9%88%D8%A7%D9%84%D9%82%D8%B7%D8%B9/">همزة الوصل والقطع</a>
+<a href="https://www.mosoah.com/career-and-education/universities-and-colleges/arab-open-university-majors/">تخصصات الجامعة العربية المفتوحة</a>
+<a href="https://www.mosoah.com/references/dictionaries-and-encyclopedias/%D9%85%D8%B9%D9%86%D9%89-%D8%A8%D8%B1%D8%B2%D9%86%D8%AA%D9%8A%D8%B4%D9%86/">برزنتيشن</a>
+<a href="https://www.mosoah.com/people-and-society/history/%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D9%85%D9%8A%D9%84%D8%A7%D8%AF%D9%8A%D8%A9/">الأشهر الميلادية مقابل الهجرية</a>
+<a href="https://www.mosoah.com/business-and-industry/customer-service/postal-code-for-taif/">الرمز البريدي الطائف</a>
+<a href="https://www.mosoah.com/people-and-society/religion-and-spirituality/%D9%82%D8%B5%D8%A9-%D8%A7%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-%D9%85%D8%AE%D8%AA%D8%B5%D8%B1%D8%A9/">أصحاب السبت</a>
+<a href="https://www.mosoah.com/health/alternative-and-natural-medicine/%D9%83%D9%85-%D9%85%D8%AF%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D8%B5%D9%81%D8%B1-%D9%84%D9%84%D8%AE%D9%88%D9%81-%D9%88%D8%A7%D9%84%D9%82%D9%84%D9%82/">متى يبدأ مفعول العصفر</a>
+<a href="https://www.mosoah.com/people-and-society/interpretation-of-dreams/%D8%A7%D9%84%D9%88%D8%B2%D8%BA-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85/">الوزغ في المنام بشارة خير</a>
+<a href="https://www.mosoah.com/references/dictionaries-and-encyclopedias/%D9%85%D8%B9%D9%86%D9%89-%D8%B3%D8%A7%D9%8A%D9%83%D9%88/">سايكو معنى</a>
+<a href="https://www.mosoah.com/career-and-education/education/the-most-beautiful-presentation-topics/">مواضيع برزنتيشن</a>
+<a href="https://www.mosoah.com/games/puzzles-and-brainteasers/%D8%A7%D8%B3%D8%A6%D9%84%D8%A9-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D9%84%D9%84%D9%83%D8%A8%D8%A7%D8%B1-%D9%85%D8%AA%D9%86%D9%88%D8%B9%D8%A9-%D9%88%D8%A7%D8%AC%D9%88%D8%A8%D8%AA%D9%87%D8%A7/">اسئلة مسابقات للكبار</a>
+<a href="https://www.mosoah.com/autos-and-vehicles/automotive-news/%D8%A7%D9%81%D8%B6%D9%84-%D9%83%D9%81%D8%B1%D8%A7%D8%AA-%D8%B5%D9%8A%D9%86%D9%8A%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/">افضل كفرات صينيه</a>
+<a href="https://www.mosoah.com/references/dictionaries-and-encyclopedias/new-names-and-their-meanings/">اسماء بنات 2023</a>
+<a href="https://www.mosoah.com/career-and-education/education/%D8%AE%D8%A7%D8%AA%D9%85%D8%A9-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%82%D8%B5%D9%8A%D8%B1%D8%A9/">خاتمة تقرير</a>
+<a href="https://www.mosoah.com/health/medicines/relaxon/">ريلاكسون</a>
+<a href="https://www.mosoah.com/people-and-society/religion-and-spirituality/%D9%85%D9%88%D8%B9%D8%AF-%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D9%85-%D9%81%D9%8A-%D8%B1%D9%85%D8%B6%D8%A7%D9%86/">وقت صلاة القيام</a>
+<a href="https://www.mosoah.com/games/board-and-card-games/%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-%D8%A8%D9%84%D8%A7%D8%AF-%D8%A8%D8%AD%D8%B1%D9%81-%D9%88/">بلاد بحرف الواو</a>
+<a href="https://www.mosoah.com/references/ask-an-experts/dammam-zip-code-according-to-each-region/">الرمز البريدي الدمام</a>
+<a href="https://www.mosoah.com/health/medicines/feroglobin/">فيروجلوبين</a>
+<a href="https://www.mosoah.com/references/dictionaries-and-encyclopedias/%D9%85%D8%B9%D9%86%D9%89-%D9%83%D9%84%D9%85%D8%A9-%D8%BA%D8%A8%D9%82%D8%A9/">معنى غبقة</a>
+<a href="https://www.mosoah.com/health/medicines/dusspatalin-ritard/">دوسباتالين ريتارد</a>
+<a href="https://www.mosoah.com/law-and-government/law/%D8%B9%D9%82%D9%88%D8%A8%D8%A9-%D9%82%D8%B7%D8%B9-%D8%A7%D9%84%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/">مخالفة قطع الاشارة</a>
+<a href="https://www.mosoah.com/health/medicines/%D8%AA%D8%AC%D8%B1%D8%A8%D8%AA%D9%8A-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D9%8A%D9%84%D8%A7%D8%AA%D9%88%D9%86%D9%8A%D9%86/">تجربتي مع الميلاتونين</a>
+<a href="https://www.mosoah.com/health/medicines/%D9%81%D9%84%D8%A7%D8%AC%D9%8A%D9%84-500-%D9%84%D9%84%D8%A5%D9%84%D8%AA%D9%87%D8%A7%D8%A8%D8%A7%D8%AA/">فلاجيل 500</a>
+<a href="https://www.mosoah.com/health/medicines/coxicam/">حبوب كوكسيكام</a>
+<a href="https://www.mosoah.com/people-and-society/religion-and-spirituality/muftin-numbers-in-saudi-arabia-whatsapp/">رقم شيخ مفتي</a>
+<a href="https://www.mosoah.com/health/medicines/%D8%AF%D9%88%D8%A7%D8%B9%D9%8A-%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84-%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D9%88%D9%85%D8%B3%D9%8A%D8%AA-%D9%84%D9%84%D8%AD%D9%83%D8%A9-%D9%88%D8%A7%D8%B6%D8%B1%D8%A7/">حبوب اومسيت</a>
+<a href="https://www.mosoah.com/health/medicines/rofenac/">روفيناك د</a>
+
+		   </div>
+		   
+		   
+		   <br>
+		</div>
+	</div>	
+
+<script type="rocketlazyloadscript" type"text/javascript">
+    var docvar=document;"iframe"!==docvar&&window.parent===window||(docvar=parent.document!==parent.parent.document?parent.parent.document:parent.document);var outstream=document.createElement("script");outstream.src="https://www.foxpush.com/programmatic_video/mosoah_is.js",docvar.head.appendChild(outstream);
+</script>
+
+<footer class="main_footer">
+        <div class="content_footer">
+            <div class="container">
+                <ul class="links">
+					<li><a href="https://www.mosoah.com/">موسوعة</a> </li>
+					<li><a rel="nofollow" href="https://www.mosoah.com/privacy-policy/">سياسة الخصوصية</a> </li>
+					<li><a rel="nofollow" href="https://www.mosoah.com/copyright-infringement/">حقوق الملكية</a> </li>
+					<li><a href="https://www.mosoah.com/%D9%85%D8%A7%D9%87%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9%D8%9F/">ما هي الموسوعة؟</a> </li>
+					<li><a href="https://www.mosoah.com/useful-links/">مواقع مفيدة</a> </li>
+					<li><a target="_blank" href="https://saudisalary.com/">رواتب السعودية</a> </li>
+					<li><a target="_blank" href="https://www.mosoah.com/pregnancy-calculator/">حاسبة الحمل</a> </li>
+					<li><a rel="nofollow" href="https://www.mosoah.com/team/">فريق العمل</a> </li>
+					<li><a rel="nofollow" href="https://www.mosoah.com/contact-us/">اتصل بنا</a></li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+        <div class="copyright">
+            <div class="container">
+                <p>حقوق النشر محفوظة 2022 ©</p>
+            </div>
+        </div>
+    </footer>
+
+
+	<script type="70e18340d61cb720140f59de-text/javascript">window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.mosoah.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js" type="70e18340d61cb720140f59de-text/javascript"></script><script type="70e18340d61cb720140f59de-text/javascript">function lazyLoadThumb(e,alt,l){var t='<img data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<button class="play" aria-label="play Youtube video"></button>';if(l){t=t.replace('data-lazy-','');t=t.replace('loading="lazy"','');t=t.replace(/<noscript>.*?<\/noscript>/g,'');}t=t.replace('alt=""','alt="'+alt+'"');return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.parentNode.dataset.query.length?"":"&"+this.parentNode.dataset.query;e.setAttribute("src",t.replace("ID",this.parentNode.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow","accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener("DOMContentLoaded",function(){var exclusions=[];var e,t,p,u,l,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)(e=document.createElement("div")),(u='https://i.ytimg.com/vi/ID/hqdefault.jpg'),(u=u.replace('ID',a[t].dataset.id)),(l=exclusions.some(exclusion=>u.includes(exclusion))),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query",a[t].dataset.query),e.setAttribute("data-src",a[t].dataset.src),(e.innerHTML=lazyLoadThumb(a[t].dataset.id,a[t].dataset.alt,l)),a[t].appendChild(e),(p=e.querySelector(".play")),(p.onclick=lazyLoadYoutubeIframe)});</script>
+
+<div id="adintop_sticky_mpu"></div>
+<script type="rocketlazyloadscript" data-minify="1" async data-rocket-src="https://www.mosoah.com/wp-content/cache/min/1/banner_assets/adintop-bidder.js?ver=1689805934" data-rocket-type="text/javascript"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+        window._foxpushads = window._foxpushads || {units: []};
+        _foxpushads.units.push(
+        function()
+        {
+            const Adintop_Unit =
+            {
+                excludedCountries:_foxpushads.setExcludedCountries(['XA']),
+                type:_foxpushads.setSticky(true),
+                postion:_foxpushads.setStickyPostion('left',100),
+                unit:_foxpushads.setUnit('1000072','display',[300,250]),
+                element:_foxpushads.setHolder('adintop_sticky_mpu'),
+                sspId:_foxpushads.setSSPID('mosoah_rectangle/mosoah_rectangle_sticky'),
+            }
+            _foxpushads.serve(Adintop_Unit);
+        });
+        </script>
+<script type="70e18340d61cb720140f59de-text/javascript">var rocket_lcp_data = {"ajax_url":"https:\/\/www.mosoah.com\/wp-admin\/admin-ajax.php","nonce":"3389abaa24","url":"https:\/\/www.mosoah.com\/people-and-society\/philosophy\/%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82","is_mobile":false,"elements":"img, video, picture, p, main, div, li, svg","width_threshold":1600,"height_threshold":700,"debug":null}</script><script data-name="wpr-lcp-beacon" src='https://www.mosoah.com/wp-content/plugins/wp-rocket/assets/js/lcp-beacon.min.js' async type="70e18340d61cb720140f59de-text/javascript"></script><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="70e18340d61cb720140f59de-|49" defer></script></body>
+</html>
+
+
+
+
+
+
+

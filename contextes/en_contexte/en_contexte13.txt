@@ -1,0 +1,23 @@
+   Microprocessors and Digital Systems
+   Applications of a contemporary digital designs and microcontrollers
+   will be used to teach students digital logic, microcontroller
+   programming, and microcontroller interfacing. This course is intended
+   as a service course for non-electrical majors who have not taken the
+--
+   Microprocessors and Digital Systems Laboratory
+   This laboratory covers applications of microcontroller fundamentals.
+   Topics include digital logic, microcontroller programming and
+   interfacing. The activities for this course utilize typical
+   microcontroller and application hardware. (Prerequisites: MATH-111 or
+--
+   Microprocessors and Digital Systems
+   Applications of a contemporary digital designs and microcontrollers
+   will be used to teach students digital logic, microcontroller
+   programming, and microcontroller interfacing. This course is intended
+   as a service course for non-electrical majors who have not taken the
+--
+   Microprocessors and Digital Systems Laboratory
+   This laboratory covers applications of microcontroller fundamentals.
+   Topics include digital logic, microcontroller programming and
+   interfacing. The activities for this course utilize typical
+   microcontroller and application hardware. (Prerequisites: MATH-111 or

@@ -1,0 +1,857 @@
+
+     * [1]Saúde Pública
+          + [2]Lista alfabética de periódicos
+          + [3]Lista temática de periódicos
+          + [4]Busca
+          + [5]Métricas
+          + [6]Sobre: Saúde Pública
+          + [7]Contatos
+     * [8]SciELO.org - Rede SciELO
+          + [9]Coleções nacionais e temáticas
+          + [10]Lista alfabética de periódicos
+          + [11]Lista de periódicos por assunto
+          + [12]Busca
+          + [13]Métricas
+          + [14]Acesso OAI e RSS
+          + [15]Sobre a Rede SciELO
+          + [16]Contatos
+     * [17]Blog SciELO em Perspectiva
+
+   [18]Abrir menu
+
+[19]Saúde Pública
+
+     * [20]Cadernos de Saúde Pública
+            [21]Logomarca do periódico: Cadernos de Saúde Pública
+               o [22]Submissão de manuscritos
+               o [23]Sobre o periódico
+               o [24]Corpo Editorial
+               o [25]Instruções aos autores
+               o [26]Contato
+
+   [27]Español [28]English
+
+   [29]Abrir menu
+
+[30]Saúde Pública
+
+   [31]Español [32]English
+   [33]Cadernos de Saúde Pública
+       [34]Logomarca do periódico: Cadernos de Saúde Pública
+          + [35]Submissão de manuscritos
+          + [36]Sobre o periódico
+          + [37]Corpo Editorial
+          + [38]Instruções aos autores
+          + [39]Contato
+
+   [40]home do periodico
+   [41]sumário [42]« anterior [43]atual [44]seguinte »
+   [45]sumário [46]atual
+   [47]sumário [48]atual
+   [49]PDF
+   [50]PDF
+   Compartilhe
+     * Outras redes sociais
+     * [51]Google+
+     * [52]LinkedIn
+     * [53]Reddit
+     * [54]StambleUpon
+     * [55]CiteULike
+     * [56]Mendeley
+
+   [57]Sumário [58]PDF
+     * Compartilhe
+     * [59]E-mail
+     * [60]Facebook
+     * [61]Twitter
+     * [62]Google+
+     * [63]LinkedIn
+     * [64]Reddit
+     * [65]StambleUpon
+     * [66]CiteULike
+     * [67]Mendeley
+
+   [68]Atual
+
+                                                                    ARTIGO
+
+
+   Os movimentos sociais e sua relação com a questão da saúde
+
+
+
+   Lúcia Ribeiro
+
+   Socióloga e Pesquisadora Visitante do Departamento de Ciências Sociais
+   da Escola Nacional de Saúde Pública, pelo Convênio CNPq/Fiocruz
+
+
+     __________________________________________________________________
+
+   RESUMO
+
+   A temática dos movimentos sociais  tão relevantes hoje para as
+   ciências sociais  tem sido pouco analisada na sua relação com a
+   questão da saúde. A diversidade dos movimentos de saúde e a
+   heterogeneidade de sua base social também dificultam esta análise.
+   Para compreendê-los propõe-se distinguir duas dimensões: uma
+   estrutural, que se refere às necessidades e carências que lhes dão
+   origem e que se observam tanto a nível da situação de saúde/ doença
+   quanto dos serviços de saúde; outra cultural, relativa ao processo de
+   conscientização que se dá a partir do reconhecimento destas carências e
+   através do qual vão se explicitando idéias e valores que conformam o
+   significado cultural dos movimentos. No caso dos movimentos de saúde,
+   este parece centrar-se sobre três aspectos: um conceito global de
+   saúde, a igualdade no acesso aos serviços e a exigência de
+   participação.
+     __________________________________________________________________
+
+   ABSTRACT
+
+   The theme of social movements so relevant today to social sciences has
+   been scarcely analysed in its relationship to the health conditions.
+   The diversity of health movements and the heterogenity of its social
+   basis present difficulties for this analysis. To understand them, it is
+   proposed to distinguish two dimensions: a structural one, which refers
+   to needs and gaps which give origin to this diversity that can be
+   observed both at the level of the health/ illness situation and the
+   level of health services; and a cultural one, related to the process of
+   "conscientization" born from the recognition of these gaps and through
+   which ideas and values become compatible with the cultural meaning of
+   these movements. In the case of health movements, this seems to be
+   centered upon three aspects: a global concept of health, equality in
+   the access to health services and claim for participation.
+     __________________________________________________________________
+
+
+
+   A relação entre os movimentos sociais e a questão da saúde tem sido
+   pouco explorada, apesar de sua evidente relevância. Há muito poucas
+   análises e pesquisas a respeito e, naturalmente, avançar nesta área é
+   uma aventura ao mesmo tempo fascinante e perigosa.
+
+   Por outro lado, isto se dá em flagrante contraste com o enorme
+   desenvolvimento analítico que vem tendo, nos últimos anos, a temática
+   dos movimentos sociais. É verdade que se trata de um tema recente na
+   literatura sociológica: os primeiros trabalhos referentes aos
+   "movimentos sociais urbanos" começam a surgir, no Brasil, no final dos
+   anos 70 (Silva Telles, 1987); entretanto, esta problemática adquire,
+   rapidamente, notável importância. Isto se deve, basicamente, a dois
+   fatores: por um lado, verifica-se, neste caso, uma relação que se dá
+   freqüentemente entre o processo social, suas oscilações políticas,
+   econômicas e culturais e o fato de privilegiar certos temas nas
+   análises da realidade (Souza, 1987). Se nos anos 60, as ciências
+   sociais estudavam os processos de desenvolvimento e as teorias
+   "desenvolvimentistas" estavam em pleno auge, no final da década, em
+   face de seu esgotamento e das contradições que se agudizavam,
+   passava-se às teorias da marginalidade e da dependência (Cardoso,
+   1983); já nos anos 70 a arena da análise se deslocava para a sociedade
+   civil e, no momento atual, os movimentos sociais constituem uma das
+   temáticas mais relevantes, no campo das ciências sociais (Souza, 1987).
+   Além disso, esta relevância deve-se também ao fato de ter suscitado a
+   necessidade de reformular o próprio referencial. Já Moisés, em um dos
+   primeiros trabalhos sobre o tema, adverte: "se o conhecimento for
+   incapaz de refinar os seus instrumentos de análise, para apanhar uma
+   realidade que também é nova e distinta, fracassará nas funções a que se
+   auto-atribui" (Moisés 1982:29).
+
+   Este esforço se centrou, fundamentalmente, em iluminar uma área
+   anteriormente pouco conhecida e considerada cenário de "contradições
+   secundárias" já que a contradção principal se daria no campo da
+   produção. A esfera da reprodução ganha assim um estatuto teórico e os
+   movimentos que aí se dão passam a ter um lugar antes inexistente "nos
+   referenciais tradicionais voltados para a análise da classe operária na
+   fábrica no sindicato no partido" (Silva Telles, 1987:67). Silva Telles
+   identifica, nesta produção, uma verdadeira ruptura com as formas
+   tradicionais de se pensar a sociedade e a política: se estariam
+   construindo "novos critérios de inteligibilidade do social". É nesse
+   terreno de análise relativamente novo, e já tão relevante para as
+   ciências sociais hoje, que se situa a preocupação específica com a
+   questão da saúde.
+
+   Aqui se coloca mais um obstáculo: a enorme diversidade dos movimentos
+   de saúde existentes. Na realidade, esta diversidade não é mais que um
+   reflexo, nesta área específica, da que se verifica em âmbito mais
+   global. Com efeito, o enorme florescimento destes movimentos, no
+   Brasil, a partir sobretudo dos anos 70, assume formas as mais diversas,
+   que vão desde associações até movimentos rurais, como os sem-terra ou
+   os movimentos de barragens, passando por movimentos de mulheres,
+   comunidade de base da Igreja Católica, movimentos negros, sindicatos
+   profissionais ou movimentos ecológicos, para citar apenas alguns
+   exemplos.
+
+   Mas sua heterogeneidade não se restringe às formas; sua própria base
+   social foge a simplificações esquemáticas, já que muitas delas incluem
+   atores que provêm de classes ou grupos sociais diversificados. Isto se
+   verifica mesmo no interior de movimentos que agrupam basicamente as
+   classes subalternas, já que, ao contrário da situação "clássica" do
+   desenvolvimento capitalista, não se está diante de uma classe operária
+   "stricto sensu", mas de classes populares heterogêneas. ([69]1) Para
+   complicar ainda mais o quadro, os movimentos não são rigidamente
+   estruturados: atravessam ciclos (Frank, 1988) se transformam com as
+   conjunturas sócio-econômicas ou políticas; são, por sua própria
+   natureza, mutáveis. ([70]2)
+
+   Este quadro, amplamente diversificado, caracteriza também os movimentos
+   que dizem respeito à saúde, condicionados pela especificidade do
+   contexto socio-econômico e, de maneira particular, do panorama
+   nosológico no qual se incluem. Aqui, há que distinguir inicialmente os
+   movimentos que tomam esta questão como seu objetivo exclusivo, enquanto
+   outros a enfocam em conjunção com outros temas.
+
+   Existe também diversidade na sua base social; alguns movimentos dizem
+   respeito aos profissionais da área, como, por exemplo, os diversos
+   sindicatos profissionais ou o Movimento Sanitário ([71]3); outros se
+   referem basicamente aos setores populares que, em face das carências
+   que sofrem nesta área, se organizam para lutar por melhores condições
+   de saúde.
+
+   Por outro lado, há que distinguir ainda os movimentos que se poderiam
+   denominar "alternativos" centrados nos seus próprios recursos, buscando
+   a nível local solução para suas necessidades, defendendo uma volta às
+   raízes da medicina popular, formando agentes de saúde da comunidade ou
+   ainda descobrindo novas técnicas para lidar com o corpo. As
+   experiências ligadas ao MOPS (Movimento Popular de Saúde) ou alguns
+   projetos ligados à Igreja, por um lado e, por outro, grupos ligados aos
+   Movimentos Feministas, como o SOS Corpo, de Recife, exemplificariam
+   este tipo de movimentos.
+
+   A estes se contrapõem movimentos mais "clássicos", baseados em práticas
+   reivindicativas, como as associações de moradores ou os movimentos
+   sindicais, que vêem no Estado o seu principal interlocutor, responsável
+   por garantir a todos os serviços públicos nesta área ([72]4).
+
+   Este quadro extremamente heterogêneo e, ao mesmo tempo, relativamente
+   desconhecido e pouco analisado representa um duplo obstáculo: à
+   necessidade de distinções, soma-se também a exigência de descobrir, em
+   função das mesmas, um referencial teórico que permita a compreensão
+   desta realidade.
+
+   Este parecia fundamentar-se na explicitação dos mecanismos que
+   possibilitam a construção da identidade social dos movimentos e que se
+   dariam basicamente a nível de duas dimensões: uma estrutural, outra
+   cultural (Scherer-Warren, 1987).
+
+   A dimensão estrutural se refere basicamente à situação de carência e de
+   necessidade que estaria na raiz de qualquer movimento social (Evers et
+   al., 1985).
+
+   Esta idéia, na sua generalidade e simplicidade, foi uma das primeiras a
+   ser formulada, na tentativa de explicar a emergência da mobilização
+   social.
+
+   Aprofundando esta perspectiva, a partir da problemática urbana,
+   estudiosos europeus, como Castells e Borja, desenvolveram o conceito de
+   "movimentos sociais urbanos", entendidos como "sistemas de práticas
+   sociais contraditórias que controvertem a ordem estabelecida a partir
+   das contradições específicas da problemática urbana" (Castells,
+   1976:3). A primeira destas contradições diz respeito ao aumento
+   crescente das exigências do consumo coletivo, decorrentes do próprio
+   desenvolvimento capitalista, contrapostas à incapacidade do sistema
+   para resolvê-las satisfatoriamente; a segunda se refere ao modo
+   individual de apropriação das condições de vida e o modo coletivo de
+   gestão deste processo.
+
+   Estas duas contradições determinam a presença necessária ao Estado na
+   gestão dos problemas urbanos; esta intervenção, entretanto, só se
+   realiza dentro da lógica imposta pelas forças sociais existentes: na
+   medida em que o Estado expressa, em última instância, os interesses das
+   classes dominantes, sua presença termina por implicar dominação e
+   integração; é neste contexto que emergem os movimentos sociais urbanos
+   (Castells, 1986). Assim, na gênese destes movimentos, estariam as
+   "novas necessidades" resultantes do desenvolvimento das forças
+   produtivas, contrapostas aos objetivos de uma política que não as
+   prioriza.
+
+   Este pensamento teve, inicialmente, uma enorme influência nos estudos
+   realizados no Brasil. Entretanto, embora se mantivesse a mesma
+   perspectiva teórica, baseada na denominada "questão urbana", não foi
+   difícil perceber que, no contexto do capitalismo periférico, esta
+   adquiria uma intensificação e uma gravidade impensáveis na realidade do
+   capitalismo avançado, que havia servido de pano de fundo para a
+   reflexão européia. No Brasil, o modo de acumulação de "base pobre"
+   implicou a ativação de mecanismos de superexploração da força de
+   trabalho, e na minimização da participação privada e, particularmente,
+   do Estado, nos custos de reprodução desta força de trabalho (Moisés,
+   1985). Kowarick também acentua esta dimensão, ao caracterizar, por um
+   lado, o processo de pauperização relativa ou absoluta resultante das
+   condições de exploração da força de trabalho e, por outro, o que
+   denomina espoliação urbana: "somatória de extorções que se opera
+   através da inexistência ou precariedade de serviços de consumo coletivo
+   que se apresentam como socialmente necessários em relação aos níveis de
+   subsistência das classes trabalhadoras e que agudizam ainda mais a
+   dilapidação que se realiza no âmbito das relações de trabalho"
+   (Kowarick, 1985:30).
+
+   Estas formulações permitiram uma compreensão mais clara dos processos
+   que estariam na base dos movimentos sociais urbanos no Brasil (Jacobi e
+   Nunes, 1983).
+
+   Entretanto, a evolução das análises veio mostrar que não bastava
+   "adaptar" o pensamento europeu às especificidades do capitalismo
+   periférico. Novos problemas se colocavam: alguns autores questionavam o
+   que consideravam uma "transposição acrítica" (Machado e Ziccardi,
+   1979). Impunha-se a revisão do próprio instrumental de análise, no
+   sentido de averiguar até que ponto poderia dar conta da complexidade
+   das novas realidades no Brasil.
+
+   Outros autores questionam o caráter da gestão estatal, que não seria o
+   mesmo, no capitalismo avançado ou numa realidade social como a
+   brasileira (Jacobi, 1985; Machado e Ziccardi, 1979).
+
+   Finalmente, tem havido também discussões sobre o risco de economicismo,
+   (Moisés, 1985) inerente a uma análise que faz derivar do âmbito
+   macroestrutural mobilizações concretas (Jacobi, 1985). A ênfase nas
+   condições materiais objetivas poderia obscurecer a importância de
+   fatores socio-culturais e políticos na compreensão da emergência das
+   mobilizações. Levada às últimas conseqüências, esta perspectiva poderia
+   "desembocar numa linearidade teórica que equaciona o acirramento das
+   contradições com o aprofundamento dos conflitos sociais" (Kowarick,
+   1986).
+
+   O processo, certamente, é bem mais complexo. A simples situação de
+   privação econômica não é suficiente para explicar a mobilização social,
+   nem pode considerar-se sua única causa (Kärner, 1987). Não há dúvida
+   que o grau de carências em que vive a maior parte da população é um
+   ponto de partida imprescindível; isto é ainda mais verdadeiro num país
+   onde os níveis mínimos de subsistência precisam ainda ser conquistados
+   para grande parte da população. Mas é justamente a gravidade desta
+   situação que leva à comprovação de que "a miséria não leva
+   necessariamente à mobilização; as interpretações mecanicistas de que as
+   mobilizações populares são conseqüência da espoliação urbana esbarram
+   nos dados da própria realidade brasileira. Em um país onde 61,2% da
+   população economicamente ativa não chegam a receber nem dois salários
+   mínimos mensais e está abaixo do que é considerado a "linha da
+   pobreza", se esta hipótese fosse verdadeira, já teríamos há muito um
+   governo popular-revolucionário no Brasil. (Caccia-Bava, 1987).
+
+   A mobilização só se dá quando há uma tomada de consciência coletiva da
+   situação de privação levando à organização do grupo para reivindicar
+   seus direitos; entre estes se inclui justamente, como ponto de partida,
+   "o simples reconhecimento de sua situação de exclusão social e a
+   possibilidade de lutar por melhores condições de sobrevivência"
+   (Moisés, 1985:26).
+
+   Neste processo de reconhecimento e defesa dos próprios direitos o
+   movimento vai se constituindo; isto implica, simultaneamente, a
+   formulação de uma "visão de mundo": orientações, princípios e valores
+   que conferem ao movimento um significado cultural.E é na conjunção
+   destas duas dimensões estrutural e cultural que se constrói sua
+   identidade (Scherer-Warren, 1987:40).
+
+   Vários autores, trabalhando numa linha que, segundo Kowarick, constitui
+   uma "rica veia interpretativa", vêm enfatizando o significado cultural
+   dos movimentos sociais (Kowarick, 1986).
+
+   Trata-se de ir descobrindo os resultados de um processo que não
+   corresponde a nenhum projeto preconcebido, mas emerge da prática
+   cotidiana dos movimentos. É a partir do seu trabalho de base, e da
+   discussão localizada sobre os problemas do dia-a-dia, que milhares de
+   grupos em centenas de cidades estariam forjando um novo tipo de
+   discurso: valores, aspirações, utopias (Kowarick, 1986).
+
+   Partindo do reconhecimento das formas de opressão e de dominação, esta
+   cultura que se vai construindo traz uma dimensão critica e basicamente
+   anti-autoritária. Seus elementos ainda que fragmentários e dispersos,
+   podem ser reconhecidos através da diversidade das práticas dos
+   movimentos; entre eles, os valores centrais parecem ser os princípios
+   da igualdade e da democracia (Barreira, 1987), implicando uma exigência
+   de participação (Jacobi e Nunes, 1983), entendida como presença ativa
+   na tomada de decisões (Evers et al., 1985) ou mesmo como tentativa de
+   autogestão das bases, apontando para caminhos de auto-regulação da
+   sociedade (Krischke, 1987).
+
+   Scherer-Warren sistematiza melhor estes diversos aspectos, agrupando-os
+   em torno de três eixos:
+
+   1) reação às formas autoritárias, propondo democracia (direta, de base
+   ou representativa);
+   2) reação às formas centralizadoras do poder, defendendo autonomias
+   locais e sistemas de autogestão;
+   3) reação ao caráter excludente no modelo econômico, encaminhando novas
+   formas de vida mais comunitária (Scherer-Warren, 1987).
+
+   Nesta busca de valores próprios, vai-se construindo uma identidade que
+   significa afirmar-se como sujeitos de sua própria história. Isto
+   implica uma autopercepção realista de suas próprias características,
+   potenciais e limitações, superando falsas identidades outorgadas de
+   fora.
+
+   Naturalmente, o discurso que resulta deste processo é ainda
+   fragmentário, desorganizado e muitas vezes contraditório. Corresponde,
+   de certo modo, à própria fragilidade e inorganicidade dos movimentos.
+   Por suas práticas localizadas e referidas a reivindicações específicas,
+   os movimentos sociais não são capazes de articular um projeto global e
+   acabado para a sociedade na qual se inscrevem (Caccia-Bava, 1987) e
+   menos ainda de formular propostas políticas sistematicamente
+   estruturadas e imediatamente aplicáveis. Neste sentido, é possível
+   afirmar que seu potencial transformador assume muito mais uma dimensão
+   socio-cultural do que estritamente política (Evers, 1984), cabendo a
+   esta última, tradicionalmente, os partidos. Os movimentos não pretendem
+   substituí-los: o princípio de autonomia, em relação às orientações
+   político-partidárias, se coloca reiteradamente em seu discurso, como um
+   dos seus fundamentos mesmo que, na prática, a relação seja bem mais
+   complexa e não isenta de ambigüidades.
+
+   A esta desarticulação dos movimentos, haveria que acrescentar um outro
+   fator, para compreender a "desorganização" do seu discurso: os
+   movimentos sociais estão inseridos em um contexto socio-político no
+   qual prevalecem os valores dominantes; estes exercem uma pressão
+   permanente sobre os elementos emergentes, que estariam se dando na
+   "franja contestadora da sociedade". Enquanto os primeiros constituiriam
+   sua face visível, estruturada e dominante, os últimos seriam a sua
+   "face oculta" (Evers, 1984). Esta aparece, portanto, permeada de
+   contradições e freqüentemente distorcida pelos valores dominantes.
+
+   Apesar de tudo isso, os elementos culturais, forjados nos movimentos,
+   parecem trazer em si um projeto emancipatório (Evers, 1984). Ainda que
+   não constituam um projeto político acabado, abrem pistas para uma
+   transformação social mais global.
+
+   Estas pistas é que necessitam ser descobertas e reconhecidas, através
+   da pesquisa cuidadosa e paciente. Tal esforço, evidentemente, está
+   sempre sujeito a riscos, enganos ou superestimações, e só uma visão
+   permanentemente crítica, despojando-se de preconceitos e de avaliações
+   ideológicas preestabelecidas poderá evitá-los. Também Souza alerta para
+   este risco: "o imaginário social, se não estiver rigorosamente ancorado
+   nas tramas das contradições reais, se confunde facilmente com a
+   imaginação ou os desejos dos analistas, ou surge em alguns como
+   compensação de suas esperanças frustradas em tempos anteriores de
+   militância política que os fizeram abortar" (Souza, 1987). Sugere então
+   que a busca de novas abordagens não esqueça elementos significativos
+   acumulados nas análises anteriores.
+
+   Isto implica, concretamente, situar o discurso que vem sendo formulado
+   pelos movimentos sociais no contexto social que lhes deu origem,
+   levando em conta sua permanente interação com outros autores sociais.
+
+   Já nos referimos à relação com os partidos políticos; é indispensável
+   analisar também a relação com o Estado, as classes, a Igreja, os
+   profissionais e técnicos. São estas mediações cuja análise será
+   desenvolvida em trabalhos posteriores que permitem compreender o
+   significado cultural dos movimentos sociais.
+
+
+   OS MOVIMENTOS DE SAÚDE
+
+   A reflexão desenvolvida até aqui pode fornecer elementos para captar o
+   que se passa, de maneira mais específica, nos movimentos sociais que
+   dizem respeito à área da saúde.
+
+   O que se pretende é levantar algumas questões pertinentes para a sua
+   compreensão. Longe de afirmar certezas definitivas sobre uma temática
+   bastante controvertida, busca-se simplesmente abrir a discussão e
+   levantar algumas pistas para futuros aprofundamentos.
+
+   Retomando a linha anteriormente explicitada, é possível perceber,
+   também para os movimentos de saúde, as duas dimensões básicas, na
+   construção de sua identidade social.
+
+   A dimensão estrutural diz respeito às carências que se observam na área
+   da saúde, e que se centram na questão dos serviços de saúde, embora não
+   se limitem a estes.
+
+   As contradições que resultam de um processo de desenvolvimento
+   desigual, característico do modelo adotado pelo país, reflete-se também
+   na situação de saúde: às doenças típicas de zonas pouco desenvolvidas
+   se somam as que são prevalentes em países industrializados.
+
+   Face a este quadro, o sistema oficial de serviços de saúde se revela
+   ainda inadequado, tanto do ponto de vista quantitativo como
+   qualificativo; é verdade que estes serviços se ampliaram
+   significativamente nos últimos anos e nisto o Estado jogou um papel
+   central; isto não significa, entretanto, que as verdadeiras
+   necessidades da população tenham sido satisfeitas: não apenas esta
+   expansão está longe de chegar a uma total cobertura, como, por outro
+   lado, a diferenciação da prática médica que se expressa
+   fundamentalmente no seu caráter privado ou público é uma realidade,
+   condicionada essencialmente pela situação de classe dos diferentes
+   grupos sociais.
+
+   Entretanto, aqui também não se pode derivar mecanicamente as
+   mobilizações sociais da existência das carências nesta área. Por
+   maiores que sejam estas, só se transformam em motor das mobilizações na
+   medida em que são vivenciadas e reconhecidas como tais: é este processo
+   de tomada de consciência que leva à reivindicação dos próprios
+   direitos. E, neste processo, vão se explicitanto valores, que conformam
+   à dimensão cultural dos movimentos e vão construindo, no campo da
+   saúde, um discurso próprio.
+
+   Estes valores dizem respeito, basicamente, a três aspectos:
+
+   1) ao conceito global de saúde  Na medida em que os movimentos
+   reconhecem, na saúde, uma dimensão coletiva  e não apenas um problema
+   pessoal pelo qual cada um é individualmente responsável se explicita,
+   também, seu condicionamento social: a situação de saúde depende
+   diretamente das condições de vida, e não se resolve independentemente
+   destas; o direito à saúde implica trabalho em condições dignas,
+   alimentação para todos, moradia higiênica, educação e informação,
+   qualidade adequada do meio ambiente, transporte acessível e seguro,
+   descanso, lazer e segurança (Costa, 1986);
+
+   2) à igualdade no acesso aos serviços de saúde  Na reivindicação de
+   ''saúde para todos" se inclui o direito a serviços de saúde
+   universalmente acessíveis e gratuitos, o que implica a responsabilidade
+   do Estado;
+
+   3) à exigência de participação  A necessidade de se assumir enquanto
+   sujeito e de falar em primeira pessoa se impõe, já que a própria
+   percepção da situação e de suas causas encontra seus parâmetros na
+   posição que os setores sociais ocupam na estrutura social. Cada setor
+   tem uma maneira própria de pensar sua inserção na sociedade, tomando
+   como ponto de partida sua situação de vida. Esta interpretação diversa
+   da realidade está na base da exigência de fazer ouvir sua voz e de
+   participar efetivamente para poder solucionar seus problemas. Tal
+   percepção da participação, como um valor, se origina e ao mesmo tempo
+   se expressa na prática dos movimentos.
+
+   No caso da saúde, assumir-se como sujeitos de sua própria vida  "ser
+   dono de sua saúde e participante de sua cura" (Carvalho, 1986) implica,
+   para os movimentos, participar especificamente, no planejamento, gestão
+   e avaliação de ações de saúde, especialmente a nível local.
+
+   Naturalmente, esta sistematização analítica nem sempre se dá na prática
+   dos movimentos concretos. Aqui também a distinção tem sobretudo um
+   valor heurístico, formulando hipóteses do que poderiam ser os eixos
+   sobre os quais se constrói seu discurso.
+
+   Tampouco trata-se de um discurso exclusivo ou original: os valores que
+   vão configurando o perfil ideológico dos movimentos não brotaram
+   espontaneamente de zero, mas se inscrevem num processo conjunto, no
+   qual a atuação de diversas mediações é fundamental.
+
+   Entre estas, cabe destacar a relação com os técnicos e profissionais da
+   saúde sobretudo no caso dos movimentos de base popular; a relação com
+   os partidos e grupos políticos; a relação com as Igrejas, e de modo
+   especial a Igreja católica; e a própria relação com o Estado, marcada
+   por ambigüidades e contradições, mas central na compreensão do
+   processo.
+
+   Só a análise conjunta destas múltiplas relações permite apreender, na
+   sua globalidade, o processo pelo qual os movimentos vão construindo sua
+   identidade.
+
+   Por outro lado, ao tratar de dar respostas aos problemas concretos que
+   se colocam, este processo se particulariza e se especifica, no caso de
+   cada movimento. Sua análise exige, por isto mesmo, pesquisas cuidadosas
+   e pormenorizadas, que, em grande parte, estão ainda por se fazer.
+
+   A imensidade da tarefa, entretanto, não deve desanimar; pode ser vista,
+   ao contrário, como um desafio: sem o (re) conhecimento das pistas
+   abertas pelos movimentos sociais, será impossível pensar as
+   possibilidades de uma verdadeira democratização da saúde.
+
+
+   NOTAS
+
+   [73]1) A noção de "classes populares", embora necessite ser
+   teoricamente aprofundada, tem um grande valor heurístico, ao apontar
+   para a complexidade dos setores subalternos, socialmente heterogêneos;
+   por isto mesmo, vem sendo crescentemente utilizada na literatura
+   sociológica, sobretudo por autores que estudam os movimentos sociais,
+   (ver, por exemplo, Lúcio Kowarick, José Alvaro Moisés e Luiz Alberto G.
+   de Souza, cujas obras constam da presente bibliografia).
+
+   [74]2) O título de uma das mais recentes análises sobre o tema é
+   sugestivo: "Caminhos e descaminhos dos movimentos sociais no campo" de
+   Cândido Grzybowski  Ed. Vozes Petrópolis, 1987.
+
+   [75]3) Ver a análise de BOSCHI (1987) sobre o movimento dos médicos, no
+   capítulo "Um ator organizado: Associações profissionais e sindicalismo
+   de classe média" e a dissertação de mestrado de MORAES, Sarah Escorel
+   de  Reviravolta na Saúde  Origem e articulação do Movimento
+   Sanitário. Escola Nacional de Saúde Pública FIOCRUZ  Rio de Janeiro,
+   1987.
+
+   [76]4) As experiências participativas ligadas ao próprio Governo
+   Municipal ou Estadual, como as citadas por LEITÃO, Célia, "Participação
+   popular nos programas de saúde" in A saúde em estado de choque  (op.
+   cit.) representam também novos espaços de participação popular, embora
+   talvez não possam ser consideradas estritamente como movimentos
+   sociais.
+
+
+   REFERÊNCIAS BIBLIOGRÁFICAS
+
+   BARREIRA, Irlys Alencar F. - Movimentos urbanos e política: questões da
+   teoria e da prática. Trabalho apresentado ao XI Encontro Anual da
+   ANPOCS - Mimeo - Águas de São Pedro, outubro de 1987.
+
+   BORJA, Jordi - Movimientos sociales urbanos Siap - Buenos Aires,
+   1975.
+
+   BOSCHI, Renato Raul - A arte da associação Co-edição Vértice e IUPERJ -
+   São Paulo/Rio de Janeiro, 1937.
+
+   CACCIA-BAVA, Silvio - As lutas pela terra em São Paulo - Ocupações da
+   ANPOCS - Mimeo - Águas de São Pedro, outubro de 1987.
+
+   CARDOSO, Ruth C. "Movimentos sociais urbanos: balanço crítico" in SORJ,
+   Bernardo e ALMEIDA, Maria Hermínia T. (org.) - Sociedade e política no
+   Brasil pós-64 - 2ª edição, Brasiliense - São Paulo, 1984.
+
+   CARVALHO, Josiane M. P. Lechat - "Entre a zona canavieira e o sertão de
+   Pernambuco: um projeto de educação e saúde", in MINAYO, M. Cecília de
+   Souza (org.) - A saúde em estado de choque co-edição Espaço e Tempo e
+   FASE - Rio de Janeiro, 1986.
+
+   CASTELLS, Manuel - Movimientos sociales urbanos - 2ª edição. Siglo
+   Veintiuno - Buenos Aires, 1976.
+
+   ______ - Cidade, democracia e socialismo Paz e Terra - Rio de Janeiro,
+   1980.
+
+   COSTA, Nilson do Rosário - "Saúde igual direito à vida" in MINAYO, M.
+   Cecília de Souza (org.) - A saúde em estado de choque Co-edição Espaço
+   e Tempo e FASE  Rio de Janeiro, 1986.
+
+   EVERS, Tilman  "Identidade, a face oculta dos novos movimentos
+   sociais" in: Novos Estudos CEBRAP, vol. 2  4  São Paulo, Abril,
+   1984.
+
+   ______ et alii  "Movimentos de bairro e Estado: Lutas na esfera da
+   reprodução na América Latina" in MOISÉS, José Álvaro et alii Cidade,
+   povo e poder  2ª edição  Paz e Terra, Rio de Janeiro, 1985.
+
+   FRANK, André Gunder e FUENTES, Marta  "Nine thesis on social
+   movements" in IFDA Dossier 63  International Foundation for
+   development alternatives jan/fev., 1988. Nyon  Suíça.
+
+   JACOBI, Pedro Roberto  Políticas públicas de saneamento básico e saúde
+   e reivindicações sociais no Município de São Paulo  1974/1984 
+   Dissertação de Doutorado em Sociologia  Mimeo, São Paulo,
+   1985.
+
+   ______ e NUNES, Edson  "Movimentos sociais urbanos na década de 80:
+   mudanças na teoria e na prática" in Espaço e Debates  nº 10  NERU 
+   São Paulo, 1983.
+
+   KÄRNER, Hartmut "Movimentos sociais: revolução no cotidiano" in
+   SCHERER-WARREN, Ilse e KRISCHKE, Paulo J. (org.) - Uma revolução no
+   cotidiano? Os novos movimentos sociais na América Latina  Brasiliense
+    São Paulo, 1987.
+
+   KOWARICK, Lúcio  "O preço do progresso: crescimento econômico,
+   pauperização e espoliação urbana" in MOISÉS, J. A. et alii.  Cidade,
+   povo e poder  2ª edição  Paz e Terra, Rio de Janeiro, 1985.
+
+   ______  Movimentos urbanos no Brasil contemporâneo: uma análise da
+   literatura. Mimeo  São Paulo, 1986.
+
+   KRISCHKE, Paulo J.  "Movimentos sociais e transição política:
+   contribuições da democracia de base" in Uma revolução no cotidiano? ...
+   op. cit.
+
+   MACHADO DA SILVA, Luiz Antonio e ZICCARDI, Alicia - Notas para uma
+   discussão sobre os movimentos sociais urbanos IUPERJ  Mimeo  Rio de
+   Janeiro, 1979.
+
+   MOISÉS, José Álvaro. "O Estado, as contradições urbanas e os movimentos
+   sociais", in MOISÉS, J. A. et alii  Cidade, povo e poder, 2ª edição,
+   Paz e Terra. Rio de Janeiro, 1985.
+
+   SCHERER-WARREN, Ilse  "O caráter dos novos movimentos sociais" in Uma
+   revolução no cotidiano? ...  Op. cit.
+
+   SOUZA, Luiz Alberto Gómez de  Classes populares e Igreja nos caminhos
+   da história  Petrópolis, 1982.
+
+   ______  Resenha temática: movimentos sociais no Brasil  Centro João
+   XXIII  Mimeo  Rio de Janeiro, 1987.
+
+   TELLES, Vera da Silva  "Movimentos Sociais: reflexões sobre a
+   experiência dos anos 70" in Uma revolução no cotidiano? ...  Op. cit.
+
+   VIOLA, Eduardo e MAINWARING, Scott  "Novos movimentos sociais, cultura
+   política e democracia: Brasil e Argentina" in Uma revolução no
+   cotidiano? ... Op. cit.
+
+     *
+          +
+          +
+          +
+
+     *
+          +
+          +
+          +
+          +
+          +
+          +
+
+   Escola Nacional de Saúde Pública Sergio Arouca, Fundação Oswaldo Cruz
+   Rio de Janeiro - RJ - Brazil
+   E-mail: cadernos@ensp.fiocruz.br
+   Acompanhe os números deste periódico no seu leitor de RSS
+
+   (BUTTON) ×Fechar
+
+Versão para download de PDF
+
+   PDF
+     * [77]Português
+
+   (BUTTON) × Fechar
+
+Artigos relacionados
+
+     * [78]Google
+     * [79]Google Scholar
+
+   (BUTTON) ×Close
+
+Versões e tradução automática
+
+   Versão original do texto
+     * [80]Português
+
+   Tradução automática
+     * [81]Google Translator
+     * [82]Microsoft Translator
+
+   SciELO - Scientific Electronic Library Online
+   Av. Onze de Junho, 269 - Vila Clementino 04041-050 São Paulo SP -
+   Brazil
+   Tel.: (55 11) 5083-3639/59 E-mail: scielo@scielo.org
+
+   [83]FAPESP [84]CAPES [85]CNPQ [86]BVS [87]BIREME [88]FAP
+
+   [89]Open Access Leia a Declaração de Acesso Aberto
+
+   (BUTTON) ×Fechar
+
+Métricas
+
+   [90]
+   SciELO Analytics
+
+   (BUTTON) ×Close
+
+Mensagem
+
+   (BUTTON) ×Close
+
+Mensagem
+
+Références
+
+   Liens visibles :
+   1. file:///
+   2. file:///journals/alpha?status=current
+   3. file:///journals/thematic?status=current
+   4. file://search.scielo.org/?q=*&lang=pt&filter[in][]=spa
+   5. http://analytics.scielo.org/?collection=spa
+   6. file:///about/
+   7. file:///about/
+   8. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+   9. file://www.scielo.org/
+  10. file://www.scielo.org/pt/periodicos/listar-por-ordem-alfabetica/
+  11. file://www.scielo.org/pt/periodicos/listar-por-assunto/
+  12. file://search.scielo.org/
+  13. http://analytics.scielo.org/
+  14. file://www.scielo.org/pt/sobre-o-scielo/acesso-via-oai-e-rss/
+  15. file://www.scielo.org/pt/sobre-o-scielo/
+  16. file://www.scielo.org/pt/sobre-o-scielo/contato/
+  17. file://blog.scielo.org/
+  18. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  19. file:///
+  20. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  21. file:///j/csp/
+  22. http://cadernos.ensp.fiocruz.br/csp/index.php
+  23. file:///journal/csp/about/#about
+  24. file:///journal/csp/about/#editors
+  25. file:///journal/csp/about/#instructions
+  26. file:///journal/csp/about/#contact
+  27. file:///set_locale/es/
+  28. file:///set_locale/en/
+  29. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  30. file:///
+  31. file:///set_locale/es/
+  32. file:///set_locale/en/
+  33. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  34. file:///j/csp/
+  35. http://cadernos.ensp.fiocruz.br/csp/index.php
+  36. file:///journal/csp/about/#about
+  37. file:///journal/csp/about/#editors
+  38. file:///journal/csp/about/#instructions
+  39. file:///journal/csp/about/#contact
+  40. file:///j/csp/
+  41. file:///j/csp/i/1989.v5n3/
+  42. file:///article/csp/1989.v5n3/251-263/
+  43. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  44. file:///article/csp/1989.v5n3/276-283/
+  45. file:///j/csp/i/1989.v5n3/
+  46. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  47. file:///j/csp/i/1989.v5n3/
+  48. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  49. file:///pdf/csp/1989.v5n3/264-275/pt
+  50. file:///pdf/csp/1989.v5n3/264-275/pt
+  51. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  52. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  53. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  54. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  55. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  56. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  57. file:///j/csp/i/1989.v5n3/
+  58. file:///pdf/csp/1989.v5n3/264-275/pt
+  59. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  60. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  61. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  62. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  63. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  64. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  65. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  66. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  67. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  68. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  69. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html#back1
+  70. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html#back2
+  71. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html#back3
+  72. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html#back4
+  73. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html#top1
+  74. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html#top2
+  75. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html#top3
+  76. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html#top4
+  77. file:///pdf/csp/1989.v5n3/264-275/pt
+  78. https://www.google.com/search?q="Os movimentos sociais e sua relação com a questão da saúde" "Ribeiro, Lúcia" "1989" "Cadernos de Saúde Pública"
+  79. https://scholar.google.com/scholar?q="Os movimentos sociais e sua relação com a questão da saúde" "Ribeiro, Lúcia" "1989" "Cadernos de Saúde Pública"
+  80. file:///article/csp/1989.v5n3/264-275/pt/
+  81. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  82. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  83. http://www.fapesp.br/
+  84. http://www.capes.gov.br/
+  85. http://www.cnpq.br/
+  86. http://bvsalud.org/
+  87. http://regional.bvsalud.org/bvs/bireme/homepage.htm
+  88. http://www.fapunifesp.edu.br/
+  89. file:///about/
+  90. http://analytics.scielo.org/w/accesses?document=S0102-311X1989000300003&collection=spa
+
+   Liens cachés :
+  92. file://localhost/j/csp/
+  93. file://localhost/article/csp/1989.v5n3/251-263/
+  94. file://localhost/article/csp/1989.v5n3/276-283/
+  95. file://localhost/j/csp/
+  96. file://localhost/article/csp/1989.v5n3/251-263/
+  97. file://localhost/article/csp/1989.v5n3/276-283/
+  98. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  99. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+ 100. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+ 101. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+ 102. file://localhost/j/csp/
+ 103. javascript:;
+ 104. file://localhost/article/csp/1989.v5n3/251-263/
+ 105. file://localhost/article/csp/1989.v5n3/276-283/
+ 106. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html#top
+ 107. javascript:;
+ 108. javascript:;
+ 109. javascript:;
+ 110. javascript:;
+ 111. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html#top
+ 112. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+ 113. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+ 114. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+ 115. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+ 116. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+ 117. file://localhost/journal/csp/feed/
+ 118. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html

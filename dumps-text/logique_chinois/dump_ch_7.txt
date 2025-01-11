@@ -1,0 +1,552 @@
+   #alternate 编辑本页 Wikipedia (zh) alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+   Wikipedia的Atom feed
+
+   跳转到内容
+
+   [ ] 主菜单
+   主菜单
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   导航
+     * 首页
+     * 分类索引
+     * 特色内容
+     * 新闻动态
+     * 最近更改
+     * 随机条目
+
+   帮助
+     * 帮助
+     * 维基社群
+     * 方针与指引
+     * 互助客栈
+     * 知识问答
+     * 字词转换
+     * IRC即时聊天
+     * 联络我们
+     * 关于维基百科
+
+   维基百科 自由的百科全书
+   搜索
+   ____________________
+   (BUTTON) 搜索
+
+   [ ] 外观
+
+     * 资助维基百科
+     * 创建账号
+     * 登录
+
+   [ ] 个人工具
+     * 资助维基百科
+     * 创建账号
+     * 登录
+
+   未登录编辑者的页面 了解详情
+     * 贡献
+     * 讨论
+
+目录
+
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+     * 序言
+     * 1 古代辩证逻辑学
+     * 2 近代辩证逻辑学
+     * 3 黑格尔矛盾逻辑
+     * 4 经典逻辑和矛盾逻辑学的关系
+       (BUTTON) 开关经典逻辑和矛盾逻辑学的关系子章节
+          + 4.1 逻辑学
+          + 4.2 亚里士多德逻辑学的三段论
+          + 4.3 矛盾逻辑学的三段论
+     * 5 康德的历史逻辑学新三段论和达尔文的物种进化论的关系
+     * 6 黑格尔辩证逻辑学和马列辩证逻辑学的关系
+     * 7 辩证逻辑学和当代科学的关系
+     * 8 康德历史辩证逻辑学和弗洛伊德精神分析学的关系
+     * 9 延伸阅读
+     * 10 参考资料
+
+   [ ] 开关目录
+
+辩证逻辑
+
+   [ ] 15种语言
+     * العربية
+     * Azərbaycanca
+     * Български
+     * Català
+     * Čeština
+     * English
+     * Español
+     * Eesti
+     * Magyar
+     * Қазақша
+     * Кыргызча
+     * Русский
+     * Slovenčina
+     * Türkçe
+     * Oʻzbekcha / ўзбекча
+
+   编辑链接
+
+     * 条目
+     * 讨论
+
+   [ ] 大陆简体
+     * 不转换
+     * 简体
+     * 繁體
+     * 大陆简体
+     * 香港繁體
+     * 澳門繁體
+     * 大马简体
+     * 新加坡简体
+     * 臺灣正體
+
+     * 阅读
+     * 编辑
+     * 查看历史
+
+   [ ] 工具
+   工具
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   操作
+     * 阅读
+     * 编辑
+     * 查看历史
+
+   常规
+     * 链入页面
+     * 相关更改
+     * 上传文件
+     * 特殊页面
+     * 固定链接
+     * 页面信息
+     * 引用此页
+     * 获取短链接
+     * 下载二维码
+
+   打印/导出
+     * 下载为PDF
+     * 打印版本
+
+   在其他项目中
+     * 维基数据项目
+
+   外观
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   维基百科，自由的百科全书
+   本条目存在以下问题，请协助改善本条目或在讨论页针对议题发表看法。
+   [50px-Ambox_question.svg.png]
+   此条目的中立性和准确性都存在争议。 (2021年6月27日)
+   挂上此模板的编辑者需在对话页说明本文准确性及正确性有争议的原因，以便让各编辑者讨论和改善。
+   在编辑之前请务必察看讨论页。
+   [40px-Unbalanced_scales.svg.png]
+   此条目可能包含原创研究。 (2021年6月27日)
+   请协助补充参考资料、添加相关内联标签和删除原创研究内容以改善这篇条目。详细情况请参见讨论页。
+   此条目需要精通或熟悉哲学的编者参与及协助编辑。 (2021年6月27日)
+   请邀请适合的人士改善本条目。更多的细节与详情请参见讨论页。
+   另见其他需要哲学专家关注的页面。
+
+   辩证逻辑（Dialectical Logic），是在黑格尔和马克思主义哲学中辩证法部分中，发展起来的思想规律体系；
+   有观点认为辩证法特点为，拒绝经典逻辑中的无矛盾律^[1]， 旨在并补充或取代形式化的经典逻辑。
+   辩证逻辑和形式逻辑之间关系的确切性质在苏联和中国内部引起了激烈争论。与传统逻辑的抽象形式主义相反，马克思主义意义上的辩证逻辑被发展为运动和变化
+   的逻辑，用于考察具体形式^[2]。
+
+   也有观点认为，辩证法家的主要共识是辩证法不违反形式逻辑的无矛盾律，尽管已经尝试拒绝无矛盾律的次协调逻辑来研究辩证法^[3]。
+
+   中苏分裂期间，辩证逻辑在中国被用作马克思列宁主义的象征，反对苏联恢复形式逻辑。^[4]
+
+   近年来，中国的逻辑学家也对将辩证法形式化进行了有关研究， 涉及利用次协调逻辑,多值逻辑和相干逻辑 ^[5]。
+
+古代辩证逻辑学
+
+   [编辑]
+
+   在已知的散布于世界各地的古代农业文明中，这种相互对立的矛盾逻辑和相容逻辑，常常被共容互渗在同一个思想体系内。比如，古代中国的“易经”，“道德经
+   ”，“孙子兵法”；古代印度的“奥义书”，“华严经”等等，以及古希腊普罗泰戈拉和高尔吉亚所代表的诡辩派。可是，在古希腊，无矛盾的亚里士多德逻辑学
+   取得了一边倒的巨大优势，使得与之对立的普罗泰戈拉的矛盾逻辑学说就失传了，而且他的著作也被随之焚烧掉了。由于缺乏有力的历史依据，使得现在无法确认
+   希腊人是否已经创造了完整体系的“古代辩证逻辑学”这一学科。古代中国的“易经”，“道德经”，古代印度的“奥义书”，“华严经”，皆可被视为完整体系
+   的“古代辩证逻辑学”之一。
+
+近代辩证逻辑学
+
+   [编辑]
+
+   黑格尔逻辑学是近代矛盾逻辑的代表性学说，他是近代辩证逻辑学之父，“近代辩证逻辑学”这一完整体系的学科，以独立的分册形式被明确地列入“黑格尔哲学
+   全书”中。他和亚里士多德逻辑学的最大不同是，对于逻辑矛盾，不是简单地肯定一方而彻底否定对立的一方。比如，他在如何解决“生”和“死”这对矛盾双方
+   的时候，不像亚里士多德逻辑那样，在任何情况下，只有两种可能的存在性，要么是“生”；要么是“死”。而是认为“生”和“死”同时存在同一体中，并且“
+   生”和“死”之间的关系，决不是非此即彼；或者非彼即此这么简单，而是“在生的同时就埋下了死亡的种子”（黑格尔语）。他吸取了康德的“新三段论”的历
+   史逻辑学，认为处于最先自在阶段的是“死”（即“未生”）；而处于自为阶段的才是“生”（即“不死”）；“生”和“死”这对矛盾的现实调和则是处于最终
+   的“自在自为”的阶段，即现实中任何一个活的生命物种，这时“生”和“死”这对逻辑矛盾，最终在这一阶段被和解在一个活的物种之中。类似地，“无”和“
+   有”这对矛盾双方，也是从最初“自在阶段”的“无”；被其后的“自为阶段”的“有”所否定；继而再被“自在自为阶段”的“无有”所否定，完成了整个“无
+   ”和“有”的矛盾终结过程。套用曹雪芹红楼梦中诗句，就是“假作真时真亦假；无为有处有还无”。
+
+黑格尔矛盾逻辑
+
+   [编辑]
+   参见：辩证法 § 黑格尔辩证法
+
+   黑格尔三段论由三个部分组成：正方、反方和合方。正方是逻辑预设的前提；反方是逻辑对立的前提；合方则是在逻辑上，从两个相互对立的矛盾前提中扬弃而来
+   的。
+
+          1.“自在”（肯定） 【矛单方/正命题】
+          2.“自为”（否肯定） 【盾单方/反命题】
+          3.“自在自为”（否否肯定） 【矛盾双方统一体/合命题】
+
+   也可为述为：“自在”（肯定）-“自为”（否肯定）-“自在自为”（否否肯定）。
+
+   从每一个阶段到另外一个阶段的变化，不是间断性的突变，都是渐变的过程，即他所称的“逐渐的量变累积，才引发了瞬间飞跃的质变”过程。黑格尔从中抽象出
+   了辩证逻辑的三大逻辑公理是：描述逻辑矛盾的“对立统一律”；描述逻辑矛盾相互转化过程中跃变的“质量互变律”；描述对立双方得到最终化解的“否否肯定
+   律”。这三大辩证逻辑公理，都清楚地被表述在他的“大逻辑”著作或“小逻辑”著作中。
+
+   康德是“逻辑新三段论”的创始人，黑格尔直接从康德的过程逻辑（即康德的历史逻辑）中继承了明显有别于亚里士多德的旧三段论的“康德新三段论”：感性→
+   悟性→理性；经验→超验→先验；……。虽然黑格尔从康德逻辑学中获得了大量的逻辑概念和逻辑规则，但是他也不乏劲其能事对康德加以讥讽。比如，康德曾经
+   愤懑不平地说道：假如一个人要想对别人花费了数年，乃至更长时间才得以完成的理论学说，蜚短流长，说三道四，评头论足，除非这个人起码应该首先花很多时
+   间来预先阅读、学习和掌握了这种理论学说以及相关的著作之后。否则，这种信口开河浅薄的、流于个人狭隘经验的批评，不会令作者感到愉快和气顺。黑格尔对
+   此回复的俏皮话是：“在没有学会游泳之前切勿冒险下水”。
+
+经典逻辑和矛盾逻辑学的关系
+
+   [编辑]
+
+逻辑学
+
+   [编辑]
+   参见：逻辑 § 分类
+
+   逻辑学可以按下面方法分类：
+     * 按是否满足某些逻辑学规律，既 经典逻辑#特征，而分为 经典逻辑或非经典逻辑。
+     * 还可按是否是形式化的逻辑，而分为形式逻辑非形式逻辑。
+
+   下文中的词汇解释：
+     * 无矛盾逻辑学的对应的逻辑学术语为经典逻辑。
+     * 矛盾逻辑学属于非经典逻辑的中次协调逻辑。 在经典逻辑中，从矛盾中可以推导出任何东西；这叫做ex contradictione
+       quodlibet（ECQ），也叫做爆炸原理。次协调逻辑， 拒绝无矛盾律，并且是ECQ不成立的逻辑系统。
+
+亚里士多德逻辑学的三段论
+
+   [编辑]
+
+   亚里士多德逻辑又称为经典逻辑。 在传统的无矛盾的经典逻辑中，它们的三段论都能够形式化地表述成这种有效的论证形式:
+
+          P → Q，
+          Q → R，
+          所以, P → R。
+
+   用数理逻辑运算推理符号则可表述为：
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>P</mi> <mo
+          stretchy="false">→</mo> <mi>Q</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle P\rightarrow
+          Q}</annotation> </semantics> :MATH]
+          {\displaystyle P\rightarrow Q} ，
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>Q</mi> <mo
+          stretchy="false">→</mo> <mi>R</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle Q\rightarrow
+          R}</annotation> </semantics> :MATH]
+          {\displaystyle Q\rightarrow R} ，
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>⊢</mo> <mi>P</mi> <mo
+          stretchy="false">→</mo> <mi>R</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \vdash P\rightarrow
+          R}</annotation> </semantics> :MATH]
+          {\displaystyle \vdash P\rightarrow R} 。
+
+   或者表述为：
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+          <mi>P</mi> <mo stretchy="false">→</mo> <mi>Q</mi> <mo
+          stretchy="false">)</mo> <mo>∧</mo> <mo stretchy="false">(</mo>
+          <mi>Q</mi> <mo stretchy="false">→</mo> <mi>R</mi> <mo
+          stretchy="false">)</mo> <mo stretchy="false">→</mo> <mo
+          stretchy="false">(</mo> <mi>P</mi> <mo stretchy="false">→</mo>
+          <mi>R</mi> <mo stretchy="false">)</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          (P\rightarrow Q)\wedge (Q\rightarrow R)\rightarrow (P\rightarrow
+          R)}</annotation> </semantics> :MATH]
+          {\displaystyle (P\rightarrow Q)\wedge (Q\rightarrow
+          R)\rightarrow (P\rightarrow R)}
+
+   布尔把亚里士多德创立的传统无矛盾经典逻辑予以形式化，产生了所谓的“布尔逻辑学”。黑格尔的辨证法形式化仍然在探索中。
+
+矛盾逻辑学的三段论
+
+   [编辑]
+   参见：辩证法 § 形式化
+
+   在矛盾逻辑学中，P，Q，R，的定义是非重言式的，三者的逻辑定义都是各自独立的，完全不同的。其中，P和Q的逻辑定义是完全相反的；R的逻辑定义则兼
+   备了P和Q的部分逻辑含义，但又不是二者逻辑定义的与，在R的逻辑定义中包含了P和Q的逻辑定义纠缠。黑格尔对此所创造的标准术语就是“R是对P和Q的
+   扬弃”。
+
+   为了突出P，Q，R三个逻辑对象在逻辑定义上的差异性，依次被重新表述为P，P，P'，这种矛盾逻辑学也正是凭借着这种逻辑上的非重言式，充分必要地保
+   证了逻辑推理的由首至尾的进阶性。
+
+   在数理逻辑运算推理的中则可表述为：
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>P</mi> <mo
+          stretchy="false">⇒</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle P\Rightarrow
+          }</annotation> </semantics> :MATH]
+          {\displaystyle P\Rightarrow } P，
+          P
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">⇒</mo>
+          <msup> <mi>P</mi> <mo>′</mo> </msup> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          \Rightarrow P'}</annotation> </semantics> :MATH]
+          {\displaystyle \Rightarrow P'} ，
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>⊢</mo> <mi>P</mi> <mo
+          stretchy="false">⇒</mo> <msup> <mi>P</mi> <mo>′</mo> </msup>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \vdash P\Rightarrow
+          P'}</annotation> </semantics> :MATH]
+          {\displaystyle \vdash P\Rightarrow P'}
+
+   或者表述为：
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+          <mi>P</mi> <mo stretchy="false">⇒</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          (P\Rightarrow }</annotation> </semantics> :MATH]
+          {\displaystyle (P\Rightarrow } P)
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>∧</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \wedge }</annotation> </semantics> :MATH]
+          {\displaystyle \wedge } ( P
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">⇒</mo>
+          <msup> <mi>P</mi> <mo>′</mo> </msup> <mo stretchy="false">)</mo>
+          <mo stretchy="false">⇒</mo> <mo stretchy="false">(</mo>
+          <mi>P</mi> <mo stretchy="false">⇒</mo> <msup> <mi>P</mi>
+          <mo>′</mo> </msup> <mo stretchy="false">)</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          \Rightarrow P')\Rightarrow (P\Rightarrow P')}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \Rightarrow P')\Rightarrow (P\Rightarrow P')}
+
+康德的历史逻辑学新三段论和达尔文的物种进化论的关系
+
+   [编辑]
+
+   按照古希腊人的划分，自然界的第一级结构可以看做是由无机界和有机界构成。
+
+   即 自然界=无机界∪有机界
+
+   亚里士多德的无矛盾逻辑学可以很好地应用在无机自然界中；而黑格尔的矛盾逻辑学则能很好地应用于有机自然界中。20世纪量子物理学（原子物理学）的创始
+   人玻尔，以及量子色动力学（强子物理学）的创建人之一的盖尔曼，则认为矛盾逻辑学还可以用于诠释和理解微观无机界。
+   ^[来源请求]
+
+   在生命物种的遗传-变异在数理逻辑运算推理的中则可表述为：
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>P</mi> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          P}</annotation> </semantics> :MATH]
+          {\displaystyle P} 父代遗传
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">⇒</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \Rightarrow
+          }</annotation> </semantics> :MATH]
+          {\displaystyle \Rightarrow } P子代变异（即非父代非遗传）,
+          P子代变异（即非父代非遗传）
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">⇒</mo>
+          <msup> <mi>P</mi> <mo>′</mo> </msup> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          \Rightarrow P'}</annotation> </semantics> :MATH]
+          {\displaystyle \Rightarrow P'} 父代-子代双重性的遗传-变异（即非非父代的非非遗传）,
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>⊢</mo> <mi>P</mi>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \vdash
+          P}</annotation> </semantics> :MATH]
+          {\displaystyle \vdash P} 父代遗传
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">⇒</mo>
+          <msup> <mi>P</mi> <mo>′</mo> </msup> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          \Rightarrow P'}</annotation> </semantics> :MATH]
+          {\displaystyle \Rightarrow P'} 父代-子代双重性的遗传-变异（即非非父代的非非遗传）。
+
+   全部自然科学的第一级划分出的两大领域，依次分别是揭示自然状态的非生命科学和揭示自然过程的生命科学。不难发现“无矛盾逻辑学”能够广泛地应用在“非
+   生命科学”中；而“矛盾逻辑学”能够广泛地应用在“生命科学”中。即使是非生命自然界的演化，由康德第一个提出来不同自然层次的各种“自然演化假说”：
+   星球演化学，星系演化学，宇宙演化学，以及受到康德这种历史逻辑学深刻影响的达尔文，提出与之相仿的生命物种演化学说，以及20世纪的地球生态圈的演化
+   学说，无一不和这种矛盾逻辑学紧密相关。康德的伟大名言是：“给我物质，我将创造出整个宇宙星空，并指给你们看，这一切是如何发生的”！
+
+黑格尔辩证逻辑学和马列辩证逻辑学的关系
+
+   [编辑]
+
+   黑格尔辩证逻辑学的核心逻辑公理就是最终化解逻辑矛盾的“否否肯定律”，而所谓的“马列辩证逻辑学”则是把描述逻辑矛盾的“对立统一律”放在首位，认为
+   这才是辩证逻辑学的核心公理，并不把“否否肯定律”看作是一种化解逻辑矛盾的基本公理。相反，将它降低为“对立统一公理”的辅助性的规律。从理论上看，
+   除了这一点不同于黑格尔逻辑学之外，其余所有“马列辩证逻辑学”的内容，一律都是对“黑格尔辩证逻辑学”的直接复制和翻版。至于马列本人都不曾撰写过有
+   任何一本“矛盾逻辑学”著作，马克思曾经说过一句众所周知的话：“我是黑格尔的学生”。尽管黑格尔从来也不是他的老师，但是马克思自认为是一名黑格尔的
+   学生。马克思不仅在青年时期是一个狂热的黑格尔逻辑学（黑格尔矛盾逻辑学的简称）的粉丝，而且即使到了晚年依旧如此，他在生前所未能完成的“资本论”一
+   书中声称，在资本论中最精彩、最得意的地方，有意卖弄著黑格尔所特有的风格云云。
+
+   对于“马列辩证逻辑学”和“黑格尔辩证逻辑学”之间的本质上重大差别，马列学派谴责“黑格尔辩证逻辑学”是一种“唯心辩证逻辑学”，而将本学派的“马列
+   辩证逻辑学”称作为“唯物辩证逻辑学”以示不同。
+
+   综合上述可知，没有任何一个流派会把黑格尔辩证逻辑学和马列辩证逻辑学混为一谈，泾渭不分。
+
+辩证逻辑学和当代科学的关系
+
+   [编辑]
+
+   物理学家玻尔创立了“旧量子力学”。他为了理解原子世界中的电子的“波粒二象性”这种匪夷所思的现象，继而率先提出了“互补原理”，以此来半定量地计算
+   原子物理学中的电子运动规律。其次，美国加利福利亚州立大学伯克利分校的理论物理学教授卡普拉，当然熟知玻尔的思想，他写了一本著作“物理学之道——现
+   代物理学和东方神秘主义”，补充了玻尔的思想体系，把古代印度的奥义书的思想也一并纳入进来，指出深受辩证逻辑学影响的盖尔曼的强子结构假说就是出自印
+   度的“八正道”的启发。继而让人们可以从更加广泛的一个视角来进一步认识和探索自然界的真理。
+
+   这种玻尔的“互补原理”的规律在数理逻辑运算推理的中则可表述为：
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>P</mi> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          P}</annotation> </semantics> :MATH]
+          {\displaystyle P} 粒子
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">⇒</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \Rightarrow
+          }</annotation> </semantics> :MATH]
+          {\displaystyle \Rightarrow } P波,
+          P波
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">⇒</mo>
+          <msup> <mi>P</mi> <mo>′</mo> </msup> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          \Rightarrow P'}</annotation> </semantics> :MATH]
+          {\displaystyle \Rightarrow P'} 波-粒二象性,
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>⊢</mo> <mi>P</mi>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \vdash
+          P}</annotation> </semantics> :MATH]
+          {\displaystyle \vdash P} 粒子
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">⇒</mo>
+          <msup> <mi>P</mi> <mo>′</mo> </msup> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          \Rightarrow P'}</annotation> </semantics> :MATH]
+          {\displaystyle \Rightarrow P'} 波-粒二象性。
+
+          “正题的粒子”→“反题的波”→“合题的波-粒二象性”，定域性的“粒子”和非定域性的“波”这对矛盾，最终被扬弃在既有定域性又有非定
+          域性的“波-粒二象性”中，再现了黑格尔的辩证逻辑规律。
+
+康德历史辩证逻辑学和弗洛伊德精神分析学的关系
+
+   [编辑]
+
+   弗洛伊德所创立的精神分析学，不仅是来自对精神病患者的长期的临床经验的理论总结，更是他在理论上对一个人完整一生的高度概括和总结。正是他详细考察和
+   研究一个人从出生到死亡的完整人生，才使得他从一个独立的精神心里领域，又再度重复构造出了康德的历史辩证逻辑框架。他认为任何一个人的人格发展的历史
+   过程，或者任何完整人生的精神心理发展的历史过程，必定要先后经历三个不同的重要阶段：即从最初母亲子宫内腹中的胎儿，到刚刚哇哇坠地哭叫的哺乳期的婴
+   儿，处于还未接受超我强行同化压迫的“本我（id）”阶段；这时婴儿只会发出啼哭的声音，是纯粹的原我的。很快就进入被“超我（superego）”阶
+   段强制同化和压迫的阶段，首先开始被母亲这个超我对其灌输咿呀学语，进入否定孩子的本我无语言的这种原我状态，这种情形将一直不断会续下去，一般女婴需
+   要经过长达一年、男婴需要经过将近两年的这种超我的压迫后，才能掌握最初一些最简单的语言，开始会和母亲，以及周围的人对话了。父母这种超我的压迫状态
+   ，随后就快就被幼稚园和学校这种新的更强大的超我的压迫所取代。一直持续到了初中阶段，长期以来一直被超我所否定的本我，才逐渐醒悟过来，开始反抗家长
+   和学校这种超我的压迫，即家长和教师所责斥的“不听话”或则“逆反行为”。青少年这种对超我的否定，就是正式迈入“自我(ego)”阶段的明显标志，不
+   再事事服从，在言行上均臣于服超我压迫的指令，也就是俗称的开始“成熟”的阶段了。
+
+   弗洛伊德的这种人格发生发展的规律在数理逻辑运算推理的中则可表述为：
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>P</mi> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          P}</annotation> </semantics> :MATH]
+          {\displaystyle P} 本我
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">⇒</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \Rightarrow
+          }</annotation> </semantics> :MATH]
+          {\displaystyle \Rightarrow } P超我,
+          P超我
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">⇒</mo>
+          <msup> <mi>P</mi> <mo>′</mo> </msup> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          \Rightarrow P'}</annotation> </semantics> :MATH]
+          {\displaystyle \Rightarrow P'} 自我,
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>⊢</mo> <mi>P</mi>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \vdash
+          P}</annotation> </semantics> :MATH]
+          {\displaystyle \vdash P} 本我
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">⇒</mo>
+          <msup> <mi>P</mi> <mo>′</mo> </msup> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          \Rightarrow P'}</annotation> </semantics> :MATH]
+          {\displaystyle \Rightarrow P'} 自我。
+
+          “正题的本我”→“反题的超我”→“合题的自我”，“本我”和“超我”这对矛盾，最终被扬弃在“自我”中，再现了黑格尔的辩证逻辑规律。
+
+   对于一个成年人，除了需要“一仆侍二主”：即侍服内部世界自主的“本我”和“自我”之外，还有侍服更强大的外部世界这种“超我”。因此，弗洛伊德认为只
+   要是活在世上的人，都是程度不同的精神病患者，每个活人在扮演这种“一仆侍三主”的过程中，忙不过来，无法满足“本我”、“自我”和“超我”三个主子需
+   求的时候，就会陷于一种典型的精神病的状态之中。
+
+延伸阅读
+
+   [编辑]
+     * 《精神分析概要》（An Outline of Psycho-Analysis / Abriß der
+       Psychoanalyse，1940）
+
+参考资料
+
+   [编辑]
+    1. ^ Maybee, Julie E., "Hegel’s Dialectics", The Stanford Encyclopedia
+       of Philosophy (Winter 2020 Edition), Edward N. Zalta (ed.).
+       [2021-06-27]. （原始内容存档于2021-06-28）.
+    2. ^ Wald, Henri. Introduction to Dialectical Logic. January 1975.
+       ISBN 9060320409.
+    3. ^ Rescher, Nicholas. Dialectics: A Controversy-Oriented Approach to
+       the Theory of Knowledge. January 1977. ISBN 9780873953726.
+    4. ^ Meissner, Werner. Philosophy and Politics in China: The
+       Controversy Over Dialectical. 1990. ISBN 9780804717724.
+    5. ^ 桂起权， 多元化的辩证逻辑形式化研究， 《学术探索》，2017年05月26日. [2021年6月27日].
+       （原始内容存档于2021年6月30日）.
+
+   检索自“https://zh.wikipedia.org/w/index.php?title=辩证逻辑&oldid=75174434”
+   分类：​
+     * 辩证法
+     * 哲学逻辑
+     * 马克思主义理论
+
+   隐藏分类：​
+     * 自2021年6月中立性有争议的作品
+     * 拒绝当选首页新条目推荐栏目的条目
+     * 自2021年6月可能带有原创研究的条目
+     * 自2021年6月需要哲学专家关注的页面
+     * 所有需要专家关注的页面
+     * 需要哲学专家关注的页面
+     * 含有多个问题的条目
+     * 有未列明来源语句的条目
+
+     * 本页面最后修订于2022年12月22日 (星期四) 19:43。
+     * 本站的全部文字在知识共享 署名-相同方式共享 4.0协议之条款下提供，附加条款亦可能应用。（请参阅使用条款）
+       Wikipedia®和维基百科标志是维基媒体基金会的注册商标；维基™是维基媒体基金会的商标。
+       维基媒体基金会是按美国国内税收法501(c)(3)登记的非营利慈善机构。
+
+     * 隐私政策
+     * 关于维基百科
+     * 免责声明
+     * 行为准则
+     * 开发者
+     * 统计
+     * Cookie声明
+     * 手机版视图
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

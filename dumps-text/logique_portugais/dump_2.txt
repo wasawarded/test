@@ -1,0 +1,507 @@
+   #[1]alternate [2]Editar [3]Wikipédia (pt) [4]''Feed'' Atom Wikipédia
+
+   [5]Saltar para o conteúdo
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) mover para a barra lateral (BUTTON) ocultar
+   Navegação
+     * [6]Página principal
+     * [7]Conteúdo destacado
+     * [8]Eventos atuais
+     * [9]Esplanada
+     * [10]Página aleatória
+     * [11]Portais
+     * [12]Informar um erro
+
+   Colaboração
+     * [13]Boas-vindas
+     * [14]Ajuda
+     * [15]Páginas de testes públicas
+     * [16]Portal comunitário
+     * [17]Mudanças recentes
+     * [18]Manutenção
+     * [19]Criar página
+     * [20]Páginas novas
+     * [21]Contato
+
+   [22]Wikipédia
+   [23]Busca
+   ____________________
+   (BUTTON) Pesquisar
+
+   [ ] Aspeto
+
+     * [24]Donativos
+     * [25]Criar uma conta
+     * [26]Entrar
+
+   [ ] Ferramentas pessoais
+     * [27]Donativos
+     * [28]Criar uma conta
+     * [29]Entrar
+
+   Páginas para editores sem sessão iniciada [30]saber mais
+     * [31]Contribuições
+     * [32]Discussão
+
+Conteúdo
+
+   (BUTTON) mover para a barra lateral (BUTTON) ocultar
+     * [33]Início
+     * [34]1 Descrição
+     * [35]2 Composição
+       (BUTTON) Alternar a subsecção Composição
+          + [36]2.1 Peptídeos
+               o [37]2.1.1 Estruturas
+          + [38]2.2 Enzimas
+          + [39]2.3 Receptores
+          + [40]2.4 Esteroides
+     * [41]3 Funcionamento
+     * [42]4 Referências
+
+   [ ] Alternar o índice
+
+Sistema renina-angiotensina
+
+   [ ] 39 línguas
+     * [43]العربية
+     * [44]الدارجة
+     * [45]বাংলা
+     * [46]Bosanski
+     * [47]Català
+     * [48]Čeština
+     * [49]Dansk
+     * [50]Deutsch
+     * [51]English
+     * [52]Español
+     * [53]Eesti
+     * [54]Euskara
+     * [55]فارسی
+     * [56]Suomi
+     * [57]Français
+     * [58]Galego
+     * [59]עברית
+     * [60]हिन्दी
+     * [61]Magyar
+     * [62]Հայերեն
+     * [63]Bahasa Indonesia
+     * [64]Italiano
+     * [65]日本語
+     * [66]한국어
+     * [67]Македонски
+     * [68]Bahasa Melayu
+     * [69]Nederlands
+     * [70]Norsk bokmål
+     * [71]Polski
+     * [72]Русский
+     * [73]Srpskohrvatski / српскохрватски
+     * [74]Slovenčina
+     * [75]Slovenščina
+     * [76]Српски / srpski
+     * [77]Svenska
+     * [78]Türkçe
+     * [79]Українська
+     * [80]Tiếng Việt
+     * [81]中文
+
+   [82]Editar hiperligações
+
+     * [83]Artigo
+     * [84]Discussão
+
+   [ ] português
+
+     * [85]Ler
+     * [86]Editar
+     * [87]Editar código-fonte
+     * [88]Ver histórico
+
+   [ ] Ferramentas
+   Ferramentas
+   (BUTTON) mover para a barra lateral (BUTTON) ocultar
+   Operações
+     * [89]Ler
+     * [90]Editar
+     * [91]Editar código-fonte
+     * [92]Ver histórico
+
+   Geral
+     * [93]Páginas afluentes
+     * [94]Alterações relacionadas
+     * [95]Carregar ficheiro
+     * [96]Páginas especiais
+     * [97]Hiperligação permanente
+     * [98]Informações da página
+     * [99]Citar esta página
+     * [100]Obter URL encurtado
+     * [101]Descarregar código QR
+
+   Imprimir/exportar
+     * [102]Criar um livro
+     * [103]Descarregar como PDF
+     * [104]Versão para impressão
+
+   Noutros projetos
+     * [105]Wikimedia Commons
+     * [106]Elemento Wikidata
+
+   Aspeto
+   (BUTTON) mover para a barra lateral (BUTTON) ocultar
+   Origem: Wikipédia, a enciclopédia livre.
+
+   O sistema renina-angiotensina, também identificado como sistema
+   renina-angiotensina-aldosterona, é um conjunto de peptídeos, enzimas e
+   receptores envolvidos em especial no controle do volume de [107]líquido
+   extracelular e na [108]pressão arterial.
+
+Descrição
+
+   [[109]editar | [110]editar código-fonte]
+
+   O sistema renina-angiotensina-aldosterona (S-RAA) é descrito como um
+   eixo [111]endócrino no qual cada componente de uma cascata é produzido
+   por diferentes órgãos, para manter a estabilidade hemodinâmica.
+
+   Estão identificados no corpo humano dois diferentes tipos de sistemas
+   renina-angiotensina: o circulante, descrito há bastante tempo, e o
+   local, descrito mais recentemente e que parece desempenhar papel
+   importante na homeostase circulatórigênio é produzido pelo fígado, que
+   requer [112]glicocorticóides do córtex adrenal e [113]estrógeno das
+   gônadas; a [114]renina é liberada pelos rins, enquanto que a enzima de
+   conversão de angiotensina I em angiotensina II (ECA) é encontrada no
+   endotélio vascular de vários órgãos. A aldosterona é liberada pelo
+   córtex suprarrenal estimulado pela angiotensina II.
+
+   Uma vez ativada a cascata, surgem a [115]angiotensina I e a
+   [116]angiotensina II, que circulam pelo sangue ativando suas
+   estruturas-alvo: vasos sanguíneos (sobretudo arteríolas sistêmicas),
+   rins, coração, suprarrenais e o sistema nervoso simpático.
+
+   A lógica fundamental que preside o funcionamento do sistema é responder
+   a uma [117]instabilidade hemodinâmica e evitar a redução na perfusão
+   tecidual sistêmica. Atua de modo a reverter a tendência à hipotensão
+   arterial através da indução de vasoconstricção arteriolar periférica e
+   aumento na volemia por meio de retenção renal de sódio (através da
+   [118]aldosterona) e água (através da liberação de ADH-vasopressina).
+
+   Portanto, o sistema renina-angiotensina-aldosterona se soma ao sistema
+   simpático e ao [119]ADH, compondo o trio de sistemas neuro-hormonais de
+   compensação cardiovascular.
+
+Composição
+
+   [[120]editar | [121]editar código-fonte]
+
+Peptídeos
+
+   [[122]editar | [123]editar código-fonte]
+     * [124]Angiotensinogênio
+     * [125]Angiotensina I
+     * [126]Angiotensina II
+     * [127]Angiotensina III ou [128]Angiotensina 2-8
+     * [129]Angiotensina IV ou [130]Angiotensina 3-8
+     * [131]Angiotensina 1-7
+     * [132]Angiotensina 1-9
+
+Estruturas
+
+   [[133]editar | [134]editar código-fonte]
+
+   [135]Angiotensina I: Asp-Arg-Val-Tyr-Ile-His-Pro-Phe-His-Leu
+   [136]Angiotensina II: Asp-Arg-Val-Tyr-Ile-His-Pro-Phe
+   [137]Angiotensina III: Arg-Val-Tyr-Ile-His-Pro-Phe
+   [138]Angiotensina IV: Val-Tyr-Ile-His-Pro-Phe
+   [139]Angiotensina 1-7: Asp-Arg-Val-Tyr-Ile-His-Pro
+   [140]Angiotensina 1-9: Asp-Arg-Val-Tyr-Ile-His-Pro-Phe-His
+
+Enzimas
+
+   [[141]editar | [142]editar código-fonte]
+     * [143]Endopeptidase neutra
+     * [144]Enzima conversora da angiotensina
+     * [145]Enzima conversora da angiotensina 2
+     * [146]Prolil endopeptidase
+     * [147]Renina
+     * [148]Pró-renina
+
+Receptores
+
+   [[149]editar | [150]editar código-fonte]
+     * [151]Receptor AT1
+          + [Receptor AT1a
+          + Receptor AT1b
+          + Receptor AT1c
+     * [152]Receptor AT2
+     * Receptor AT3
+     * [153]Receptor AT4
+     * [154]Receptor Mas
+     * [155]Receptor (Pro)renina^[156][1]
+
+Esteroides
+
+   [[157]editar | [158]editar código-fonte]
+     * [159]Aldosterona
+
+Funcionamento
+
+   [[160]editar | [161]editar código-fonte]
+   [162][600px-Renin-angiotensin-aldosterone_system.svg.png] Esquema de
+   funcionamento do SRAA (Inglês).
+
+   A RENINA é liberada por diversos fatores como:
+    1. Estimulação, por queda de pressão, dos barorreceptores localizados
+       na parede das arteríolas aferentes;
+    2. Queda da concentração de NaCl no início do túbulo distal, fazendo
+       com que também haja diminuição na mácula densa;
+    3. Estimulação elétrica dos nervos renais.
+
+   Ao chegar no plasma, a renina catalisa o angiotensinogênio à
+   angiotensina I, esta é convertida em angiotensina II, nos pulmões e nos
+   rins, pela enzima conversora de angiotensina (ECA). A angiotensina II
+   atua diretamente nos rins, estimulando a troca Na+/H+ no túbulo
+   proximal e aumenta a reabsorção de Na+ e HCO3-; Atua nas arteríolas
+   causando vasoconstrição e também atua aumentando a sede e fazendo com
+   que seja liberado o hormônio antidiurético (ADH).
+
+   A angiotensina II também atua no córtex adrenal, fazendo com que haja a
+   síntese e liberação da [163]aldosterona, cuja função é estimular a
+   reabsorção de sódio (Na+) e a secreção de potássio (K+) e hidrogênio
+   (H+), agindo principalmente no ducto coletor.
+
+Referências
+
+    1. [164]↑ Campbell D J (2008). «Critical Review of Prorenin and
+       (Pro)renin Receptor Research». Hypertension. 51: 159-1264.
+       [165]doi:[166]10.1161/HYPERTENSIONAHA.108.110924
+
+   [167]Ícone de esboço Este artigo sobre [168]Fisiologia é um
+   [169]esboço. Você pode ajudar a Wikipédia [170]expandindo-o.
+     * [171]v
+     * [172]d
+     * [173]e
+
+   ]
+   Obtida de
+   "[174]https://pt.wikipedia.org/w/index.php?title=Sistema_renina-angiote
+   nsina&oldid=66051306"
+   [175]Categorias:
+     * [176]Fisiologia do sistema circulatório
+     * [177]Sistema renina-angiotensina-aldosterona
+
+   Categorias ocultas:
+     * [178]!Esboços sobre fisiologia
+     * [179]!Esboços maiores que 1000 bytes
+
+     * Esta página foi editada pela última vez às 14h20min de 13 de junho
+       de 2023.
+     * Este texto é disponibilizado nos termos da licença
+       [180]Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)
+       da Creative Commons; pode estar sujeito a condições adicionais.
+       Para mais detalhes, consulte as [181]condições de utilização.
+
+     * [182]Política de privacidade
+     * [183]Sobre a Wikipédia
+     * [184]Avisos gerais
+     * [185]Código de conduta
+     * [186]Programadores
+     * [187]Estatísticas
+     * [188]Declaração sobre ''cookies''
+     * [189]Versão móvel
+
+     * [190]Wikimedia Foundation
+     * [191]Powered by MediaWiki
+
+Références
+
+   1. file://pt.m.wikipedia.org/wiki/Sistema_renina-angiotensina
+   2. file:///w/index.php?title=Sistema_renina-angiotensina&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Especial:Mudanças_recentes&feed=atom
+   5. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#bodyContent
+   6. file:///wiki/Wikipédia:Página_principal
+   7. file:///wiki/Portal:Conteúdo_destacado
+   8. file:///wiki/Portal:Eventos_atuais
+   9. file:///wiki/Wikipédia:Esplanada
+  10. file:///wiki/Especial:Aleatória
+  11. file:///wiki/Portal:Índice
+  12. file:///wiki/Wikipédia:Informe_um_erro
+  13. file:///wiki/Wikipédia:Boas-vindas
+  14. file:///wiki/Ajuda:Página_principal
+  15. file:///wiki/Ajuda:Página_de_testes
+  16. file:///wiki/Wikipédia:Portal_comunitário
+  17. file:///wiki/Especial:Mudanças_recentes
+  18. file:///wiki/Wikipédia:Manutenção
+  19. file:///wiki/Ajuda:Guia_de_edição/Como_começar_uma_página
+  20. file:///wiki/Especial:Páginas_novas
+  21. file:///wiki/Wikipédia:Contato
+  22. file:///wiki/Wikipédia:Página_principal
+  23. file:///wiki/Especial:Pesquisar
+  24. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=pt.wikipedia.org&uselang=pt
+  25. file:///w/index.php?title=Especial:Criar_conta&returnto=Sistema+renina-angiotensina
+  26. file:///w/index.php?title=Especial:Entrar&returnto=Sistema+renina-angiotensina
+  27. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=pt.wikipedia.org&uselang=pt
+  28. file:///w/index.php?title=Especial:Criar_conta&returnto=Sistema+renina-angiotensina
+  29. file:///w/index.php?title=Especial:Entrar&returnto=Sistema+renina-angiotensina
+  30. file:///wiki/Ajuda:Introduction
+  31. file:///wiki/Especial:Minhas_contribuições
+  32. file:///wiki/Especial:Minha_discussão
+  33. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html
+  34. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#Descrição
+  35. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#Composição
+  36. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#Peptídeos
+  37. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#Estruturas
+  38. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#Enzimas
+  39. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#Receptores
+  40. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#Esteroides
+  41. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#Funcionamento
+  42. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#Referências
+  43. https://ar.wikipedia.org/wiki/نظام_الرينين-أنجيوتنسين
+  44. https://ary.wikipedia.org/wiki/سيستيم_د_الرينين-أنجيوطونسين-ألدوستيرون
+  45. https://bn.wikipedia.org/wiki/রেনিন-অ্যাঞ্জিওটেনসিন_সিস্টেম
+  46. https://bs.wikipedia.org/wiki/Sistem_renin-angiotenzin
+  47. https://ca.wikipedia.org/wiki/Sistema_renina-angiotensina
+  48. https://cs.wikipedia.org/wiki/Systém_renin-angiotenzin-aldosteron
+  49. https://da.wikipedia.org/wiki/Renin-angiotensin-aldosteron-systemet
+  50. https://de.wikipedia.org/wiki/Renin-Angiotensin-Aldosteron-System
+  51. https://en.wikipedia.org/wiki/Renin–angiotensin_system
+  52. https://es.wikipedia.org/wiki/Sistema_renina-angiotensina-aldosterona
+  53. https://et.wikipedia.org/wiki/Reniin-angiotensiin-aldosteroon-süsteem
+  54. https://eu.wikipedia.org/wiki/Errenina-angiotentsina-aldosterona_sistema
+  55. https://fa.wikipedia.org/wiki/سامانه_رنین-آنژیوتانسین
+  56. https://fi.wikipedia.org/wiki/Reniini-angiotensiinijärjestelmä
+  57. https://fr.wikipedia.org/wiki/Système_rénine-angiotensine-aldostérone
+  58. https://gl.wikipedia.org/wiki/Sistema_renina-anxiotensina
+  59. https://he.wikipedia.org/wiki/מערכת_הרנין-אנגיוטנסין-אלדוסטרון
+  60. https://hi.wikipedia.org/wiki/रेनिन-एंजियोटेंसिन
+  61. https://hu.wikipedia.org/wiki/Renin-angiotenzin_rendszer
+  62. https://hy.wikipedia.org/wiki/Ռենին-անգիոթենզին-ալդոստերոնային_համակարգ
+  63. https://id.wikipedia.org/wiki/Sistem_renin-angiotensin
+  64. https://it.wikipedia.org/wiki/Sistema_renina-angiotensina-aldosterone
+  65. https://ja.wikipedia.org/wiki/レニン・アンジオテンシン・アルドステロン系
+  66. https://ko.wikipedia.org/wiki/레닌-앤지오텐신_계통
+  67. https://mk.wikipedia.org/wiki/Ренин–ангиотензин_систем
+  68. https://ms.wikipedia.org/wiki/Sistem_renin-angiotensin
+  69. https://nl.wikipedia.org/wiki/Bloeddrukregulatie
+  70. https://no.wikipedia.org/wiki/Renin-angiotensin-aldosteron-systemet
+  71. https://pl.wikipedia.org/wiki/Układ_renina–angiotensyna–aldosteron
+  72. https://ru.wikipedia.org/wiki/Ренин-ангиотензиновая_система
+  73. https://sh.wikipedia.org/wiki/Renin-angiotenzin_sistem
+  74. https://sk.wikipedia.org/wiki/Systém_renín-angiotenzín-aldosterón
+  75. https://sl.wikipedia.org/wiki/Renin-angiotenzin-aldosteronski_sistem
+  76. https://sr.wikipedia.org/wiki/Renin-angiotenzin_sistem
+  77. https://sv.wikipedia.org/wiki/Renin–angiotensinsystemet
+  78. https://tr.wikipedia.org/wiki/Renin-anjiotensin_sistemi
+  79. https://uk.wikipedia.org/wiki/Ренін-ангіотензинова_система
+  80. https://vi.wikipedia.org/wiki/Hệ_renin-angiotensin
+  81. https://zh.wikipedia.org/wiki/肾素-血管紧张素系统
+  82. https://www.wikidata.org/wiki/Special:EntityPage/Q898218#sitelinks-wikipedia
+  83. file:///wiki/Sistema_renina-angiotensina
+  84. file:///w/index.php?title=Discussão:Sistema_renina-angiotensina&action=edit&redlink=1
+  85. file:///wiki/Sistema_renina-angiotensina
+  86. file:///w/index.php?title=Sistema_renina-angiotensina&veaction=edit
+  87. file:///w/index.php?title=Sistema_renina-angiotensina&action=edit
+  88. file:///w/index.php?title=Sistema_renina-angiotensina&action=history
+  89. file:///wiki/Sistema_renina-angiotensina
+  90. file:///w/index.php?title=Sistema_renina-angiotensina&veaction=edit
+  91. file:///w/index.php?title=Sistema_renina-angiotensina&action=edit
+  92. file:///w/index.php?title=Sistema_renina-angiotensina&action=history
+  93. file:///wiki/Especial:Páginas_afluentes/Sistema_renina-angiotensina
+  94. file:///wiki/Especial:Alterações_relacionadas/Sistema_renina-angiotensina
+  95. file:///wiki/Wikipedia:Carregar_ficheiro
+  96. file:///wiki/Especial:Páginas_especiais
+  97. file:///w/index.php?title=Sistema_renina-angiotensina&oldid=66051306
+  98. file:///w/index.php?title=Sistema_renina-angiotensina&action=info
+  99. file:///w/index.php?title=Especial:Citar&page=Sistema_renina-angiotensina&id=66051306&wpFormIdentifier=titleform
+ 100. file:///w/index.php?title=Especial:UrlShortener&url=https://pt.wikipedia.org/wiki/Sistema_renina-angiotensina
+ 101. file:///w/index.php?title=Especial:QrCode&url=https://pt.wikipedia.org/wiki/Sistema_renina-angiotensina
+ 102. file:///w/index.php?title=Especial:Livro&bookcmd=book_creator&referer=Sistema+renina-angiotensina
+ 103. file:///w/index.php?title=Especial:DownloadAsPdf&page=Sistema_renina-angiotensina&action=show-download-screen
+ 104. file:///w/index.php?title=Sistema_renina-angiotensina&printable=yes
+ 105. https://commons.wikimedia.org/wiki/Category:Renin–angiotensin_system
+ 106. https://www.wikidata.org/wiki/Special:EntityPage/Q898218
+ 107. file:///wiki/Líquido_extracelular
+ 108. file:///wiki/Pressão_arterial
+ 109. file:///w/index.php?title=Sistema_renina-angiotensina&veaction=edit&section=1
+ 110. file:///w/index.php?title=Sistema_renina-angiotensina&action=edit&section=1
+ 111. file:///wiki/Endócrino
+ 112. file:///wiki/Glicocorticoide
+ 113. file:///wiki/Estrógeno
+ 114. file:///wiki/Renina
+ 115. file:///wiki/Angiotensina_I
+ 116. file:///wiki/Angiotensina_II
+ 117. file:///wiki/Instabilidade_hemodinâmica
+ 118. file:///wiki/Aldosterona
+ 119. file:///wiki/ADH
+ 120. file:///w/index.php?title=Sistema_renina-angiotensina&veaction=edit&section=2
+ 121. file:///w/index.php?title=Sistema_renina-angiotensina&action=edit&section=2
+ 122. file:///w/index.php?title=Sistema_renina-angiotensina&veaction=edit&section=3
+ 123. file:///w/index.php?title=Sistema_renina-angiotensina&action=edit&section=3
+ 124. file:///wiki/Angiotensinogênio
+ 125. file:///wiki/Angiotensina_I
+ 126. file:///wiki/Angiotensina_II
+ 127. file:///wiki/Angiotensina_III
+ 128. file:///wiki/Angiotensina_III
+ 129. file:///wiki/Angiotensina_IV
+ 130. file:///wiki/Angiotensina_IV
+ 131. file:///wiki/Angiotensina_1-7
+ 132. file:///wiki/Angiotensina_1-9
+ 133. file:///w/index.php?title=Sistema_renina-angiotensina&veaction=edit&section=4
+ 134. file:///w/index.php?title=Sistema_renina-angiotensina&action=edit&section=4
+ 135. file:///wiki/Angiotensina_I
+ 136. file:///wiki/Angiotensina_II
+ 137. file:///wiki/Angiotensina_III
+ 138. file:///wiki/Angiotensina_IV
+ 139. file:///wiki/Angiotensina_1-7
+ 140. file:///wiki/Angiotensina_1-9
+ 141. file:///w/index.php?title=Sistema_renina-angiotensina&veaction=edit&section=5
+ 142. file:///w/index.php?title=Sistema_renina-angiotensina&action=edit&section=5
+ 143. file:///wiki/Endopeptidase_neutra
+ 144. file:///wiki/Enzima_conversora_da_angiotensina
+ 145. file:///wiki/Enzima_conversora_da_angiotensina_2
+ 146. file:///wiki/Prolil_endopeptidase
+ 147. file:///wiki/Renina
+ 148. file:///wiki/Pró-renina
+ 149. file:///w/index.php?title=Sistema_renina-angiotensina&veaction=edit&section=6
+ 150. file:///w/index.php?title=Sistema_renina-angiotensina&action=edit&section=6
+ 151. file:///wiki/Receptor_AT1
+ 152. file:///wiki/Receptor_AT2
+ 153. file:///wiki/Receptor_AT4
+ 154. file:///w/index.php?title=Receptor_Mas&action=edit&redlink=1
+ 155. file:///wiki/Receptor_(Pro)renina
+ 156. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#cite_note-1
+ 157. file:///w/index.php?title=Sistema_renina-angiotensina&veaction=edit&section=7
+ 158. file:///w/index.php?title=Sistema_renina-angiotensina&action=edit&section=7
+ 159. file:///wiki/Aldosterona
+ 160. file:///w/index.php?title=Sistema_renina-angiotensina&veaction=edit&section=8
+ 161. file:///w/index.php?title=Sistema_renina-angiotensina&action=edit&section=8
+ 162. file:///wiki/Ficheiro:Renin-angiotensin-aldosterone_system.svg
+ 163. file:///wiki/Aldosterona
+ 164. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#cite_ref-1
+ 165. file:///wiki/Digital_object_identifier
+ 166. https://dx.doi.org/10.1161/HYPERTENSIONAHA.108.110924
+ 167. file:///wiki/Ficheiro:Compliance_physio.png
+ 168. file:///wiki/Fisiologia
+ 169. file:///wiki/Wikipédia:Esboço
+ 170. https://pt.wikipedia.org/w/index.php?title=Sistema_renina-angiotensina&action=edit
+ 171. file:///wiki/Predefinição:Esboço-fisiologia
+ 172. file:///w/index.php?title=Predefinição_Discussão:Esboço-fisiologia&action=edit&redlink=1
+ 173. https://pt.wikipedia.org/w/index.php?title=Predefinição:Esboço-fisiologia&action=edit
+ 174. https://pt.wikipedia.org/w/index.php?title=Sistema_renina-angiotensina&oldid=66051306
+ 175. file:///wiki/Especial:Categorias
+ 176. file:///wiki/Categoria:Fisiologia_do_sistema_circulatório
+ 177. file:///wiki/Categoria:Sistema_renina-angiotensina-aldosterona
+ 178. file:///wiki/Categoria:!Esboços_sobre_fisiologia
+ 179. file:///wiki/Categoria:!Esboços_maiores_que_1000_bytes
+ 180. https://creativecommons.org/licenses/by-sa/4.0/deed.pt
+ 181. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 182. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/pt-br
+ 183. file:///wiki/Wikipédia:Sobre
+ 184. file:///wiki/Wikipédia:Aviso_geral
+ 185. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 186. https://developer.wikimedia.org/
+ 187. https://stats.wikimedia.org/#/pt.wikipedia.org
+ 188. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 189. file://pt.m.wikipedia.org/w/index.php?title=Sistema_renina-angiotensina&mobileaction=toggle_view_mobile
+ 190. https://wikimediafoundation.org/
+ 191. https://www.mediawiki.org/

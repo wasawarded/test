@@ -1,0 +1,463 @@
+Initiation à GTK+ (2ème partie)
+
+   Décidément, les choses évoluent plutôt vite dans le monde de GTK+. Dans
+   l'article précédent, je disais que la version 1.2.x de GTK+ était
+   encore considérée comme instable et voici que la version stable de Gimp
+   se met à l'utiliser. Et il y a fort à parier qu'au moment où vous lirez
+   ces lignes, la plupart des applications majeures utilisant GTK+ seront
+   passées à la version 1.2.x. J'axerais donc cette initiation sur les
+   dernières versions. Nous allons voir aujourd'hui comment disposer les
+   widgets les uns par rapports aux autres.
+
+                                [logogtk.jpg]
+
+   Quelques widgets couramment utilisés
+
+   Afin d'avoir des widgets à ranger les uns par rapport aux autres, nous
+   allons tout d'abord faire un rappel et un approfondissement sur deux
+   widgets particulièrement utilisés : les labels et les boutons.
+
+   Les Labels
+
+   Quand on construit une interface utilisateur, on a souvent besoin
+   d'afficher des petits bouts de texte qui n'ont pas d'autres
+   utilisations que d'être lus. En GTK+, c'est le rôle des "GtkLabel". Ces
+   widgets sont tout simplement créés par :
+
+   GtkWidget *gtk_label_new(const char *Texte);
+
+   Le paramètre 'Texte' contient bien évidemment le texte que l'on
+   souhaite affiché. Ce texte pourra éventuellement être changé par un
+   appel à la fonction :
+
+   void gtk_label_set_text(GtkLabel *Label, const char *NouveauTexte);
+
+   où Label est le GtkLabel dont on veut modifier le texte, et
+   NouveauTexte est ... le nouveau texte du Label !
+
+   Je voudrais insister sur un point bien particulier de GTK+. Vous avez
+   peut-être remarqué que les fonctions de la forme gtk_..._new()
+   renvoient toutes un pointeur sur un GtkWidget, même si ici, le widget
+   créé est en fait un GtkLabel. Cela vient du fait que GTK+ a été créé en
+   utilisant une hiérarchie d'objets (comme quoi le C++ n'a pas inventé
+   grand chose...). GTK+ renvoie donc le type le plus général afin que
+   l'on puisse choisir ensuite ce que l'on désire en faire. Dans notre
+   cas, un GtkLabel est un GtkMisc qui est un GtkWidget. L'arbre de
+   hiérarchie des objets de GTK+ est présenté dans le GTK Tutorial de Tony
+   Gale et Ian Main.
+
+   En revanche la fonction gtk_label_set_label requiert que le premier
+   paramètre soit bien un GtkLabel et pas autre chose. On devra donc faire
+   un casting (un changement de type en bon français) pour appeler cette
+   fonction : GtkWidget *Label;
+
+   Label = gtk_label_new("Ancien Texte");
+
+   gtk_label_set_text((GtkLabel *)Label, "Nouveau Texte");
+
+   ou mieux encore :
+
+   gtk_label_set_text(GTK_LABEL(Label), "Nouveau Texte");
+
+   La macro GTK_LABEL() (il en existe une équivalente pour chaque widget
+   de GTK+) fait essentiellement deux choses. Elle vérifie d'abord que le
+   pointeur passé en paramètre peut effectivement être casté en un
+   GtkLabel *, en vérifiant qu'il appartient bien à la même branche de la
+   hiérarchie d'objets que GtkLabel *. Puis elle effectue le casting
+   proprement dit. C'est une très bonne habitude d'utiliser et d'abuser de
+   ces macros. Elles permettent un débuggage simple et rapide. De plus, si
+   GTK+ est compilé sans les options de débuggage, ces macros deviennent
+   juste un simple casting et ne pénalisent donc pas la rapidité
+   d'éxecution du programme.
+
+   Les Boutons
+
+                                [BOITES.jpg]
+
+   Un autre widget bien utile est le bouton. Les bouton sont des objets
+   rectangulaires qui réagissent à un click de la souris et qui se mettent
+   en surbrillance lorsque le pointeur de la souris passe dessus. La
+   création d'un bouton est bien évidemment possible grâce à la fonction :
+
+   GtkWidget *gtk_button_new(void);
+
+   qui crée un bouton vide. En effet, en regardant dans l'arbre
+   hiérarchique de GTK+, on peut s'apercevoir que les GtkButtons dérivent
+   des GtkContainers et peuvent donc contenir à peu près n'importe quoi.
+   Mais comme en général, on souhaite qu'un bouton contienne tout
+   simplement un label, on utilisera plus souvent :
+
+   GtkWidget *gtk_button_new_with_label(const char *label);
+
+   qui crée un bouton avec un label à l'intérieur.
+
+   C'est bien beau de savoir utiliser tous ces widgets, encore faut-il
+   pouvoir les disposer de façon assez harmonieuse.
+
+   Les Containers
+
+   La plupart des widgets couramment utilisés dérivent de GtkContainer, et
+   peuvent donc contenir un autre widget. On ne crée généralement pas
+   directement des GtkContainers, mais des descendants de containers, par
+   exemple pour placer une image dans un bouton. Pour inclure un widget
+   dans un autre, on utilise la fonction :
+
+   void gtk_container_add(GtkContainer *container, GtkWidget *widget);
+
+   où 'container' est le contenant et 'widget' le contenu. On peut
+   également choisir le nombre de pixels séparant le bord du widget du
+   bord du container avec la fonction :
+
+   void gtk_container_set_border_width(GtkContainer *container, unsigned
+   int LargeurDuBord);
+
+   Malheureusement les GtkContainers ne peuvent contenir qu'un seul autre
+   widget, ce qui limite leur utilisation à des cas particuliers. Pour
+   placer plus d'un widget à l'intérieur d'un autre widget, on doit
+   utiliser un autre moyen. Par exemple les Boîtes.
+
+   Les Boîtes
+
+   Les Boîtes de GTK+ sont des empilements verticaux ou horizontaux de
+   widgets. Pour les créer, on utilise selon l'orientation choisie :
+
+   GtkWidget* gtk_hbox_new(int homogene, int remplissage);
+
+   ou
+
+   GtkWidget* gtk_vbox_new(int homogene, int remplissage);
+
+   Le paramètre 'homogene' peut valoir soit TRUE soit FALSE. S'il vaut
+   TRUE, tous les widgets utilisent la même place dans l'empilement, sinon
+   les widgets ont leur largeur (ou hauteur) par défaut. Le paramètre
+   'remplissage' définit le nombre de pixels à ajouter entre deux widgets
+   consécutifs. Pour placer un widget dans une GtkHBox ou une GtkVBox, on
+   utilise :
+
+   void gtk_box_pack_start(GtkBox *boite, GtkWidget *widget,int expand,
+   int fill, unsigned
+
+   int padding);
+
+   ou
+
+   void gtk_box_pack_end(GtkBox *boite, GtkWidget *widget,int expand, int
+   fill, unsigned
+
+   int padding);
+
+   suivant que l'on souhaite insérer le widget en haut (resp. à gauche) ou
+   en bas (resp. à droite) de l'empilement. Le paramètre 'boite' est bien
+   sûr le GtkHBox ou le GtkVBox qui doit contenir 'widget'.
+
+   Le paramètre 'expand' contrôle qui de la boîte ou du widget doit
+   adapter sa taille. S'il vaut TRUE, le widget est étiré de façon à
+   occuper toute la place encore disponible dans la boîte. S'il vaut
+   FALSE, c'est la boîte qui rétrécie.
+
+   Le paramètre 'fill' n'a de sens que si 'expand' vaut TRUE. S'il vaut
+   TRUE, c'est effectivement le widget qui est étiré, sinon 'padding'
+   pixels sont ajoutés autour du widget avant que celui-ci ne soit étiré.
+   Si tout cela vous semble un peu compliqué, vous pouvez toujours
+   utiliser les fonctions :
+
+   void gtk_box_pack_start_defaults(GtkBox *boite, GtkWidget *widget);
+
+   et
+
+   void gtk_box_pack_end_defaults(GtkBox *boite, GtkWidget *widget);
+
+   qui sont des appels déguisés aux fonctions précédentes avec expand =
+   TRUE, fill = TRUE et padding = 0.
+
+   Voici un exemple qui clarifiera les choses :
+
+   /* boite.c */
+
+   #include <gtk/gtk.h>
+
+   void main(int argc, char *argv[])
+
+   {
+
+   GtkWidget *Fenetre, *Boite, *Bouton;
+
+   gtk_init(&argc, &argv);
+
+   /* La fenêtre principale */
+
+   Fenetre = gtk_window_new(GTK_WINDOW_TOPLEVEL);
+
+   gtk_widget_show(Fenetre);
+
+   /* La boite */
+
+   Boite = gtk_hbox_new(FALSE, 5);
+
+   gtk_container_add(GTK_CONTAINER(Fenetre), Boite);
+
+   gtk_widget_show(Boite);
+
+   /* Les boutons à l'intérieur */
+
+   Bouton = gtk_button_new_with_label("Bouton 1");
+
+   gtk_box_pack_start(GTK_BOX(Boite), Bouton, FALSE, FALSE, 0);
+   gtk_widget_show(Bouton);
+
+   Bouton = gtk_button_new_with_label("Bouton 2");
+
+   gtk_box_pack_start(GTK_BOX(Boite), Bouton, TRUE, FALSE, 0);
+   gtk_widget_show(Bouton);
+
+   Bouton = gtk_button_new_with_label("Bouton 3");
+
+   gtk_box_pack_start(GTK_BOX(Boite), Bouton, TRUE, TRUE, 10);
+   gtk_widget_show(Bouton);
+
+   gtk_main();
+
+   }
+
+   Saisissez ce programme et compilez-le avec :
+
+   gcc boite.c -o boite `gtk-config --cflags --libs`
+
+   Exécutez le et essayez de redimensionner la fenêtre principale pour
+   voir comment les différents paramètres agissent. Bien sûr, n'hésitez
+   pas à changer les paramètres jusqu'à ce que vous ayez bien compris
+   l'effet de chacun d'eux.
+
+   Les Tables
+
+   Il existe une méthode de placement plus souple et plus puissante mais
+   elle est un peu plus difficile à mettre en oeuvre. Il s'agit des
+   'GtkTable'. Il faut s'imaginer un GtkTable comme un tableau avec un
+   certain nombre de lignes et de colonnes. Et les widgets que l'on désire
+   placer occupent les cases de ce tableau.
+
+   Pour créer un GtkTable, on utilise la fonction :
+
+   GtkWidget *gtk_table_new(int Lignes, int Colonnes, int Homogene);
+
+   où 'Lignes' et 'Colonnes' sont respectivement le nombre de lignes et de
+   colonnes de notre tableau. Et 'Homogene' est un paramètre booléen qui
+   ne peut donc prendre que les valeurs 'TRUE' ou 'FALSE'. Si 'Homogene'
+   vaut 'TRUE', toutes les cases de notre tableau auront la même hauteur
+   et la même largeur. Sinon, la taille des cases dépend du widget le plus
+   haut sur la même ligne et du widget le plus large sur la même colonne.
+   Ainsi, l'appel suivant :
+
+   gtk_table_new(3, 5, TRUE);
+
+   crée un tableau de 3 lignes et 5 colonnes dont toutes les cases ont la
+   même taille :
+
+   0 1 2 3 4 5
+
+   0 +------+------+------+------+------+
+
+   | | | | | |
+
+   1 +------+------+------+------+------+
+
+   | | | | | |
+
+   2 +------+------+------+------+------+
+
+   | | | | | |
+
+   3 +------+------+------+------+------+
+
+   Les numéros que j'ai placés en haut et à gauche du tableau vont nous
+   aider à placer les widgets dans ce tableau.
+
+   Pour placer un widget dans un GtkTable, on doit bien sûr le créer, et
+   ensuite -bien sûr- l'attacher dans le GtkTable à l'aide de la fonction
+   :
+
+   void gtk_table_attach(GtkTable *Table, GtkWidget *Widget,
+
+   int AbscisseGauche, int AbscisseDroite,
+
+   int OrdonneeHaute, int OrdonneeBasse,
+
+   int OptionsX, int OptionsY,
+
+   int RemplissageX, int RemplissageY);
+
+   Eh oui, cela fait pas mal de paramètres! Mais la puissance des
+   GtkTables est à ce prix, et puis, avec un peu d'habitude, c'est
+   vraiment moins compliqué que cela en à l'air.
+
+   Tout d'abord, les deux premiers paramètres 'Table' et 'Widget' sont
+   respectivement le GtkTable et le widget que l'on souhaite placer dans
+   le GtkTable.
+
+   Les quatre suivants définissent les points d'ancrage de notre widget
+   dans le GtkTable. En effet, un widget peut s'étendre sur plus d'une
+   case du tableau. Par exemple, si vous utilisez respectivement pour ces
+   quatre paramètres les valeurs 2, 4, 1, 3, le widget sera placé dans la
+   table comme suit:
+
+   0 1 2 3 4 5
+
+   0 +------+------+------+------+------+
+
+   | | | | | |
+
+   1 +------+------+------+------+------+
+
+   | | | | | |
+
+   2 +------+------+ Widget +------+
+
+   | | | | | |
+
+   3 +------+------+------+------+------+
+
+   Les paramètres 'OptionsX' et 'OptionsY' contrôlent comment le widget
+   occupera la place qui lui est allouée. Ils peuvent prendre comme valeur
+   n'importe quelle combinaison des options GTK_FILL, GTK_SHRINK et
+   GTK_EXPAND combinées par un ou logique (|).
+
+   Si l'option GTK_FILL est utilisée, le widget occupe toute la place
+   disponible. Si l'option GTK_SHRINK est spécifiée, le widget rétrécira
+   en même temps que la table. L'option GTK_EXPAND a le même rôle que le
+   paramètre 'expand' pour les boîtes. Et les paramètres 'RemplissageX' et
+   'RemplissageY' remplissent le même rôle que le paramètre padding pour
+   les boîtes. C'est à dire qu'ils spécifient le nombre de pixels vides
+   autour du widget.
+
+   Comme pour les boîtes, il existe une fonction simplifiée pour placer un
+   widget dans une table :
+
+   void gtk_table_attach_defaults(GtkTable *Table, GtkWidget *Widget,
+
+   int AbscisseGauche, int AbscisseDroite,
+
+   int OrdonneeHaute, int OrdonneeBasse);
+
+   qui est exactement équivalent à :
+
+   void gtk_table_attach(GtkTable *Table, GtkWidget *Widget,
+
+   int AbscisseGauche, int AbscisseDroite,
+
+   int OrdonneeHaute, int OrdonneeBasse,
+
+   GTK_FILL | GTK_EXPAND, GTK_FILL | GTK_EXPAND, 0, 0);
+
+   mais souvent plus facile à utiliser.
+
+   Là encore un bon exemple clarifiera les choses.
+
+   /* table.c */
+
+   #include <gtk/gtk.h>
+
+   int main(int argc, char *argv[])
+
+   {
+
+   GtkWidget *Fenetre;
+
+   GtkWidget *Table;
+
+   GtkWidget *Label;
+
+   gtk_init(&argc, &argv);
+
+   /* La fenetre */
+
+   Fenetre = gtk_window_new(GTK_WINDOW_
+
+   TOPLEVEL);
+
+   gtk_widget_show(Fenetre);
+
+   /* La table */
+
+   Table = gtk_table_new(3, 5, FALSE);
+
+   gtk_container_add(GTK_CONTAINER(Fenetre), Table);
+
+   gtk_widget_show(Table);
+
+   /* Les Labels */
+
+   Label = gtk_label_new("Label (0, 0)->(1, 1)");
+
+   gtk_table_attach(GTK_TABLE(Table), Label, 0,1, 0,1,
+
+   GTK_FILL, GTK_FILL, 0, 0);
+
+   gtk_widget_show(Label);
+
+   Label = gtk_label_new("Label (0, 1)->(2, 3)");
+
+   gtk_table_attach(GTK_TABLE(Table), Label, 0,2, 1,3,
+
+   GTK_FILL | GTK_EXPAND, GTK_FILL, 0, 0); gtk_widget_show(Label);
+
+   Label = gtk_label_new("Label (1, 0)->(2, 1)");
+
+   gtk_table_attach(GTK_TABLE(Table), Label, 1,2, 0,1,
+
+   GTK_FILL, GTK_FILL | GTK_EXPAND, 0, 0); gtk_widget_show(Label);
+
+   Label = gtk_label_new("Label (2, 0)->(4, 2)");
+
+   gtk_table_attach(GTK_TABLE(Table), Label, 2,4, 0,2,
+
+   GTK_FILL | GTK_EXPAND, GTK_FILL | GTK_EXPAND, 0, 0);
+   gtk_widget_show(Label);
+
+   Label = gtk_label_new("Label (2, 2)->(4, 3)");
+
+   gtk_table_attach(GTK_TABLE(Table), Label, 2,4, 2,3,
+
+   GTK_FILL | GTK_EXPAND | GTK_SHRINK,
+
+   GTK_FILL | GTK_EXPAND, 0, 0);
+
+   gtk_widget_show(Label);
+
+   Label = gtk_label_new("Label (4, 0)->(5, 3)");
+
+   gtk_table_attach(GTK_TABLE(Table), Label, 4,5, 0,3,
+
+   GTK_FILL | GTK_EXPAND | GTK_SHRINK,
+
+   GTK_FILL | GTK_EXPAND | GTK_SHRINK, 0, 0); gtk_widget_show(Label);
+
+   /* Et maintenant la boucle principale d'attente des événements */
+   gtk_main();
+
+   return 0;
+
+   }
+
+   Compilez ceci comme d'habitude avec :
+
+   gcc table.c -o table `gtk-config --cflags --libs`
+
+   Amusez-vous à changer les paramètres de toutes les fonctions, afin de
+   bien comprendre comment ils agissent.
+
+   Vous connaissez maintenant les principales façons de placer des widgets
+   les uns dans les autres. La prochaine fois, nous continuerons notre
+   exploration des widgets de GTK+.
+
+
+   David Odin Développeur GTK+, Auteur de GIRAM
+
+   David.Odin@bigfoot.com
+     __________________________________________________________________
+
+   © Copyright 2000 Diamond Editions/Linux magazine France. - Permission
+    is granted to copy, distribute and/or modify this document under the
+    terms of the GNU Free Documentation License, Version 1.1or any later
+      version published by the Free Software Foundation; A copy of the
+     license is included in the section entitled "GNU Free Documentation
+                                  License".

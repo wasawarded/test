@@ -1,0 +1,172 @@
+               o Theory of Computation
+               o Compiler Design
+               o Digital Logic
+               o Software Engineering
+          + DevOps
+--
+     * DBMS
+     * Computer Networks
+     * Digital Logic and Design
+     * C Programming
+     * Data Structures
+--
+   Open In App
+
+Program to Implement Logic Gates
+
+   Last Updated : 30 Aug, 2024
+--
+   News Follow
+
+   In a computer, most of the electronic circuits are made up logic gates.
+   Logic gates are used to create a circuit that performs calculations,
+   data storage or shows off object-oriented programming especially the
+   power of inheritance. Logic gates can also be constructed using vacuum
+   tubes, electromagnetic elements like optics, molecule etc.
+
+What is Logic Gate?
+
+   A Logic gate is an elementary building block of any digital circuits.
+   It takes one or two inputs and produces output based on those inputs.
+   Outputs may be high (1) or low (0). Logic gates are implemented using
+   diodes or transistors. There are seven basic logic gates defined, these
+   are:
+    1. AND gate,
+--
+Conclusion
+
+   Logic gates are basic building components of digital circuits necessary
+   to design complex systems. They are used to perform logical operations.
+   It is important to understanding the working and combination of these
+   gates in order to design circuits that perform tasks correctly and
+   efficiently. Logic gates can help develop a solid foundation in digital
+   electronics and pave the way for exploring more advanced topics.
+
+Frequently Asked Questions on Logic Gates – FAQs
+
+How to Implement Logic Gates?
+
+     Logic gates are implemented using diodes or transistors. They can
+     also be constructed using vacuum tubes, molecules, etc.
+
+How are Logic Gates Implemented in Real Life?
+
+     Logic gates are implemented in thermostats, locks, water systems and
+     many other electronic devices.
+
+What are the Applications of Logic Gates?
+
+     Logic gates are used in microcontrollers, microprocessors, and
+     embedded systems.
+
+--
+   More info
+   Next Article
+   Two Level Implementation of Logic Gates
+   author
+   sunilkannur98
+--
+   Article Tags :
+     * C Language
+     * Digital Logic
+     * Programming Language
+
+Similar Reads
+
+     * Program to Implement Logic Gates
+       In a computer, most of the electronic circuits are made up logic
+       gates. Logic gates are used to create a circuit that performs
+       calculations, data storage or shows off object-oriented programming
+       especially the power of inheritance. Logic gates can also be
+       constructed using vacuum tubes, electromagne
+       8 min read
+     * Two Level Implementation of Logic Gates
+       The term "two-level logic" refers to a logic design that uses no
+       more than two logic gates between input and output. This does not
+       mean that the entire design will only have two logic gates, but it
+       does mean that the single path from input to output will only have
+       two logic gates. In two-level logic
+       10 min read
+     * C++ program to implement Half Adder
+       Prerequisite : Half Adder in Digital Logic We are given with two
+       inputs A and B. Our task is to implement Half Adder circuit and
+       print the outputs sum and carry of two inputs. Introduction : The
+--
+       2 min read
+     * Python program to implement 2:4 Multiplexer
+       Prerequisite : Multiplexers in Digital Logic Introduction : It is a
+       combinational circuit which have many data inputs and single output
+       depending on control or select inputs.​ For N input lines, log n
+--
+       numbers which are minuend, subtrahend
+       2 min read
+     * Introduction of Logic Gates
+       In Boolean Algebra, there are three basic operations, [Tex]
+       +,\:.\:,\:^\prime [/Tex] which are analogous to disjunction,
+       conjunction, and negation in propositional logic . Each of these
+       operations has a corresponding logic gate. Apart from these, there
+       are a few other logic gates as well. It was inv
+       10 min read
+     * Implementation of OR Gate from NOR Gate
+       The Logic gates are the Fundamental Building Blocks of the Digital
+       Circuits. The Logic Gate takes one or more Binary inputs and
+       performs logical Operations to Produce a single binary Output.
+       Understanding through the Different Combinations of gates is
+--
+       In Digital Electronics, the concepts of Gates and Mux are a must to
+       design the Digital circuit. The gates are the building block in
+       Digital electronics and a MUX is a combinational logic circuit used
+       in Digital Electronics. By Combining different types of gates we
+       can design a complex circuit that c
+       6 min read
+     * Python Program to implement Full Subtractor
+       Prerequisite -Full Subtractor in Digital Logic In this, we will
+       discuss the overview of the full subtractor and will implement the
+       full subtractor logic in the python language. Also, we will cover
+       with the help of examples. Let's discuss it one by one. Given three
+       inputs of Full Subtractor A, B, Bin
+       4 min read
+     * Programming Array Logic
+       Programmable Array Logic (PAL) is a commonly used programmable
+       logic device (PLD). It has programmable AND array and fixed OR
+       array. Because only the AND array is programmable, it is easier to
+       use but not flexible as compared to Programmable Logic Array (PLA).
+       PAL's only limitation is number of AND
+       5 min read
+     * Implementation of Full Adder using NOR Gates
+       In Digital Logic Circuit, Full Adder is a Digital Logic Circuit
+       that can add three inputs and give two outputs. The three inputs A,
+       B, and input carry as Cin. Cout is represented as output carry and
+--
+       symbols {0, 1, 2, 4, 5, 6, 7, 8, 9, A, B, C
+       8 min read
+     * Programmable Logic Array
+       A Programmable Logic Array therefore, comprises of a PLA chip
+       having a fixed wiring structure of AND gates followed by OR gates
+       that can be programmed. PLA is a type of programmable logic device
+       to construct a reconfigurable digital circuit on its architecture.
+       It includes memory as well as logical
+       6 min read
+     * Implementation of OR Gate from NAND Gate
+       Logic gates are an essential component of digital electronics and
+       are used to handle binary data. Because of its universal nature,
+       the NAND gate is particularly significant among these gates. This
+--
+       demonstrating the adaptability and usef
+       4 min read
+     * Universal Logic Gates
+       A logic gate is an active electronic component that uses one or
+       more inputs to produce an output based on the bolean algebra each
+       gate is designed to perform. Though there are various types of
+--
+       of the digital electronics field that uses binary variables and
+       logical operations. Think of it as the mind that makes the
+       computers work effectively. Then, imagine that logic gates (AND,
+       OR, and NOT) could be the necessary helpers in
+       5 min read
+--
+     * Database Management System
+     * Software Engineering
+     * Digital Logic Design
+     * Engineering Maths
+     * Software Development

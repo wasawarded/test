@@ -1,0 +1,1766 @@
+   #alternate 编辑 Wikipedia (zh) alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+   Wikipedia的Atom feed
+
+   跳转到内容
+
+   [ ] 主菜单
+   主菜单
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   导航
+     * 首页
+     * 分类索引
+     * 特色内容
+     * 新闻动态
+     * 最近更改
+     * 随机条目
+
+   帮助
+     * 帮助
+     * 维基社群
+     * 方针与指引
+     * 互助客栈
+     * 知识问答
+     * 字词转换
+     * IRC即时聊天
+     * 联络我们
+     * 关于维基百科
+
+   维基百科 自由的百科全书
+   搜索
+   ____________________
+   (BUTTON) 搜索
+
+   [ ] 外观
+
+     * 资助维基百科
+     * 创建账号
+     * 登录
+
+   [ ] 个人工具
+     * 资助维基百科
+     * 创建账号
+     * 登录
+
+   未登录编辑者的页面 了解详情
+     * 贡献
+     * 讨论
+
+目录
+
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+     * 序言
+     * 1 词源
+     * 2 概论
+     * 3 分类
+       (BUTTON) 开关分类子章节
+          + 3.1 经典逻辑
+          + 3.2 非经典逻辑
+          + 3.3 形式逻辑
+               o 3.3.1 符号逻辑
+               o 3.3.2 数理逻辑
+          + 3.4 非形式逻辑
+          + 3.5 哲学逻辑
+     * 4 概念
+       (BUTTON) 开关概念子章节
+          + 4.1 逻辑学基本公理
+               o 4.1.1 形式逻辑学
+               o 4.1.2 非形式逻辑学
+          + 4.2 逻辑系统的性质
+          + 4.3 对于逻辑的不同理解
+          + 4.4 演绎和归纳
+     * 5 发展历史
+     * 6 逻辑学学科体系
+     * 7 注释
+     * 8 参考文献
+       (BUTTON) 开关参考文献子章节
+          + 8.1 引用
+          + 8.2 来源
+     * 9 外部链接
+
+   [ ] 开关目录
+
+逻辑
+
+   [ ] 164种语言
+     * Afrikaans
+     * Alemannisch
+     * አማርኛ
+     * Aragonés
+     * अंगिका
+     * العربية
+     * مصرى
+     * অসমীয়া
+     * Asturianu
+     * Azərbaycanca
+     * تۆرکجه
+     * Башҡортса
+     * Boarisch
+     * Žemaitėška
+     * Bikol Central
+     * Беларуская
+     * Беларуская (тарашкевіца)
+     * Betawi
+     * Български
+     * বাংলা
+     * Brezhoneg
+     * Bosanski
+     * Batak Mandailing
+     * Буряад
+     * Català
+     * Chavacano de Zamboanga
+     * Нохчийн
+     * کوردی
+     * Corsu
+     * Qırımtatarca
+     * Čeština
+     * Чӑвашла
+     * Cymraeg
+     * Dansk
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Eesti
+     * Euskara
+     * Estremeñu
+     * فارسی
+     * Suomi
+     * Võro
+     * Na Vosa Vakaviti
+     * Français
+     * Nordfriisk
+     * Frysk
+     * Gaeilge
+     * 贛語
+     * Kriyòl gwiyannen
+     * Galego
+     * Avañe'ẽ
+     * Hawaiʻi
+     * עברית
+     * हिन्दी
+     * Fiji Hindi
+     * Hrvatski
+     * Magyar
+     * Հայերեն
+     * Արեւմտահայերէն
+     * Interlingua
+     * Jaku Iban
+     * Bahasa Indonesia
+     * Interlingue
+     * Igbo
+     * Ilokano
+     * Ido
+     * Íslenska
+     * Italiano
+     * 日本語
+     * Patois
+     * La .lojban.
+     * Jawa
+     * ქართული
+     * Taqbaylit
+     * Kabɩyɛ
+     * Gĩkũyũ
+     * Қазақша
+     * ភាសាខ្មែរ
+     * 한국어
+     * Kurdî
+     * Kernowek
+     * Кыргызча
+     * Latina
+     * Lëtzebuergesch
+     * Лакку
+     * Lingua Franca Nova
+     * Ladin
+     * Lombard
+     * Lietuvių
+     * Latviešu
+     * Malagasy
+     * Minangkabau
+     * Македонски
+     * മലയാളം
+     * Монгол
+     * मराठी
+     * Bahasa Melayu
+     * Mirandés
+     * မြန်မာဘာသာ
+     * مازِرونی
+     * Plattdüütsch
+     * नेपाल भाषा
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Novial
+     * Occitan
+     * Oromoo
+     * ਪੰਜਾਬੀ
+     * Norfuk / Pitkern
+     * Polski
+     * Piemontèis
+     * پنجابی
+     * پښتو
+     * Português
+     * Runa Simi
+     * Română
+     * Русский
+     * Русиньскый
+     * Саха тыла
+     * ᱥᱟᱱᱛᱟᱲᱤ
+     * Sardu
+     * Sicilianu
+     * Scots
+     * سنڌي
+     * Srpskohrvatski / српскохрватски
+     * Taclḥit
+     * Simple English
+     * Slovenčina
+     * Slovenščina
+     * Shqip
+     * Српски / srpski
+     * Sunda
+     * Svenska
+     * Kiswahili
+     * தமிழ்
+     * Тоҷикӣ
+     * ไทย
+     * Türkmençe
+     * Tagalog
+     * Tolışi
+     * Tok Pisin
+     * Türkçe
+     * Татарча / tatarça
+     * Тыва дыл
+     * Українська
+     * اردو
+     * Oʻzbekcha / ўзбекча
+     * Vepsän kel’
+     * Tiếng Việt
+     * Walon
+     * Winaray
+     * 吴语
+     * IsiXhosa
+     * მარგალური
+     * ייִדיש
+     * Yorùbá
+     * ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ
+     * 文言
+     * 閩南語 / Bân-lâm-gú
+     * 粵語
+
+   编辑链接
+
+     * 条目
+     * 讨论
+
+   [ ] 简体
+     * 不转换
+     * 简体
+     * 繁體
+     * 大陆简体
+     * 香港繁體
+     * 澳門繁體
+     * 大马简体
+     * 新加坡简体
+     * 臺灣正體
+
+     * 阅读
+     * 编辑
+     * 查看历史
+
+   [ ] 工具
+   工具
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   操作
+     * 阅读
+     * 编辑
+     * 查看历史
+
+   常规
+     * 链入页面
+     * 相关更改
+     * 上传文件
+     * 特殊页面
+     * 固定链接
+     * 页面信息
+     * 引用此页
+     * 获取短链接
+     * 下载二维码
+
+   打印/导出
+     * 下载为PDF
+     * 打印版本
+
+   在其他项目中
+     * 维基共享资源
+     * 维基数据项目
+
+   外观
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   维基百科，自由的百科全书
+   此条目的主题是关于逻辑和逻辑学科的分类、历史与发展。关于黑格尔的作品《逻辑学》，请见“大逻辑”。
+   系列条目
+   哲学
+   从左到右：柏拉图、康德、尼采、释迦牟尼、孔子、伊本·西那从左到右：柏拉图、康德、尼采、释迦牟尼、孔子、伊本·西那
+     * 柏拉图
+     * 康德
+     * 尼采
+
+     * 释迦牟尼
+     * 孔子
+     * 伊本·西那
+
+   分支
+     * 形而上学
+     * 认识论
+     * 伦理学
+     * 美学
+     * 逻辑学
+
+   时期
+     * 古典
+          + 古希腊
+          + 古印度
+          + 古中国
+     * 中世纪
+          + 经院哲学
+          + 宋明理学
+     * 近代
+          + 德国古典哲学
+     * 当代
+          + 分析哲学
+          + 欧陆哲学
+
+   地域
+     * 东方
+          + 中国
+          + 印度
+          + 日本
+     * 西方
+          + 美
+          + 英
+          + 法（英语：French philosophy）
+          + 德
+          + 意
+          + 俄（英语：Russian philosophy）
+     * 中东
+          + 伊斯兰哲学
+
+   传统
+   各宗教的哲学信仰
+     * 儒家
+     * 道家
+     * 印度哲学
+          + 印度教
+          + 佛教
+          + 耆那教
+     * 犹太教
+     * 基督教
+     * 伊斯兰教
+
+   文献
+     * 美学
+     * 知识论
+     * 伦理学
+     * 逻辑学
+     * 形而上学
+     * 政治哲学（英语：Category:Political philosophy literature）
+
+   哲学家
+     * 美学家
+     * 知识论者
+     * 伦理学家（英语：List of ethicists）
+     * 逻辑学家
+     * 形而上学学者（英语：List_of_metaphysicians）
+     * 社会和政治哲学家（英语：Index of sociopolitical thinkers）
+     * 女哲学家（英语：Index of sociopolitical thinkers）
+
+   列表
+     * 索引（英语：Index of philosophy）
+     * 概要
+     * 年份
+     * 问题
+     * 出版物（英语：List of important publications in philosophy）
+     * 理论（英语：List of philosophies）
+     * 词汇表（英语：Glossary of philosophy）
+     * 哲学家
+
+   [10px-Socrates.png] 哲学主题
+     * 查
+     * 论
+     * 编
+
+   逻辑（logic）又称理则、论理、推理、推论，是有效（或正确）推论的研究^[1]^[2]；更广泛地说，逻辑是对论证的分析和评估^[3]。逻辑的
+   目的可以是来发展评估他人的论证或构建自己论证的一套方法和原则体系^[4]。
+
+   逻辑可分为形式逻辑，与非形式逻辑。
+
+   逻辑被使用在大部份的智能活动中，但主要在心理、学习、哲学、语义学、数学、推论统计学、脑科学、法律和计算机科学等领域内被视为一门学科。逻辑讨论逻
+   辑论证一般会呈现的一般形式，哪种形式是有效的，以及其中的谬论。
+
+   逻辑推理通常可分为三种：归纳推理、溯因推理和演绎推理。 科学方法都属于归纳推理, 没有必然性。 数学则属于演绎推理。
+
+   在哲学里，逻辑被应用在大多数的主要领域之中：形上学/宇宙论、本体论、知识论及伦理学。
+
+   在数学里，逻辑是指形式逻辑和数理逻辑，形式逻辑是研究某个形式语言的有效推论^[5]。主要是演绎推理。
+   在辩证法中也涉及到逻辑^[6]。数理逻辑是研究抽象逻辑关系和数学基本的问题。
+
+   在心理、脑科学、语义学、法律里，是研究人类思想推理的处理。
+
+   在学习、推论统计学里，是研究最大可能的结论。主要是归纳推理、溯因推理。
+
+   在电脑科学里， 是研究各种方法的性质，可能性，和实现在机器上。主要是归纳推理、溯因推理，也有在归纳推理的研究。
+
+   从古文明开始（如古印度^[注 1]、中国古代^[注
+   2]和古希腊）都有对逻辑进行研究。在西方，亚里斯多德将逻辑建立成一门正式的学科，并在哲学中给予它一个基本的位置。
+
+词源
+
+   [编辑]
+
+   参见：逻辑史和中国逻辑史
+
+   逻辑（英语：logic）的字根来自（
+   古希腊语：λογική，罗马化：logikḗ），意为：具有理由的、知识的、辩证的、论辩的；逻辑此词又与逻各斯（古希腊语：λόγος，罗马化：l
+   ógos）同源，意为：词语、思想、概念、理念、论据、论点、说明、理由、原则、推理^[7]。“logikḗ”此后译为法语：logique，再发展
+   为英语的逻辑：logic。其他欧洲语言拼法均雷同，如德语：logik，意大利语、西班牙语：logica，葡萄牙语：lógica 等。
+
+   李之藻（1565-1630）与人翻译了一本逻辑学著作，译为《名理探》。清朝末年，有著作《辩学启蒙》。1902年严复译《穆勒名学》时，将其意译为
+   “名”，但这不合名家或者名教之名学中“名”的本意。同时在本作中第一次作为注解提到“逻辑”一词，但他并不提倡^[8]。
+   梁启超在《墨子之论理学》提倡采用和制汉语的意译“论理”^[9]。 1919年孙文在《孙文学说·以作文为证》提倡意译为“理则”^[10]。
+   1917年章士钊在《逻辑指要》第一次将“逻辑”作为著作的译名。他认为，意译无法精确表达原词所蕴含的意义。由于意译的分歧很大，最终“逻辑”作为“
+   logic”的译名流传下来^[11]。
+
+概论
+
+   [编辑]
+
+   逻辑本身是指是推论和证明的思想过程，而逻辑学是研究“有效推论和证明的原则与标准”的一门学科。作为一个形式科学，逻辑透过对推论的形式系统与自然语
+   言中的论证等来研究并分类命题与论证的结构^[12]。
+
+   逻辑的范围是非常广阔的，从对谬论与悖论的研究之类的核心议题，到利用机率来推论及包含因果论的论证等专业的推理分析。逻辑在今日亦常被使用在论辩理论
+   之中（参见：非形式逻辑）^[13]。
+
+   传统上，逻辑被作为哲学的一个分支来研究，和文法与修辞一同被称为古典三艺。古希腊亚里斯多德系统的研究了逻辑系统，介绍于其著作集《工具论》中^[1
+   4]^[15]。
+   《工具论》是亚里士多德学派的传人们（即逍遥学派）将他的六篇关于逻辑的著作汇编成的一部著作集，并定为此名。这六篇著作分别是《范畴篇》、《解释篇》
+   、《前分析篇》、《后分析篇》、《论辩篇》和《辨谬篇》。
+
+   自十九世纪中叶，形式逻辑已被作为数学基础而被研究，当中经常被称之为符号逻辑。1903年，阿弗烈·诺夫·怀海德与伯特兰·罗素写成了《数学原理》，
+   试图将逻辑形式地建立成数学的基石^[16]。不过，除了些基本的以外，当时的系统已不再被使用，大部份都被集合论所取代掉了。当对形式逻辑的研究渐渐
+   地扩张了之后，研究也不再只局限于基础的议题，之后的各个数学领域被合称为数理逻辑。形式逻辑的发展和其在电脑上的应用是电脑科学的基础^[17]。戈
+   特弗里德·莱布尼茨、乔治·布尔、戈特洛布·弗雷格、 大卫·希尔伯特、库尔特·哥德尔，等等，都在这个过程中非常重要^[18]。
+
+分类
+
+   [编辑]
+
+经典逻辑
+
+   [编辑]
+
+   主条目：经典逻辑和传统逻辑
+
+   经典逻辑: 经典逻辑的逻辑系统基于公理化的传统逻辑的四个基本思维规律：同一律, 排中律,
+   无矛盾律(也被称为矛盾律),和充足理由律，和其它经典逻辑特有的特征(见:经典逻辑#特征）^[14]^[19]。 经典逻辑 是19 和 20
+   世纪的创新, 它比亚里士多德的传统逻辑具有更广泛的应用，并且能够将亚里士多德的传统逻辑表述为一个特例。 同一律, 排中律, 无矛盾律
+   由亚里士多德提出， 也是伯特兰·罗素在他的著作《哲学问题》中确立了三个思维规律。
+
+非经典逻辑
+
+   [编辑]
+
+   主条目：非经典逻辑
+
+   非经典逻辑: 与经典逻辑公理化假设（见：经典逻辑#特征）有矛盾的逻辑系统。例如：拒绝无矛盾律的所有种类的 次协调逻辑
+   ^[20]^[21]，包括 相干逻辑^[22]， 双面真理说^[23] 等等。 这些的形式化次协调逻辑既属于非经典逻辑也属于形式逻辑。
+
+形式逻辑
+
+   [编辑]
+
+   参见：形式系统
+
+   形式逻辑 是对命题、陈述或断然使用的句子和演绎论证的抽象研究^[24]。
+   是研究纯形式内容的推论的一门学科，这种内容是很明确的。若一个推论可以被表达成一个完全抽象的规则（即不只是和任一特定事物或性质有关的规则）的一个
+   特定应用，则这个推论拥有纯形式内容。形式逻辑的规则由亚里斯多德最先写成^[25]。在许多逻辑的定义中，逻辑推论与带有纯形式内容的推论会是同一种
+   概念。但这不表示非形式逻辑的概念是空洞的，因为没有任何一种形式语言可以捕捉到自然语言语义间所有的微细差别。
+   形式是逻辑的核心，但在“形式逻辑”中对“形式”使用时常不很明确，因而使其阐述变得很费解。其中，符号逻辑仅为形式逻辑的一种类型，而和形式逻辑的另
+   一种类型－只处理直言命题的三段论不同。^[26]
+
+符号逻辑
+
+   [编辑]
+
+   符号逻辑捕获了逻辑推论的形式特征，并将其抽象化为符号的研究^[16]^[27]。符号逻辑通常分为两个分支：命题逻辑和谓词逻辑。
+   “形式逻辑”通常作为符号逻辑的同义词。但广义地来说，形式逻辑是古老的，可追溯至两千年以前，而符号逻辑则相对较新，只有一个世纪左右的历史而已。
+
+数理逻辑
+
+   [编辑]
+
+   数理逻辑是符号逻辑在其他领域中的延伸，特别是对模型论、证明论、集合论和递归论的研究。
+
+非形式逻辑
+
+   [编辑]
+
+   主条目：非形式逻辑
+
+   非形式逻辑^[28]是研究自然语言论证的一门学科，也被认为与批判性思维相关联,
+   被理解为不包含符号抽象化的任何一种逻辑推论；这是由“形式语言”和“形式理论”中类推而来的用法。
+
+   没有任何一种形式语言可以捕捉到自然语言语义间所有的微细差别,这说明了非形式逻辑研究存在的必要性。
+   但非形式逻辑典型特征是不如形式逻辑善于做严密分析。柏拉图的作品^[29]是非形式逻辑的一重要例子。
+   对谬论的研究是非形式逻辑中尤其重要的一个分支，其历史可追寻于古希腊时期亚里斯多德的著作《辨谬篇》。
+
+哲学逻辑
+
+   [编辑]
+
+   主条目：哲学逻辑
+
+   哲学逻辑是指传统上使用公认的逻辑方法来解决或推进哲学问题讨论的哲学领域,是对逻辑更特定于哲学的方面的研究。
+   该术语被理解为包含并专注于非经典逻辑, 尽管还有其他含义^[30]。 约翰·P·伯吉斯（英语：John P. Burgess）
+   的《哲学逻辑》^[31]介绍了非经典逻辑的五个中心分支（时间逻辑、模态逻辑、条件逻辑、相干逻辑和直觉逻辑），重点关注形式化模型和直觉动机之间有
+   时存在问题的关系。进一步的介绍可见其它有关文献^[32]^[33]。
+
+概念
+
+   [编辑]
+
+逻辑学基本公理
+
+   [编辑]
+
+形式逻辑学
+
+   [编辑]
+
+   经典逻辑的四个基本公理：
+
+   同一律（the law of identity）
+          事物跟其自身相等同，“自己”不能“不是自己”。
+
+   无矛盾律（the law of non-contradiction）
+          事物不能同时“是”跟“不是”。是就是，不是就不是。
+
+   排中律（the law of excluded middle）
+          事物只能有“是”或“不是”两种状态，不存在其他中间状态。
+
+   充足理由律（the law of sufficient reason）
+          任何事物都有其存在的充足理由。
+
+非形式逻辑学
+
+   [编辑]
+
+   只与非经典逻辑有关的公理：
+
+   函中律（the law of included middle）
+          事物不仅有“是”或“不是”两种状态，还存在“非是”及“非不是”的P状态（possibly true),其值属于区间[0,1]。
+
+   辩证逻辑和对立统一规律：
+
+   在辩证逻辑中，允许矛盾的存在，并接纳对立统一规律。
+          在辩证逻辑中认为，社会和思想领域中的任何事物以及事物之间都包含着矛盾性，事物矛盾双方又统一又斗争推动事物的运动、变化和发展。对立
+          统一规律认为，矛盾双方的同一性与斗争性；矛盾的普遍性与特殊性;事物发展过程中的矛盾以及矛盾双方发展的不平衡性。辩证法是解决矛盾的
+          方法论。
+
+逻辑系统的性质
+
+   [编辑]
+
+   形式逻辑系统可以具有的重要属性包括：
+
+   有效性（validity）
+          依系统的推理规则，若所有前提皆为真则结论必为真（保真）。所有命题之前提皆语义蕴涵（semantic
+          consequence）结论。
+
+   自洽性（consistency）
+          系统中任一定理都不与其他定理相矛盾。不存在命题P，P和非P皆可在系统中证明。
+
+   可靠性（soundness）
+          系统中所有定理（有效且可证明的命题）皆为真。可靠性与完备性互为逆命题。
+
+   完备性（completeness）
+          系统中不存在无法证明或证否的有效命题。系统中真命题皆可证明（真命题皆为定理）且假命题皆可证否。
+
+   表达性（英语：Expressive power） (computer science)（Expressivity）
+          系统中可以表达哪些概念。
+
+   一些逻辑系统不拥有上述所有性质，比如库尔特·哥德尔的哥德尔不完备定理证明了，没有任何一个蕴涵皮亚诺公理的算术形式系统可以同时满足自洽性和完备性
+   。^[27]同时他的针对没有通过特定公理扩展为带有等式的算术形式系统的一阶谓词逻辑的定理，证实了它们可以同时满足自洽性和完备性。^[34]
+
+对于逻辑的不同理解
+
+   [编辑]
+
+   参见：逻辑的概念（英语：Conceptions of logic）
+
+   逻辑产生于对论证正确性的关注。逻辑是对论证的研究，这个概念在历史上是很基本的，而这也是不同逻辑传统的创立者如柏拉图和亚里斯多德所设想的。现代的
+   逻辑学家通常会希望确保对逻辑的研究只局限于由适度一般化了的推论中所产生出来的论证；所以如《斯坦福哲学百科》所称，“逻辑……没有涵盖有效推理的整
+   个课题，那是理性理论的工作。更明确地说，逻辑处理一种推论，其有效性可追溯至推论中的表述的形式特征，这可以是语言的，心理的，或其他的表述。”(H
+   ofweber 2004).^[5]
+
+   相对地，伊曼努尔·康德引入了另一种概念来阐述什么是逻辑。他主张逻辑应当被设想为判断的科学，这种想法被戈特洛布·弗雷格采纳，写入他的逻辑与哲学著
+   作之中，其中，思维（德语：Gedanke）这一词取代了康德的判断（德语：Urteil）。在此观点下，有效的逻辑推论是源于判断或思维的结构特征。
+
+演绎和归纳
+
+   [编辑]
+
+   演绎推理关注于从给定的前提下有什么是可得出的。而归纳推理（从观察中推论出可靠广义化的过程）有时也被包含在对逻辑的研究中。相对应地，必须要区分出
+   演绎有效性和归纳有效性。一个推论是演绎有效的，若且唯若不可能存在所有前提皆为真但结论为假的状况。对于形式逻辑的系统，演绎有效性的概念可以用语义
+   学中已明确理解的概念严格地陈述出来。另一方面，归纳的有效性则要求必须定义对某一观察集合的“可靠广义化”。此定义可以用各种不同的方式来达成，有的
+   方式会比其他的方式不那么形式化；有些定义也许会用到机率的数学模型。^[35]
+
+发展历史
+
+   [编辑]
+
+   主条目：逻辑史
+
+   许多文化都采用复杂的推理系统，最初仅有三个地方把逻辑学作为对推理方法的明确分析，并且有持续的发展，那就是前6世纪的印度、前5世纪的中国和前4世
+   纪与前1世纪间的希腊。
+
+   现代逻辑的形式复杂处理明显源自希腊传统，但是有人提出布尔逻辑的先驱可能知道印度逻辑（Ganeri
+   2001）。希腊传统自身来自亚里士多德逻辑的传播，伊斯兰哲学家和中世纪逻辑学家对它的评论。欧洲以外的传统没有存活到现代时期：在中国，对逻辑的学
+   术研究传统在韩非的法家哲学之后就被秦朝压制；在伊斯兰世界，艾什尔里派（Ash'ari）的崛起压制了逻辑的原始工作。
+
+   但是在印度，经院学派正理派的创新持续到18世纪早期。它没有存活到殖民地时期（英语：Colonial
+   India）。在20世纪，西方哲学家如Stanislaw Schayer和Klaus Glashoff探究了印度传统逻辑学的某些方面。
+
+   中世纪时期，在亚里士多德的想法显示与信仰大量兼容之后，他的逻辑被给予更大强调。在中世纪的后期，逻辑成为一部分哲学家的关注焦点，他们专注于对哲学
+   论证的逻辑分析。
+
+逻辑学学科体系
+
+   [编辑]
+
+     * 经典逻辑
+          + 三段论（传统逻辑，词项逻辑）
+          + 布尔逻辑
+          + 命题逻辑
+          + 一阶逻辑（谓词逻辑）
+     * 非经典逻辑
+          + 次协调逻辑
+          + 相干逻辑
+          + 双面真理说
+          + 可计算性逻辑
+          + 多值逻辑
+          + 模糊逻辑
+          + 模态逻辑
+     * 数理逻辑（符号逻辑）
+          + 代数逻辑
+               o 布尔代数
+               o 关系代数
+          + 模型论
+          + 证明论
+               o 希尔伯特演绎系统
+               o 自然演绎
+               o 相继式演算
+               o 柯里-霍华德同构
+          + 递归论
+               o λ演算
+               o 组合子逻辑
+          + 公理化集合论
+          + 二阶逻辑
+          + 哥德尔不完备定理
+     * 直觉逻辑（构造性逻辑）
+          + Heyting代数
+          + 中间逻辑
+          + 直觉类型论
+     * 多值逻辑
+          + 三值逻辑
+          + 模糊逻辑
+          + 概率逻辑
+     * 亚结构逻辑（子结构逻辑）
+          + 线性逻辑
+          + 相干逻辑
+     * 非单调逻辑
+          + 缺省逻辑
+          + 自动认识逻辑
+          + 可废止逻辑
+     * 模态逻辑
+          + 真势模态逻辑
+          + 认识逻辑
+          + 道义逻辑
+          + 时间逻辑（时态逻辑）
+          + 动态逻辑
+          + 可证明性逻辑
+          + 可解释性逻辑
+     * 哲学逻辑
+          + 次协调逻辑（弗协调逻辑）
+          + 自由逻辑
+     * 辩证法（辩证逻辑）
+     * 非形式逻辑
+     * 逻辑实现的三种方式
+          + 演绎推理
+          + 归纳推理
+          + 溯因推理（设因推理，假设推理）
+          + 可废止推理
+     * 逻辑史
+          + 工具论（古希腊）亚里士多德（384 BC – 322 BC）
+          + 思维规律研究（英国）乔治·布尔（1815–1864）
+          + 概念文字（德国）弗雷格（1848–1925）
+          + 数学原理（英国）罗素（1872-1970）
+     * 逻辑学应用
+          + 数学基础
+          + 量子逻辑
+          + 分析哲学
+          + 计算机逻辑
+          + 人工智能
+          + 法律逻辑学
+
+注释
+
+   [编辑]
+
+    1. ^ 例如，可追溯至1900年前的正理论。
+    2. ^ 2200年前的墨家和名家
+
+参考文献
+
+   [编辑]
+
+引用
+
+   [编辑]
+
+    1. ^ logic, britannica.com. [2021-06-27]. （原始内容存档于2022-07-10）.
+    2. ^ Richard Henry Popkin; Avrum Stroll. Philosophy Made Simple.
+       Random House Digital, Inc. 1 July 1993: 238 [5 March 2012].
+       ISBN 978-0-385-42533-9. （原始内容存档于2015-04-08）.
+    3. ^ Gensler, Harry J. Chapter 1: Introduction. Introduction to logic
+       3rd. New York: Routledge. 2017: 1 [2002]. ISBN 9781138910591.
+       OCLC 957680480. doi:10.4324/9781315693361.
+    4. ^ Hurley, Patrick J. A Concise Introduction to Logic, 10th Edition.
+       The United States of America: Thomson Wadsworth. 2008: 1.
+       ISBN 978-0-495-50383-5.
+    5. ^ ^5.0 ^5.1 Hofweber, T. Logic and Ontology. Zalta, Edward N (编).
+       Stanford Encyclopedia of Philosophy. 2004 [2006-01-20].
+       （原始内容存档于2021-01-13）.
+    6. ^ Cox, J. Robert; Willard, Charles Arthur (编). Advances in
+       Argumentation Theory and Research. Southern Illinois University
+       Press. 1983. ISBN 978-0809310500.
+    7. ^ Liddell, Henry George, and Robert Scott. "Comp. Greek-English
+       lexicon (LSJ)." (1996).
+    8. ^
+       "逻辑最初译本为固陋所及见者，有明季之《名理探》，乃李之藻所译，今日税务司译有《辩学启蒙》，皆不是本学之深之相副。必求甚近，姑以名学译
+       之"
+    9. ^ "吾中国将来之学界，必与日本学界有密切之关系。故今勿宁多采之。免使与方来之译本生参差也"
+   10. ^ 建国方略之一·孙文学说·第三章 以作文为证 - 主要著述 - 孙中山故居纪念馆_伟人孙中山. sunyat-sen.org.
+       [2022-07-27]. （原始内容存档于2022-07-26）.
+       "然则逻辑究为何物？当译以何名而后妥？作者于此，盖欲有所商榷也。凡稍涉猎乎逻辑者，莫不知此为诸学诸事之规则，为思想行为之门径也。人类由
+       之而不知其道者众矣，而中国则至今尚未有其名。吾以为当译之为“理则”者也。夫斯学至今尚未大为发明，故专治此学者，所持之说，亦莫衷一是。而
+       此外学者之对于理则之学，则大都如陶渊明之读书，不求甚解而已。惟人类之禀赋，其方寸自具有理则之感觉，故能文之士，研精构思，而作成不朽之文
+       章，则无不暗合于理则者；而叩其造诣之道，则彼亦不自知其何由也。"
+   11. ^ 中国社会科学报：“logic”之中译名考：意译到音译的回归-媒体南开-南开大学. news.nankai.edu.cn. [27
+       July 2022].
+   12. ^ J. Bruno Leclercq et Laurence Bouquiaux, Logique formelle et
+       argumentation, Édition 3, De Boeck Université, 2017 ISBN
+       978-2-8073-1446-7, ISBN 978-2807314467
+   13. ^ J. Robert Cox and Charles Arthur Willard, eds. Advances in
+       Argumentation Theory and Research, Southern Illinois University
+       Press, 1983 ISBN 978-0-8093-1050-0, ISBN 978-0809310500
+   14. ^ ^14.0 ^14.1 Smith, Robin. Aristotle’s Logic. 2000-03-18
+       [2021-05-09]. （原始内容存档于2021-05-09）.
+   15. ^ 亚里士多德 著; 余纪元 等 翻译. 工具论（上下）, 中国人民大学出版社， ISBN：9787300051185, 出版时间：
+       2003.
+   16. ^ ^16.0 ^16.1 Alfred North Whitehead and Bertrand Russell,
+       Principia Mathematical to *56, Cambridge University Press, 1967,
+       ISBN 978-0-521-62606-4
+   17. ^ J. Dirk W. Hoffmann, Grenzen der Mathematik: Eine Reise durch die
+       Kerngebiete der mathematischen Logik, Auflage: 3, Springer
+       Spektrum, 2018 ISBN 978-3-6625-6616-9, ISBN 978-3662566169
+   18. ^ J. Martin Davis, The Universal Computer. The Road from Leibniz to
+       Turing, A K Peters and CRC Press, 2011 ISBN 978-1-4665-0520-9, ISBN
+       978-1466505209
+   19. ^ Shapiro, Stewart; Kouri Kissel, Teresa. Classical Logic.
+       2000-09-16 [2021-05-09]. （原始内容存档于2021-05-10）.
+   20. ^ Priest, Graham; Tanaka, Koji; Weber, Zach. Paraconsistent Logic.
+       Zalta, Edward N. (编). The Stanford Encyclopedia of Philosophy
+       Summer 2018. Metaphysics Research Lab, Stanford University. 2018
+       [2021-05-09]. （原始内容存档于2021-05-06）.
+   21. ^ 桂起权， 陈立直，朱福喜， 《次协调逻辑与人工智能作》，武汉大学出版社，ISBN9787307031685， 2002.
+       缺少或|url=为空 (帮助)
+   22. ^ Mares, Edwin, "Relevance Logic", The Stanford Encyclopedia of
+       Philosophy (Winter 2020 Edition), Edward N. Zalta (ed.).
+       [2021-06-27]. （原始内容存档于2021-08-15）.
+   23. ^ Priest, Graham, Francesco Berto, and Zach Weber, "Dialetheism",
+       The Stanford Encyclopedia of Philosophy (Fall 2018 Edition), Edward
+       N. Zalta (ed.). [2021-06-27]. （原始内容存档于2020-07-25）.
+   24. ^ Formal logic, Encyclopædia Britannica. [2021-06-27].
+       （原始内容存档于2021-04-22）.
+   25. ^ Aristotle, The Basic Works, Richard Mckeon, editor, Modern
+       Library, 2001, ISBN 978-0-375-75799-0, see especially, Posterior
+       Analytics.
+   26. ^ J. Antonio Joaquín Roldán Marco, Lógica: 1º Bachillerato,
+       publicado de forma independiente, 2018 ISBN 978-1-9806-4558-0, ISBN
+       978-1980645580
+   27. ^ ^27.0 ^27.1 For a more modern treatment, see A. G. Hamilton,
+       Logic for Mathematicians, Cambridge, 1980, ISBN 978-0-521-29291-7
+   28. ^ Informal Logic. informallogic.ca. [2021-05-09].
+       （原始内容存档于2021-05-11）.
+   29. ^ Plato, The Portable Plato, edited by Scott Buchanan, Penguin,
+       1976, ISBN 978-0-14-015040-7
+   30. ^ John P. Burgess. Philosophical logic. Princeton University Press.
+       2009: vii–viii [2021-07-01]. ISBN 978-0-691-13789-6.
+       （原始内容存档于2020-08-06）.
+   31. ^ John P. Burgess, Philosophical Logic, Princeton University Press:
+       2009.
+   32. ^ Lou Goble (ed.), The Blackwell Guide to Philosophical Logic
+       （页面存档备份，存于互联网档案馆）, Oxford: Blackwell: 2009 (ISBN 0-631-20693-0).
+   33. ^ Gabbay, Dov M.; Guenthner, Franz (编), Handbook of Philosophical
+       Logic, [2021-07-01], （原始内容存档于2016-09-03）
+   34. ^ Mendelson, Elliott. Quantification Theory: Completeness Theorems.
+       Introduction to Mathematical Logic. Van Nostrand. 1964.
+       ISBN 0412808307.
+   35. ^ J. Jörg Hardy und Christoph Schamberger, Logik der Philosophie:
+       Einführung in die Logik und Argumentationstheorie, UTB GmbH, 2017
+       ISBN 978-3-8252-4897-0, ISBN 978-3825248970
+
+来源
+
+   [编辑]
+
+     * G. Birkhoff and J. von Neumann, 1936. 'The Logic of Quantum
+       Mechanics'. Annals of Mathematics, 37:823-843.
+     * D. Finkelstein, 1969. 'Matter, Space and Logic'. In R. S. Cohen and
+       M. W. Wartofsky, (eds.), Proceedings of the Boston Colloquium for
+       the Philosophy of Science, Boston Studies in the Philosophy of
+       Science, vol 13. ISBN 978-90-277-0377-4.
+     * D. M. Gabbay and F. Guenthner (eds.) 2001-2005. Handbook of
+       philosophical logic (2nd ed.). 13 volumes. Dordrecht, Kluwer.
+     * D. Hilbert and W. Ackermann, 1928. Grundzüge der theoretischen
+       Logik (Principles of Theoretical Logic). Springer-Verlag, ISBN
+       978-0-8218-2024-7.
+     * W. Hodges, 2001. Logic. An introduction to elementary logic.
+       Penguin Books.
+     * T. Hofweber, 2004. Logic and Ontology （页面存档备份，存于互联网档案馆）. In the
+       Stanford Encyclopedia of Philosophy.
+     * R. I. G. Hughes (editor), 1993. A Philosophical Companion to
+       First-Order Logic. Hackett.
+     * W. Kneale and M. Kneale, 1962/1988. The Development of Logic.
+       Oxford University Press, ISBN 978-0-19-824773-9.
+     * G. Priest, 2004. Dialetheism （页面存档备份，存于互联网档案馆）. In the Stanford
+       Encyclopedia of Philosophy.
+     * H. Putnam, 1969. Is Logic Empirical?. Boston Studies in the
+       Philosophy of Science, vol V.
+     * B. Smith, 1989. 'Logic and the Sachverhalt', The Monist,
+       72(1):52-69.
+     * D. Vernant, 2018. 'Questions de Logique et de Philosophie'.
+       Mimesis, ISBN 978-8-8697-6102-7
+
+外部链接
+
+   [编辑]
+
+   维基教科书中的相关电子教程：逻辑学导论
+
+     * 倪梁康：〈现象学与逻辑学〉 （页面存档备份，存于互联网档案馆）（2004年）
+     * 倪梁康：〈《逻辑研究》中的观念对象和观念直观〉 （页面存档备份，存于互联网档案馆）（2009年）
+     * History of Logic in Relationship to Ontology （页面存档备份，存于互联网档案馆）
+       Annotated bibliography on the history of logic
+
+     * 查
+     * 论
+     * 编
+
+   逻辑
+
+   概要
+   学术领域
+     * 辩论法（英语：Argumentation scheme）
+     * 价值论
+     * 审辩式思维
+     * 可计算性理论
+     * 形式语义学
+     * 逻辑史
+     * 非形式逻辑
+     * 计算机逻辑
+     * 数理逻辑
+     * 数学
+     * 元逻辑（英语：Metalogic）
+     * 元数学
+     * 模型论
+     * 哲学逻辑
+     * 哲学
+     * 逻辑哲学（英语：Philosophy of logic）
+     * 数学哲学
+     * 证明论
+     * 集合论
+
+   基础概念
+     * 溯因推理
+     * 分析真理
+     * 二律背反
+     * 先验
+     * 演绎推理
+     * 定义
+     * 描述逻辑
+     * 归纳推理
+     * 推论
+          + 推理方式（维基数据所列：Q126723190）
+     * 蕴涵
+     * 逻辑形式（英语：Logical form）
+     * 逻辑真理
+     * 名称
+     * 充分必要条件
+     * 悖论
+     * 可能世界
+     * 前设
+          + 假说
+     * 机率
+     * 理智
+     * 推理
+     * 指涉
+     * 语义学
+     * 命题
+     * 严格条件
+     * 代换（英语：Substitution (logic)）
+     * 语法
+     * 真理
+     * 真值
+     * 有效性
+
+   哲学逻辑
+   审辩式思维
+   和非形式逻辑
+     * 分析
+     * 歧义性
+     * 论证
+     * 信仰
+     * 偏见
+     * 公信力
+     * 证据
+     * 解释
+     * 解释力
+     * 事实
+     * 谬论
+     * 探究（英语：Inquiry）
+     * 意见
+     * 奥卡姆剃刀
+     * 前提
+     * 政治宣传
+     * 审慎
+     * 推理
+     * 关联
+     * 修辞学
+     * 严谨
+     * 含糊
+
+               演绎推理
+     * 结构主义
+     * 双面真理说
+     * 虚构主义（英语：Fictionalism）
+     * 有限主义
+     * 形式主义
+     * 直觉主义
+     * 逻辑原子论
+     * 逻辑主义
+     * 唯名论
+     * 实用主义
+     * 唯实论
+          + 柏拉图实在论
+
+   元逻辑（英语：metalogic）和元数学
+     * 康托尔定理
+     * 可判定性
+     * 邱奇-图灵论题
+     * 一致性
+     * 有效方法（英语：Effective method）
+     * 数学基础
+     * 哥德尔完备性定理
+     * 哥德尔不完备定理
+     * 可靠性
+     * 完备性
+     * 可判定性
+     * 解释
+     * 勒文海姆–斯科伦定理
+     * 元定理
+     * 可满足性
+     * 独立性
+     * 类型-记号区别
+     * 使用-提及区别
+
+   非传统逻辑
+   模态逻辑
+     * 真性逻辑
+     * 价值逻辑
+     * 道义逻辑
+     * 信念逻辑（英语：Doxastic logic）
+     * 认识逻辑
+     * 时间逻辑
+
+   直觉主义
+     * 直觉主义逻辑
+     * 结构分析
+     * Heyting算术（英语：Heyting arithmetic）
+     * 直觉类型论
+     * 建构式集合论（英语：Constructive set theory）
+
+   模糊逻辑
+     * 真实性程度（英语：Degree of truth）
+     * 模糊规则
+     * 模糊集
+     * 模糊有限元素
+     * 模糊集合运算（英语：Fuzzy set operations）
+
+   亚结构逻辑
+     * 结构规则
+     * 相干逻辑
+     * 线性逻辑
+
+   次协调逻辑
+     * 双面真理说
+
+   描述逻辑
+     * 本体论
+     * 本体语言
+
+   逻辑学家
+     * 安德逊
+     * 亚里斯多德
+     * 鲁世德
+     * 西那
+     * 贝恩
+     * 巴威斯
+     * 博内斯
+     * 布尔
+     * 布勒斯
+     * 康托尔
+     * 卡尔纳普
+     * 邱奇
+     * 克吕西波
+     * 加里
+     * 德摩根
+     * 弗雷格
+     * 吉奇
+     * 根岑
+     * 哥德尔
+     * 希尔伯特
+     * 克莱尼
+     * 克里普克
+     * 莱布尼兹
+     * 勒文海姆
+     * 皮亚诺
+     * 皮尔士
+     * 普特南
+     * 奎因
+     * 罗素
+     * 施罗德
+     * 司各脱
+     * 斯科伦
+     * 史慕扬
+     * 塔斯基
+     * 图灵
+     * 怀特黑德
+     * 奥卡姆的威廉
+     * 维根斯坦
+     * 策梅洛
+
+   列表
+   主题
+     * 逻辑概要（英语：Outline of logic）
+     * 数理逻辑（英语：List of mathematical logic topics）
+     * 布尔代数
+     * 集合论（英语：List of set theory topics）
+
+   其它
+     * 逻辑学家
+     * 推理规则（英语：List of rules of inference）
+     * 悖论
+     * 谬论
+     * 逻辑符号
+
+   常见逻辑符号
+
+   &    ∨    ¬    ~    →    ⊃    ≡    |    ∀    ∃    ⊤    ⊥    ⊢    ⊨
+   ∴    ∵
+
+     * 参见： [18px-Socrates.png] 哲学主题
+     * 分类 分类
+
+     * 查
+     * 论
+     * 编
+
+   数理逻辑
+
+   基本概念
+
+     * 公理
+          + 列表
+     * 势
+     * 一阶逻辑
+     * 形式证法（英语：Formal proof）
+     * 逻辑语义学
+     * 数学基础
+     * 信息论
+     * 蕴涵
+     * 结构
+     * 集合
+     * 定理
+     * 形式理论
+     * 类型论
+
+   定理
+   （列表（英语：Category:Theorems in the foundations of
+   mathematics）及悖论（英语：Paradoxes of set theory））
+
+     * 哥德尔完备性定理及哥德尔不完备定理
+     * 塔斯基不可定义定理
+     * 巴拿赫-塔斯基定理
+     * 康托尔 定理、悖论和对角论证法
+     * 紧致性定理
+     * 停机问题
+     * 林德斯特伦定理（英语：Lindström's theorem）
+     * 勒文海姆–斯科伦定理
+     * 罗素悖论
+
+   逻辑
+
+   传统逻辑
+     * 逻辑真理
+     * 恒真式
+     * 命题
+     * 推理
+     * 逻辑等价
+     * 一致性
+          + 相同一致性（英语：Equiconsistency）
+     * 逻辑论证
+     * 可靠性定理
+     * 有效性
+     * 直言三段论
+     * 对立四边形
+     * 文氏图
+
+   命题逻辑
+     * 逻辑代数
+     * 布尔函数
+     * 逻辑运算符
+     * 命题逻辑
+     * 命题公式
+     * 真值表
+     * 多值逻辑
+          + 三值
+          + 有限值（英语：Finite-valued logic）
+          + 无限值
+
+   经典逻辑
+     * 经典逻辑
+     * 一阶逻辑
+     * 二阶逻辑
+          + 一元（英语：Monadic second-order logic）
+     * 高阶逻辑
+     * 自由逻辑
+     * 量化
+     * 谓词（英语：Predicate (mathematical logic)）
+     * 一元谓词演算
+
+   集合论
+
+     * 集合
+          + 遗传集（英语：Hereditary set）
+     * 类
+     * （基本）元素
+     * 有序对
+     * 序数
+     * 子集
+     * 相等
+     * 外延性
+     * 力迫
+     * 关系
+          + 等价关系
+          + 集合划分
+     * 集合运算
+          + 交集
+          + 并集
+          + 补集
+          + 笛卡儿积
+          + 幂集
+          + 同一性（英语：List of set identities and relations）
+
+   集合种类
+     * 可数集
+     * 不可数集
+     * 空集
+     * 居集（英语：Inhabited set）
+     * 单元素集合
+     * 有限集合
+     * 无限集合
+     * 传递集合
+     * 超滤子（英语：Ultrafilter (set theory)）
+     * 递归集合
+     * 模糊集
+     * 全集
+          + 可构造全集（英语：Constructible universe）
+          + 格伦迪克全集（英语：Grothendieck universe）
+          + 冯·诺伊曼全集
+
+   映射与势
+     * 函数、映射
+          + 定义域
+          + 到达域
+          + 像
+     * 单射、满射、双射
+     * 康托尔-伯恩斯坦-施罗德定理
+     * 同构
+     * 哥德尔数
+     * 列举法
+     * 大基数
+          + 不可达基数
+     * 阿列夫数
+     * 运算
+          + 二元运算
+
+   集合理论
+     * 策梅洛-弗兰克尔 (ZFC)
+          + 选择公理
+          + 连续统假设
+     * 广义集合论 (GST)（英语：General set theory）
+     * 克里普克-普拉克 (KP)（英语：Kripke–Platek set theory）
+     * 莫尔斯-凯利集合论 (MK)（英语：Morse–Kelley set theory）
+     * 朴素集合论
+     * 新基础集合论
+     * 塔斯基-格罗滕迪克 (TG)（英语：Tarski–Grothendieck set theory）
+     * 冯·诺伊曼-博内斯-哥德尔 (NBG)
+     * 建构式集合论（英语：Constructive set theory）
+
+   句法（英语：Syntax (logic)）及语言
+
+     * 字母表
+     * 元数
+     * 自动机理论
+     * 公理模式
+     * 表达式
+          + 基础表达式（英语：Ground expression）
+     * 扩展（英语：Extension by new constant and function names）
+     * 关系
+     * 形式
+          + 文法
+          + 语言
+          + 证明
+          + 系统
+          + 理论
+     * 形成规则（英语：Formation rule）
+     * 合式公式
+          + 原子公式
+          + 封闭式
+          + 基本式（英语：Ground formula）
+          + 开放式
+     * 自由变量和约束变量
+     * 元语言
+     * 逻辑运算符
+          + ¬
+          + ∨
+          + ∧
+          + →
+          + ↔
+          + 逻辑相等（英语：Logical equality）
+     * 谓词（英语：Predicate (mathematical logic)）
+          + 泛函谓词
+          + 谓词变量
+          + 命题变量
+     * 量化
+          + ∃
+          + !
+          + ∀
+          + 级别（英语：Quantifier rank）
+     * 句子
+          + 原子句子
+     * 逻辑签名（英语：Signature (logic)）
+     * 字符串
+     * 替换法（英语：Substitution (logic)）
+     * 逻辑符号
+          + 函数符号
+          + 逻辑常量（英语：Logical constant）
+          + 非逻辑符号（英语：Non-logical symbol）
+          + 变数
+     * 逻辑术语（英语：Term (logic)）
+
+   公理系统示例
+   （列表（英语：List of first-order theories））
+     * 实算术（英语：True arithmetic）
+          + 皮亚诺公理
+          + 二阶（英语：Second-order arithmetic）
+          + 初等函数（英语：Elementary function arithmetic）
+          + 原始递归（英语：Primitive recursive arithmetic）
+          + 罗宾逊算术（英语：Robinson arithmetic）
+          + 斯科勒姆算术（英语：Skolem arithmetic）
+     * 实数的构造
+          + 塔尔斯基公理化（英语：Tarski's axiomatization of the reals）
+     * 布尔代数
+          + 正则定义（英语：Boolean algebras canonically defined）
+          + 最小公理（英语：Minimal axioms for Boolean algebra）
+     * 几何（英语：Foundations of geometry）
+          + 欧几里得几何
+          + 《原本》
+          + 希尔伯特公理
+          + 非欧几里得几何
+          + 塔尔斯基公理（英语：Tarski's axioms）
+     * 《数学原理》
+
+   证明论
+
+     * 形式证明
+     * 自然演绎
+     * 蕴涵
+     * 推理规则
+     * 相继式演算
+     * 定理
+     * 系统
+          + 形式
+          + 公理
+          + 演绎
+          + 希尔伯特演绎系统
+               o 列表（英语：List of Hilbert systems）
+     * 完备理论（英语：Complete theory）
+     * ZFC系统的独立性（英语：Independence (mathematical logic)）
+          + 列表
+     * 不可能证明（英语：Proof of impossibility）
+     * 序数分析（英语：Ordinal analysis）
+     * 逆数学
+     * 自恰理论（英语：Self-verifying theories）
+
+   模型论
+
+     * 解释
+     * 结构
+          + 初等等价
+          + 有限模型（英语：Finite model theory）
+          + 饱和模型
+          + 子结构
+     * 非标准模型
+          + 算术（英语：Non-standard model of arithmetic）
+     * 结构图（英语：Diagram (mathematical logic)）
+          + 基本图（英语：Elementary diagram）
+     * 分类理论（英语：Categorical theory）
+     * 完备模型论（英语：Model complete theory）
+     * 可满足性（英语：Satisfiability）
+     * 逻辑语义学
+     * 强度（英语：Strength (mathematical logic)）
+     * 真理
+          + 语义理论
+          + 塔尔斯基
+          + 克里普克
+     * T-模式
+     * 转移原则（英语：Transfer principle）
+     * 真理谓词（英语：Truth predicate）
+     * 真值
+     * 型
+     * 超积
+     * 有效性
+
+   可计算性理论
+
+     * 邱奇数
+     * 邱奇-图灵论题
+     * 递归可枚举集合
+     * 可计算函数
+     * 递归集合
+     * 决定性问题
+          + 可决定性（英语：Decidability (logic)）
+          + 不可决定性
+          + P
+          + NP
+          + P/NP问题
+     * 柯氏复杂性
+     * Λ演算
+     * 原始递归函数
+     * 递归
+     * 递归集合
+     * 图灵机
+     * 类型论
+
+   其他相关
+
+     * 抽象逻辑（英语：Abstract logic）
+     * 范畴论
+     * 具象范畴、抽象范畴
+     * 集合范畴
+     * 逻辑史
+     * 数理逻辑
+          + 历史年表（英语：Timeline of mathematical logic）
+     * 逻辑主义
+     * 数学对象
+     * 数学哲学
+     * 超任务（英语：Supertask）
+
+   [16px-Nuvola_apps_edu_mathematics_blue-p.svg.png] 数学主题
+
+     * 查
+     * 论
+     * 编
+
+   哲学
+
+   分支（形而上学 · 认识论 · 逻辑学 · 伦理学 · 美学 · 价值论）
+   哲学与……
+     * 艺术
+          + 设计
+          + 音乐
+          + 电影
+     * 历史
+     * 人性
+     * 语言
+     * 文学
+     * 文化
+     * 教育
+     * 人生
+     * 宗教
+     * 宇宙学
+     * 存在
+     * 哲学
+     * 精神
+          + 痛苦（英语：Pain (philosophy)）
+          + 幽默
+          + 心理学（英语：Philosophy of psychology）
+          + 神经哲学（英语：Neurophilosophy）
+          + 行动
+     * 数学
+          + 人工智能
+          + 信息
+     * 时空
+     * 科学
+          + 物理
+          + 化学
+          + 生物
+          + 地理
+     * 环境
+     * 技术
+          + 工程（英语：Philosophy of engineering）
+     * 医学哲学
+          + 医疗卫生哲学
+     * 性（英语：Philosophy of sex）
+     * 社会科学（英语：Philosophy of social science）
+          + 经济
+          + 公正
+          + 法律
+          + 政治
+          + 社会
+     * 战争
+
+   哲学学派
+   哲学史
+     * 西方
+     * 古典
+     * 中世纪
+     * 文艺复兴
+     * 近代（巴洛克时期 · 启蒙时代 · 19世纪）
+     * 当代
+     * 东方
+
+   古典
+              中国
+     * 儒家
+     * 法家
+     * 名家
+     * 墨家
+     * 魏晋玄学
+     * 道家
+     * 杨朱
+     * 禅宗
+
+           希腊-希腊化哲学
+     * 前苏格拉底
+     * 毕达哥拉斯主义
+     * 诡辩学派
+     * 柏拉图主义
+     * 亚里斯多德主义（逍遥学派）
+     * 犬儒学派
+     * 伊比鸠鲁学派
+     * 斯多亚学派
+     * 新柏拉图主义
+     * 解释学
+
+              印度
+     * 佛教
+     * 顺世论
+     * 印度教（英语：Hindu philosophy）
+     * 耆那教（英语：Jain philosophy）
+
+   波斯（英语：Iranian philosophy）
+     * 玛兹达克
+     * 祆教
+     * 楚尔凡教义
+
+   中世纪
+   9 – 16
+   世纪
+   基督欧洲
+     * 经院哲学
+     * 人文主义
+     * 托马斯主义（阿奎那）
+
+    东亚
+     * 宋明理学（程朱理学 · 陆王心学 · 永嘉学派）
+     * 韩国儒学
+     * 日本朱子学
+
+    印度
+     * 新逻辑学派 (印度哲学)（英语：Navya-Nyāya）
+     * 有保留的非二元论（英语：Vishishtadvaita）
+     * 二元论（英语：Dvaita）
+
+   伊斯兰
+     * 阿威罗伊主义（英语：Averroism）
+     * 阿维森纳
+     * 照明主义（英语：Illuminationism）
+     * 伊斯兰教义学
+     * 苏菲主义（英语：Sufi philosophy）
+
+   犹太教
+     * 犹太-伊斯兰（英语：Judeo-Islamic philosophies (800–1400)）
+
+   近代
+   17 – 19
+   世纪
+    人物
+     * 新托马斯主义
+     * 笛卡尔主义
+     * 康德主义
+     * 新康德主义
+     * 黑格尔主义
+     * 马克思主义哲学
+
+   唯物-唯心
+     * 辩证唯物主义
+     * 唯心主义
+     * 绝对唯心论（英语：Absolute idealism）
+     * 理性主义
+     * 经验主义
+     * 效益主义
+     * 实用主义
+
+    其他
+     * 自由主义
+     * 无政府主义
+     * 现代主义
+     * 现象学
+     * 超验主义
+     * 存在主义
+     * 日本国学
+     * 新儒家
+     * 寂静主义
+     * 改革宗知识论（英语：Reformed epistemology）
+
+   当代
+   20 – 21
+   世纪
+   分析
+     * 分析女性主义（英语：Analytical feminism）
+     * 分析马克思主义
+     * 后分析哲学（英语：Postanalytic philosophy）
+     * 结果论-功利主义
+     * 道义论-罗尔斯主义
+     * 德性伦理学
+     * 实验哲学
+     * 内在主义与外在主义（英语：Internalism and externalism）
+     * 证伪主义
+     * 基础主义-真理融贯论
+     * 维特根斯坦-逻辑实证主义-维也纳学派-日常语言哲学-蒯因的自然主义（英语：Naturalized epistemology）
+     * 科学主义
+     * 法律实证主义
+
+   欧陆
+     * 新马克思主义-西方马克思主义-后马克思主义
+     * 黑格尔主义
+     * 批判理论-法兰克福学派
+     * 结构主义-后结构主义-解构主义
+     * 现象学-存在主义
+     * 解释学
+     * 符号学
+     * 女性主义
+     * 精神分析学-拉康主义
+     * 后殖民主义
+     * 后现代主义（英语：Postmodern philosophy）
+     * 社会建构主义
+
+   非西方
+     * 京都学派
+     * 俄国宇宙主义
+     * 更多
+
+   领域
+   形上学
+     * 原子论
+     * 二元论
+     * 一元论
+     * 自然主义
+
+   本体论
+     * 行动
+     * 事件
+     * 过程哲学（英语：Process philosophy）
+
+   现实
+     * 反实在论（英语：Anti-realism）
+     * 概念论
+     * 唯心主义
+     * 唯物主义
+     * 自然主义
+     * 唯名论
+     * 实在论
+     * 自然神论
+
+   认识论
+     * 理性主义
+     * 唯心主义认识论
+     * 经验主义
+     * 建构主义（英语：Constructivist epistemology）
+     * 特殊主义（英语：Epistemological particularism）
+     * 怀疑论（英语：Philosophical skepticism#Epistemology and skepticism）
+     * 唯我论
+     * 信仰主义
+
+   精神
+     * 行为主义
+     * 取消主义
+     * 副现象主义
+     * 机能主义（英语：Functionalism (philosophy of mind)）
+     * 客观主义
+     * 主观主义
+
+   伦理学
+     * 结果论
+     * 义务伦理学
+     * 德性伦理学
+
+   自由意志
+     * 相容论
+     * 决定论
+     * 自由意志主义
+
+   规范性（英语：Norm (philosophy)）
+     * 绝对主义
+     * 特殊主义（英语：Moral particularism）
+     * 相对主义
+     * 虚无主义
+     * 怀疑主义
+     * 普遍主义
+
+   美学
+     * 形式主义
+     * 制度论（英语：Institutional theory of art）
+     * 美学回应（英语：Aesthetic emotions）
+
+   逻辑学
+     * 经典
+     * 非经典
+     * 形式
+     * 非形式
+     * 悖论
+     * 谬误
+
+     * 各地区哲学
+     * 哲学相关列表
+
+   各地区哲学
+     * 非洲（埃塞俄比亚（英语：Ethiopian philosophy））
+     * 阿兹特克（英语：Aztec philosophy）
+     * 东方（中国 · 日本 · 朝韩（英语：Korean philosophy） · 香港 · 台湾 · 印度 ·
+       伊朗（英语：Iranian philosophy） · 印尼（英语：Indonesian philosophy） ·
+       巴基斯坦（英语：Pakistani philosophy））
+     * 西方（美国（英语：American philosophy） · 英国 · 丹麦（英语：Danish philosophy） ·
+       法国（英语：French philosophy） · 德国 · 希腊 · 意大利 · 波兰（英语：Polish
+       philosophy） · 罗马尼亚（英语：Romanian philosophy） · 俄国（英语：Russian
+       philosophy） · 斯洛文尼亚（英语：Slovene philosophy））
+
+   列表
+     * 概要
+     * 索引
+     * 问题
+     * 学派
+     * 词汇表
+     * 概念
+     * 哲学家
+     * 运动
+     * 出版物
+
+     * 主题 主题
+     * [16px-Symbol_question.svg.png] 分类
+     * 专题 专题
+     * 历史上的今天 最近更改
+
+     * 查
+     * 论
+     * 编
+
+   认知心理学
+
+   概念
+
+   认知
+     * 感知
+     * 注意
+     * 形态辨识
+     * 输入
+     * 登录
+     * 输出
+     * 前注意处理（英语：Pre-attentive processing）
+
+   逻辑
+     * 推理
+     * 概念形成
+     * 解决问题
+     * 智慧
+
+   心智
+     * 命题表征（英语：Propositional_formula#Propositions）
+     * 心像
+     * 命题登录
+     * 双码理论
+     * 心智模型
+     * 数值认知（英语：Numerical_cognition）
+
+   记忆
+     * 短期记忆
+     * 中期记忆
+     * 长期记忆
+     * 情节记忆
+     * 自传体记忆
+     * 闪光灯记忆
+     * 语义记忆
+     * 感觉记忆
+
+   语言学
+
+     * 语音及语音学
+     * 语法及语言学
+     * 语言习得及语言教育
+
+   参见：心理学
+
+   检索自“https://zh.wikipedia.org/w/index.php?title=逻辑&oldid=83714044”
+
+   分类：​
+     * 逻辑
+     * 哲学
+
+   隐藏分类：​
+     * 含有缺少网址的网站引用的页面
+     * 使用ISBN魔术链接的页面
+     * 含有英语的条目
+     * 含有古希腊语的条目
+     * 含有法语的条目
+     * 含有德语的条目
+
+     * 本页面最后修订于2024年8月7日 (星期三) 09:15。
+     * 本站的全部文字在知识共享 署名-相同方式共享 4.0协议之条款下提供，附加条款亦可能应用。（请参阅使用条款）
+       Wikipedia®和维基百科标志是维基媒体基金会的注册商标；维基™是维基媒体基金会的商标。
+       维基媒体基金会是按美国国内税收法501(c)(3)登记的非营利慈善机构。
+
+     * 隐私政策
+     * 关于维基百科
+     * 免责声明
+     * 行为准则
+     * 开发者
+     * 统计
+     * Cookie声明
+     * 手机版视图
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

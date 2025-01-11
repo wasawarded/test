@@ -1,0 +1,5 @@
+     * native integration with other middleware and APIs; and
+     * support for a security model that separates security code from
+       business logic.
+
+   typical middleware architecture Oracle WebLogic Server is a component

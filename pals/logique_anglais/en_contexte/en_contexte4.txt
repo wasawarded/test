@@ -1,0 +1,78 @@
+   (permalink)
+
+Does one have to understand the theory of formal ontologies and logic to use
+the Semantic Web?
+
+--
+   (permalink)
+
+… Description Logic?
+
+   Description Logic is the mathematical theory (stemming from knowledge
+   representation) that is at the basis of some of the technologies
+   defined on the Semantic Web, like the so-called “Direct Semantics” of
+--
+
+   Ontologies and rules refer to two different traditions stemming from
+   logic, as developed in the past decades. Whereas ontologies are more
+   closely related to classification systems, and particularly to
+   description logic, rules rely more on the advances of logic programming
+   and rule based systems.
+
+--
+
+   The term “rules” in the context of the Semantic Web refers to elements
+   of logic programming and rule based systems bound to Semantic Web data.
+   Rules offer a way to express, for example, constraints on the
+   relationships defined by by RDF, or may be used to discover new,
+--
+   The Rule Interchange Format (RIF) Working Group is currently working on
+   a precise definition of this “core” Rule language, on ways to extend
+   this rule language to various variants (production rules, logic
+   programming, etc), to exchange expression of rules among systems, and
+   to define the precise relationships of these rules with OWL ontologies
+--
+   “sides”, i.e., the rule and the classification sides, should work
+   together on the same data set. It defines some sort of an interplay
+   between two different mechanisms: the, shall we say, logic programming
+   part and the knowledge representation part. Implementations doing both
+   are a bit like hybrid cars: they have two parallel engines and a well
+--
+   implementations out there that do just that.
+
+   The substantive differences is that RIF (i.e., logic programming) and
+   OWL are designed to allow for optimizations of different sets of
+   problems. Very broadly speaking, OWL optimizes for taxonomic reasoning
+   problems within an ontology specification (i.e., without the data), and
+   logic programs optimize for reasoning problems within the data (i.e.,
+   without the ontology). So a reasonable rule of thumb is, if one’s
+   ontology is very large one should probably use OWL, and if data set is
+--
+   It depends on the application. The answer on the role of ontologies
+   and/or rules includes a very simple ontology example. Some applications
+   may decide not to use even such small ontologies, and rely on the logic
+   of the application program. Some application may choose to use very
+   simple ontologies like the one described, and let a general Semantic
+   Web environment use that extra information to make the identification
+   of the terms. Some applications need an agreement on common
+   terminologies, without any rigor imposed by a logic system. Finally,
+   some applications may need more complex ontologies with complex
+   reasoning procedures. It all depends on the requirements and the goals
+--
+   (permalink)
+
+Consequences of inconsistency in formal logic: doesn’t that ruin the Semantic
+Web?
+
+   The problem referred to by this question is the fact that, in formal
+   logic, if there is an inconsitency somewhere, then it is possible to
+   draw all conclusions and their negations. The issue is whether this
+   would not create major difficulties on the Semantic Web.
+--
+   discovering new relationships (as explained in the answer of another
+   question). These inferences are mostly done within a restricted,
+   “guarded” subset of first order logic. Usually, reasoning on the
+   Semantic Web does not use the full power of first order (or higher
+   order) logic, and therefore avoids some of the dangerous issues that
+   can come from an inferred inconsistency. In other words, in practice,
+   no major difficulties can be expected.

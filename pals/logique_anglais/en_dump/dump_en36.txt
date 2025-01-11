@@ -1,0 +1,366 @@
+   #Rebel Blog Feed alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5RJK883
+
+   Skip to main content
+
+   Created with Avocode.
+   ______________________________
+   Apply
+
+Secondary Navigation
+
+     * Blog
+     * Request Quote
+     * Downloads
+          + JRebel Download
+          + XRebel Download
+          + Rebel Licenses On-Premise Download
+          + Eclipse Plugin
+     * Company
+          + About JRebel by Perforce
+          + Careers at Perforce
+          + Press
+          + Reseller Partners
+     * Contact
+          + Contact Us
+          + Request Support
+          + Subscribe
+
+   Rebel
+
+Main Navigation - Mega Menu
+
+     * Products
+
+Main Navigation - Mega Menu
+          + JRebel
+          + JRebel for Cloud
+     * Resources
+
+Main Navigation - Mega Menu
+          + Explore Resources
+          + Papers & Videos
+          + Events & Webinars
+          + Recorded Webinars
+          + Blog
+          + Video Tutorials
+          + ROI Calculator for JRebel
+   image-jrebel-2024-report-600-400
+
+2024 Java Developer Productivity Report
+       Read Now
+     * Customers
+     * Support
+     * Try Free
+     * Blog
+     * Request a Quote
+
+Main Navigation - Mega Menu
+          + JRebel
+          + XRebel
+          + JRebel
+          + XRebel
+     * Downloads
+
+Main Navigation - Mega Menu
+          + JRebel Download
+          + Rebel Licenses On-Premise Download
+          + XRebel Download
+          + JRebel Download
+          + Rebel Licenses On-Premise Download
+          + XRebel Download
+     * Company
+
+Main Navigation - Mega Menu
+          + About JRebel by Perforce
+          + Careers at Perforce
+          + Reseller Partners
+     * Contact
+
+Main Navigation - Mega Menu
+          + Contact Us
+          + Request Support
+          + Subscribe
+
+   WebLogic
+
+Breadcrumb
+
+    1. Home
+    2. Resources
+    3. Blog
+    4. Java Basics: What Is WebLogic?
+
+   October 24, 2024
+
+Java Basics: What Is WebLogic?
+
+   Java Application Development
+   Enterprise Development
+
+   With its extensive suite of enterprise functionalities, WebLogic is a
+   popular choice for Java development. But how does WebLogic compare to
+   other platforms and application servers?
+
+   In this blog, we give an overview of WebLogic, including how popular
+   WebLogic is in 2024, use cases for WebLogic, and comparisons to other
+   application servers such as Tomcat and JBoss / Wildfly.
+
+Table of Contents
+
+    1. What Is WebLogic?
+    2. WebLogic vs. Tomcat
+    3. WebLogic vs. JBoss / Wildfly
+    4. Final Thoughts
+
+   [Table of Contents_______________]
+   Back to top
+
+What Is WebLogic?
+
+     Oracle WebLogic Server is a scalable, enterprise Java platform
+     application server for Java-based web applications. The WebLogic
+     Server mediates the exchange of requests from the client tier with
+     responses from the back-end tier.
+
+   WebLogic allows users to develop and deploy an application that has
+   business logic and allows the application to access other services like
+   database, messaging, or other enterprise systems. It is a robust
+   platform for distributed applications.
+
+   Originally, WebLogic wasn’t always in the Oracle portfolio. In fact, it
+   joined the Oracle product portfolio in 2008 when BEA Systems, a
+   software company that developed it, was acquired by Oracle. WebLogic
+   Server offers a robust, highly available, and secure environment for
+   critical applications.
+
+What Is WebLogic Used For?
+
+   WebLogic is a platform where you deploy your Java application and
+   everything else is handled by the server. When clients make a request
+   to a web application the web server will handle the request and
+   delegate its processing to the required service. If the request
+   requires reading data for example from the database, WebLogic will take
+   care of it. The client doesn't know what happened in the background and
+   is served with the required content.
+
+   In fact, the server is usually used in the production environments,
+   where there are many clients making thousands of requests every time
+   and the server must be able to serve all of them without any issues. To
+   achieve stability and high availability, usually, load balancing and
+   scalability is used within the application server. The application can
+   be deployed to the server in several ways. Below is the example of
+   deploying the application using the Administration Console.
+
+   image blog what is websphere 3
+
+Is WebLogic Popular?
+
+   WebLogic is popular within the commercial sphere — where companies
+   require reliable software that comes with enterprise support. According
+   to the 2024 Java Developer Productivity Report, 36% of respondents said
+   they use Tomcat as the application server for their main application,
+   with JBoss/Wildfly (15%), WebLogic (12%), WebSphere (10%), Jetty (10%),
+   and Glassfish/Payara (8%) taking near even shares of the remainder.
+
+
+   Application Server
+
+   Source: 2024 Java Developer Productivity Report
+
+
+   Another 7% respondents said they don’t use an application server, and
+   nearly a quarter of respondents selecting more than one application
+   server option. If you only consider servers that implement Jakarta EE
+   Full Profile specification, WebLogic is dominating the market.
+
+
+     Curious what technologies your peers are using in their Java tech
+     stacks? Find out in the 2024 Java Developer Productivity Report.
+
+     Download the report
+
+WebSphere vs. WebLogic
+
+     WebSphere Application Server (WAS) is a web application server that
+     is used as a middleware to host Java-based web applications.
+
+   Developed by IBM, WAS is written in Java so it can be run on any
+   operating system where Java is supported. While writing this article,
+   Version 9.x of WAS supports Java EE7 Full Profile. You may also hear
+   the word “Liberty” with a connection to WAS. WebSphere Liberty is a
+   lightweight application server with low overhead that is designed for
+   cloud applications and microservices.
+
+   If you are a single developer, both editions are free for development
+   purposes. In an environment where more than one person is using the
+   server, the purchase of a commercial license is required.
+
+   image blog what is websphere
+   Back to top
+
+WebLogic vs. Tomcat
+
+   While Apache Tomcat is the most popular application server, it offers a
+   limited set of features from the Jakarta EE Full Profile specification,
+   such as Java Servlet or JavaServer Pages. For some enterprise
+   applications, however, that limited feature set might not be enough.
+
+   CAPTION: Benefits of WebLogic vs. Tomcat
+
+   WebLogic Benefits
+
+   Tomcat Benefits
+
+   Java EE 8 Compatible Implementation
+
+   Free and open source
+
+   Extremely scalable
+
+   Lightweight
+
+   Administration console
+
+   Low memory footprint
+
+   Integrates well with other Oracle products
+
+   Offering limited features makes Tomcat a lightweight server with quick
+   redeploys. But because it's lightweight, it suffers in usability. If
+   the application requires more Java EE features, WebLogic is often the
+   better choice.
+
+   🐱 Learn more about Apache Tomcat: read the blog.
+
+   With WebLogic, users get access to the commercial support from Oracle.
+   Apache Tomcat doesn’t have dedicated support, but you can get support
+   for Tomcat from OpenLogic by Perforce.
+
+   OpenLogic provides support for:
+     * Tomcat security, including preventing issues like the Ghostcat
+       vulnerability.
+     * Tomcat clustering, including Tomcat 7 and Tomcat 8.
+     * And so much more.
+
+Get Support For Tomcat
+
+     Whether you're considering a migration from WebLogic to Tomcat — or
+     you're already using Tomcat and want support — OpenLogic experts can
+     help. Get in touch today to learn how.
+
+     Talk to a Tomcat Expert
+
+   Back to top
+
+WebLogic vs. JBoss / Wildfly
+
+   Two application servers that play a big role in an enterprise sphere
+   are WebLogic and JBoss / WildFly. Both offer full support for Java EE
+   8. One of the key differences is that JBoss / Wildfly is open source
+   and free while WebLogic is paid product with commercial support. Red
+   Hat also offers commercial support for a fee.
+
+   📚 Further reading: What is Wildfly?
+
+   CAPTION: Benefits of WebLogic vs. JBoss / Wildfly
+
+   WebLogic Benefits
+
+   JBoss / Wildfly Benefits
+
+   Developed by Oracle
+
+   Free and open source
+
+   Extremely scalable
+
+   Offers support for JBoss EAP (paid)
+
+   Everything manageable from the Administration Console
+
+   Jakarta EE Full platform implementation
+   Back to top
+
+Final Thoughts
+
+   If you are considering a tool for a production environment with a heavy
+   load and you also need most or all from the Java EE specification,
+   WebLogic is a good candidate. While there are other servers that have
+   similar functionality, one of the advantages of WebLogic is its
+   excellent integration with other products from Oracle.
+
+   WebLogic Server is a commercial product that requires buying a license,
+   but you will get access to enterprise support as well. Due to all its
+   features, WebLogic isn’t really a lightweight solution, so make sure
+   you compare the servers well before choosing for one — including
+   redeploy times.
+
+   Fortunately, there's a solution to long redeploy times. With JRebel,
+   you can eliminate redeploys in any application server and IDE while
+   maintaining application state. These time savings are more than just
+   spare minutes; they add up to real business value.
+
+     Want to see how JRebel can speed up development for your WebLogic
+     application? Start your 14-day free trial today and see how much
+     time you could save.
+
+     Start Free trial
+
+
+
+   Back to top
+
+Footer menu
+
+     * Products
+          + JRebel
+          + JRebel for Cloud
+          + JRebel Licenses
+     * Customers
+     * Resources
+          + Papers & Videos
+          + Events & Webinars
+          + Recorded Webinars
+          + Blog
+          + Video Tutorials
+          + ROI Calculator
+     * INTEGRATIONS
+          + Eclipse
+     * Support
+          + JRebel Documentation
+          + FAQs
+          + Software End of Life Policy
+     * Downloads
+          + JRebel Download
+          + JRebel Licenses On-Premise Download
+          + Eclipse Plugin
+     * Hubs
+          + New Features in Java
+          + Exploring Java Microservices
+          + Java Resources For Developers
+          + Java Technology Overview
+     * Company
+          + About JRebel by Perforce
+          + Careers at Perforce
+          + Reseller Partners
+     * Contact
+          + Contact Us
+          + Request Support
+          + Subscribe
+     *
+
+   JRebel by Perforce ©  Perforce Software, Inc.
+   Terms of Use | Privacy Policy | Data Processing Policy | Sitemap
+
+Social Menu
+
+     * LinkedIn
+     * Twitter
+     * YouTube
+     * RSS
+
+   X
+
+   Send Feedback

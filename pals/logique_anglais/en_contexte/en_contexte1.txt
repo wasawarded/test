@@ -1,0 +1,15 @@
+   Undergraduate research, University of Kentucky CS department.
+
+   Logic programming and nonmonotonic reasoning systems; distributed
+   computing. Translation and conversion of logic programs to default
+   theories. Analysis of logic programs, including stratification,
+   well-founded semantics, and stable model semantics. Wrote a number of
+   logic programs, many encoding graph-theoretical problems. Developed and
+   optimized a distributed implementation of the stable model semantics
+   using PVM (Parallel Virtual Machine).
+--
+   Served as a teaching assistant for two three-week sessions of IAAY's
+   Center for Talented Youth (CTY) program. Assisted the instructor of a
+   Digital Logic class for talented and gifted middle school and high
+   school students. Prepared classroom materials, graded papers and exams,
+   and supervised electronics laboratory assignments for approximately 30

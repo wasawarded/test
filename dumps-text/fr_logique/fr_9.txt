@@ -1,0 +1,798 @@
+   #prev next alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MPBWDP
+
+   Logo
+   Logo
+   Logo
+
+   L'expertise technique et scientifique de référence
+   ____________________ (BUTTON)
+
+   (BUTTON)
+
+                              Identifiez-vous !
+
+   IFRAME:
+   https://www.techniques-ingenieur.fr/cas/login?service=teching_main&them
+   e=lucy&locale=fr
+     __________________________________________________________________
+
+                              Inscrivez-vous !
+
+   Vous n'avez pas encore de compte ?
+   CRÉER UN COMPTE
+   (BUTTON)
+     * Accueil
+     * Ressources documentaires
+     * Parcours Pratiques
+     * Le magazine d’actualité
+     * Contact
+     * À propos
+     * Contenu gratuit
+
+   [picto-parcours-pratiques-rouge.svg]
+   [picto-parcours-pratiques-blanc.svg]
+
+   RECHERCHEZ parmi plus de 10 000 articles de référence ou pratiques et 4
+   000 articles d'actualité
+
+   PAR DOMAINE D'EXPERTISE
+     * Automatique - Robotique
+     * Biomédical - Pharma
+     * Construction et travaux publics
+     * Électronique - Photonique
+     * Énergies
+     * Environnement - Sécurité
+     * Génie industriel
+     * Ingénierie des transports
+
+     * Innovation
+     * Matériaux
+     * Mécanique
+     * Mesures - Analyses
+     * Procédés chimie - bio - agro
+     * Sciences fondamentales
+     * Technologies de l'information
+     * Archives
+
+   PAR SECTEUR INDUSTRIEL
+     * Aérospatial
+     * Agroalimentaire
+     * Automobile
+     * Éco-industries
+     * Équipements industriels
+     * Plasturgie
+
+   PAR MOTS-CLES
+   ____________________ (Submit)
+
+   NAVIGUER DANS LA
+   CARTOGRAPHIE INTERACTIVE
+   [picto-cartographie-interactive.png]
+
+   EXPLORER
+
+   DÉCOUVREZ toute l'actualité, la veille technologique GRATUITE, les
+   études de cas et les événements de chaque secteur de l'industrie.
+     * Chimie et Biotech
+     * Énergie
+     * Entreprises et marchés
+
+     * Environnement
+     * Informatique et Numérique
+     * Innovations sectorielles
+
+     * Insolite
+     * Matériaux
+     __________________________________________________________________
+
+     * Les dossiers de la rédac'
+     * Les livres blancs
+     * Les conférences en ligne
+
+   Réorganisation de la chaîne de valeur mondiale des entreprises:
+   tendances de l’INSEE sur la période 2018-2020
+
+   Réorganisation de la chaîne de valeur mondiale des entreprises:
+   tendances de l’INSEE sur la période 2018-2020
+   Les débuts difficiles de la filière des batteries électriques
+   européenne
+
+   Les débuts difficiles de la filière des batteries électriques
+   européenne
+   Informatique quantique : Google repousse les limites avec Willow
+
+   Informatique quantique : Google repousse les limites avec Willow
+
+     * Accueil
+     * Ressources documentaires
+     * Sciences fondamentales
+     * Mathématiques
+     * Mathématiques fondamentales : algèbre
+     * Logique et métalogique
+     * Lois de la pensée et principes de la logique
+
+     *
+     * [logo-x-twitter.png]
+     *
+     *
+     * S'inscrire aux newsletters
+
+   [visuel-aide.png]
+
+   | Une question ?
+     * Sommaire
+     * Sommaire détaillé
+     * Picto sommaire
+
+   Présentation
+
+   Article interactif
+
+   1 - HISTOIRE DES LOGIQUES
+     * 1.1 - Époque égyptienne
+     * 1.2 - Époque babylonienne
+     * 1.3 - Antiquité grecque
+     * 1.4 - Moyen Âge européen : la logique médiévale (476-1453)
+     * 1.5 - La renaissance européenne (1453-1666)
+     * 1.6 - La logique moderne (depuis 1666)
+     * 1.7 - XIXe siècle et XXe siècle : la logique mathématique
+     * 1.8 - Autres régions mondiales
+     * 1.9 - Logiques classiques et logiques non classiques
+
+   2 - LANGAGES NATURELS ET FORMELS
+     * 2.1 - Langages naturels
+     * 2.2 - Langages formels
+     * 2.3 - Constituants importants
+     * 2.4 - Langage mathématique
+
+   3 - RAISONNEMENTS
+     * 3.1 - Inférence
+     * 3.2 - Thèse-antithèse-synthèse
+     * 3.3 - Les différents modes de raisonnements
+     * 3.4 - Propriétés des raisonnements
+
+   4 - LOIS DE LA PENSÉE ET PRINCIPES DE LA LOGIQUE
+     * 4.1 - Les quatre grands principes philosophiques logiques de
+       l’Antiquité grecque
+     * 4.2 - Nouveaux principes classiques
+     * 4.3 - Remises en cause
+          + Quiz d'entraînement
+
+   5 - SYSTÈMES LOGIQUES
+     * 5.1 - Systèmes formels
+     * 5.2 - Définition d’un système logique
+     * 5.3 - Calculs formels et logiques
+     * 5.4 - Sémantique d’un système logique
+     * 5.5 - Conséquences logiques
+     * 5.6 - Fragments, extensions, théories et traductions
+          + Quiz d'entraînement
+
+   6 - MÉTALOGIQUE
+     * 6.1 - Métalogique
+     * 6.2 - Métamathématique
+
+   7 - PROPRIÉTÉS MÉTALOGIQUES DES SYSTÈMES LOGIQUES
+     * 7.1 - Déductibilité
+     * 7.2 - Complétude
+     * 7.3 - Cohérence
+     * 7.4 - Compacité
+     * 7.5 - Décidabilité
+     * 7.6 - Validité
+     * 7.7 - Correction
+
+   8 - THÉORIES MÉTALOGIQUES
+     * 8.1 - Théorie de la démonstration
+     * 8.2 - Théorie des modèles
+     * 8.3 - Théorie de la démonstration et théorie des modèles
+     * 8.4 - Théorie des types
+     * 8.5 - Théories de la vérité
+     * 8.6 - Théories du sens
+          + Quiz d'entraînement
+
+   9 - LOGIQUE ET DISCIPLINES ASSOCIÉES
+     * 9.1 - Logique et philosophie
+     * 9.2 - Logique et linguistique
+     * 9.3 - Logique et mathématiques
+     * 9.4 - Logique et physique
+     * 9.5 - Logique et informatique
+     * 9.6 - Logique et intelligence artificielle
+     * 9.7 - Logique et automatique
+     * 9.8 - Logique et droit
+     * 9.9 - Logique et sciences humaines et sociales
+
+   10 - CONCLUSION
+
+   11 - GLOSSAIRE
+   TEST DE VALIDATION
+
+   [picto-biblio-annexes.svg] Bibliographie & annexes
+
+   [picto-doc&amp;quiz-small.svg] Quiz & test
+
+   Article de référence | Réf : AF88 v1
+
+Lois de la pensée et principes de la logique
+Logique et métalogique
+
+   Auteur(s) : Jean-Charles PINOLI
+
+   Date de publication : 10 nov. 2023
+
+   Pour explorer cet article
+   Télécharger l'extrait gratuit
+
+   Vous êtes déjà abonné ?Connectez-vous !
+
+   Sommaire
+
+   Présentation
+   Version en anglais English
+
+RÉSUMÉ
+
+   Le terme « logique » est dérivé du grec ancien signifiant à la fois «
+   discours » et « raisonnement ». En tant que domaine interdisciplinaire
+   de la philosophie, de la linguistique, des mathématiques et plus
+   récemment de l’informatique et surtout de l’intelligence artificielle,
+   la logique traite de l’inférence, qui se définit comme une « opération
+   cognitive », forme élémentaire de raisonnement passant de prémisses à
+   une conclusion. Cet article, le premier d’une série de trois, présente
+   des éléments sur les langages et sur les raisonnements, avant d’aborder
+   les systèmes logiques, puis la métalogique. Un glossaire en annexe
+   résume précisément les définitions de nombreuses notions.
+
+   Lire cet article issu d'une ressource documentaire complète, actualisée
+   et validée par des comités scientifiques.
+   Lire l’article
+
+Auteur(s)
+
+     * Jean-Charles PINOLI : Professeur - École Nationale Supérieure des
+       Mines de Saint-Étienne, Saint-Étienne, France
+
+INTRODUCTION
+
+   Cet article est le premier d’une série de trois, dont le deuxième
+   portera sur la « logique des propositions et la logique des prédicats »
+   [AF 89] et le troisième traitera des « logiques non classiques »
+   [AF 91].
+
+   Le mot logique (logic) vient du grec ancien lógos signifiant à la fois
+   « langage » et « raisonnement » qui aurait été utilisé pour la première
+   fois par Xénocrate de Chalcédoine (396-314 av. J.-C.). Il désigne, dans
+   une première approche, l’étude des règles formelles que doit respecter
+   tout raisonnement rigoureux (et donc toute argumentation rigoureuse).
+   Selon une signification plus moderne, la logique est l’étude de
+   l’inférence, qui désigne un processus élémentaire du raisonnement,
+   s’intéresse à la forme, et non au contenu, d’un argument rationnel
+   (abstraction faite de tout processus psychologique ou biologique
+   sous-jacent).
+
+   Constat (enseignement de la logique). En France la logique est peu
+   enseignée, alors qu’elle est fondamentale dans de nombreux domaines
+   scientifiques et de l’ingénierie (biologie, chimie, droit,
+   informatique, intelligence artificielle, linguistique, mathématiques,
+   médecine, philosophie, psychologie…) et de la vie courante en général.
+
+   La logique est considérée comme la science exacte la plus générale qui
+   traite du contenant et non du contenu, puisqu’elle ne traite pas d’une
+   « matière » particulière. Elle n’est pas une science fermée et achevée
+   et elle ne cessera probablement jamais de se développer.
+
+   Constat (conceptions de la logique). L’histoire de la logique est
+   marquée par les différentes approches philosophiques et même sur quel
+   était son sujet (Aristote, Abélard, Kant, Hegel, Frege).
+
+Cet article est réservé aux abonnés.
+Il vous reste 92% à découvrir.
+
+   Pour explorer cet article
+   Téléchargez l'extrait gratuit
+
+   Vous êtes déjà abonné ?Connectez-vous !
+     __________________________________________________________________
+
+   [logo-eti.png]
+
+L'expertise technique et scientifique de référence
+
+   La plus importante ressource documentaire technique et scientifique en
+   langue française, avec + de 1 200 auteurs et 100 conseillers
+   scientifiques.
+   + de 10 000 articles et 1 000 fiches pratiques opérationnelles, + de
+   800 articles nouveaux ou mis à jours chaque année.
+   De la conception au prototypage, jusqu'à l'industrialisation, la
+   référence pour sécuriser le développement de vos projets industriels.
+
+MOTS-CLÉS
+
+   langage sémantique inférence raisonnement syntaxe
+
+DOI (Digital Object Identifier)
+
+   https://doi.org/10.51257/a-v1-af88
+     __________________________________________________________________
+
+   Cet article fait partie de l’offre
+
+   Mathématiques
+   (167 articles en ce moment)
+
+   Cette offre vous donne accès à :
+
+   [picto-article-decouverte-blanc.svg]
+
+   Une base complète d’articles
+
+   Actualisée et enrichie d’articles validés par nos comités scientifiques
+
+   [picto-plus-services-blanc.svg]
+
+   Des services
+
+   Un ensemble d'outils exclusifs en complément des ressources
+
+   [picto-parcours-pratiques-blanc.svg]
+
+   Un Parcours Pratique
+
+   Opérationnel et didactique, pour garantir l'acquisition des compétences
+   transverses
+
+   [picto-doc-and-quiz-blanc.svg]
+
+   Doc & Quiz
+
+   Des articles interactifs avec des quiz, pour une lecture constructive
+
+   ABONNEZ-VOUS
+   Lecture en cours
+   Présentation
+   Page
+   suivante [picto-arrow-right.svg] Systèmes logiques
+
+   Version en anglais English
+
+4. Lois de la pensée et principes de la logique
+
+   Les lois de la pensée (laws of thought) sont des lois universelles qui
+   s’appliquent (ou pas !) à la pensée en général et au raisonnement en
+   particulier permettant de justifier des inférences et plus généralement
+   de justifier des raisonnements et des argumentations.
+
+   La philosophie (philosophy) est une discipline des sciences humaines
+   qui traite de la connaissance, de la compréhension du monde et de la
+   vie par une réflexion rationnelle et critique, guidée par la recherche
+   de la vérité. La philosophie a engendré des domaines d’études
+   fondamentaux tels que la logique. À la différence des mathématiques, la
+   philosophie ne s’est jamais décidée à utiliser uniquement des symboles
+   formels, bien que G. Leibniz ait ambitionné de traiter les problèmes
+   philosophiques au moyen d’un langage formel et d’un calcul logique
+   universel.
+
+   La métaphysique (metaphysics) est la branche de la philosophie qui
+   aborde les questions fondamentales des principes premiers de l’être, du
+   néant, de l’identité et du changement, de la causalité et de la
+   possibilité.
+
+   La psychologie (psychology) est une discipline des sciences humaines
+   qui s’intéresse aux faits psychiques. Elle traite des connaissances
+   empiriques ou intuitives, des sentiments, des comportements, et étudie
+   aussi comment l’être humain réfléchit, raisonne en fonction de son
+   psychisme.
+
+   4.1 Les quatre grands principes philosophiques logiques de l’Antiquité
+   grecque
+
+   Les quatre grands principes philosophiques logiques de l’Antiquité
+   grecque sont : le principe d’identité, le principe de
+   non-contradiction, le principe du tiers exclu, et le principe de
+   bivalence.
+
+   Le principe d’identité (principle of identity) (PId) stipule qu’une
+   « chose » est identique à elle-même.
+
+   Parménide d’Élée (vers 450 av. J.-C.), puis les mégaro-stoïciens firent
+   de ce principe la loi fondamentale de la logique. La version en logique
+   classique de ce principe philosophique est « le vrai est le vrai ». La
+   version logique traditionnelle est qu’une proposition est vraie si elle
+   est vraie !
+
+   Le principe de non-contradiction (principle of non-contradiction) (PnC)
+   stipule qu’une « chose » ne peut pas simultanément être et ne pas être.
+
+   La version logique traditionnelle de ce principe philosophique interdit
+   d’affirmer...
+
+Cet article est réservé aux abonnés.
+Il vous reste 92% à découvrir.
+
+   Pour explorer cet article
+   Téléchargez l'extrait gratuit
+
+   Vous êtes déjà abonné ?Connectez-vous !
+     __________________________________________________________________
+
+   [logo-eti.png]
+
+L'expertise technique et scientifique de référence
+
+   La plus importante ressource documentaire technique et scientifique en
+   langue française, avec + de 1 200 auteurs et 100 conseillers
+   scientifiques.
+   + de 10 000 articles et 1 000 fiches pratiques opérationnelles, + de
+   800 articles nouveaux ou mis à jours chaque année.
+   De la conception au prototypage, jusqu'à l'industrialisation, la
+   référence pour sécuriser le développement de vos projets industriels.
+
+TEST DE VALIDATION ET CERTIFICATION CerT.I. :
+
+   Cet article vous permet de préparer une certification CerT.I.
+
+   Le test de validation des connaissances pour obtenir cette
+   certification de Techniques de l’Ingénieur est disponible dans le
+   module CerT.I.
+   Obtenez CerT.I., la certification
+   de Techniques de l’Ingénieur ! Acheter le module
+     __________________________________________________________________
+
+   Cet article fait partie de l’offre
+
+   Mathématiques
+   (167 articles en ce moment)
+
+   Cette offre vous donne accès à :
+
+   [picto-article-decouverte-blanc.svg]
+
+   Une base complète d’articles
+
+   Actualisée et enrichie d’articles validés par nos comités scientifiques
+
+   [picto-plus-services-blanc.svg]
+
+   Des services
+
+   Un ensemble d'outils exclusifs en complément des ressources
+
+   [picto-parcours-pratiques-blanc.svg]
+
+   Un Parcours Pratique
+
+   Opérationnel et didactique, pour garantir l'acquisition des compétences
+   transverses
+
+   [picto-doc-and-quiz-blanc.svg]
+
+   Doc & Quiz
+
+   Des articles interactifs avec des quiz, pour une lecture constructive
+
+   ABONNEZ-VOUS
+   Lecture en cours
+   Lois de la pensée et principes de la logique
+   [picto-arrow-left.svg] Page
+   précédenteRaisonnements
+   Page
+   suivante [picto-arrow-right.svg] Systèmes logiques
+   Sommaire
+
+   Sommaire
+
+BIBLIOGRAPHIE
+
+     * (1) - ALLEN (C.), HAND (M.) -   Logic Primer,  -  Massachusetts
+       Institute of Technology, 2nd ed., xvii + 191 pages (2001).
+     * (2) - ALLIOT (J.M.), SCHIEX (T.), BRISSET (P.), GARCIA (F.) -
+       Intelligence artificielle & informatique théorique,  -  Cépadues,
+       2nde éd., 543 pages (2002).
+     * (3) - BELNA (J.P.) -   Histoire de la logique,  -  Ellipses, 165
+       pages (2014).
+     * (4) - BERNADET (M.) -   Introduction pratique aux logiques non
+       classiques,  -  Hermann, vi + 203 pages (2011).
+     * (5) - BILANIUK (S.) -   A Problem Course in Mathematical Logic,  -
+       Version 1.6, 154 pages (1994-2003).
+     * (6) - BOCHEŃSKI (J.M.) -   A Precis of Mathematical Logic,  -
+       Springer, 100 pages (1959).
+     * ...
+
+DANS NOS BASES DOCUMENTAIRES
+
+     * Vocabulaire des mathématiques.
+     * Algèbre linéaire.
+     * Théorie des ensembles ordonnés.
+     * Logique des propositions et logique des prédicats.
+     * Logiques non classiques.
+     * Langage des ensembles et des structures.
+
+Cet article est réservé aux abonnés.
+Il vous reste 95% à découvrir.
+
+   Pour explorer cet article
+   Téléchargez l'extrait gratuit
+
+   Vous êtes déjà abonné ?Connectez-vous !
+     __________________________________________________________________
+
+   [logo-eti.png]
+
+L'expertise technique et scientifique de référence
+
+   La plus importante ressource documentaire technique et scientifique en
+   langue française, avec + de 1 200 auteurs et 100 conseillers
+   scientifiques.
+   + de 10 000 articles et 1 000 fiches pratiques opérationnelles, + de
+   800 articles nouveaux ou mis à jours chaque année.
+   De la conception au prototypage, jusqu'à l'industrialisation, la
+   référence pour sécuriser le développement de vos projets industriels.
+   Lire l’article
+     __________________________________________________________________
+
+   Cet article fait partie de l’offre
+
+   Mathématiques
+   (167 articles en ce moment)
+
+   Cette offre vous donne accès à :
+
+   [picto-article-decouverte-blanc.svg]
+
+   Une base complète d’articles
+
+   Actualisée et enrichie d’articles validés par nos comités scientifiques
+
+   [picto-plus-services-blanc.svg]
+
+   Des services
+
+   Un ensemble d'outils exclusifs en complément des ressources
+
+   [picto-parcours-pratiques-blanc.svg]
+
+   Un Parcours Pratique
+
+   Opérationnel et didactique, pour garantir l'acquisition des compétences
+   transverses
+
+   [picto-doc-and-quiz-blanc.svg]
+
+   Doc & Quiz
+
+   Des articles interactifs avec des quiz, pour une lecture constructive
+
+   ABONNEZ-VOUS
+
+   Sommaire
+
+[picto-doc&amp;quiz-xsmall.png] QUIZ ET TEST DE VALIDATION PRÉSENTS DANS CET
+ARTICLE
+
+1/ Quiz d'entraînement
+
+   Entraînez vous autant que vous le voulez avec les quiz d'entraînement.
+     * Logo doc&quiz Accédez au Quiz 1
+     * Logo doc&quiz Accédez au Quiz 2
+     * Logo doc&quiz Accédez au Quiz 3
+
+2/ Test de validation
+
+   Lorsque vous êtes prêt, vous passez le test de validation. Vous avez
+   deux passages possibles dans un laps de temps de 30 jours.
+
+   Entre les deux essais, vous pouvez consulter l’article et réutiliser
+   les quiz d'entraînement pour progresser. L’attestation vous est
+   délivrée pour un score minimum de 70 %.
+     * Logo doc&quiz TEST DE VALIDATION
+     __________________________________________________________________
+
+   [logo-eti.png]
+
+L'expertise technique et scientifique de référence
+
+   La plus importante ressource documentaire technique et scientifique en
+   langue française, avec + de 1 200 auteurs et 100 conseillers
+   scientifiques.
+   + de 10 000 articles et 1 000 fiches pratiques opérationnelles, + de
+   800 articles nouveaux ou mis à jours chaque année.
+   De la conception au prototypage, jusqu'à l'industrialisation, la
+   référence pour sécuriser le développement de vos projets industriels.
+     __________________________________________________________________
+
+   Cet article fait partie de l’offre
+
+   Mathématiques
+   (167 articles en ce moment)
+
+   Cette offre vous donne accès à :
+
+   [picto-article-decouverte-blanc.svg]
+
+   Une base complète d’articles
+
+   Actualisée et enrichie d’articles validés par nos comités scientifiques
+
+   [picto-plus-services-blanc.svg]
+
+   Des services
+
+   Un ensemble d'outils exclusifs en complément des ressources
+
+   [picto-parcours-pratiques-blanc.svg]
+
+   Un Parcours Pratique
+
+   Opérationnel et didactique, pour garantir l'acquisition des compétences
+   transverses
+
+   [picto-doc-and-quiz-blanc.svg]
+
+   Doc & Quiz
+
+   Des articles interactifs avec des quiz, pour une lecture constructive
+
+   ABONNEZ-VOUS
+
+SUR LE MÊME SUJET
+
+   #MULTISECTEURS #ANALYSE (MATHÉMATIQUE) #INTELLIGENCE ARTIFICIELLE
+   #LINGUISTIQUE
+
+DANS LES RESSOURCES DOCUMENTAIRES
+
+     * Logique des propositions et logique des prédicats
+     * Transformer : des réseaux de neurones pour le traitement
+       automatique des langues
+     * Modèles de Markov cachés pour l’étiquetage de séquences
+     * Théorie de la décision
+
+DANS L'ACTUALITÉ
+
+     * L’IA permettrait de repérer les stades précoces de maladies ... (9
+       Mars 2022)
+     * Pour repérer des bugs dans des logiciels sensibles, des ... (10
+       Avril 2024)
+     * Comment prédire les événements extrêmes climatiques ? (6 Janvier
+       2022)
+     * Dynamilis : le numérique au service de l’écriture ... (5 Septembre
+       2023)
+
+DANS LES LIVRES BLANCS
+
+     * Apprentissage artificiel supervisé : notions fondamentales ... (30
+       Septembre 2019)
+     * Cogitons Sciences, le podcast qui décrypte les enjeux des ... (4
+       Avril 2023)
+     * Prix Jeunes Talents L’Oréal-UNESCO : quatre jeunes femmes ... (14
+       Novembre 2024)
+     * Google DeepMind (7 Septembre 2016)
+
+DANS LES CONFÉRENCES EN LIGNE
+
+     * Etudes et expériences professionnelles au Canada : les ... (6
+       Janvier 2022)
+     * Perspectives Gartner 2024 : quel état des lieux du Process ... (17
+       Avril 2024)
+     * Replay : « Vers une ingénierie hybride alliant physique et ... (20
+       Décembre 2021)
+     * Dispositifs au service de la mobilité - REPLAY (17 Septembre 2024)
+
+   Inscription veille personnalisée
+
+
+   TECHNIQUES DE L'INGENIEUR
+   L'EXPERTISE TECHNIQUE ET SCIENTIFIQUE
+   DE RÉFÉRENCE
+
+   Avec Techniques de l'Ingénieur, retrouvez tous les articles
+   scientifiques et techniques : base de données, veille technologique,
+   documentation et expertise technique
+   RESSOURCES DOCUMENTAIRES
+
+     * > Mathématiques pour l’ingénieur
+     * > Physique chimie
+     * > Constantes physico-chimiques
+     * > Tensions superficielles
+     * > Calcul formel
+     * > Structure des protéines par RMN
+     * > Corps gras
+     * > Diélectriques a haute permittivité - Effets des nanostructures et
+       microstructures
+     * > Supraconducteurs
+     * > Électrochimie appliquée - Caractérisations des systèmes
+       électrochimiques
+     * > Réduction des endomorphismes
+     * > Introduction à MATLAB
+     * > Problèmes inverses
+     * > Couplage thermomécanique
+     * > Tensioactifs
+
+
+   ACTUALITÉ
+
+     * > Nanotechnologies : les 4 projets high-tech les plus
+       spectaculaires
+     * > La science au service de l’art
+     * > Mieux courir grâce aux mathématiques
+     * > Quelle place pour la French Health Tech ?
+     * > La production de la science moins concentrée dans les grandes
+       métropoles mondiales
+     * > Sport de haut niveau : l’important c’est d’innover
+
+
+   SOLUTION EN LIGNE
+
+     * Découvrez KréaCCTP, le 1^er logiciel de rédaction de CCTP en ligne.
+       Intuitif, il s’appuie sur une bibliothèque de descriptifs actuelle
+       et fiable.
+
+
+   CONTENUS EN ACCÈS LIBRE
+
+     * > Téléchargez tous les livres blancs
+     * > Visionnez ou revisionnez toutes les conférences-en-ligne
+     * > Découvrez tous les articles témoins
+     * > Retrouvez tous les contenus en accès libre
+
+   SUIVEZ-NOUS
+
+     *
+     *
+     *
+     *
+
+     * > Inscrivez-vous aux newsletters
+     * > Tous les flux RSS
+
+
+   Automatique - Robotique | Biomédical - Pharma | Construction et travaux
+   publics | Électronique - Photonique | Énergies | Environnement -
+   Sécurité | Génie industriel | Ingénierie des transports | Innovation |
+   Matériaux | Mécanique | Mesures - Analyses | Procédés chimie - bio -
+   agro | Sciences fondamentales | Technologies de l'information
+
+   Aérospatial | Agroalimentaire | Automobile | Éco-industries |
+   Équipements industriels | Plasturgie
+     __________________________________________________________________
+
+     * Recherches les plus populaires
+     * A
+     * B
+     * C
+     * D
+     * E
+     * F
+     * G
+     * H
+     * I
+     * J
+     * K
+     * L
+     * M
+     * N
+     * O
+     * P
+     * Q
+     * R
+     * S
+     * T
+     * U
+     * V
+     * W
+     * X
+     * Y
+     * Z
+
+   ACCUEIL | A PROPOS | ANNUAIRE AUTEURS | EXPERTS SCIENTIFIQUES |
+   PUBLICITÉ | PLAN DU SITE | MENTIONS LÉGALES | RGPD | COOKIES | AIDE &
+   FAQ | CONTACT
+
+                                  PAIEMENT
+                                 SÉCURISÉ
+
+                              OUVERTURE RAPIDE
+                                DE VOS DROITS
+
+                          ASSISTANCE TÉLÉPHONIQUE
+                            +33 (0)1 53 35 20 20

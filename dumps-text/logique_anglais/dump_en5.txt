@@ -1,0 +1,1082 @@
+   Skip to content
+   geeksforgeeks
+     * Courses
+          + DSA to Development
+          + Machine Learning & Data Science
+          + Generative AI & ChatGPT
+          + Become AWS Certified
+          + DSA Courses
+               o Data Structure & Algorithm(C++/JAVA)
+               o Data Structure & Algorithm(Python)
+               o Data Structure & Algorithm(JavaScript)
+          + Programming Languages
+               o CPP
+               o Java
+               o Python
+               o JavaScript
+               o C
+          + All Courses
+     * Tutorials
+          + Python Tutorial
+               o Taking Input in Python
+               o Python Operators
+               o Python Data Types
+               o Python Loops and Control Flow
+                    # Python Conditional Statements
+                    # Python Loops
+               o Python Functions
+               o Python OOPS Concept
+               o Python Data Structures
+               o Python Exception Handling
+               o Python File Handling
+               o Python Exercises
+          + Java
+               o Learn Java Programming Language
+               o Java Collections
+               o Java 8 Tutorial
+               o Java Programs
+               o Java Interview Questions
+                    # Java Interview Questions
+                    # Core Java Interview Questions-Freshers
+                    # Java Multithreading Interview Questions
+                    # OOPs Interview Questions and Answers
+               o Java Exercises
+               o Java Quiz
+                    # Java Quiz
+                    # Core Java MCQ
+               o Java Projects
+               o Advance Java
+                    # Spring Tutorial
+                    # Spring Boot Tutorial
+                    # Spring Boot Interview Questions
+                    # Spring MVC Tutorial
+                    # Spring MVC Interview Questions
+                    # Hibernate Tutorial
+                    # Hibernate Interview Questions
+          + Programming Languages
+               o JavaScript
+               o C++
+               o R Tutorial
+               o SQL
+               o PHP
+               o C#
+               o C
+               o Scala
+               o Perl
+               o Go Language
+               o Kotlin
+          + System Design
+               o System Design Tutorial
+               o Software Design Patterns
+               o System Design Roadmap
+               o Top 10 System Design Interview Questions and Answers
+          + Interview Corner
+               o Company Preparation
+               o Top Topics
+               o Practice Company Questions
+               o Interview Experiences
+               o Experienced Interviews
+               o Internship Interviews
+               o Competitive Programming
+               o Multiple Choice Quizzes
+               o Aptitude for Placements
+          + Computer Science Subjects
+               o Operating System
+               o DBMS
+               o Computer Networks
+               o Engineering Mathematics
+               o Computer Organization and Architecture
+               o Theory of Computation
+               o Compiler Design
+               o Digital Logic
+               o Software Engineering
+          + DevOps
+               o GIT
+               o AWS
+               o Docker
+               o Kubernetes
+               o Microsoft Azure Tutorial
+               o Google Cloud Platform
+          + Linux
+               o Linux Tutorial
+               o Linux Commands A-Z
+               o Linux Commands Cheatsheet
+               o File Permission Commands
+               o Linux System Administration
+               o Linux File System
+               o Linux Shell Scripting
+               o Linux Networking
+               o Linux Interview Questions
+          + Software Testing
+               o Software Testing Tutorial
+               o Software Engineering Tutorial
+               o Testing Interview Questions
+               o Jira
+          + Databases
+               o DBMS Tutorial
+               o SQL Tutorial
+               o PostgreSQL Tutorial
+               o MongoDB Tutorial
+               o SQL Interview Questions
+               o MySQL Interview Questions
+               o PL/SQL Interview Questions
+          + Android
+               o Android Tutorial
+               o Android Studio Tutorial
+               o Kotlin For Android
+               o Android Projects
+               o Android Interview Questions
+               o 6 Weeks of Android App Development
+          + Excel
+               o MS Excel Tutorial
+               o Introduction to MS Excel
+               o Data Analysis in Excel
+               o Basic Excel Formulas & Functions
+               o Data Analysis in Advanced Excel
+               o Workbooks
+               o Statistical Functions
+               o Data Visualization in Excel
+               o Pivot Tables in Excel
+               o Excel Spreadsheets in Python
+               o Basic Excel Shortcuts
+          + Mathematics
+               o Number System
+               o Algebra
+               o Linear Algebra
+               o Trigonometry
+               o Set Theory
+               o Statistics
+               o Probability
+               o Geometry
+               o Mensuration
+               o Logarithms
+               o Calculus
+     * DSA
+          + Data Structures
+               o Arrays
+               o Matrix
+               o Strings
+               o Linked List
+               o Stack
+               o Queue
+               o Tree
+               o Heap
+               o Hashing
+               o Graph
+               o Set Data Structure
+               o Map Data Structure
+               o Advanced Data Structure
+               o Data Structures Tutorial
+          + Algorithms
+               o Analysis of Algorithms
+                    # Design and Analysis of Algorithms
+                    # Asymptotic Analysis
+                    # Asymptotic Notations
+                    # Worst, Average and Best Cases
+               o Searching Algorithms
+                    # Linear Search
+                    # Binary Search
+                    # Searching Algorithms Tutorial
+               o Sorting Algorithms
+                    # Selection Sort
+                    # Bubble Sort
+                    # Insertion Sort
+                    # Merge Sort
+                    # Quick Sort
+                    # Heap Sort
+                    # Counting Sort
+                    # Radix Sort
+                    # Bucket Sort
+                    # Sorting Algorithms Tutorial
+               o Greedy Algorithms
+               o Dynamic Programming
+               o Graph Algorithms
+               o Pattern Searching
+               o Recursion
+               o Backtracking
+               o Divide and Conquer
+               o Mathematical Algorithms
+               o Geometric Algorithms
+               o Bitwise Algorithms
+               o Randomized Algorithms
+               o Branch and Bound
+               o Algorithms Tutorial
+          + DSA Tutorial
+          + Practice
+               o All DSA Problems
+               o Problem of the Day
+               o Company Wise Coding Practice
+                    # Amazon
+                    # Microsoft
+                    # Flipkart
+                    # Explore All
+               o GfG SDE Sheet
+               o Practice Problems Difficulty Wise
+                    # School
+                    # Basic
+                    # Easy
+                    # Medium
+                    # Hard
+               o Language Wise Coding Practice
+                    # CPP
+                    # Java
+                    # Python
+               o Curated DSA Lists
+                    # Beginner's DSA Sheet
+                    # Top 50 Array Problems
+                    # Top 50 String Problems
+                    # Top 50 DP Problems
+                    # Top 50 Graph Problems
+                    # Top 50 Tree Problems
+          + Competitive Programming
+          + Company Wise SDE Sheets
+               o Facebook SDE Sheet
+               o Amazon SDE Sheet
+               o Apple SDE Sheet
+               o Netflix SDE Sheet
+               o Google SDE Sheet
+          + DSA Cheat Sheets
+               o SDE Sheet
+               o DSA Sheet for Beginners
+               o FAANG Coding Sheet
+               o Product-Based Coding Sheet
+               o Company-Wise Preparation Sheet
+          + Top Interview Questions
+          + Puzzles
+               o All Puzzles
+               o Top 100 Puzzles Asked In Interviews
+               o Top 20 Puzzles Commonly Asked During SDE Interviews
+     * Data Science
+          + Python Tutorial
+          + R Tutorial
+          + Machine Learning
+          + Data Science using Python
+          + Data Science using R
+          + Data Science Packages
+               o Pandas Tutorial
+               o NumPy Tutorial
+          + Data Visualization
+               o Python Data Visualization Tutorial
+               o Data Visualization with R
+          + Data Analysis
+               o Data Analysis with Python
+               o Data Analysis with R
+          + Deep Learning
+          + NLP Tutorial
+     * Web Tech
+          + HTML Tutorial
+          + CSS Tutorial
+          + JavaScript Tutorial
+          + PHP Tutorial
+          + ReactJS Tutorial
+          + NodeJS Tutorial
+          + Bootstrap Tutorial
+          + Typescript
+          + Web Development Using Python
+               o Django
+                    # Django Tutorial
+                    # Django Projects
+                    # Django Interview Questions
+               o Flask
+                    # Flask Tutorial
+                    # Flask Projects
+                    # Flask Interview Questions
+               o Postman
+               o Github
+          + Cheat Sheets
+               o HTML Cheat Sheet
+               o CSS Cheat Sheet
+               o JavaScript Cheat Sheet
+               o React Cheat Sheet
+               o Angular Cheat Sheet
+               o jQuery Cheat Sheet
+               o Bootstrap Cheat Sheet
+          + Learn Complete Web Development
+
+     * ____________________ (BUTTON)
+     * (BUTTON)
+     *
+     *
+
+   (BUTTON)
+     * Aptitude
+     * Engineering Mathematics
+     * Discrete Mathematics
+     * Operating System
+     * DBMS
+     * Computer Networks
+     * Digital Logic and Design
+     * C Programming
+     * Data Structures
+     * Algorithms
+     * Theory of Computation
+     * Compiler Design
+     * Computer Org and Architecture
+
+   (BUTTON)
+
+   (BUTTON) ▲
+
+   Open In App
+
+Program to Implement Logic Gates
+
+   Last Updated : 30 Aug, 2024
+   Summarize
+   Comments
+   Improve
+     *
+     *
+     *
+
+   Suggest changes
+   Like Article
+   Like
+   Save
+   Share
+   Report
+   News Follow
+
+   In a computer, most of the electronic circuits are made up logic gates.
+   Logic gates are used to create a circuit that performs calculations,
+   data storage or shows off object-oriented programming especially the
+   power of inheritance. Logic gates can also be constructed using vacuum
+   tubes, electromagnetic elements like optics, molecule etc.
+
+What is Logic Gate?
+
+   A Logic gate is an elementary building block of any digital circuits.
+   It takes one or two inputs and produces output based on those inputs.
+   Outputs may be high (1) or low (0). Logic gates are implemented using
+   diodes or transistors. There are seven basic logic gates defined, these
+   are:
+    1. AND gate,
+    2. OR gate,
+    3. NOT gate,
+    4. NAND gate,
+    5. NOR gate,
+    6. XOR gate and
+    7. XNOR gate.
+
+   Below are the brief details about them along with their implementation:
+
+1. AND Gate
+
+   The AND gate gives an output of 1 if both the two inputs are 1, it
+   gives 0 otherwise. [andpg.png] Below are the programs to implement AND
+   gate using various methods:
+     * Using product method.
+     * Using if else condition.
+     * Using “AND (&&)” operator.
+
+   If-Else
+// C program implementing the AND gate
+// using if and else condition
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int a[5] = { 1, 0, 1, 0, 1 };
+    int b[5] = { 0, 1, 1, 0, 0 };
+    int i, ans;
+
+    for (i = 0; i < 5; i++) {
+        if (a[i] == 0 && b[i] == 0)
+            ans = 0;
+
+        else if (a[i] == 0 && b[i] == 1)
+            ans = 0;
+
+        else if (a[i] == 1 && b[i] == 0)
+            ans = 0;
+        else
+            ans = 1;
+
+        printf("\n %d AND %d = %d",
+               a[i], b[i], ans);
+    }
+}
+
+   Product Method
+// C program implementing the AND gate
+// through product method.
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int a[5] = { 1, 0, 1, 0, 1 };
+    int b[5] = { 0, 1, 1, 0, 0 };
+    int i, product;
+
+    for (i = 0; i < 5; i++) {
+
+        // using product method
+        product = a[i] * b[i];
+
+        printf("\n %d AND %d = %d",
+               a[i], b[i], product);
+    }
+}
+
+   &amp;amp; Operator
+// C program implementing the AND gate
+// using & operator
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int a[5] = { 1, 0, 1, 0, 1 };
+    int b[5] = { 0, 1, 1, 0, 0 };
+    int i, and_ans;
+
+    for (i = 0; i < 5; i++) {
+
+        // using the & operator
+        and_ans = a[i] & b[i];
+
+        printf("\n %d AND %d = %d",
+               a[i], b[i], and_ans);
+    }
+}
+
+   Output
+ 1 AND 0 = 0
+ 0 AND 1 = 0
+ 1 AND 1 = 1
+ 0 AND 0 = 0
+ 1 AND 0 = 0
+
+2. OR Gate
+
+   The OR gate gives an output of 1 if either of the two inputs are 1, it
+   gives 0 otherwise. [or-2.png] Below are the programs to implement AND
+   gate using various methods:
+     * Using + operator.
+     * Using | operator.
+     * Using || operator.
+     * Using if else.
+
+   If-Else
+// C program implementing the OR gate
+// using if else
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int a[5] = { 1, 0, 1, 0, 1 };
+    int b[5] = { 0, 1, 1, 0, 0 };
+    int i, or_ans;
+
+    for (i = 0; i < 5; i++) {
+
+        // using the if-else conditions
+        if (a[i] == 0 && b[i] == 0)
+            or_ans = 0;
+        else
+            or_ans = 1;
+
+        printf("\n %d AND %d = %d",
+               a[i], b[i], or_ans);
+    }
+}
+
+   + Operator
+// C program implementing the OR gate
+// using + operator
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int a[5] = { 1, 0, 1, 0, 1 };
+    int b[5] = { 0, 1, 1, 0, 0 };
+    int i, or_ans;
+
+    for (i = 0; i < 5; i++) {
+
+        // using the + operator
+        if (a[i] + b[i] > 0)
+            or_ans = 1;
+        else
+            or_ans = 0;
+
+        printf("\n %d AND %d = %d",
+               a[i], b[i], or_ans);
+    }
+}
+
+   | Operator
+// C program implementing the OR gate
+// using | operator
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int a[5] = { 1, 0, 1, 0, 1 };
+    int b[5] = { 0, 1, 1, 0, 0 };
+    int i, or_ans;
+
+    for (i = 0; i < 5; i++) {
+
+        // using the | operator
+        or_ans = a[i] | b[i];
+
+        printf("\n %d AND %d = %d",
+               a[i], b[i], or_ans);
+    }
+}
+
+   || operator
+// C program implementing the OR gate
+// using || operator
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int a[5] = { 1, 0, 1, 0, 1 };
+    int b[5] = { 0, 1, 1, 0, 0 };
+    int i, or_ans;
+
+    for (i = 0; i < 5; i++) {
+
+        // using the || operator
+        or_ans = a[i] || b[i];
+
+        printf("\n %d AND %d = %d",
+               a[i], b[i], or_ans);
+    }
+}
+
+   Output
+ 1 AND 0 = 1
+ 0 AND 1 = 1
+ 1 AND 1 = 1
+ 0 AND 0 = 0
+ 1 AND 0 = 1
+
+3. NAND Gate
+
+   The NAND gate (negated AND) gives an output of 0 if both inputs are 1,
+   it gives 1 otherwise. [nand.png] Below are the programs to implement
+   NAND gate using various methods:
+     * Using if else.
+     * Using Complement of the product.
+
+   If-Else
+// C program implementing the NAND gate
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+
+    int a[5] = { 1, 0, 1, 0, 1 };
+    int b[5] = { 0, 1, 1, 0, 0 };
+    int i, ans;
+
+    for (i = 0; i < 5; i++) {
+        if (a[i] == 1 && b[i] == 1)
+            ans = 0;
+        else
+            ans = 1;
+        printf("\n %d NAND %d = %d",
+               a[i], b[i], ans);
+    }
+}
+
+   Complement of the product
+// C program implementing the NAND gate
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+
+    int a[5] = { 1, 0, 1, 0, 1 };
+    int b[5] = { 0, 1, 1, 0, 0 };
+    int i, ans;
+
+    for (i = 0; i < 5; i++) {
+        ans = !(a[i] * b[i]);
+        printf("\n %d NAND %d = %d",
+               a[i], b[i], ans);
+    }
+}
+
+   Output
+ 1 NAND 0 = 1
+ 0 NAND 1 = 1
+ 1 NAND 1 = 0
+ 0 NAND 0 = 1
+ 1 NAND 0 = 1
+
+4. NOR Gate
+
+   The NOR gate (negated OR) gives an output of 1 if both inputs are 0, it
+   gives 1 otherwise. [Nor.png] Below are the programs to implement NOR
+   gate using various methods:
+     * Using + Operator.
+     * Using if else.
+
+   + Operator.
+// C program implementing the NOR gate
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+
+    int a[5] = { 1, 0, 1, 0, 1 };
+    int b[5] = { 0, 1, 1, 0, 0 };
+    int i, ans;
+
+    for (i = 0; i < 5; i++) {
+        ans = !(a[i] + b[i]);
+        printf("\n %d NOR %d = %d",
+               a[i], b[i], ans);
+    }
+}
+
+   If-Else
+// C program implementing the NOR gate
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+
+    int a[5] = { 1, 0, 1, 0, 1 };
+    int b[5] = { 0, 1, 1, 0, 0 };
+    int i, ans;
+
+    for (i = 0; i < 5; i++) {
+        if (a[i] == 0 && b[i] == 0)
+            ans = 1;
+        else
+            ans = 0;
+        printf("\n %d NOR %d = %d",
+               a[i], b[i], ans);
+    }
+}
+
+   Output
+ 1 NOR 0 = 0
+ 0 NOR 1 = 0
+ 1 NOR 1 = 0
+ 0 NOR 0 = 1
+ 1 NOR 0 = 0
+
+5. NOT Gate
+
+   It acts as an inverter. It takes only one input. If the input is given
+   as 1, it will invert the result as 0 and vice-versa. [Not.png] Below
+   are the programs to implement NOT gate using various methods:
+     * Using ! Operator.
+     * Using if else.
+
+   If-Else
+// C program implementing the NOT gate
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+
+    int a[5] = { 1, 0, 1, 0, 1 };
+    int i, ans;
+
+    for (i = 0; i < 5; i++) {
+        if (a[i] == 0)
+            ans = 1;
+        else
+            ans = 0;
+        printf("\n  NOT %d = %d", a[i], ans);
+    }
+}
+
+   ! Operator
+// C program implementing the NOT gate
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+
+    int a[5] = {1, 0, 1, 0, 1};
+    int i, ans;
+
+    for (i = 0; i < 5; i++)
+    {
+        ans = !(a[i]);
+        printf("\n  NOT %d = %d", a[i], ans);
+    }
+}
+
+   Output
+  NOT 1 = 0
+  NOT 0 = 1
+  NOT 1 = 0
+  NOT 0 = 1
+  NOT 1 = 0
+
+Conclusion
+
+   Logic gates are basic building components of digital circuits necessary
+   to design complex systems. They are used to perform logical operations.
+   It is important to understanding the working and combination of these
+   gates in order to design circuits that perform tasks correctly and
+   efficiently. Logic gates can help develop a solid foundation in digital
+   electronics and pave the way for exploring more advanced topics.
+
+Frequently Asked Questions on Logic Gates – FAQs
+
+How to Implement Logic Gates?
+
+     Logic gates are implemented using diodes or transistors. They can
+     also be constructed using vacuum tubes, molecules, etc.
+
+How are Logic Gates Implemented in Real Life?
+
+     Logic gates are implemented in thermostats, locks, water systems and
+     many other electronic devices.
+
+What are the Applications of Logic Gates?
+
+     Logic gates are used in microcontrollers, microprocessors, and
+     embedded systems.
+
+   (BUTTON)
+   Comment
+   (BUTTON)
+   More info
+   Next Article
+   Two Level Implementation of Logic Gates
+   author
+   sunilkannur98
+   (sunilkannur98) Follow
+   News
+   (BUTTON)
+   Improve
+   Article Tags :
+     * C Language
+     * Digital Logic
+     * Programming Language
+
+Similar Reads
+
+     * Program to Implement Logic Gates
+       In a computer, most of the electronic circuits are made up logic
+       gates. Logic gates are used to create a circuit that performs
+       calculations, data storage or shows off object-oriented programming
+       especially the power of inheritance. Logic gates can also be
+       constructed using vacuum tubes, electromagne
+       8 min read
+     * Two Level Implementation of Logic Gates
+       The term "two-level logic" refers to a logic design that uses no
+       more than two logic gates between input and output. This does not
+       mean that the entire design will only have two logic gates, but it
+       does mean that the single path from input to output will only have
+       two logic gates. In two-level logic
+       10 min read
+     * C++ program to implement Half Adder
+       Prerequisite : Half Adder in Digital Logic We are given with two
+       inputs A and B. Our task is to implement Half Adder circuit and
+       print the outputs sum and carry of two inputs. Introduction : The
+       Half adder is a combinational circuit which add two1-bit binary
+       numbers which are augend and addend to gi
+       2 min read
+     * Python program to implement Full Adder
+       Prerequisite : Full Adder in Digital LogicGiven three inputs of
+       Full Adder A, B,C-IN. The task is to implement the Full Adder
+       circuit and Print output i.e sum and C-Out of three inputs. Full
+       Adder : A Full Adder is a logical circuit that performs an addition
+       operation on three one-bit binary numbers
+       2 min read
+     * Python program to implement 2:4 Multiplexer
+       Prerequisite : Multiplexers in Digital Logic Introduction : It is a
+       combinational circuit which have many data inputs and single output
+       depending on control or select inputs.​ For N input lines, log n
+       (base2) selection lines, or we can say that for 2n input lines, n
+       selection lines are required. Mul
+       3 min read
+     * C++ program to implement full subtractor
+       Prerequisite : Full SubtractorGiven three inputs of Full Subtractor
+       A, B, Bin. The task is to implement the Full Subtractor circuit and
+       Print output states difference (D) and Bout of three inputs.
+       Introduction :The full subtractor is used to subtract three 1-bit
+       numbers which are minuend, subtrahend
+       2 min read
+     * Introduction of Logic Gates
+       In Boolean Algebra, there are three basic operations, [Tex]
+       +,\:.\:,\:^\prime [/Tex] which are analogous to disjunction,
+       conjunction, and negation in propositional logic . Each of these
+       operations has a corresponding logic gate. Apart from these, there
+       are a few other logic gates as well. It was inv
+       10 min read
+     * Implementation of OR Gate from NOR Gate
+       The Logic gates are the Fundamental Building Blocks of the Digital
+       Circuits. The Logic Gate takes one or more Binary inputs and
+       performs logical Operations to Produce a single binary Output.
+       Understanding through the Different Combinations of gates is
+       important for the Designer to produce the desire
+       5 min read
+     * Implementation of NOR gate using 2 : 1 Mux
+       In Digital Electronics, the concepts of Gates and Mux are a must to
+       design the Digital circuit. The gates are the building block in
+       Digital electronics and a MUX is a combinational logic circuit used
+       in Digital Electronics. By Combining different types of gates we
+       can design a complex circuit that c
+       6 min read
+     * Python Program to implement Full Subtractor
+       Prerequisite -Full Subtractor in Digital Logic In this, we will
+       discuss the overview of the full subtractor and will implement the
+       full subtractor logic in the python language. Also, we will cover
+       with the help of examples. Let's discuss it one by one. Given three
+       inputs of Full Subtractor A, B, Bin
+       4 min read
+     * Programming Array Logic
+       Programmable Array Logic (PAL) is a commonly used programmable
+       logic device (PLD). It has programmable AND array and fixed OR
+       array. Because only the AND array is programmable, it is easier to
+       use but not flexible as compared to Programmable Logic Array (PLA).
+       PAL's only limitation is number of AND
+       5 min read
+     * Implementation of Full Adder using NOR Gates
+       In Digital Logic Circuit, Full Adder is a Digital Logic Circuit
+       that can add three inputs and give two outputs. The three inputs A,
+       B, and input carry as Cin. Cout is represented as output carry and
+       Sum is represented as output. We can say Cout is called the
+       majority 1’s detector, when more than one
+       8 min read
+     * Program for Hexadecimal to Decimal
+       Given a hexadecimal number as input, we need to write a program to
+       convert the given hexadecimal number into an equivalent decimal
+       number. Examples:   Input : 67Output: 103Input : 512Output:
+       1298Input : 123Output: 291We know that hexadecimal number uses 16
+       symbols {0, 1, 2, 4, 5, 6, 7, 8, 9, A, B, C
+       8 min read
+     * Programmable Logic Array
+       A Programmable Logic Array therefore, comprises of a PLA chip
+       having a fixed wiring structure of AND gates followed by OR gates
+       that can be programmed. PLA is a type of programmable logic device
+       to construct a reconfigurable digital circuit on its architecture.
+       It includes memory as well as logical
+       6 min read
+     * Implementation of OR Gate from NAND Gate
+       Logic gates are an essential component of digital electronics and
+       are used to handle binary data. Because of its universal nature,
+       the NAND gate is particularly significant among these gates. This
+       article explores the use of NAND gates to implement an OR gate,
+       demonstrating the adaptability and usef
+       4 min read
+     * Universal Logic Gates
+       A logic gate is an active electronic component that uses one or
+       more inputs to produce an output based on the bolean algebra each
+       gate is designed to perform. Though there are various types of
+       gates including AND, OR, NOT, NAND, NOR etc.. NAND and NOR gates
+       are a little special. NAND gate and NOR ga
+       7 min read
+     * Implementation of AND gate using 2 : 1 Mux
+       In Digital Electronics, The concept of the Gates and Multiplexer is
+       Important for Building any Digital Logical Circuit. The Gates are
+       the Building Block of the Digital Electronics. On the Other hand,
+       Multiplexers are an Important Component in Digital Electronics.
+       They Enable the Selection of one dat
+       5 min read
+     * Implementation of Digital System
+       Prerequisite - Introduction to Digital Systems Implementation means
+       how the system is constructed from smaller and simpler components
+       called modules. The modules can vary from simple Gates to complex
+       processors. Digital system follows some Hierarchical
+       implementation. Hierarchical implementation : I
+       2 min read
+     * Implementation of AND Gate from NAND Gate
+       It is worth mentioning that Boolean algebra is a fundamental part
+       of the digital electronics field that uses binary variables and
+       logical operations. Think of it as the mind that makes the
+       computers work effectively. Then, imagine that logic gates (AND,
+       OR, and NOT) could be the necessary helpers in
+       5 min read
+
+   (BUTTON) Like
+   three90RightbarBannerImg
+   Explore More
+
+   geeksforgeeks-footer-logo
+   Corporate & Communications Address:- A-143, 7th Floor, Sovereign
+   Corporate Tower, Sector- 136, Noida, Uttar Pradesh (201305) |
+   Registered Address:- K 061, Tower K, Gulshan Vivante Apartment, Sector
+   137, Noida, Gautam Buddh Nagar, Uttar Pradesh, 201305
+   GFG App on Play Store GFG App on App Store
+   Advertise with us
+     * Company
+     * About Us
+     * Legal
+     * In Media
+     * Contact Us
+     * Advertise with us
+     * GFG Corporate Solution
+     * Placement Training Program
+     * GeeksforGeeks Community
+
+     * Languages
+     * Python
+     * Java
+     * C++
+     * PHP
+     * GoLang
+     * SQL
+     * R Language
+     * Android Tutorial
+     * Tutorials Archive
+
+     * DSA
+     * Data Structures
+     * Algorithms
+     * DSA for Beginners
+     * Basic DSA Problems
+     * DSA Roadmap
+     * Top 100 DSA Interview Problems
+     * DSA Roadmap by Sandeep Jain
+     * All Cheat Sheets
+
+     * Data Science & ML
+     * Data Science With Python
+     * Data Science For Beginner
+     * Machine Learning
+     * ML Maths
+     * Data Visualisation
+     * Pandas
+     * NumPy
+     * NLP
+     * Deep Learning
+
+     * Web Technologies
+     * HTML
+     * CSS
+     * JavaScript
+     * TypeScript
+     * ReactJS
+     * NextJS
+     * Bootstrap
+     * Web Design
+
+     * Python Tutorial
+     * Python Programming Examples
+     * Python Projects
+     * Python Tkinter
+     * Web Scraping
+     * OpenCV Tutorial
+     * Python Interview Question
+     * Django
+
+     * Computer Science
+     * Operating Systems
+     * Computer Network
+     * Database Management System
+     * Software Engineering
+     * Digital Logic Design
+     * Engineering Maths
+     * Software Development
+     * Software Testing
+
+     * DevOps
+     * Git
+     * Linux
+     * AWS
+     * Docker
+     * Kubernetes
+     * Azure
+     * GCP
+     * DevOps Roadmap
+
+     * System Design
+     * High Level Design
+     * Low Level Design
+     * UML Diagrams
+     * Interview Guide
+     * Design Patterns
+     * OOAD
+     * System Design Bootcamp
+     * Interview Questions
+
+     * Inteview Preparation
+     * Competitive Programming
+     * Top DS or Algo for CP
+     * Company-Wise Recruitment Process
+     * Company-Wise Preparation
+     * Aptitude Preparation
+     * Puzzles
+
+     * School Subjects
+     * Mathematics
+     * Physics
+     * Chemistry
+     * Biology
+     * Social Science
+     * English Grammar
+     * Commerce
+     * World GK
+
+     * GeeksforGeeks Videos
+     * DSA
+     * Python
+     * Java
+     * C++
+     * Web Development
+     * Data Science
+     * CS Subjects
+
+   @GeeksforGeeks, Sanchhaya Education Private Limited, All rights
+   reserved
+
+   We use cookies to ensure you have the best browsing experience on our
+   website. By using our site, you acknowledge that you have read and
+   understood our Cookie Policy & Privacy Policy (BUTTON) Got It !
+
+   Lightbox
+
+   Improvement
+   (BUTTON) Suggest changes
+   Suggest Changes
+   Help us improve. Share your suggestions to enhance the article.
+   Contribute your expertise and make a difference in the GeeksforGeeks
+   portal.
+   geeksforgeeks-suggest-icon
+   Create Improvement
+   Enhance the article with your expertise. Contribute to the
+   GeeksforGeeks community and help create better learning resources for
+   all.
+   geeksforgeeks-improvement-icon
+   Suggest Changes
+   min 4 words, max CharLimit:2000
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   (BUTTON)
+
+What kind of Experience do you want to share?
+
+   Interview Experiences
+   Admission Experiences
+   Career Journeys
+   Work Experiences
+   Campus Experiences
+   Competitive Exam Experiences

@@ -1,0 +1,108 @@
+    [ ]
+
+   Light
+   (BUTTON)
+
+Essential Logic Gates to Know for Discrete Mathematics
+
+Related Subjects
+
+   🧩 Discrete Mathematics
+
+   Logic gates are the building blocks of digital circuits, representing
+   fundamental operations in Boolean algebra. They process binary inputs
+   to produce outputs, forming the basis for complex logical expressions
+   and decision-making in computer systems. Understanding these gates is
+   key in Discrete Mathematics.
+    1. AND gate
+          + Outputs true (1) only if all inputs are true (1).
+          + Symbolized by a multiplication operation (A · B).
+          + Fundamental in constructing logical expressions and circuits.
+          + Used in decision-making processes where all conditions must be
+            met.
+          + Truth table: Only one output (1) for the input combination (1,
+            1).
+    2. OR gate
+          + Outputs true (1) if at least one input is true (1).
+          + Symbolized by an addition operation (A + B).
+          + Essential for scenarios where any condition being true is
+            sufficient.
+          + Combines multiple signals in digital circuits.
+          + Truth table: Outputs (1) for input combinations (1, 0), (0,
+            1), and (1, 1).
+    3. NOT gate
+          + Outputs the inverse of the input; true (1) becomes false (0)
+            and vice versa.
+          + Symbolized by a bar over the variable (¬A or A').
+          + Fundamental for negation in logical expressions.
+          + Used to create more complex logic circuits by inverting
+            signals.
+          + Truth table: Outputs (1) for input (0) and (0) for input (1).
+    4. NAND gate
+          + Outputs false (0) only if all inputs are true (1); otherwise,
+            it outputs true (1).
+          + Combination of an AND gate followed by a NOT gate.
+          + Universal gate; can be used to create any other logic gate.
+          + Important in digital circuit design for simplifying logic.
+          + Truth table: Outputs (1) for all combinations except (1, 1).
+    5. NOR gate
+          + Outputs true (1) only if all inputs are false (0); otherwise,
+            it outputs false (0).
+          + Combination of an OR gate followed by a NOT gate.
+          + Also a universal gate; can be used to construct any other
+            logic gate.
+          + Useful in creating circuits that require a default false
+            state.
+          + Truth table: Outputs (1) only for input combination (0, 0).
+    6. XOR gate
+          + Outputs true (1) if an odd number of inputs are true (1).
+          + Symbolized by A ⊕ B.
+          + Commonly used in arithmetic operations and error detection.
+          + Represents exclusive conditions where only one input should be
+            true.
+          + Truth table: Outputs (1) for input combinations (1, 0) and (0,
+            1).
+    7. XNOR gate
+          + Outputs true (1) if an even number of inputs are true (1).
+          + Combination of an XOR gate followed by a NOT gate.
+          + Useful for equality checking in digital circuits.
+          + Represents inclusive conditions where inputs must match.
+          + Truth table: Outputs (1) for input combinations (0, 0) and (1,
+            1).
+     __________________________________________________________________
+
+   Fiveable
+
+About Us
+
+   About FiveableBlogCareersTestimonialsCode of ConductTerms of UsePrivacy
+   PolicyCCPA Privacy Policy
+
+Resources
+
+   Cram ModeAP Score CalculatorsStudy GuidesPractice QuizzesGlossaryCrisis
+   Text LineRequest a Feature (BUTTON) Report an Issue
+
+Stay Connected
+     __________________________________________________________________
+
+© 2024 Fiveable Inc. All rights reserved.
+
+AP® and SAT® are trademarks registered by the College Board, which is not
+affiliated with, and does not endorse this website.
+     __________________________________________________________________
+
+About Us
+
+   About FiveableBlogCareersTestimonialsCode of ConductTerms of UsePrivacy
+   PolicyCCPA Privacy Policy
+
+Resources
+
+   Cram ModeAP Score CalculatorsStudy GuidesPractice QuizzesGlossaryCrisis
+   Text LineRequest a Feature (BUTTON) Report an Issue
+
+© 2024 Fiveable Inc. All rights reserved.
+
+AP® and SAT® are trademarks registered by the College Board, which is not
+affiliated with, and does not endorse this website.

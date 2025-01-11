@@ -1,0 +1,118 @@
+   (BUTTON)
+
+   logic^1
+   noun (6)
+   (BUTTON)
+
+   -logic^2
+   Definitions (1)
+
+   Advertisement
+   View synonyms for logic
+   (BUTTON) American (BUTTON) British (BUTTON) Scientific (BUTTON)
+   Cultural (BUTTON)
+
+logic
+
+   ^1
+--
+       reliable inference.
+    2. a particular method of reasoning or argumentation:
+       We were unable to follow his logic.
+    3. the system or principles of reasoning applicable to any branch of
+       knowledge or study.
+    4. reason or sound judgment, as in utterances or actions:
+       There wasn't much logic in her move.
+       Synonyms: cogency, sense
+    5. convincing forcefulness; inexorable truth or persuasiveness:
+       the irresistible logic of the facts.
+    6. Computers. logic circuit.
+     __________________________________________________________________
+     __________________________________________________________________
+
+   -logic
+   ^2
+    1. a combining form used in the formation of adjectives corresponding
+--
+       analogic.
+
+   logic
+
+   / ˈlɒdʒɪk /
+--
+       reasoning by which a conclusion is properly drawn from a set of
+       premises, without reference to meaning or context See also formal
+       logic deduction induction
+    2. any particular formal system in which are defined axioms and rules
+       of inference Compare formal system formal language
+--
+    7. the relationship and interdependence of a series of events, facts,
+       etc
+    8. chop logic
+       to use excessively subtle or involved logic or argument
+    9. electronics computing
+         1. the principles underlying the units in a computer system that
+            perform arithmetical and logical operations See also logic
+            circuit
+         2. ( as modifier )
+            a logic element
+
+   “Collins English Dictionary — Complete & Unabridged” 2012 Digital
+--
+   Publishers 1998, 2000, 2003, 2005, 2006, 2007, 2009, 2012
+
+   logic
+
+   / lŏj′ĭk /
+--
+       of method and validity in deductive reasoning.
+
+   logic
+    1. The branch of philosophy dealing with the principles of reasoning.
+       Classical logic, as taught in ancient Greece and Rome ,
+       systematized rules for deduction . The modern scientific and
+       philosophical logic of deduction has become closely allied to
+       mathematics , especially in showing how the foundations of
+       mathematics lie in logic.
+
+   Discover More
+--
+Word History and Origins
+
+   Origin of logic^1
+   First recorded in 1325–75; Middle English logik, from Latin logica,
+   noun use of neuter plural (in Medieval Latin taken as feminine
+   singular) of Greek logikós “of speech or reason”; logo-, -ic
+
+   Origin of logic^2
+   < Greek -logikós. See logic
+   Discover More
+
+Word History and Origins
+
+   Origin of logic^1
+   C14: from Old French logique from Medieval Latin logica (neuter plural,
+   treated in Medieval Latin as feminine singular), from Greek logikos
+--
+Example Sentences
+
+   Both men were caught up in the sick logic of toxic masculinity, where
+   being "good" is about being dominant and hateful.
+   From Salon
+
+   As we saw during the pandemic, they operate by cult logic.
+   From Salon
+
+   He could pick apart an argument you made with one or two incisive
+   slashes of history, facts, humor or logic, mostly all four put together
+   in ways you’d never heard before.
+   From Salon
+--
+   Timothy Snyder, who is a leading historian of fascism and the author of
+   “On Tyranny: Twenty Lessons from the Twentieth Century”, explained the
+   logic of “anticipatory obedience” to The Guardian in the following way:
+   From Salon
+
+   "We are willing to talk to them with logic. We are willing to talk to
+   them with a real proposal."
+   From BBC

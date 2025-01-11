@@ -1,0 +1,189 @@
+   EXPLORER
+
+   DÉCOUVREZ toute l'actualité, la veille technologique GRATUITE, les
+   études de cas et les événements de chaque secteur de l'industrie.
+     * Chimie et Biotech
+--
+     * Mathématiques
+     * Mathématiques fondamentales : algèbre
+     * Logique et métalogique
+     * Lois de la pensée et principes de la logique
+
+     *
+--
+     * 1.2 - Époque babylonienne
+     * 1.3 - Antiquité grecque
+     * 1.4 - Moyen Âge européen : la logique médiévale (476-1453)
+     * 1.5 - La renaissance européenne (1453-1666)
+     * 1.6 - La logique moderne (depuis 1666)
+     * 1.7 - XIXe siècle et XXe siècle : la logique mathématique
+     * 1.8 - Autres régions mondiales
+     * 1.9 - Logiques classiques et logiques non classiques
+
+   2 - LANGAGES NATURELS ET FORMELS
+--
+
+   4 - LOIS DE LA PENSÉE ET PRINCIPES DE LA LOGIQUE
+     * 4.1 - Les quatre grands principes philosophiques logiques de
+       l’Antiquité grecque
+     * 4.2 - Nouveaux principes classiques
+--
+   5 - SYSTÈMES LOGIQUES
+     * 5.1 - Systèmes formels
+     * 5.2 - Définition d’un système logique
+     * 5.3 - Calculs formels et logiques
+     * 5.4 - Sémantique d’un système logique
+     * 5.5 - Conséquences logiques
+     * 5.6 - Fragments, extensions, théories et traductions
+          + Quiz d'entraînement
+
+   6 - MÉTALOGIQUE
+     * 6.1 - Métalogique
+     * 6.2 - Métamathématique
+
+--
+
+   9 - LOGIQUE ET DISCIPLINES ASSOCIÉES
+     * 9.1 - Logique et philosophie
+     * 9.2 - Logique et linguistique
+     * 9.3 - Logique et mathématiques
+     * 9.4 - Logique et physique
+     * 9.5 - Logique et informatique
+     * 9.6 - Logique et intelligence artificielle
+     * 9.7 - Logique et automatique
+     * 9.8 - Logique et droit
+     * 9.9 - Logique et sciences humaines et sociales
+
+   10 - CONCLUSION
+--
+   Article de référence | Réf : AF88 v1
+
+Lois de la pensée et principes de la logique
+Logique et métalogique
+
+   Auteur(s) : Jean-Charles PINOLI
+--
+RÉSUMÉ
+
+   Le terme « logique » est dérivé du grec ancien signifiant à la fois «
+   discours » et « raisonnement ». En tant que domaine interdisciplinaire
+   de la philosophie, de la linguistique, des mathématiques et plus
+   récemment de l’informatique et surtout de l’intelligence artificielle,
+   la logique traite de l’inférence, qui se définit comme une « opération
+   cognitive », forme élémentaire de raisonnement passant de prémisses à
+   une conclusion. Cet article, le premier d’une série de trois, présente
+   des éléments sur les langages et sur les raisonnements, avant d’aborder
+   les systèmes logiques, puis la métalogique. Un glossaire en annexe
+   résume précisément les définitions de nombreuses notions.
+
+--
+
+   Cet article est le premier d’une série de trois, dont le deuxième
+   portera sur la « logique des propositions et la logique des prédicats »
+   [AF 89] et le troisième traitera des « logiques non classiques »
+   [AF 91].
+
+   Le mot logique (logic) vient du grec ancien lógos signifiant à la fois
+   « langage » et « raisonnement » qui aurait été utilisé pour la première
+   fois par Xénocrate de Chalcédoine (396-314 av. J.-C.). Il désigne, dans
+   une première approche, l’étude des règles formelles que doit respecter
+   tout raisonnement rigoureux (et donc toute argumentation rigoureuse).
+   Selon une signification plus moderne, la logique est l’étude de
+   l’inférence, qui désigne un processus élémentaire du raisonnement,
+   s’intéresse à la forme, et non au contenu, d’un argument rationnel
+   (abstraction faite de tout processus psychologique ou biologique
+   sous-jacent).
+
+   Constat (enseignement de la logique). En France la logique est peu
+   enseignée, alors qu’elle est fondamentale dans de nombreux domaines
+   scientifiques et de l’ingénierie (biologie, chimie, droit,
+--
+   médecine, philosophie, psychologie…) et de la vie courante en général.
+
+   La logique est considérée comme la science exacte la plus générale qui
+   traite du contenant et non du contenu, puisqu’elle ne traite pas d’une
+   « matière » particulière. Elle n’est pas une science fermée et achevée
+   et elle ne cessera probablement jamais de se développer.
+
+   Constat (conceptions de la logique). L’histoire de la logique est
+   marquée par les différentes approches philosophiques et même sur quel
+   était son sujet (Aristote, Abélard, Kant, Hegel, Frege).
+--
+   Présentation
+   Page
+   suivante [picto-arrow-right.svg] Systèmes logiques
+
+   Version en anglais English
+
+4. Lois de la pensée et principes de la logique
+
+   Les lois de la pensée (laws of thought) sont des lois universelles qui
+--
+   vie par une réflexion rationnelle et critique, guidée par la recherche
+   de la vérité. La philosophie a engendré des domaines d’études
+   fondamentaux tels que la logique. À la différence des mathématiques, la
+   philosophie ne s’est jamais décidée à utiliser uniquement des symboles
+   formels, bien que G. Leibniz ait ambitionné de traiter les problèmes
+   philosophiques au moyen d’un langage formel et d’un calcul logique
+   universel.
+
+--
+   psychisme.
+
+   4.1 Les quatre grands principes philosophiques logiques de l’Antiquité
+   grecque
+
+   Les quatre grands principes philosophiques logiques de l’Antiquité
+   grecque sont : le principe d’identité, le principe de
+   non-contradiction, le principe du tiers exclu, et le principe de
+--
+
+   Parménide d’Élée (vers 450 av. J.-C.), puis les mégaro-stoïciens firent
+   de ce principe la loi fondamentale de la logique. La version en logique
+   classique de ce principe philosophique est « le vrai est le vrai ». La
+   version logique traditionnelle est qu’une proposition est vraie si elle
+   est vraie !
+
+--
+   stipule qu’une « chose » ne peut pas simultanément être et ne pas être.
+
+   La version logique traditionnelle de ce principe philosophique interdit
+   d’affirmer...
+
+--
+   ABONNEZ-VOUS
+   Lecture en cours
+   Lois de la pensée et principes de la logique
+   [picto-arrow-left.svg] Page
+   précédenteRaisonnements
+   Page
+   suivante [picto-arrow-right.svg] Systèmes logiques
+   Sommaire
+
+--
+       Intelligence artificielle & informatique théorique,  -  Cépadues,
+       2nde éd., 543 pages (2002).
+     * (3) - BELNA (J.P.) -   Histoire de la logique,  -  Ellipses, 165
+       pages (2014).
+     * (4) - BERNADET (M.) -   Introduction pratique aux logiques non
+       classiques,  -  Hermann, vi + 203 pages (2011).
+     * (5) - BILANIUK (S.) -   A Problem Course in Mathematical Logic,  -
+--
+     * Algèbre linéaire.
+     * Théorie des ensembles ordonnés.
+     * Logique des propositions et logique des prédicats.
+     * Logiques non classiques.
+     * Langage des ensembles et des structures.
+
+--
+DANS LES RESSOURCES DOCUMENTAIRES
+
+     * Logique des propositions et logique des prédicats
+     * Transformer : des réseaux de neurones pour le traitement
+       automatique des langues
+--
+
+   Avec Techniques de l'Ingénieur, retrouvez tous les articles
+   scientifiques et techniques : base de données, veille technologique,
+   documentation et expertise technique
+   RESSOURCES DOCUMENTAIRES

@@ -1,0 +1,170 @@
+head    .left-align {
+            text-align: left;
+            position: absolute;
+            left: 10px;
+            top: 10px;
+        }
+        .center-align {
+            text-align: center;
+            margin-top: 50px;
+        }
+        .right-align {
+            text-align: right;
+            position: absolute;
+            right: 10px;
+            top: 10px;
+        }
+        section {
+            display: none;
+        }
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('https://www.dropbox.com/scl/fi/31rdoiqp14mwmjlwkyasd/?rlkey=rw20o7da42qkkxjp16prd2knu&st=5b85f9m3&raw=1'); /* Lien Dropbox avec le paramètre `raw=1` */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #ffffff;
+    text-align: center;
+}
+/* Alignement spécifique des mots */
+.top-left {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.top-right {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    text-align: right;
+    color: #ffffff;
+}
+
+.center {
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+/* Spécifique pour chaque langue */
+.arabe {
+    font-family: "Amiri", serif;
+    font-size: 1.5em;
+    direction: rtl; /* Sens d'écriture de droite à gauche */
+}
+
+.anglais {
+    font-family: "Arial", sans-serif;
+    font-size: 1.5em;
+}
+
+.chinois {
+    font-family: "Noto Sans SC", sans-serif;
+    font-size: 1.5em;
+}
+
+.portugais {
+    font-family: "Verdana", sans-serif;
+    font-size: 1.5em;
+}
+
+.francais {
+    font-family: "Georgia", serif;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+/* Alignement des colonnes */
+.text-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px; /* Espacement entre les colonnes */
+    margin-top: 20px;
+}
+
+.text-column {
+    flex: 1; /* Chaque colonne prend la même largeur */
+    padding: 10px;
+    border: 1px solid #ccc; /* Bordure optionnelle pour distinguer les colonnes */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: rgba(255, 255, 255, 0.15); /* Fond semi-transparent */
+    color: #ffffff;
+    border-radius: 10px;
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+/* Texte arabe */
+.arabic-text {
+    text-align: right;
+    direction: rtl;
+}
+
+/* Texte français */
+.french-text {
+    text-align: left;
+    direction: ltr;
+}
+
+/* Tableaux */
+table {
+    width: 80%;
+    border-collapse: collapse;
+    background: rgba(255, 255, 255, 0.433); /* Fond semi-transparent */
+    backdrop-filter: blur(1px); /* Ajout du flou */
+    -webkit-backdrop-filter: blur(1px); /* Compatibilité Safari */
+    border-radius: 10px;
+    overflow: hidden; /* Pour éviter les débordements */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+    border: 3px solid rgba(0, 0, 0, 0.1);
+}
+
+th {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+tr:nth-child(even) {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+/* Bouton de navigation */
+.btn-presentation {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1em;
+    transition: background-color 0.3s ease;
+}
+
+.btn-presentation:hover {
+    background-color: rgba(0, 0, 0, 0.9);
+}
+footer {
+            text-align: center;
+            background-color: rgba(255, 255, 255, 0.433); /* Fond semi-transparent */
+            padding: 10px 0;
+        }

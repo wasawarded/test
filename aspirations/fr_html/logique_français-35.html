@@ -1,0 +1,761 @@
+<!DOCTYPE html>
+<html lang="fr-FR" >
+<head>
+    
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="format-detection" content="telephone=no">
+<script type="text/javascript">var ajaxurl = "https://www.udap.fr/wp-admin/admin-ajax.php"</script><style id="critical-path-css" type='text/css'>body,html{width:100%;height:100%;margin:0;padding:0}.page-preloader{top:0;left:0;z-index:999;position:fixed;height:100%;width:100%;text-align:center}.preloader-logo,.preloader-preview-area{top:50%;max-height:calc(50% - 20px);opacity:1}.preloader-preview-area{-webkit-animation-delay:-.2s;animation-delay:-.2s;-webkit-transform:translateY(100%);-ms-transform:translateY(100%);transform:translateY(100%);margin-top:10px;width:100%;text-align:center;position:absolute}.preloader-logo{max-width:90%;-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%);margin:-10px auto 0;position:relative}.ball-pulse>div,.ball-scale>div,.line-scale>div{margin:2px;display:inline-block}.ball-pulse>div{width:15px;height:15px;border-radius:100%;-webkit-animation-fill-mode:both;animation-fill-mode:both;-webkit-animation:ball-pulse .75s infinite cubic-bezier(.2,.68,.18,1.08);animation:ball-pulse .75s infinite cubic-bezier(.2,.68,.18,1.08)}.ball-pulse>div:nth-child(1){-webkit-animation-delay:-.36s;animation-delay:-.36s}.ball-pulse>div:nth-child(2){-webkit-animation-delay:-.24s;animation-delay:-.24s}.ball-pulse>div:nth-child(3){-webkit-animation-delay:-.12s;animation-delay:-.12s}@-webkit-keyframes ball-pulse{0%,80%{-webkit-transform:scale(1);transform:scale(1);opacity:1}45%{-webkit-transform:scale(.1);transform:scale(.1);opacity:.7}}@keyframes ball-pulse{0%,80%{-webkit-transform:scale(1);transform:scale(1);opacity:1}45%{-webkit-transform:scale(.1);transform:scale(.1);opacity:.7}}.ball-clip-rotate-pulse{position:relative;-webkit-transform:translateY(-15px) translateX(-10px);-ms-transform:translateY(-15px) translateX(-10px);transform:translateY(-15px) translateX(-10px);display:inline-block}.ball-clip-rotate-pulse>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;position:absolute;top:0;left:0;border-radius:100%}.ball-clip-rotate-pulse>div:first-child{height:36px;width:36px;top:7px;left:-7px;-webkit-animation:ball-clip-rotate-pulse-scale 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:ball-clip-rotate-pulse-scale 1s 0s cubic-bezier(.09,.57,.49,.9) infinite}.ball-clip-rotate-pulse>div:last-child{position:absolute;width:50px;height:50px;left:-16px;top:-2px;background:0 0;border:2px solid;-webkit-animation:ball-clip-rotate-pulse-rotate 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:ball-clip-rotate-pulse-rotate 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;-webkit-animation-duration:1s;animation-duration:1s}@-webkit-keyframes ball-clip-rotate-pulse-rotate{0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}50%{-webkit-transform:rotate(180deg) scale(.6);transform:rotate(180deg) scale(.6)}100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}}@keyframes ball-clip-rotate-pulse-rotate{0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}50%{-webkit-transform:rotate(180deg) scale(.6);transform:rotate(180deg) scale(.6)}100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}}@-webkit-keyframes ball-clip-rotate-pulse-scale{30%{-webkit-transform:scale(.3);transform:scale(.3)}100%{-webkit-transform:scale(1);transform:scale(1)}}@keyframes ball-clip-rotate-pulse-scale{30%{-webkit-transform:scale(.3);transform:scale(.3)}100%{-webkit-transform:scale(1);transform:scale(1)}}@-webkit-keyframes square-spin{25%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(0);transform:perspective(100px) rotateX(180deg) rotateY(0)}50%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(180deg);transform:perspective(100px) rotateX(180deg) rotateY(180deg)}75%{-webkit-transform:perspective(100px) rotateX(0) rotateY(180deg);transform:perspective(100px) rotateX(0) rotateY(180deg)}100%{-webkit-transform:perspective(100px) rotateX(0) rotateY(0);transform:perspective(100px) rotateX(0) rotateY(0)}}@keyframes square-spin{25%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(0);transform:perspective(100px) rotateX(180deg) rotateY(0)}50%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(180deg);transform:perspective(100px) rotateX(180deg) rotateY(180deg)}75%{-webkit-transform:perspective(100px) rotateX(0) rotateY(180deg);transform:perspective(100px) rotateX(0) rotateY(180deg)}100%{-webkit-transform:perspective(100px) rotateX(0) rotateY(0);transform:perspective(100px) rotateX(0) rotateY(0)}}.square-spin{display:inline-block}.square-spin>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;width:50px;height:50px;-webkit-animation:square-spin 3s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:square-spin 3s 0s cubic-bezier(.09,.57,.49,.9) infinite}.cube-transition{position:relative;-webkit-transform:translate(-25px,-25px);-ms-transform:translate(-25px,-25px);transform:translate(-25px,-25px);display:inline-block}.cube-transition>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;width:15px;height:15px;position:absolute;top:-5px;left:-5px;-webkit-animation:cube-transition 1.6s 0s infinite ease-in-out;animation:cube-transition 1.6s 0s infinite ease-in-out}.cube-transition>div:last-child{-webkit-animation-delay:-.8s;animation-delay:-.8s}@-webkit-keyframes cube-transition{25%{-webkit-transform:translateX(50px) scale(.5) rotate(-90deg);transform:translateX(50px) scale(.5) rotate(-90deg)}50%{-webkit-transform:translate(50px,50px) rotate(-180deg);transform:translate(50px,50px) rotate(-180deg)}75%{-webkit-transform:translateY(50px) scale(.5) rotate(-270deg);transform:translateY(50px) scale(.5) rotate(-270deg)}100%{-webkit-transform:rotate(-360deg);transform:rotate(-360deg)}}@keyframes cube-transition{25%{-webkit-transform:translateX(50px) scale(.5) rotate(-90deg);transform:translateX(50px) scale(.5) rotate(-90deg)}50%{-webkit-transform:translate(50px,50px) rotate(-180deg);transform:translate(50px,50px) rotate(-180deg)}75%{-webkit-transform:translateY(50px) scale(.5) rotate(-270deg);transform:translateY(50px) scale(.5) rotate(-270deg)}100%{-webkit-transform:rotate(-360deg);transform:rotate(-360deg)}}.ball-scale>div{border-radius:100%;-webkit-animation-fill-mode:both;animation-fill-mode:both;height:60px;width:60px;-webkit-animation:ball-scale 1s 0s ease-in-out infinite;animation:ball-scale 1s 0s ease-in-out infinite}.ball-scale-multiple>div,.line-scale>div{-webkit-animation-fill-mode:both;height:50px}@-webkit-keyframes ball-scale{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}@keyframes ball-scale{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}.line-scale>div{animation-fill-mode:both;width:5px;border-radius:2px}.line-scale>div:nth-child(1){-webkit-animation:line-scale 1s -.5s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.5s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(2){-webkit-animation:line-scale 1s -.4s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.4s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(3){-webkit-animation:line-scale 1s -.3s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.3s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(4){-webkit-animation:line-scale 1s -.2s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.2s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(5){-webkit-animation:line-scale 1s -.1s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.1s infinite cubic-bezier(.2,.68,.18,1.08)}@-webkit-keyframes line-scale{0%,100%{-webkit-transform:scaley(1);transform:scaley(1)}50%{-webkit-transform:scaley(.4);transform:scaley(.4)}}@keyframes line-scale{0%,100%{-webkit-transform:scaley(1);transform:scaley(1)}50%{-webkit-transform:scaley(.4);transform:scaley(.4)}}.ball-scale-multiple{position:relative;-webkit-transform:translateY(30px);-ms-transform:translateY(30px);transform:translateY(30px);display:inline-block}.ball-scale-multiple>div{border-radius:100%;animation-fill-mode:both;margin:0;position:absolute;left:-30px;top:0;opacity:0;width:50px;-webkit-animation:ball-scale-multiple 1s 0s linear infinite;animation:ball-scale-multiple 1s 0s linear infinite}.ball-scale-multiple>div:nth-child(2),.ball-scale-multiple>div:nth-child(3){-webkit-animation-delay:-.2s;animation-delay:-.2s}@-webkit-keyframes ball-scale-multiple{0%{-webkit-transform:scale(0);transform:scale(0);opacity:0}5%{opacity:1}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}@keyframes ball-scale-multiple{0%{-webkit-transform:scale(0);transform:scale(0);opacity:0}5%{opacity:1}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}.ball-pulse-sync{display:inline-block}.ball-pulse-sync>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block}.ball-pulse-sync>div:nth-child(1){-webkit-animation:ball-pulse-sync .6s -.21s infinite ease-in-out;animation:ball-pulse-sync .6s -.21s infinite ease-in-out}.ball-pulse-sync>div:nth-child(2){-webkit-animation:ball-pulse-sync .6s -.14s infinite ease-in-out;animation:ball-pulse-sync .6s -.14s infinite ease-in-out}.ball-pulse-sync>div:nth-child(3){-webkit-animation:ball-pulse-sync .6s -70ms infinite ease-in-out;animation:ball-pulse-sync .6s -70ms infinite ease-in-out}@-webkit-keyframes ball-pulse-sync{33%{-webkit-transform:translateY(10px);transform:translateY(10px)}66%{-webkit-transform:translateY(-10px);transform:translateY(-10px)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes ball-pulse-sync{33%{-webkit-transform:translateY(10px);transform:translateY(10px)}66%{-webkit-transform:translateY(-10px);transform:translateY(-10px)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}.transparent-circle{display:inline-block;border-top:.5em solid rgba(255,255,255,.2);border-right:.5em solid rgba(255,255,255,.2);border-bottom:.5em solid rgba(255,255,255,.2);border-left:.5em solid #fff;-webkit-transform:translateZ(0);transform:translateZ(0);-webkit-animation:transparent-circle 1.1s infinite linear;animation:transparent-circle 1.1s infinite linear;width:50px;height:50px;border-radius:50%}.transparent-circle:after{border-radius:50%;width:10em;height:10em}@-webkit-keyframes transparent-circle{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes transparent-circle{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.ball-spin-fade-loader{position:relative;top:-10px;left:-10px;display:inline-block}.ball-spin-fade-loader>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;position:absolute;-webkit-animation:ball-spin-fade-loader 1s infinite linear;animation:ball-spin-fade-loader 1s infinite linear}.ball-spin-fade-loader>div:nth-child(1){top:25px;left:0;animation-delay:-.84s;-webkit-animation-delay:-.84s}.ball-spin-fade-loader>div:nth-child(2){top:17.05px;left:17.05px;animation-delay:-.72s;-webkit-animation-delay:-.72s}.ball-spin-fade-loader>div:nth-child(3){top:0;left:25px;animation-delay:-.6s;-webkit-animation-delay:-.6s}.ball-spin-fade-loader>div:nth-child(4){top:-17.05px;left:17.05px;animation-delay:-.48s;-webkit-animation-delay:-.48s}.ball-spin-fade-loader>div:nth-child(5){top:-25px;left:0;animation-delay:-.36s;-webkit-animation-delay:-.36s}.ball-spin-fade-loader>div:nth-child(6){top:-17.05px;left:-17.05px;animation-delay:-.24s;-webkit-animation-delay:-.24s}.ball-spin-fade-loader>div:nth-child(7){top:0;left:-25px;animation-delay:-.12s;-webkit-animation-delay:-.12s}.ball-spin-fade-loader>div:nth-child(8){top:17.05px;left:-17.05px;animation-delay:0s;-webkit-animation-delay:0s}@-webkit-keyframes ball-spin-fade-loader{50%{opacity:.3;-webkit-transform:scale(.4);transform:scale(.4)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@keyframes ball-spin-fade-loader{50%{opacity:.3;-webkit-transform:scale(.4);transform:scale(.4)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}</style>
+	<!-- This site is optimized with the Yoast SEO plugin v14.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>« Comment valoriser l’apport et les atouts des seniors dans l’entreprise ? », compte-rendu du petit-déjeuner UDAP du 3 mars 2020 - Union des Directeurs de l&#039;Assurance et de la Protection sociale (UDAP)</title>
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="http://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="« Comment valoriser l’apport et les atouts des seniors dans l’entreprise ? », compte-rendu du petit-déjeuner UDAP du 3 mars 2020 - Union des Directeurs de l&#039;Assurance et de la Protection sociale (UDAP)" />
+	<meta property="og:description" content="Sous l’effet des réformes des retraites, le taux d’emploi des 50-64 ans s’est amélioré en France, passant de 53,5 % en 2003 à 62,4 % en 2019. Mais le taux d’emploi des 60-64 ans chute à 30 % quand la moyenne européenne est à 45 %. (données Insee). Le recul de l’âge moyen de départ [&hellip;]" />
+	<meta property="og:url" content="http://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/" />
+	<meta property="og:site_name" content="Union des Directeurs de l&#039;Assurance et de la Protection sociale (UDAP)" />
+	<meta property="article:published_time" content="2020-03-30T18:02:02+00:00" />
+	<meta property="article:modified_time" content="2020-04-08T12:48:08+00:00" />
+	<meta property="og:image" content="https://www.udap.fr/wp-content/uploads/2020/03/pdj202003-v2.png" />
+	<meta property="og:image:width" content="828" />
+	<meta property="og:image:height" content="646" />
+	<meta name="twitter:card" content="summary" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.udap.fr/#organization","name":"Udap","url":"https://www.udap.fr/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://www.udap.fr/#logo","inLanguage":"fr-FR","url":"https://www.udap.fr/wp-content/uploads/2017/09/logo3.png","width":110,"height":83,"caption":"Udap"},"image":{"@id":"https://www.udap.fr/#logo"}},{"@type":"WebSite","@id":"https://www.udap.fr/#website","url":"https://www.udap.fr/","name":"Union des Directeurs de l&#039;Assurance et de la Protection sociale (UDAP)","description":"","publisher":{"@id":"https://www.udap.fr/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.udap.fr/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"fr-FR"},{"@type":"ImageObject","@id":"http://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/#primaryimage","inLanguage":"fr-FR","url":"https://www.udap.fr/wp-content/uploads/2020/03/pdj202003-v2.png","width":828,"height":646},{"@type":"WebPage","@id":"http://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/#webpage","url":"http://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/","name":"\u00ab Comment valoriser l\u2019apport et les atouts des seniors dans l\u2019entreprise ? \u00bb, compte-rendu du petit-d\u00e9jeuner UDAP du 3 mars 2020 - Union des Directeurs de l&#039;Assurance et de la Protection sociale (UDAP)","isPartOf":{"@id":"https://www.udap.fr/#website"},"primaryImageOfPage":{"@id":"http://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/#primaryimage"},"datePublished":"2020-03-30T18:02:02+00:00","dateModified":"2020-04-08T12:48:08+00:00","breadcrumb":{"@id":"http://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["http://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/"]}]},{"@type":"BreadcrumbList","@id":"http://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.udap.fr/","url":"https://www.udap.fr/","name":"Accueil"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"http://www.udap.fr/articles/","url":"http://www.udap.fr/articles/","name":"Priv\u00e9\u00a0: Articles"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"http://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/","url":"http://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/","name":"\u00ab Comment valoriser l\u2019apport et les atouts des seniors dans l\u2019entreprise ? \u00bb, compte-rendu du petit-d\u00e9jeuner UDAP du 3 mars 2020"}}]},{"@type":"Article","@id":"http://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/#article","isPartOf":{"@id":"http://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/#webpage"},"author":{"@id":"https://www.udap.fr/#/schema/person/bb4df815da9d08347ee172a00a6ea32c"},"headline":"\u00ab Comment valoriser l\u2019apport et les atouts des seniors dans l\u2019entreprise ? \u00bb, compte-rendu du petit-d\u00e9jeuner UDAP du 3 mars 2020","datePublished":"2020-03-30T18:02:02+00:00","dateModified":"2020-04-08T12:48:08+00:00","mainEntityOfPage":{"@id":"http://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/#webpage"},"publisher":{"@id":"https://www.udap.fr/#organization"},"image":{"@id":"http://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/#primaryimage"},"articleSection":"Actualit\u00e9s,Dernier \u00e9v\u00e9nement,Derni\u00e8re actualit\u00e9,Evenements","inLanguage":"fr-FR"},{"@type":"Person","@id":"https://www.udap.fr/#/schema/person/bb4df815da9d08347ee172a00a6ea32c","name":"udap","image":{"@type":"ImageObject","@id":"https://www.udap.fr/#personlogo","inLanguage":"fr-FR","url":"https://secure.gravatar.com/avatar/fe6f87a7571171031816c64f9e8d6831?s=96&d=mm&r=g","caption":"udap"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Union des Directeurs de l&#039;Assurance et de la Protection sociale (UDAP) &raquo; Flux" href="https://www.udap.fr/feed/" />
+
+<link rel="shortcut icon" href="https://www.udap.fr/wp-content/uploads/2017/06/fav.png"  />
+<script type="text/javascript">
+window.abb = {};
+php = {};
+window.PHP = {};
+PHP.ajax = "https://www.udap.fr/wp-admin/admin-ajax.php";PHP.wp_p_id = "10614";var mk_header_parallax, mk_banner_parallax, mk_page_parallax, mk_footer_parallax, mk_body_parallax;
+var mk_images_dir = "https://www.udap.fr/wp-content/themes/udap/assets/images",
+mk_theme_js_path = "https://www.udap.fr/wp-content/themes/udap/assets/js",
+mk_theme_dir = "https://www.udap.fr/wp-content/themes/udap",
+mk_captcha_placeholder = "Entrer Captcha",
+mk_captcha_invalid_txt = "Invalide. Réessayer.",
+mk_captcha_correct_txt = "Captcha est correct.",
+mk_responsive_nav_width = 1140,
+mk_vertical_header_back = "Arrière",
+mk_vertical_header_anim = "1",
+mk_check_rtl = true,
+mk_grid_width = 1140,
+mk_ajax_search_option = "fullscreen_search",
+mk_preloader_bg_color = "#fff",
+mk_accent_color = "#f97352",
+mk_go_to_top =  "true",
+mk_smooth_scroll =  "true",
+mk_preloader_bar_color = "#f97352",
+mk_preloader_logo = "";
+var mk_header_parallax = false,
+mk_banner_parallax = false,
+mk_footer_parallax = false,
+mk_body_parallax = false,
+mk_no_more_posts = "Pas de nouveaux messages";
+</script>
+<link rel='stylesheet' id='layerslider-css'  href='https://www.udap.fr/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css?ver=6.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.udap.fr/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.udap.fr/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-styles-css'  href='https://www.udap.fr/wp-content/themes/udap/assets/stylesheet/min/core-styles.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-api-special-1-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%2C100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='global-assets-css-css'  href='https://www.udap.fr/wp-content/themes/udap/assets/stylesheet/min/components-full.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-options-css'  href='https://www.udap.fr/wp-content/uploads/mk_assets/theme-options-production.css?ver=1496651160' type='text/css' media='all' />
+<link rel='stylesheet' id='mk-style-css'  href='https://www.udap.fr/wp-content/themes/udap-child/style.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-dynamic-styles-css'  href='https://www.udap.fr/wp-content/themes/udap/custom.css?ver=5.4.2' type='text/css' media='all' />
+<style id='theme-dynamic-styles-inline-css' type='text/css'>
+body { background-color:#fff; } .mk-header { background-color:#f7f7f7;background-size:cover;-webkit-background-size:cover;-moz-background-size:cover; } .mk-header-bg { background-color:#fff; } .mk-classic-nav-bg { background-color:#fff; } .master-holder-bg { background-color:#fff; } #mk-footer { background-color:#3d4045; } #mk-boxed-layout { -webkit-box-shadow:0 0 px rgba(0, 0, 0, ); -moz-box-shadow:0 0 px rgba(0, 0, 0, ); box-shadow:0 0 px rgba(0, 0, 0, ); } .mk-news-tab .mk-tabs-tabs .is-active a, .mk-fancy-title.pattern-style span, .mk-fancy-title.pattern-style.color-gradient span:after, .page-bg-color { background-color:#fff; } .page-title { font-size:20px; color:#4d4d4d; text-transform:uppercase; font-weight:400; letter-spacing:2px; } .page-subtitle { font-size:14px; line-height:100%; color:#a3a3a3; font-size:14px; text-transform:none; } .mk-header { border-bottom:1px solid #ededed; } .header-style-1 .mk-header-padding-wrapper, .header-style-2 .mk-header-padding-wrapper, .header-style-3 .mk-header-padding-wrapper { padding-top:91px; } @font-face { font-family:'star'; src:url('https://www.udap.fr/wp-content/themes/udap/assets/stylesheet/fonts/star/font.eot'); src:url('https://www.udap.fr/wp-content/themes/udap/assets/stylesheet/fonts/star/font.eot?#iefix') format('embedded-opentype'), url('https://www.udap.fr/wp-content/themes/udap/assets/stylesheet/fonts/star/font.woff') format('woff'), url('https://www.udap.fr/wp-content/themes/udap/assets/stylesheet/fonts/star/font.ttf') format('truetype'), url('https://www.udap.fr/wp-content/themes/udap/assets/stylesheet/fonts/star/font.svg#star') format('svg'); font-weight:normal; font-style:normal; } @font-face { font-family:'WooCommerce'; src:url('https://www.udap.fr/wp-content/themes/udap/assets/stylesheet/fonts/woocommerce/font.eot'); src:url('https://www.udap.fr/wp-content/themes/udap/assets/stylesheet/fonts/woocommerce/font.eot?#iefix') format('embedded-opentype'), url('https://www.udap.fr/wp-content/themes/udap/assets/stylesheet/fonts/woocommerce/font.woff') format('woff'), url('https://www.udap.fr/wp-content/themes/udap/assets/stylesheet/fonts/woocommerce/font.ttf') format('truetype'), url('https://www.udap.fr/wp-content/themes/udap/assets/stylesheet/fonts/woocommerce/font.svg#WooCommerce') format('svg'); font-weight:normal; font-style:normal; }#mk-page-introduce {background:url(http://www.udap.fr/wp-content/uploads/2017/09/bar2.jpg);}
+</style>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.3.0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.udap.fr/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0'></script>
+<script type='text/javascript' src='https://www.udap.fr/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.udap.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.udap.fr/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.3.0'></script>
+<script type='text/javascript' src='https://www.udap.fr/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.3.0'></script>
+<meta name="generator" content="Powered by LayerSlider 6.3.0 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
+<link rel='https://api.w.org/' href='https://www.udap.fr/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.udap.fr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.udap.fr/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel='shortlink' href='https://www.udap.fr/?p=10614' />
+<link rel="alternate" type="application/json+oembed" href="https://www.udap.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.udap.fr%2Fcomment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.udap.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.udap.fr%2Fcomment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020%2F&#038;format=xml" />
+<style></style><script> var isTest = false; </script>
+<style id="js-media-query-css">.mk-event-countdown-ul:media( max-width: 750px ) li{width:90%;display:block;margin:0 auto 15px}.mk-process-steps:media( max-width: 960px ) ul:before{display:none!important}.mk-process-steps:media( max-width: 960px ) li{margin-bottom:30px!important;width:100%!important;text-align:center}</style><meta itemprop="author" content="udap" /><meta itemprop="datePublished" content="30 mars 2020" /><meta itemprop="dateModified" content="8 avril 2020" /><meta itemprop="publisher" content="Union des Directeurs de l&#039;Assurance et de la Protection sociale (UDAP)" /><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.udap.fr/wp-content/plugins/js_composer_theme/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="udap Child Theme " />
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="post-template-default single single-post postid-10614 single-format-standard loading wpb-js-composer js-comp-ver-5.1.1 vc_responsive" itemscope="itemscope" itemtype="https://schema.org/WebPage"  data-adminbar="">
+
+	
+	<!-- Target for scroll anchors to achieve native browser bahaviour + possible enhancements like smooth scrolling -->
+	<div id="top-of-page"></div>
+
+		<div id="mk-boxed-layout">
+
+			<div id="mk-theme-container" >
+
+				 
+    <header data-height='90'
+                data-sticky-height='55'
+                data-responsive-height='90'
+                data-transparent-skin=''
+                data-header-style='1'
+                data-sticky-style='fixed'
+                data-sticky-offset='header' id="mk-header-1" class="mk-header header-style-1 header-align-left  toolbar-false menu-hover-5 sticky-style-fixed mk-background-stretch boxed-header " role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+                    <div class="mk-header-holder">
+                                <div class="mk-header-inner add-header-height">
+
+                    <div class="mk-header-bg "></div>
+
+                    
+                                                <div class="mk-grid header-grid">
+                    
+                            <div class="mk-header-nav-container one-row-style menu-hover-style-5" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" >
+                                <nav class="mk-main-navigation js-main-nav"><ul id="menu-aa" class="main-navigation-ul"><li id="menu-item-10014" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://www.udap.fr/qui-sommes-nous/">Qui sommes nous ?</a></li>
+<li id="menu-item-10013" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://www.udap.fr/evenements/">Événements / Actualités UDAP</a></li>
+<li id="menu-item-10012" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://www.udap.fr/actualites/">Informations et liens utiles</a></li>
+<li id="menu-item-10011" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://www.udap.fr/accompagnement/">Accompagnement</a></li>
+<li id="menu-item-10015" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://www.udap.fr/nous-contacter-2/">Nous contacter / Adhérer</a></li>
+</ul></nav>
+	<div class="main-nav-side-search">
+		<a class="mk-search-trigger add-header-height mk-fullscreen-trigger" href="#"><i class="mk-svg-icon-wrapper"><svg  class="mk-svg-icon" data-name="mk-icon-search" data-cacheid="icon-67576b8580390" style=" height:16px; width: 14.857142857143px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 1792"><path d="M1152 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"/></svg></i></a>
+	</div>
+
+                            </div>
+                            
+<div class="mk-nav-responsive-link">
+    <div class="mk-css-icon-menu">
+        <div class="mk-css-icon-menu-line-1"></div>
+        <div class="mk-css-icon-menu-line-2"></div>
+        <div class="mk-css-icon-menu-line-3"></div>
+    </div>
+</div>        <div class=" header-logo fit-logo-img add-header-height  ">
+
+	    <a href="https://www.udap.fr/" title="Union des Directeurs de l&#039;Assurance et de la Protection sociale (UDAP)">
+	    
+			             <img class="mk-desktop-logo dark-logo" title="" alt="" src="https://www.udap.fr/wp-content/uploads/2017/09/logo3.png" />
+			    
+			    			    
+			    			    
+			    	    </a>
+    </div>
+
+                                            </div>
+                    
+                    <div class="mk-header-right">
+                                            </div>
+
+                </div>
+                
+<div class="mk-responsive-wrap">
+
+	<nav class="menu-aa-container"><ul id="menu-aa-1" class="mk-responsive-nav"><li id="responsive-menu-item-10014" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://www.udap.fr/qui-sommes-nous/">Qui sommes nous ?</a></li>
+<li id="responsive-menu-item-10013" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://www.udap.fr/evenements/">Événements / Actualités UDAP</a></li>
+<li id="responsive-menu-item-10012" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://www.udap.fr/actualites/">Informations et liens utiles</a></li>
+<li id="responsive-menu-item-10011" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://www.udap.fr/accompagnement/">Accompagnement</a></li>
+<li id="responsive-menu-item-10015" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://www.udap.fr/nous-contacter-2/">Nous contacter / Adhérer</a></li>
+</ul></nav>
+			<form class="responsive-searchform" method="get" action="https://www.udap.fr/">
+		    <input type="text" class="text-input" value="" name="s" id="s" placeholder="Chercher.." />
+		    <i><input value="" type="submit" /><svg  class="mk-svg-icon" data-name="mk-icon-search" data-cacheid="icon-67576b8581be6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 1792"><path d="M1152 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"/></svg></i>
+		</form>
+		
+
+</div>
+        
+            </div>
+        
+        <div class="mk-header-padding-wrapper"></div>
+        <section id="mk-page-introduce" class="intro-left"><div class="mk-grid"><h1 class="page-title ">« Comment valoriser l’apport et les atouts des seniors dans l’entreprise ? », compte-rendu du petit-déjeuner UDAP du 3 mars 2020</h1><div class="clearboth"></div></div></section>        
+    </header>
+        
+        <div id="theme-page" class="master-holder blog-post-type-image blog-style-compact clearfix" itemscope="itemscope" itemtype="https://schema.org/Blog" >
+            
+            <div class="master-holder-bg-holder">
+                <div id="theme-page-bg" class="master-holder-bg js-el"  ></div>
+            </div>
+
+            <div class="mk-main-wrapper-holder">
+
+                <div id="mk-page-id-10614" class="theme-page-wrapper mk-main-wrapper mk-grid left-layout  ">
+                      <div class="theme-content " itemprop="mainEntityOfPage">
+                            
+	<article id="10614" class="mk-blog-single post-10614 post type-post status-publish format-standard has-post-thumbnail hentry category-actualites category-dernier-evenement category-derniere-actualite category-evenements" itemscope="itemscope" itemprop="blogPost" itemtype="http://schema.org/BlogPosting" >
+
+	<div class="featured-image"><a class="full-cover-link mk-lightbox" title="« Comment valoriser l’apport et les atouts des seniors dans l’entreprise ? », compte-rendu du petit-déjeuner UDAP du 3 mars 2020" href="https://www.udap.fr/wp-content/uploads/2020/03/pdj202003-v2.png">&nbsp;</a><img alt="« Comment valoriser l’apport et les atouts des seniors dans l’entreprise ? », compte-rendu du petit-déjeuner UDAP du 3 mars 2020" title="« Comment valoriser l’apport et les atouts des seniors dans l’entreprise ? », compte-rendu du petit-déjeuner UDAP du 3 mars 2020" src="https://www.udap.fr/wp-content/uploads/bfi_thumb/dummy-transparent-n93jfrw61twabxqxtm0n5p9hhu9mxxo7rk0oz8e6pc.png" data-mk-image-src-set='{"default":"https://www.udap.fr/wp-content/uploads/bfi_thumb/pdj202003-v2-onrm0p1an3gq94bo6ab738gs4f5ed57qyl7z54zo8g.png","2x":"https://www.udap.fr/wp-content/uploads/bfi_thumb/pdj202003-v2-onrm0p1kafg6xgg7m0i51qi6srhfpch663t35rg4ps.png","mobile":"https://www.udap.fr/wp-content/uploads/bfi_thumb/pdj202003-v2-35acfg0u54osjocte4zjuc6byz6mnrwp6vvrkbpuf96lfibia.png","responsive":"true"}' width="792" height="600" itemprop="image" /><div class="image-hover-overlay"></div><div class="post-type-badge" href="https://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/"><svg  class="mk-svg-icon" data-name="mk-li-image" data-cacheid="icon-67576b85865de" style=" height:48px; width: 48px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M460.038 4.877h-408.076c-25.995 0-47.086 21.083-47.086 47.086v408.075c0 26.002 21.09 47.086 47.086 47.086h408.075c26.01 0 47.086-21.083 47.086-47.086v-408.076c0-26.003-21.075-47.085-47.085-47.085zm-408.076 31.39h408.075c8.66 0 15.695 7.042 15.695 15.695v321.744h-52.696l-55.606-116.112c-2.33-4.874-7.005-8.208-12.385-8.821-5.318-.583-10.667 1.594-14.039 5.817l-35.866 44.993-84.883-138.192c-2.989-4.858-8.476-7.664-14.117-7.457-5.717.268-10.836 3.633-13.35 8.775l-103.384 210.997h-53.139v-321.744c0-8.652 7.05-15.695 15.695-15.695zm72.437 337.378l84.04-171.528 81.665 132.956c2.667 4.361 7.311 7.135 12.415 7.45 5.196.314 10.039-1.894 13.227-5.879l34.196-42.901 38.272 79.902h-263.815zm335.639 102.088h-408.076c-8.645 0-15.695-7.043-15.695-15.695v-54.941h439.466v54.941c0 8.652-7.036 15.695-15.695 15.695zm-94.141-266.819c34.67 0 62.781-28.111 62.781-62.781 0-34.671-28.111-62.781-62.781-62.781-34.671 0-62.781 28.11-62.781 62.781s28.11 62.781 62.781 62.781zm0-94.171c17.304 0 31.39 14.078 31.39 31.39s-14.086 31.39-31.39 31.39c-17.32 0-31.39-14.079-31.39-31.39 0-17.312 14.07-31.39 31.39-31.39z"/></svg></div></div>				<h2 class="blog-single-title" itemprop="headline">« Comment valoriser l’apport et les atouts des seniors dans l’entreprise ? », compte-rendu du petit-déjeuner UDAP du 3 mars 2020</h2>
+	
+
+<div class="blog-single-meta">
+	<div class="mk-blog-author" itemtype="http://schema.org/Person" itemprop="author">Par <a href="https://www.udap.fr/author/udap/" title="Articles par udap" rel="author">udap</a> </div>
+		<time class="mk-post-date" datetime="2020-03-30"  itemprop="datePublished">
+			&nbsp;Publié <a href="https://www.udap.fr/2020/03/">30 mars 2020</a>
+		</time>
+		<div class="mk-post-cat">&nbsp;Dans <a href="https://www.udap.fr/categorie/actualites/" rel="category tag">Actualités</a>, <a href="https://www.udap.fr/categorie/dernier-evenement/" rel="category tag">Dernier événement</a>, <a href="https://www.udap.fr/categorie/derniere-actualite/" rel="category tag">Dernière actualité</a>, <a href="https://www.udap.fr/categorie/evenements/" rel="category tag">Evenements</a></div>
+	<div class="mk-post-meta-structured-data" style="display:none;visibility:hidden;"><span itemprop="headline">« Comment valoriser l’apport et les atouts des seniors dans l’entreprise ? », compte-rendu du petit-déjeuner UDAP du 3 mars 2020</span><span itemprop="datePublished">2020-03-30</span><span itemprop="dateModified">2020-04-08</span><span itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><span itemprop="url">https://www.udap.fr/wp-content/uploads/2017/09/logo3.png</span></span><span itemprop="name">Union des Directeurs de l&#039;Assurance et de la Protection sociale (UDAP)</span></span><span itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><span itemprop="contentUrl url">https://www.udap.fr/wp-content/uploads/2020/03/pdj202003-v2.png</span><span  itemprop="width">200px</span><span itemprop="height">200px</span></span></div></div>
+
+
+
+<div class="single-social-section">
+
+	<div class="mk-love-holder"><a href="#" class="mk-love-this " id="mk-love-10614"><svg  class="mk-svg-icon" data-name="mk-icon-heart" data-cacheid="icon-67576b8587db8" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M896 1664q-26 0-44-18l-624-602q-10-8-27.5-26t-55.5-65.5-68-97.5-53.5-121-23.5-138q0-220 127-344t351-124q62 0 126.5 21.5t120 58 95.5 68.5 76 68q36-36 76-68t95.5-68.5 120-58 126.5-21.5q224 0 351 124t127 344q0 221-229 450l-623 600q-18 18-44 18z"/></svg></i> <span class="mk-love-count">0</span></a></div>
+
+			<a href="https://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/#comments" class="blog-modern-comment"><svg  class="mk-svg-icon" data-name="mk-moon-bubble-9" data-cacheid="icon-67576b85885ce" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 0h-416c-26.4 0-48 21.6-48 48v320c0 26.4 21.6 48 48 48h109.714l82.286 96 82.286-96h141.714c26.4 0 48-21.6 48-48v-320c0-26.4-21.599-48-48-48zm-16 352h-139.149l-68.851 77.658-68.85-77.658h-107.15v-288h384v288z"/></svg><span> 0</span></a>
+		<div class="blog-share-container">
+		<div class="blog-single-share mk-toggle-trigger"><svg  class="mk-svg-icon" data-name="mk-moon-share-2" data-cacheid="icon-67576b8588b0a" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M432 352c-22.58 0-42.96 9.369-57.506 24.415l-215.502-107.751c.657-4.126 1.008-8.353 1.008-12.664s-.351-8.538-1.008-12.663l215.502-107.751c14.546 15.045 34.926 24.414 57.506 24.414 44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80c0 4.311.352 8.538 1.008 12.663l-215.502 107.752c-14.546-15.045-34.926-24.415-57.506-24.415-44.183 0-80 35.818-80 80 0 44.184 35.817 80 80 80 22.58 0 42.96-9.369 57.506-24.414l215.502 107.751c-.656 4.125-1.008 8.352-1.008 12.663 0 44.184 35.817 80 80 80s80-35.816 80-80c0-44.182-35.817-80-80-80z"/></svg></div>
+		<ul class="single-share-box mk-box-to-trigger">
+			<li><a class="facebook-share" data-title="« Comment valoriser l’apport et les atouts des seniors dans l’entreprise ? », compte-rendu du petit-déjeuner UDAP du 3 mars 2020" data-url="https://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/" href="#"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-facebook" data-cacheid="icon-67576b8589191" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M192.191 92.743v60.485h-63.638v96.181h63.637v256.135h97.069v-256.135h84.168s6.674-51.322 9.885-96.508h-93.666v-42.921c0-8.807 11.565-20.661 23.01-20.661h71.791v-95.719h-83.57c-111.317 0-108.686 86.262-108.686 99.142z"/></svg></a></li>
+			<li><a class="twitter-share" data-title="« Comment valoriser l’apport et les atouts des seniors dans l’entreprise ? », compte-rendu du petit-déjeuner UDAP du 3 mars 2020" data-url="https://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/" href="#"><svg  class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-67576b8589782" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
+			<li><a class="googleplus-share" data-title="« Comment valoriser l’apport et les atouts des seniors dans l’entreprise ? », compte-rendu du petit-déjeuner UDAP du 3 mars 2020" data-url="https://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/" href="#"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-googleplus" data-cacheid="icon-67576b8589be3" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416.146 153.104v-95.504h-32.146v95.504h-95.504v32.146h95.504v95.504h32.145v-95.504h95.504v-32.146h-95.504zm-128.75-95.504h-137.717c-61.745 0-119.869 48.332-119.869 102.524 0 55.364 42.105 100.843 104.909 100.843 4.385 0 8.613.296 12.772 0-4.074 7.794-6.982 16.803-6.982 25.925 0 12.17 5.192 22.583 12.545 31.46-5.303-.046-10.783.067-16.386.402-37.307 2.236-68.08 13.344-91.121 32.581-18.765 12.586-32.751 28.749-39.977 46.265-3.605 8.154-5.538 16.62-5.538 25.14l.018.82-.018.983c0 49.744 64.534 80.863 141.013 80.863 87.197 0 135.337-49.447 135.337-99.192l-.003-.363.003-.213-.019-1.478c-.007-.672-.012-1.346-.026-2.009-.012-.532-.029-1.058-.047-1.583-1.108-36.537-13.435-59.361-48.048-83.887-12.469-8.782-36.267-30.231-36.267-42.81 0-14.769 4.221-22.041 26.439-39.409 22.782-17.79 38.893-39.309 38.893-68.424 0-34.65-15.439-76.049-44.392-76.049h43.671l30.81-32.391zm-85.642 298.246c19.347 13.333 32.891 24.081 37.486 41.754v.001l.056.203c1.069 4.522 1.645 9.18 1.666 13.935-.325 37.181-26.35 66.116-100.199 66.116-52.713 0-90.82-31.053-91.028-68.414.005-.43.008-.863.025-1.292l.002-.051c.114-3.006.505-5.969 1.15-8.881.127-.54.241-1.082.388-1.617 1.008-3.942 2.502-7.774 4.399-11.478 18.146-21.163 45.655-33.045 82.107-35.377 28.12-1.799 53.515 2.818 63.95 5.101zm-47.105-107.993c-35.475-1.059-69.194-39.691-75.335-86.271-6.121-46.61 17.663-82.276 53.154-81.203 35.483 1.06 69.215 38.435 75.336 85.043 6.121 46.583-17.685 83.517-53.154 82.43z"/></svg></a></li>
+			<li><a class="pinterest-share" data-image="https://www.udap.fr/wp-content/uploads/2020/03/pdj202003-v2.png" data-title="« Comment valoriser l’apport et les atouts des seniors dans l’entreprise ? », compte-rendu du petit-déjeuner UDAP du 3 mars 2020" data-url="https://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/" href="#"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-pinterest" data-cacheid="icon-67576b858a008" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M267.702-6.4c-135.514 0-203.839 100.197-203.839 183.724 0 50.583 18.579 95.597 58.402 112.372 6.536 2.749 12.381.091 14.279-7.361 1.325-5.164 4.431-18.204 5.83-23.624 1.913-7.363 1.162-9.944-4.107-16.38-11.483-13.968-18.829-32.064-18.829-57.659 0-74.344 53.927-140.883 140.431-140.883 76.583 0 118.657 48.276 118.657 112.707 0 84.802-36.392 156.383-90.42 156.383-29.827 0-52.161-25.445-45.006-56.672 8.569-37.255 25.175-77.456 25.175-104.356 0-24.062-12.529-44.147-38.469-44.147-30.504 0-55 32.548-55 76.119 0 27.782 9.097 46.546 9.097 46.546s-31.209 136.374-36.686 160.269c-10.894 47.563-1.635 105.874-.853 111.765.456 3.476 4.814 4.327 6.786 1.67 2.813-3.781 39.131-50.022 51.483-96.234 3.489-13.087 20.066-80.841 20.066-80.841 9.906 19.492 38.866 36.663 69.664 36.663 91.686 0 153.886-86.2 153.886-201.577 0-87.232-71.651-168.483-180.547-168.483z"/></svg></a></li>
+			<li><a class="linkedin-share" data-title="« Comment valoriser l’apport et les atouts des seniors dans l’entreprise ? », compte-rendu du petit-déjeuner UDAP du 3 mars 2020" data-url="https://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/" href="#"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-linkedin" data-cacheid="icon-67576b858a440" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M80.111 25.6c-29.028 0-48.023 20.547-48.023 47.545 0 26.424 18.459 47.584 46.893 47.584h.573c29.601 0 47.999-21.16 47.999-47.584-.543-26.998-18.398-47.545-47.442-47.545zm-48.111 128h96v320.99h-96v-320.99zm323.631-7.822c-58.274 0-84.318 32.947-98.883 55.996v1.094h-.726c.211-.357.485-.713.726-1.094v-48.031h-96.748c1.477 31.819 0 320.847 0 320.847h96.748v-171.241c0-10.129.742-20.207 3.633-27.468 7.928-20.224 25.965-41.185 56.305-41.185 39.705 0 67.576 31.057 67.576 76.611v163.283h97.717v-176.313c0-104.053-54.123-152.499-126.347-152.499z"/></svg></a></li>
+		</ul>
+	</div>
+	
+	<a class="mk-blog-print" onClick="window.print()" href="#" title="Impression"><svg  class="mk-svg-icon" data-name="mk-moon-print-3" data-cacheid="icon-67576b858a993" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M448 288v128h-384v-128h-64v192h512v-192zm-32-256h-320v352h320v-352zm-64 288h-192v-32h192v32zm0-96h-192v-32h192v32zm0-96h-192v-32h192v32z"/></svg></a>
+<div class="clearboth"></div>
+</div><div class="clearboth"></div>
+<div class="mk-single-content clearfix" itemprop="mainEntityOfPage">
+	<p>Sous l’effet des réformes des retraites, le taux d’emploi des 50-64 ans s’est amélioré en France, passant de 53,5 % en 2003 à 62,4 % en 2019. Mais le taux d’emploi des 60-64 ans chute à 30 % quand la moyenne européenne est à 45 %. <em>(données Insee). </em>Le recul de l’âge moyen de départ à la retraite, en France et ailleurs, est une conséquence de l’augmentation de l’espérance de vie. C’est pourquoi l’emploi des seniors constitue un enjeu majeur. Entreprises, salariés, syndicats et pouvoirs publics doivent se mobiliser pour valoriser l’expérience et prolonger l’activité professionnelle des seniors.</p>
+<p>Les intervenants :</p>
+<ul>
+<li><strong>Olivier Mériaux,</strong> consultant au sein du cabinet Plein Sens (Conseil en management), ancien Directeur Général Adjoint de l’Anact (Agence nationale pour l’amélioration des conditions de travail) et chercheur politologue à Science Po. <strong>Il est co-auteur du rapport sur l’emploi des seniors, remis au Gouvernement en janvier dernier</strong>. Un rapport réalisé avec Sophie Bellon, Présidente du Conseil d’Administration de Sodexo et Jean-Manuel Soussan, DRH de Bouygues Construction.</li>
+<li><strong>Jean-Luc Bilhou-Nabéra, </strong>membre du Conseil d’Administration de l’UDAP et pilote du groupe de réflexion Générations Seniors, à l’origine des <strong>10 propositions de l’UDAP pour une politique de prolongement de l’activité professionnelle des seniors</strong>. Il occupe la fonction d’Inspecteur Général à AG2R-La Mondiale.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Olivier Mériaux </strong></p>
+<p><u>1/ Contexte et raisons de la mission sur l’emploi des seniors</u></p>
+<p>En avril 2019, pendant les débats en région à propos de la réforme des retraites, Emmanuel Macron déclare qu’il n’est pas possible de traiter ce dossier sans aborder le sujet de l’emploi des seniors. En juin, Edouard Philippe, annonce un plan d’emploi des seniors. Les partenaires sociaux le réclament en septembre et le Premier ministre confie une mission à trois experts <em>(cf ci-dessus)</em>. Le rapport de la mission Bellon-Mériaux-Soussan est remis au Gouvernement le 14 janvier 2020 :</p>
+<p><a href="https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/mission-sur-le-maintien-en-emploi-des-seniors-rapport-au-premier-ministre">https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/mission-sur-le-maintien-en-emploi-des-seniors-rapport-au-premier-ministre</a></p>
+<p><u>2/ Propositions concrètes, en particulier pour les cadres du secteur de l’Assurance et des salariés de leurs entreprises clientes</u></p>
+<p>Plutôt que « maintien dans l’emploi des seniors », renvoyant une image assez négative, le rapport parle de <strong>« favoriser l’emploi des travailleurs expérimentés »</strong>, expression reprise par le Premier Ministre dans son courrier adressé aux partenaires sociaux, en février dernier.</p>
+<p>Aujourd’hui, dans la pratique, les grandes entreprises savent très bien piloter les process organisant les départs des salariés à 58,5 ans. C’est le résultat d’un « arrangement » avec le salarié pour déterminer le montant de son indemnité de départ qui permette de compléter les indemnités chômage jusqu’à l’âge de la retraite. Dans les PME, la logique est souvent différente, car il s’agit au contraire de garder les compétences dans un contexte de pénurie de salariés qualifiés.</p>
+<p>Comment rompre avec cette pratique de sorties précoces du marché du travail qui dure depuis des décennies ? En agissant simultanément sur tous les leviers relatifs au « vieillissement actif » préconisés depuis les années 2000 par la Commission Européenne.</p>
+<p>Après avoir réalisé plus de 70 auditions (partenaires sociaux, représentants de petites et grandes entreprises, experts des ressources humaines, de la protection sociale, du travail, de l’emploi et de la formation) et établi un diagnostic précis de l’emploi des travailleurs expérimentés en France, une quarantaine de propositions concrètes sont formulées dans le rapport. Elles s’articulent autour de 5 axes :</p>
+<ol>
+<li><strong>Mettre les enjeux du vieillissement au cœur des politiques de prévention</strong> et de santé au travail. Car la logique de réparation (légitime) prévaut largement aujourd’hui.</li>
+<li><strong>Prévenir le risque d’obsolescence des compétences en seconde partie de carrières et favoriser la transmission des savoirs</strong>. On constate en effet que l’effort de formation diminue à 35 ans et 45 ans pour les cadres. Par ailleurs, ces derniers ne sont pas forcément à l’aise dans toutes les formations et il conviendrait de prendre appui sur la valeur de l’expérience.</li>
+<li><strong>Faciliter et organiser les mobilités et les transitions professionnelles favorables au maintien dans l’emploi</strong>.</li>
+<li><strong>Favoriser les transitions plus progressives entre « pleine activité » et « pleine retraite »</strong>. Le rapport milite pour l’organisation d’un « ralentissement » progressif en fin de carrière. L’une des particularités françaises est que le départ en retraite prend souvent la forme d’une rupture totale et irrémédiable avec le travail, et donc avec tous les liens sociaux et le sentiment d’utilité sociale qu’il procure malgré tout, le plus souvent. Même si on ne le dit pas très fort, les statistiques du ministère de la santé montrent que la retraite engendre une forte hausse ponctuelle des situations de dépression, d’alcoolisme… et donc aussi des dépenses de santé. Le projet de loi prévoit d’ouvrir la retraite progressive aux salariés en forfait jours, comme les cadres. Les entreprises auraient intérêt à négocier collectivement des règles, en prévision d’un afflux de demandes de retraites progressives émanant de cadres, à partir de 2022. Il serait nécessaire de construire des organisations plus souples et personnalisées qui soient en mesure de garder des salariés âgés à temps partiel, sans doute avec des niveaux de responsabilités et de rémunérations modifiés. Le rapport propose à cet égard d’expérimenter une formule d’aménagement conventionnel de fin de carrière, qui existe par exemple dans la branche du BTP, et qui prévoit de repositionner un cadre volontaire dans la grille conventionnelle — et donc de baisser son salaire — tout en lui versant, par anticipation, les indemnités conventionnelles de licenciement lui permettant ainsi de compenser sa baisse de rémunération.</li>
+<li><strong>Accélérer la transformation culturelle des organisations pour faire évoluer les représentations.</strong> L’organisation doit pour cela adopter une démarche plus inclusive.</li>
+</ol>
+<p>&nbsp;</p>
+<p>Pour mettre en œuvre cette stratégie de « vieillissement actif », il est nécessaire de redynamiser le dialogue social de branche et de mettre fin au sentiment partagé par de nombreux DRH d’une instabilité du cadre des négociations. Le jeu est donc ouvert au niveau des branches professionnelles. Un amendement du projet de loi sur les retraites prévoit d’inclure dans le Code du travail, le vieillissement des femmes et des hommes dans les négociations de branche sur la GPEC, les conditions de travail et pénibilité, avec une multiplication par deux des fonds de prévention de la CNAMTS.</p>
+<p><strong> </strong></p>
+<p><strong>Jean-Luc Bilhou-Nabera</strong></p>
+<p>L’UDAP a commencé en 2017 à réfléchir aux questions entourant le recul de l’âge de départ à la retraite des salariés et à se préoccuper spécifiquement du devenir des cadres de direction, en organisant son grand débat annuel de novembre sur le sujet. La réflexion a ensuite été poursuivie par cinq des membres du CA de l’UDAP. Nous avons ainsi établi un constat et 10 propositions.</p>
+<p>L’emploi des seniors est un problème sociétal qui a été occulté en France. Il est pourtant fondamental, sinon comment repousser l’âge de la retraite ?  51 % seulement des personnes qui demandent leur retraite sont encore en activité au moment de leur départ.</p>
+<p>Les entreprises organisent en effet l’hémorragie des cadres seniors, depuis le second choc pétrolier de 1973, coïncidant avec le début de l’arrivée sur le marché du travail des premières générations du baby-boom. Elles ont depuis multiplié les pré-retraites, relayées par les « garanties de ressources » financées par l’assurance chômage et par la retraite à 60 ans à partir de 1982. En cherchant à faire sortir des salariés âgés pour faire entrer des jeunes, les entreprises ont « vieilli » les 55-65 ans, vus comme <strong>« vulnérables et non reclassables ».</strong> La politique de l’emploi des seniors, défini en 2005 par un Accord National Interprofessionnel et considérant les salariés seniors à 45 ans, n’a donc pas évolué depuis 15 ans.</p>
+<p>Or, cette perception du salarié âgé ou senior est relative et varie selon les pays. Un Japonais est considéré comme âgé à partir de 70 ans et un Suédois à 67 ans.  En Suède, les seniors sont perçus comme <strong>« vulnérables, mais reclassables »,</strong> selon Anne-Marie Guillemard, sociologue intervenant au Colloque seniors de l’URIF-CFE-CGC, le 13 novembre 2018. D’où une demande et des moyens de reclassement et de formation importants à leur profit. En Finlande, en raison de la faible natalité et du vieillissement de la population, il n’est pas question de sortie précoce du marché du travail. Pour des raisons économiques, un plan quinquennal a été lancé avec un mot d’ordre : <strong>« Le bien-être au travail »</strong> pour que le travail soit supportable plus longtemps. Des études y auraient montré que décaler les départs en retraite de 5 ans avait en effet un impact positif de 1,7 point de PIB annuel.</p>
+<p>Une reconfiguration du système global du travail en France permettrait une optimisation des taux d’emploi à tout âge. Car, selon l’économiste Patrick Artus, plus les taux d’emploi par tranche d’âge sont élevés et mieux un pays se porte.</p>
+<p><strong>Les 10 propositions de l’UDAP</strong> :</p>
+<ol>
+<li><strong>Communication et changement de paradigme</strong></li>
+</ol>
+<p>Renoncer à l’emblématique frontière des 45 ans pour parler génériquement des seniors en entreprise et convenir de repousser désormais cette dénomination à des personnes âgées d’au moins 55 ans.</p>
+<ol start="2">
+<li><strong>Personnalisation des parcours</strong></li>
+</ol>
+<p>Pour autant, l’âge ne peut être le seul facteur déterminant de l’aptitude d’un salarié à travailler plus longtemps et des mesures à mettre en œuvre ; d’autres critères sont tout aussi importants comme le genre, la pénibilité des tâches, les intérêts et les situations personnelles. L’employeur doit aussi prendre en compte les parcours de vie et les aspirations des collaborateurs qui conditionnent la capacité à se projeter dans une nouvelle étape d’une évolution professionnelle.</p>
+<ol start="3">
+<li><strong>Formation individuelle et collective</strong></li>
+</ol>
+<p>Mettre en œuvre des systèmes de formations, d’acquisitions et de maintien de compétences tout au long de la vie professionnelle ; il faut anticiper en organisant des formations collectives incluant systématiquement les seniors pour favoriser la cohésion interne entre plusieurs générations.</p>
+<ol start="4">
+<li><strong>Compétences et savoir-être</strong></li>
+</ol>
+<p>Ne pas rester uniquement sur des logiques de culture métiers et multiplier les formations au savoir-être et au faire-savoir (soft skills), développer la logique de compétences (vs celle de postes ou de métiers).</p>
+<ol start="5">
+<li><strong>Réseaux</strong></li>
+</ol>
+<p>Mettre en valeur l’importance de créer et de cultiver des réseaux professionnels et aider les collaborateurs à la mettre en œuvre. Le réseau personnel contribue plus à l’employabilité d’un salarié que ses compétences ou ses diplômes après 50 ans.</p>
+<ol start="6">
+<li><strong>Pilotage en continu</strong></li>
+</ol>
+<p>Anticiper et formaliser les principaux points d’inflexion des carrières pour mieux les piloter ; systématiser les rendez-vous de carrière à 35, 45, 55 ans et en rendre les comptes rendus transférables d’un employeur à un autre (avec l’accord du salarié concerné).</p>
+<ol start="7">
+<li><strong>Information</strong></li>
+</ol>
+<p>Mettre à disposition des salariés toute l’information disponible sur les dispositifs légaux de poursuite et de fin de carrières (prévention de la désinsertion professionnelle, aides différentielles au maintien dans l’emploi, transmission des savoir-faire, mécénat de compétence, diminution d’activités progressives…)</p>
+<ol start="8">
+<li><strong>Data et nouvelles technologies</strong></li>
+</ol>
+<p>Tirer parti des innovations technologiques pour anticiper et optimiser les solutions de déroulement de carrières et de prolongement d’activité, en faisant du « sur-mesure de masse » qui allie personnalisation des parcours et intérêts des entreprises.</p>
+<ol start="9">
+<li><strong>Santé et rebond</strong></li>
+</ol>
+<p>Mettre en place des dispositifs incitatifs pour les entreprises d’accompagnement des maladies chroniques et de gestion des situations de fragilité pour aider un retour à l’emploi ou l’obtention d’un nouveau contrat pour les seniors.</p>
+<ol start="10">
+<li><strong>Contrats gagnant-gagnant</strong></li>
+</ol>
+<p>Faire prendre en charge par la solidarité nationale une partie des salaires des seniors (jusqu’à 30%) pour inciter les entreprises à les garder plus longtemps, tout en leur conservant un revenu d’au moins 90% de leurs ressources antérieures. Des seniors au travail sont en meilleure santé et plus motivés et la collectivité en ressort financièrement gagnante.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+
+
+		<div class="single-post-tags">
+					</div>
+<div class="mk-post-meta-structured-data" style="display:none;visibility:hidden;"></div>
+</article>
+
+                      
+                      <div class="clearboth"></div>
+                                            </div>
+                <aside id="mk-sidebar" class="mk-builtin" role="complementary" itemscope="itemscope" itemtype="https://schema.org/WPSideBar" >
+    <div class="sidebar-wrapper">
+    <section id="recent_posts-7" class="widget widget_posts_lists"><div class="widgettitle">Evenements récents</div>
+        <ul>
+
+		
+        <li class="post-list-image">
+        	        <a href="https://www.udap.fr/petit-dejeuner-defis-reglementaires-et-strategiques-pour-lassurance-de-personnes-le-17-decembre-a-8h30/" title="Petit-déjeuner « Défis règlementaires et stratégiques pour l&rsquo;assurance de personnes » le 17 décembre à 8h30" class="post-list-thumb">
+		        				 <img src="https://www.udap.fr/wp-content/uploads/2024/11/health2024-150x150.jpg" alt="Petit-déjeuner « Défis règlementaires et stratégiques pour l&rsquo;assurance de personnes » le 17 décembre à 8h30" width="150" height="150"/>
+			</a>
+		
+		 
+        <div class="post-list-info ">
+        <a href="https://www.udap.fr/petit-dejeuner-defis-reglementaires-et-strategiques-pour-lassurance-de-personnes-le-17-decembre-a-8h30/" class="post-list-title">Petit-déjeuner « Défis règlementaires et stratégiques pour l&rsquo;assurance de personnes » le 17 décembre à 8h30</a>
+        <div class="post-list-meta">
+	       	       <time datetime="2024-11-27">27 novembre 2024</time>
+	          	   </div>	
+       </div>
+
+       <div class="clearboth"></div>
+       </li>
+        
+        
+        <li class="post-list-image">
+        	        <a href="https://www.udap.fr/grand-prix-drh-stratege-de-lassurance-2024/" title="GRAND PRIX DRH STRATEGE DE L’ASSURANCE 2024" class="post-list-thumb">
+		        				 <img src="https://www.udap.fr/wp-content/uploads/2024/11/grandprix2024v2-150x150.png" alt="GRAND PRIX DRH STRATEGE DE L’ASSURANCE 2024" width="150" height="150"/>
+			</a>
+		
+		 
+        <div class="post-list-info ">
+        <a href="https://www.udap.fr/grand-prix-drh-stratege-de-lassurance-2024/" class="post-list-title">GRAND PRIX DRH STRATEGE DE L’ASSURANCE 2024</a>
+        <div class="post-list-meta">
+	       	       <time datetime="">27 novembre 2024</time>
+	          	   </div>	
+       </div>
+
+       <div class="clearboth"></div>
+       </li>
+        
+        
+        <li class="post-list-image">
+        	        <a href="https://www.udap.fr/enquete-sur-les-nouvelles-organisations-du-travail/" title="Enquête sur les nouvelles organisations du travail" class="post-list-thumb">
+		        				 <img src="https://www.udap.fr/wp-content/uploads/2024/10/photo-after-work-2-1er-octobre-24-v2-150x150.jpg" alt="Enquête sur les nouvelles organisations du travail" width="150" height="150"/>
+			</a>
+		
+		 
+        <div class="post-list-info ">
+        <a href="https://www.udap.fr/enquete-sur-les-nouvelles-organisations-du-travail/" class="post-list-title">Enquête sur les nouvelles organisations du travail</a>
+        <div class="post-list-meta">
+	       	       <time datetime="2024-10-24">24 octobre 2024</time>
+	          	   </div>	
+       </div>
+
+       <div class="clearboth"></div>
+       </li>
+        
+        
+        <li class="post-list-image">
+        	        <a href="https://www.udap.fr/addictions-un-enjeu-de-sante-publique-et-de-prevention-pour-les-assureurs-synthese-du-petit-dejeuner-du-19-septembre-2024/" title="ADDICTIONS : UN ENJEU DE SANTE PUBLIQUE ET DE PREVENTION POUR LES ASSUREURS – Synthèse du petit-déjeuner du 19 septembre 2024" class="post-list-thumb">
+		        				 <img src="https://www.udap.fr/wp-content/uploads/2024/10/alexis-peschard_1-150x150.png" alt="ADDICTIONS : UN ENJEU DE SANTE PUBLIQUE ET DE PREVENTION POUR LES ASSUREURS – Synthèse du petit-déjeuner du 19 septembre 2024" width="150" height="150"/>
+			</a>
+		
+		 
+        <div class="post-list-info ">
+        <a href="https://www.udap.fr/addictions-un-enjeu-de-sante-publique-et-de-prevention-pour-les-assureurs-synthese-du-petit-dejeuner-du-19-septembre-2024/" class="post-list-title">ADDICTIONS : UN ENJEU DE SANTE PUBLIQUE ET DE PREVENTION POUR LES ASSUREURS – Synthèse du petit-déjeuner du 19 septembre 2024</a>
+        <div class="post-list-meta">
+	       	       <time datetime="2024-10-21">21 octobre 2024</time>
+	          	   </div>	
+       </div>
+
+       <div class="clearboth"></div>
+       </li>
+        
+        
+        </ul>
+        </section><section id="recent_posts-6" class="widget widget_posts_lists"><div class="widgettitle">Actualités récentes</div>
+        <ul>
+
+		
+        <li class="post-list-image">
+        	        <a href="https://www.udap.fr/petit-dejeuner-defis-reglementaires-et-strategiques-pour-lassurance-de-personnes-le-17-decembre-a-8h30/" title="Petit-déjeuner « Défis règlementaires et stratégiques pour l&rsquo;assurance de personnes » le 17 décembre à 8h30" class="post-list-thumb">
+		        				 <img src="https://www.udap.fr/wp-content/uploads/2024/11/health2024-150x150.jpg" alt="Petit-déjeuner « Défis règlementaires et stratégiques pour l&rsquo;assurance de personnes » le 17 décembre à 8h30" width="150" height="150"/>
+			</a>
+		
+		 
+        <div class="post-list-info ">
+        <a href="https://www.udap.fr/petit-dejeuner-defis-reglementaires-et-strategiques-pour-lassurance-de-personnes-le-17-decembre-a-8h30/" class="post-list-title">Petit-déjeuner « Défis règlementaires et stratégiques pour l&rsquo;assurance de personnes » le 17 décembre à 8h30</a>
+        <div class="post-list-meta">
+	       	       <time datetime="2024-11-27">27 novembre 2024</time>
+	          	   </div>	
+       </div>
+
+       <div class="clearboth"></div>
+       </li>
+        
+        
+        <li class="post-list-image">
+        	        <a href="https://www.udap.fr/grand-prix-drh-stratege-de-lassurance-2024/" title="GRAND PRIX DRH STRATEGE DE L’ASSURANCE 2024" class="post-list-thumb">
+		        				 <img src="https://www.udap.fr/wp-content/uploads/2024/11/grandprix2024v2-150x150.png" alt="GRAND PRIX DRH STRATEGE DE L’ASSURANCE 2024" width="150" height="150"/>
+			</a>
+		
+		 
+        <div class="post-list-info ">
+        <a href="https://www.udap.fr/grand-prix-drh-stratege-de-lassurance-2024/" class="post-list-title">GRAND PRIX DRH STRATEGE DE L’ASSURANCE 2024</a>
+        <div class="post-list-meta">
+	       	       <time datetime="">27 novembre 2024</time>
+	          	   </div>	
+       </div>
+
+       <div class="clearboth"></div>
+       </li>
+        
+        
+        <li class="post-list-image">
+        	        <a href="https://www.udap.fr/enquete-sur-les-nouvelles-organisations-du-travail/" title="Enquête sur les nouvelles organisations du travail" class="post-list-thumb">
+		        				 <img src="https://www.udap.fr/wp-content/uploads/2024/10/photo-after-work-2-1er-octobre-24-v2-150x150.jpg" alt="Enquête sur les nouvelles organisations du travail" width="150" height="150"/>
+			</a>
+		
+		 
+        <div class="post-list-info ">
+        <a href="https://www.udap.fr/enquete-sur-les-nouvelles-organisations-du-travail/" class="post-list-title">Enquête sur les nouvelles organisations du travail</a>
+        <div class="post-list-meta">
+	       	       <time datetime="2024-10-24">24 octobre 2024</time>
+	          	   </div>	
+       </div>
+
+       <div class="clearboth"></div>
+       </li>
+        
+        
+        <li class="post-list-image">
+        	        <a href="https://www.udap.fr/grand-prix-drh-stratege-2024-appel-a-candidatures/" title="Grand Prix DRH Stratège 2024 &#8211; Appel à candidatures" class="post-list-thumb">
+		        				 <img src="https://www.udap.fr/wp-content/uploads/2024/04/gpdrh2024-v2-150x150.png" alt="Grand Prix DRH Stratège 2024 &#8211; Appel à candidatures" width="150" height="150"/>
+			</a>
+		
+		 
+        <div class="post-list-info ">
+        <a href="https://www.udap.fr/grand-prix-drh-stratege-2024-appel-a-candidatures/" class="post-list-title">Grand Prix DRH Stratège 2024 &#8211; Appel à candidatures</a>
+        <div class="post-list-meta">
+	       	       <time datetime="2024-04-25">25 avril 2024</time>
+	          	   </div>	
+       </div>
+
+       <div class="clearboth"></div>
+       </li>
+        
+        
+        </ul>
+        </section>    </div>
+</aside>                <div class="clearboth"></div>
+                
+                </div>
+            </div>
+
+
+                
+        </div>          
+
+<section id="mk-footer-unfold-spacer"></section>
+
+<section id="mk-footer" class="" role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+        <div class="footer-wrapper mk-grid">
+        <div class="mk-padding-wrapper">
+            		<div class="mk-col-1-4"><section id="contact_info-2" class="widget widget_contact_info"><div class="widgettitle">Coordonnées</div>			<ul itemscope="itemscope" itemtype="https://schema.org/Person" >
+			<li><svg  class="mk-svg-icon" data-name="mk-moon-user-7" data-cacheid="icon-67576b858e3b9" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M160 384a96 96 10980 1 0 192 0 96 96 10980 1 0-192 0zm224.039-128h-17.712l-99.552-202.122 37.225 186.122-48 48-48-48 37.225-186.122-99.551 202.122h-17.712000000000003c-63.962 0-63.962-42.993-63.962-96v-160h384v160c0 53.007 0 96-63.961 96z" transform="scale(1 -1) translate(0 -480)"/></svg><span itemprop="name">UDAP</span></li>	
+			<li><svg  class="mk-svg-icon" data-name="mk-moon-office" data-cacheid="icon-67576b858e626" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 512h256v-512h-256v512zm160-448h64v64h-64v-64zm0 128h64v64h-64v-64zm0 128h64v64h-64v-64zm-128-256h64v64h-64v-64zm0 128h64v64h-64v-64zm0 128h64v64h-64v-64zm256-160h224v32h-224zm0 352h64v-128h96v128h64v-288h-224z"/></svg><span itemprop="jobTitle">Union des Directeurs de l’Asssurance et de la Protection sociale</span></li>			<li><svg  class="mk-svg-icon" data-name="mk-icon-home" data-cacheid="icon-67576b858e7ef" style=" height:16px; width: 14.857142857143px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 1792"><path d="M1408 992v480q0 26-19 45t-45 19h-384v-384h-256v384h-384q-26 0-45-19t-19-45v-480q0-1 .5-3t.5-3l575-474 575 474q1 2 1 6zm223-69l-62 74q-8 9-21 11h-3q-13 0-21-7l-692-577-692 577q-12 8-24 7-13-2-21-11l-62-74q-8-10-7-23.5t11-21.5l719-599q32-26 76-26t76 26l244 204v-195q0-14 9-23t23-9h192q14 0 23 9t9 23v408l219 182q10 8 11 21.5t-7 23.5z"/></svg><span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">43 rue de Provence 75009 Paris</span></li>			<li><svg  class="mk-svg-icon" data-name="mk-icon-phone" data-cacheid="icon-67576b858e9a7" style=" height:16px; width: 12.571428571429px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1408 1792"><path d="M1408 1240q0 27-10 70.5t-21 68.5q-21 50-122 106-94 51-186 51-27 0-52.5-3.5t-57.5-12.5-47.5-14.5-55.5-20.5-49-18q-98-35-175-83-128-79-264.5-215.5t-215.5-264.5q-48-77-83-175-3-9-18-49t-20.5-55.5-14.5-47.5-12.5-57.5-3.5-52.5q0-92 51-186 56-101 106-122 25-11 68.5-21t70.5-10q14 0 21 3 18 6 53 76 11 19 30 54t35 63.5 31 53.5q3 4 17.5 25t21.5 35.5 7 28.5q0 20-28.5 50t-62 55-62 53-28.5 46q0 9 5 22.5t8.5 20.5 14 24 11.5 19q76 137 174 235t235 174q2 1 19 11.5t24 14 20.5 8.5 22.5 5q18 0 46-28.5t53-62 55-62 50-28.5q14 0 28.5 7t35.5 21.5 25 17.5q25 15 53.5 31t63.5 35 54 30q70 35 76 53 3 7 3 21z"/></svg><span>01 42 81 58 51</span></li>						
+							<li><svg  class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-67576b858eb71" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg><span>
+				<a itemprop="email" href="mailto:contact&#64;udap.fr">contact&#64;udap.fr</a></span></li>
+			
+												<li><svg  class="mk-svg-icon" data-name="mk-icon-globe" data-cacheid="icon-67576b858ed2a" style=" height:16px; width: 13.714285714286px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1792"><path d="M768 128q209 0 385.5 103t279.5 279.5 103 385.5-103 385.5-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103zm274 521q-2 1-9.5 9.5t-13.5 9.5q2 0 4.5-5t5-11 3.5-7q6-7 22-15 14-6 52-12 34-8 51 11-2-2 9.5-13t14.5-12q3-2 15-4.5t15-7.5l2-22q-12 1-17.5-7t-6.5-21q0 2-6 8 0-7-4.5-8t-11.5 1-9 1q-10-3-15-7.5t-8-16.5-4-15q-2-5-9.5-10.5t-9.5-10.5q-1-2-2.5-5.5t-3-6.5-4-5.5-5.5-2.5-7 5-7.5 10-4.5 5q-3-2-6-1.5t-4.5 1-4.5 3-5 3.5q-3 2-8.5 3t-8.5 2q15-5-1-11-10-4-16-3 9-4 7.5-12t-8.5-14h5q-1-4-8.5-8.5t-17.5-8.5-13-6q-8-5-34-9.5t-33-.5q-5 6-4.5 10.5t4 14 3.5 12.5q1 6-5.5 13t-6.5 12q0 7 14 15.5t10 21.5q-3 8-16 16t-16 12q-5 8-1.5 18.5t10.5 16.5q2 2 1.5 4t-3.5 4.5-5.5 4-6.5 3.5l-3 2q-11 5-20.5-6t-13.5-26q-7-25-16-30-23-8-29 1-5-13-41-26-25-9-58-4 6-1 0-15-7-15-19-12 3-6 4-17.5t1-13.5q3-13 12-23 1-1 7-8.5t9.5-13.5.5-6q35 4 50-11 5-5 11.5-17t10.5-17q9-6 14-5.5t14.5 5.5 14.5 5q14 1 15.5-11t-7.5-20q12 1 3-17-5-7-8-9-12-4-27 5-8 4 2 8-1-1-9.5 10.5t-16.5 17.5-16-5q-1-1-5.5-13.5t-9.5-13.5q-8 0-16 15 3-8-11-15t-24-8q19-12-8-27-7-4-20.5-5t-19.5 4q-5 7-5.5 11.5t5 8 10.5 5.5 11.5 4 8.5 3q14 10 8 14-2 1-8.5 3.5t-11.5 4.5-6 4q-3 4 0 14t-2 14q-5-5-9-17.5t-7-16.5q7 9-25 6l-10-1q-4 0-16 2t-20.5 1-13.5-8q-4-8 0-20 1-4 4-2-4-3-11-9.5t-10-8.5q-46 15-94 41 6 1 12-1 5-2 13-6.5t10-5.5q34-14 42-7l5-5q14 16 20 25-7-4-30-1-20 6-22 12 7 12 5 18-4-3-11.5-10t-14.5-11-15-5q-16 0-22 1-146 80-235 222 7 7 12 8 4 1 5 9t2.5 11 11.5-3q9 8 3 19 1-1 44 27 19 17 21 21 3 11-10 18-1-2-9-9t-9-4q-3 5 .5 18.5t10.5 12.5q-7 0-9.5 16t-2.5 35.5-1 23.5l2 1q-3 12 5.5 34.5t21.5 19.5q-13 3 20 43 6 8 8 9 3 2 12 7.5t15 10 10 10.5q4 5 10 22.5t14 23.5q-2 6 9.5 20t10.5 23q-1 0-2.5 1t-2.5 1q3 7 15.5 14t15.5 13q1 3 2 10t3 11 8 2q2-20-24-62-15-25-17-29-3-5-5.5-15.5t-4.5-14.5q2 0 6 1.5t8.5 3.5 7.5 4 2 3q-3 7 2 17.5t12 18.5 17 19 12 13q6 6 14 19.5t0 13.5q9 0 20 10t17 20q5 8 8 26t5 24q2 7 8.5 13.5t12.5 9.5l16 8 13 7q5 2 18.5 10.5t21.5 11.5q10 4 16 4t14.5-2.5 13.5-3.5q15-2 29 15t21 21q36 19 55 11-2 1 .5 7.5t8 15.5 9 14.5 5.5 8.5q5 6 18 15t18 15q6-4 7-9-3 8 7 20t18 10q14-3 14-32-31 15-49-18 0-1-2.5-5.5t-4-8.5-2.5-8.5 0-7.5 5-3q9 0 10-3.5t-2-12.5-4-13q-1-8-11-20t-12-15q-5 9-16 8t-16-9q0 1-1.5 5.5t-1.5 6.5q-13 0-15-1 1-3 2.5-17.5t3.5-22.5q1-4 5.5-12t7.5-14.5 4-12.5-4.5-9.5-17.5-2.5q-19 1-26 20-1 3-3 10.5t-5 11.5-9 7q-7 3-24 2t-24-5q-13-8-22.5-29t-9.5-37q0-10 2.5-26.5t3-25-5.5-24.5q3-2 9-9.5t10-10.5q2-1 4.5-1.5t4.5 0 4-1.5 3-6q-1-1-4-3-3-3-4-3 7 3 28.5-1.5t27.5 1.5q15 11 22-2 0-1-2.5-9.5t-.5-13.5q5 27 29 9 3 3 15.5 5t17.5 5q3 2 7 5.5t5.5 4.5 5-.5 8.5-6.5q10 14 12 24 11 40 19 44 7 3 11 2t4.5-9.5 0-14-1.5-12.5l-1-8v-18l-1-8q-15-3-18.5-12t1.5-18.5 15-18.5q1-1 8-3.5t15.5-6.5 12.5-8q21-19 15-35 7 0 11-9-1 0-5-3t-7.5-5-4.5-2q9-5 2-16 5-3 7.5-11t7.5-10q9 12 21 2 7-8 1-16 5-7 20.5-10.5t18.5-9.5q7 2 8-2t1-12 3-12q4-5 15-9t13-5l17-11q3-4 0-4 18 2 31-11 10-11-6-20 3-6-3-9.5t-15-5.5q3-1 11.5-.5t10.5-1.5q15-10-7-16-17-5-43 12zm-163 877q206-36 351-189-3-3-12.5-4.5t-12.5-3.5q-18-7-24-8 1-7-2.5-13t-8-9-12.5-8-11-7q-2-2-7-6t-7-5.5-7.5-4.5-8.5-2-10 1l-3 1q-3 1-5.5 2.5t-5.5 3-4 3 0 2.5q-21-17-36-22-5-1-11-5.5t-10.5-7-10-1.5-11.5 7q-5 5-6 15t-2 13q-7-5 0-17.5t2-18.5q-3-6-10.5-4.5t-12 4.5-11.5 8.5-9 6.5-8.5 5.5-8.5 7.5q-3 4-6 12t-5 11q-2-4-11.5-6.5t-9.5-5.5q2 10 4 35t5 38q7 31-12 48-27 25-29 40-4 22 12 26 0 7-8 20.5t-7 21.5q0 6 2 16z"/></svg><span><a href="http://www.udap.fr/" itemprop="url">http://www.udap.fr/</a></span></li>
+													</ul>
+		</section></div>
+			<div class="mk-col-1-4"><section id="recent_posts-4" class="widget widget_posts_lists"><div class="widgettitle">Actualités récentes</div>
+        <ul>
+
+		
+        <li class="post-list-image">
+        	        <a href="https://www.udap.fr/petit-dejeuner-defis-reglementaires-et-strategiques-pour-lassurance-de-personnes-le-17-decembre-a-8h30/" title="Petit-déjeuner « Défis règlementaires et stratégiques pour l&rsquo;assurance de personnes » le 17 décembre à 8h30" class="post-list-thumb">
+		        				 <img src="https://www.udap.fr/wp-content/uploads/2024/11/health2024-150x150.jpg" alt="Petit-déjeuner « Défis règlementaires et stratégiques pour l&rsquo;assurance de personnes » le 17 décembre à 8h30" width="150" height="150"/>
+			</a>
+		
+		 
+        <div class="post-list-info ">
+        <a href="https://www.udap.fr/petit-dejeuner-defis-reglementaires-et-strategiques-pour-lassurance-de-personnes-le-17-decembre-a-8h30/" class="post-list-title">Petit-déjeuner « Défis règlementaires et stratégiques pour l&rsquo;assurance de personnes » le 17 décembre à 8h30</a>
+        <div class="post-list-meta">
+	       	       <time datetime="2024-11-27">27 novembre 2024</time>
+	          	   </div>	
+       </div>
+
+       <div class="clearboth"></div>
+       </li>
+        
+        
+        <li class="post-list-image">
+        	        <a href="https://www.udap.fr/grand-prix-drh-stratege-de-lassurance-2024/" title="GRAND PRIX DRH STRATEGE DE L’ASSURANCE 2024" class="post-list-thumb">
+		        				 <img src="https://www.udap.fr/wp-content/uploads/2024/11/grandprix2024v2-150x150.png" alt="GRAND PRIX DRH STRATEGE DE L’ASSURANCE 2024" width="150" height="150"/>
+			</a>
+		
+		 
+        <div class="post-list-info ">
+        <a href="https://www.udap.fr/grand-prix-drh-stratege-de-lassurance-2024/" class="post-list-title">GRAND PRIX DRH STRATEGE DE L’ASSURANCE 2024</a>
+        <div class="post-list-meta">
+	       	       <time datetime="">27 novembre 2024</time>
+	          	   </div>	
+       </div>
+
+       <div class="clearboth"></div>
+       </li>
+        
+        
+        <li class="post-list-image">
+        	        <a href="https://www.udap.fr/enquete-sur-les-nouvelles-organisations-du-travail/" title="Enquête sur les nouvelles organisations du travail" class="post-list-thumb">
+		        				 <img src="https://www.udap.fr/wp-content/uploads/2024/10/photo-after-work-2-1er-octobre-24-v2-150x150.jpg" alt="Enquête sur les nouvelles organisations du travail" width="150" height="150"/>
+			</a>
+		
+		 
+        <div class="post-list-info ">
+        <a href="https://www.udap.fr/enquete-sur-les-nouvelles-organisations-du-travail/" class="post-list-title">Enquête sur les nouvelles organisations du travail</a>
+        <div class="post-list-meta">
+	       	       <time datetime="2024-10-24">24 octobre 2024</time>
+	          	   </div>	
+       </div>
+
+       <div class="clearboth"></div>
+       </li>
+        
+        
+        <li class="post-list-image">
+        	        <a href="https://www.udap.fr/grand-prix-drh-stratege-2024-appel-a-candidatures/" title="Grand Prix DRH Stratège 2024 &#8211; Appel à candidatures" class="post-list-thumb">
+		        				 <img src="https://www.udap.fr/wp-content/uploads/2024/04/gpdrh2024-v2-150x150.png" alt="Grand Prix DRH Stratège 2024 &#8211; Appel à candidatures" width="150" height="150"/>
+			</a>
+		
+		 
+        <div class="post-list-info ">
+        <a href="https://www.udap.fr/grand-prix-drh-stratege-2024-appel-a-candidatures/" class="post-list-title">Grand Prix DRH Stratège 2024 &#8211; Appel à candidatures</a>
+        <div class="post-list-meta">
+	       	       <time datetime="2024-04-25">25 avril 2024</time>
+	          	   </div>	
+       </div>
+
+       <div class="clearboth"></div>
+       </li>
+        
+        
+        </ul>
+        </section></div>
+			<div class="mk-col-1-4"><section id="recent_posts-5" class="widget widget_posts_lists"><div class="widgettitle">Événements récents</div>
+        <ul>
+
+		
+        <li class="post-list-image">
+        	        <a href="https://www.udap.fr/petit-dejeuner-defis-reglementaires-et-strategiques-pour-lassurance-de-personnes-le-17-decembre-a-8h30/" title="Petit-déjeuner « Défis règlementaires et stratégiques pour l&rsquo;assurance de personnes » le 17 décembre à 8h30" class="post-list-thumb">
+		        				 <img src="https://www.udap.fr/wp-content/uploads/2024/11/health2024-150x150.jpg" alt="Petit-déjeuner « Défis règlementaires et stratégiques pour l&rsquo;assurance de personnes » le 17 décembre à 8h30" width="150" height="150"/>
+			</a>
+		
+		 
+        <div class="post-list-info ">
+        <a href="https://www.udap.fr/petit-dejeuner-defis-reglementaires-et-strategiques-pour-lassurance-de-personnes-le-17-decembre-a-8h30/" class="post-list-title">Petit-déjeuner « Défis règlementaires et stratégiques pour l&rsquo;assurance de personnes » le 17 décembre à 8h30</a>
+        <div class="post-list-meta">
+	       	       <time datetime="2024-11-27">27 novembre 2024</time>
+	          	   </div>	
+       </div>
+
+       <div class="clearboth"></div>
+       </li>
+        
+        
+        <li class="post-list-image">
+        	        <a href="https://www.udap.fr/grand-prix-drh-stratege-de-lassurance-2024/" title="GRAND PRIX DRH STRATEGE DE L’ASSURANCE 2024" class="post-list-thumb">
+		        				 <img src="https://www.udap.fr/wp-content/uploads/2024/11/grandprix2024v2-150x150.png" alt="GRAND PRIX DRH STRATEGE DE L’ASSURANCE 2024" width="150" height="150"/>
+			</a>
+		
+		 
+        <div class="post-list-info ">
+        <a href="https://www.udap.fr/grand-prix-drh-stratege-de-lassurance-2024/" class="post-list-title">GRAND PRIX DRH STRATEGE DE L’ASSURANCE 2024</a>
+        <div class="post-list-meta">
+	       	       <time datetime="">27 novembre 2024</time>
+	          	   </div>	
+       </div>
+
+       <div class="clearboth"></div>
+       </li>
+        
+        
+        <li class="post-list-image">
+        	        <a href="https://www.udap.fr/enquete-sur-les-nouvelles-organisations-du-travail/" title="Enquête sur les nouvelles organisations du travail" class="post-list-thumb">
+		        				 <img src="https://www.udap.fr/wp-content/uploads/2024/10/photo-after-work-2-1er-octobre-24-v2-150x150.jpg" alt="Enquête sur les nouvelles organisations du travail" width="150" height="150"/>
+			</a>
+		
+		 
+        <div class="post-list-info ">
+        <a href="https://www.udap.fr/enquete-sur-les-nouvelles-organisations-du-travail/" class="post-list-title">Enquête sur les nouvelles organisations du travail</a>
+        <div class="post-list-meta">
+	       	       <time datetime="2024-10-24">24 octobre 2024</time>
+	          	   </div>	
+       </div>
+
+       <div class="clearboth"></div>
+       </li>
+        
+        
+        <li class="post-list-image">
+        	        <a href="https://www.udap.fr/addictions-un-enjeu-de-sante-publique-et-de-prevention-pour-les-assureurs-synthese-du-petit-dejeuner-du-19-septembre-2024/" title="ADDICTIONS : UN ENJEU DE SANTE PUBLIQUE ET DE PREVENTION POUR LES ASSUREURS – Synthèse du petit-déjeuner du 19 septembre 2024" class="post-list-thumb">
+		        				 <img src="https://www.udap.fr/wp-content/uploads/2024/10/alexis-peschard_1-150x150.png" alt="ADDICTIONS : UN ENJEU DE SANTE PUBLIQUE ET DE PREVENTION POUR LES ASSUREURS – Synthèse du petit-déjeuner du 19 septembre 2024" width="150" height="150"/>
+			</a>
+		
+		 
+        <div class="post-list-info ">
+        <a href="https://www.udap.fr/addictions-un-enjeu-de-sante-publique-et-de-prevention-pour-les-assureurs-synthese-du-petit-dejeuner-du-19-septembre-2024/" class="post-list-title">ADDICTIONS : UN ENJEU DE SANTE PUBLIQUE ET DE PREVENTION POUR LES ASSUREURS – Synthèse du petit-déjeuner du 19 septembre 2024</a>
+        <div class="post-list-meta">
+	       	       <time datetime="2024-10-21">21 octobre 2024</time>
+	          	   </div>	
+       </div>
+
+       <div class="clearboth"></div>
+       </li>
+        
+        
+        </ul>
+        </section></div>
+			<div class="mk-col-1-4"><section id="social-3" class="widget widget_social_networks"><div class="widgettitle">Réseaux sociaux</div><div id="social-67576b858f0a5" class="align-left"><a href="" rel="nofollow" class="builtin-icons dark medium facebook-hover" target="_blank" alt="Nous suivre sur facebook" title="Nous suivre sur facebook"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-facebook" data-cacheid="icon-67576b858f207" style=" height:24px; width: 24px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256-6.4c-141.385 0-256 114.615-256 256s114.615 256 256 256 256-114.615 256-256-114.615-256-256-256zm64.057 159.299h-49.041c-7.42 0-14.918 7.452-14.918 12.99v19.487h63.723c-2.081 28.41-6.407 64.679-6.407 64.679h-57.566v159.545h-63.929v-159.545h-32.756v-64.474h32.756v-33.53c0-8.098-1.706-62.336 70.46-62.336h57.678v63.183z"/></svg></a><a href="" rel="nofollow" class="builtin-icons dark medium linkedin-hover" target="_blank" alt="Nous suivre sur linkedin" title="Nous suivre sur linkedin"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-linkedin" data-cacheid="icon-67576b858f367" style=" height:24px; width: 24px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256-6.4c-141.385 0-256 114.615-256 256s114.615 256 256 256 256-114.615 256-256-114.615-256-256-256zm-96.612 95.448c19.722 0 31.845 13.952 32.215 32.284 0 17.943-12.492 32.311-32.592 32.311h-.389c-19.308 0-31.842-14.368-31.842-32.311 0-18.332 12.897-32.284 32.609-32.284zm32.685 288.552h-64.073v-192h64.073v192zm223.927-.089h-63.77v-97.087c0-27.506-11.119-46.257-34.797-46.257-18.092 0-22.348 12.656-27.075 24.868-1.724 4.382-2.165 10.468-2.165 16.583v101.892h-64.193s.881-173.01 0-192.221h57.693v.31h6.469v19.407c9.562-12.087 25.015-24.527 52.495-24.527 43.069 0 75.344 29.25 75.344 92.077v104.954z"/></svg></a><a href="" rel="nofollow" class="builtin-icons dark medium twitter-hover" target="_blank" alt="Nous suivre sur twitter" title="Nous suivre sur twitter"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-twitter" data-cacheid="icon-67576b858f4b8" style=" height:24px; width: 24px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256-6.4c-141.385 0-256 114.615-256 256s114.615 256 256 256 256-114.615 256-256-114.615-256-256-256zm146.24 258.654c-31.365 127.03-241.727 180.909-338.503 49.042 37.069 35.371 101.619 38.47 142.554-3.819-24.006 3.51-41.47-20.021-11.978-32.755-26.523 2.923-41.27-11.201-47.317-23.174 6.218-6.511 13.079-9.531 26.344-10.407-29.04-6.851-39.751-21.057-43.046-38.284 8.066-1.921 18.149-3.578 23.656-2.836-25.431-13.295-34.274-33.291-32.875-48.326 45.438 16.866 74.396 30.414 98.613 43.411 8.626 4.591 18.252 12.888 29.107 23.393 13.835-36.534 30.915-74.19 60.169-92.874-.493 4.236-2.758 8.179-5.764 11.406 8.298-7.535 19.072-12.719 30.027-14.216-1.257 8.22-13.105 12.847-20.249 15.539 5.414-1.688 34.209-14.531 37.348-7.216 3.705 8.328-19.867 12.147-23.872 13.593-2.985 1.004-5.992 2.105-8.936 3.299 36.492-3.634 71.317 26.456 81.489 63.809.719 2.687 1.44 5.672 2.1 8.801 13.341 4.978 37.521-.231 45.313-5.023-5.63 13.315-20.268 23.121-41.865 24.912 10.407 4.324 30.018 6.691 43.544 4.396-8.563 9.193-22.379 17.527-45.859 17.329z"/></svg></a></div></section></div>
+	            <div class="clearboth"></div>
+        </div>
+    </div>
+        
+<div id="sub-footer">
+	<div class=" mk-grid">
+		
+    	<span class="mk-footer-copyright">Copyright &copy; 2017 Tous droits réservés <a href="http://www.udap.fr">www.udap.fr</a> - <a href="http://www.udap.fr/mentions-legales">Mentions légales </a></span>
+    		</div>
+	<div class="clearboth"></div>
+</div>
+</section>
+</div>
+</div>
+
+<div class="bottom-corner-btns js-bottom-corner-btns">
+
+<a href="#top-of-page" class="mk-go-top  js-smooth-scroll js-bottom-corner-btn js-bottom-corner-btn--back">
+	<svg  class="mk-svg-icon" data-name="mk-icon-chevron-up" data-cacheid="icon-67576b858f8cc" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1683 1331l-166 165q-19 19-45 19t-45-19l-531-531-531 531q-19 19-45 19t-45-19l-166-165q-19-19-19-45.5t19-45.5l742-741q19-19 45-19t45 19l742 741q19 19 19 45.5t-19 45.5z"/></svg></a>
+	<div class="mk-quick-contact-wrapper  js-bottom-corner-btn js-bottom-corner-btn--contact">
+			
+		<a href="#" class="mk-quick-contact-link"><svg  class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-67576b858fb0e" style=" height:20px; width: 20px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a>
+		<div id="mk-quick-contact">
+			<div class="mk-quick-contact-title">Contact Us</div>
+			<p>We're not around right now. But you can send us an email and we'll get back to you, asap.</p>
+			<form class="mk-contact-form" method="post" novalidate="novalidate">
+				<input type="text" placeholder="Prénom*" required="required" id="name" name="name" class="text-input" value="" tabindex="623" />
+				<input type="email" data-type="email" required="required" placeholder="Email*" id="email" name="email" class="text-input" value="" tabindex="624"  />
+				<textarea placeholder="Message*" required="required" id="content" name="content" class="textarea" tabindex="625"></textarea>
+								<input placeholder="Entrer Captcha" type="text" data-type="captcha" name="captcha" class="captcha-form text-input full" required="required" autocomplete="off" />
+		            <a href="#" class="captcha-change-image">Illisible? Changer de texte.</a>
+		            <span class="captcha-image-holder"></span> <br/>
+				
+				<div class="btn-cont">
+                    <button tabindex="626" class="mk-progress-button mk-contact-button accent-bg-color button" data-style="move-up">
+                        <span class="mk-progress-button-content">Envoyer</span>
+                        <span class="mk-progress">
+                            <span class="mk-progress-inner"></span>
+                        </span>
+                        <span class="state-success"><svg  class="mk-svg-icon" data-name="mk-moon-checkmark" data-cacheid="icon-67576b858fdb2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M432 64l-240 240-112-112-80 80 192 192 320-320z"/></svg></span>
+                        <span class="state-error"><svg  class="mk-svg-icon" data-name="mk-moon-close" data-cacheid="icon-67576b858fff7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M507.331 411.33l-.006-.005-155.322-155.325 155.322-155.325.006-.005c1.672-1.673 2.881-3.627 3.656-5.708 2.123-5.688.912-12.341-3.662-16.915l-73.373-73.373c-4.574-4.573-11.225-5.783-16.914-3.66-2.08.775-4.035 1.984-5.709 3.655l-.004.005-155.324 155.326-155.324-155.325-.005-.005c-1.673-1.671-3.627-2.88-5.707-3.655-5.69-2.124-12.341-.913-16.915 3.66l-73.374 73.374c-4.574 4.574-5.784 11.226-3.661 16.914.776 2.08 1.985 4.036 3.656 5.708l.005.005 155.325 155.324-155.325 155.326-.004.005c-1.671 1.673-2.88 3.627-3.657 5.707-2.124 5.688-.913 12.341 3.661 16.915l73.374 73.373c4.575 4.574 11.226 5.784 16.915 3.661 2.08-.776 4.035-1.985 5.708-3.656l.005-.005 155.324-155.325 155.324 155.325.006.004c1.674 1.672 3.627 2.881 5.707 3.657 5.689 2.123 12.342.913 16.914-3.661l73.373-73.374c4.574-4.574 5.785-11.227 3.662-16.915-.776-2.08-1.985-4.034-3.657-5.707z"/></svg></span>
+                    </button>
+                </div>
+				<input type="hidden" id="security" name="security" value="323d5348da" /><input type="hidden" name="_wp_http_referer" value="/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/" />				<input type="hidden" id="sh_id" name="sh_id" value="15"><input type="hidden" id="p_id" name="p_id" value="2342">				<div class="contact-form-message clearfix"></div>  
+			</form>
+			<div class="bottom-arrow"></div>
+		</div>
+	</div></div>
+
+
+
+<div class="mk-fullscreen-search-overlay">
+	<a href="#" class="mk-fullscreen-close"><svg  class="mk-svg-icon" data-name="mk-moon-close-2" data-cacheid="icon-67576b859037c" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M390.628 345.372l-45.256 45.256-89.372-89.373-89.373 89.372-45.255-45.255 89.373-89.372-89.372-89.373 45.254-45.254 89.373 89.372 89.372-89.373 45.256 45.255-89.373 89.373 89.373 89.372z"/></svg></a>
+	<div class="mk-fullscreen-search-wrapper">
+		<p>Commencez à taper et appuyez sur Entrée pour rechercher</p>
+		<form method="get" id="mk-fullscreen-searchform" action="https://www.udap.fr/">
+			<input type="text" value="" name="s" id="mk-fullscreen-search-input" />
+			<i class="fullscreen-search-icon"><svg  class="mk-svg-icon" data-name="mk-icon-search" data-cacheid="icon-67576b85904a3" style=" height:25px; width: 23.214285714286px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 1792"><path d="M1152 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"/></svg></i>
+		</form>
+	</div>
+</div>
+
+
+<footer id="mk_page_footer">
+    <style type='text/css'></style><script type="text/javascript">
+    php = {
+        hasAdminbar: false,
+        json: (null != null) ? null : "",
+        jsPath: 'https://www.udap.fr/wp-content/themes/udap/assets/js'
+      };
+    </script><style id="dynamic_styles" type='text/css'></style><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.udap.fr\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.udap.fr/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2'></script>
+<script type='text/javascript' src='https://www.udap.fr/wp-content/themes/udap/assets/js/plugins/wp-enqueue/smoothscroll.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_login_object = {"ajaxurl":"https:\/\/www.udap.fr\/wp-admin\/admin-ajax.php","redirecturl":"https:\/\/www.udap.fr:443\/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020\/","loadingmessage":"Envoi des informations sur l'utilisateur, veuillez patienter ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.udap.fr/wp-content/themes/udap/assets/js/core-scripts.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://www.udap.fr/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://www.udap.fr/wp-content/themes/udap/assets/js/min/components-full.js?ver=1.0'></script>
+		<script type="text/javascript">
+				</script>
+	<script type="text/javascript">	window.get = {};	window.get.captcha = function(enteredCaptcha) {
+                  return jQuery.get(ajaxurl, { action : "mk_validate_captcha_input", captcha: enteredCaptcha });
+              	};</script>    <script>
+        // Run this very early after DOM is ready
+        (function ($) {
+            // Prevent browser native behaviour of jumping to anchor
+            // while preserving support for current links (shared across net or internally on page)
+            var loc = window.location,
+                hash = loc.hash;
+
+            // Detect hashlink and change it's name with !loading appendix
+            if(hash.length && hash.substring(1).length) {
+                var $topLevelSections = $('.vc_row, .mk-main-wrapper-holder, .mk-page-section, #comments');
+                var $section = $topLevelSections.filter( '#' + hash.substring(1) );
+                // We smooth scroll only to page section and rows where we define our anchors.
+                // This should prevent conflict with third party plugins relying on hash
+                if( ! $section.length )  return;
+                // Mutate hash for some good reason - crazy jumps of browser. We want really smooth scroll on load
+                // Discard loading state if it already exists in url (multiple refresh)
+                hash = hash.replace( '!loading', '' );
+                var newUrl = hash + '!loading';
+                loc.hash = newUrl;
+            }
+        }(jQuery));
+    </script>
+    
+
+    
+</footer>  
+</body>
+</html>
+<!-- Dynamic page generated in 1.160 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2024-12-09 23:13:25 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->

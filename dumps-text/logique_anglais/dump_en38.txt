@@ -1,0 +1,104 @@
+   #RDF+XML OpenURL ContextObject MPEG-21 DIDL JSON-LD METS OpenURL
+   ContextObject in Span MODS Top Search
+
+   Queensland University of Technology, Brisbane Australia
+   QUT Home Contact
+   A university for the real world
+   Skip to content
+
+   Home Browse About
+     * Login
+
+RuleOMS: a rule-based online management system
+
+   Islam, Mohammad Badiul & Governatori, Guido (2015) RuleOMS: a
+   rule-based online management system. In Atkinson, K (Ed.) Proceedings
+   of the 15th International Conference on Artificial Intelligence and
+   Law. Association for Computing Machinery, United States of America, pp.
+   187-191.
+   [img] Published Version (PDF 670kB)
+   RuleOMS- A Rule-Based Online Management System.pdf.
+   Administrators only | Request a copy from author
+   Contact Author
+
+   View at publisher
+
+Description
+
+   We propose an architecture for a rule-based online management systems
+   (RuleOMS). Typically, many domain areas face the problem that
+   stakeholders maintain databases of their business core information and
+   they have to take decisions or create reports according to guidelines,
+   policies or regulations. To address this issue we propose the
+   integration of databases, in particular relational databases, with a
+   logic reasoner and rule engine. We argue that defeasible logic is an
+   appropriate formalism to model rules, in particular when the rules are
+   meant to model regulations. The resulting RuleOMS provides an efficient
+   and flexible solution to the problem at hand using defeasible
+   inference. A case study of an online child care management system is
+   used to illustrate the proposed architecture.
+
+   Impact and interest:
+   5 citations in Scopus
+   Search Google Scholar™
+   (BUTTON)
+
+   Citation counts are sourced monthly from Scopus and Web of Science®
+   citation databases.
+
+   These databases contain citations from different subsets of available
+   publications and different time periods and thus the citation count
+   from each is usually different. Some works are not in either database
+   and no count is displayed. Scopus includes citations from articles
+   published in 1996 onwards, and Web of Science® generally from 1980
+   onwards.
+
+   Citations counts from the Google Scholar™ indexing service can be
+   viewed at the linked Google Scholar™ search.
+     * Notify us of incorrect data
+     * How to use citation counts
+     * More information
+
+   More statistics...
+   ID Code: 85194
+   Item Type: Chapter in Book, Report or Conference volume (Conference
+   contribution)
+   Measurements or Duration: 5 pages
+   Keywords: Child Care, Compliance, Defeasible Logic, Online Management
+   System, Reasoning, Regulations, Rule-based
+   DOI: 10.1145/2746090.2746120
+   ISBN: 978-1-4503-3522-5
+   Pure ID: 32791379
+   Divisions: Past > Institutes > Institute for Future Environments
+   Past > QUT Faculties & Divisions > Science & Engineering Faculty
+   Copyright Owner: Consult author(s) regarding copyright matters
+   Copyright Statement: This work is covered by copyright. Unless the
+   document is being made available under a Creative Commons Licence, you
+   must assume that re-use is limited to personal use and that permission
+   from the copyright owner must be obtained for all other uses. If the
+   document is available under a Creative Commons License (or other
+   specified license) then refer to the Licence for details of permitted
+   re-use. It is a condition of access that users recognise and abide by
+   the legal requirements associated with these rights. If you believe
+   that this work infringes copyright please provide details by email to
+   qut.copyright@qut.edu.au
+   Deposited On: 09 Jul 2015 00:30
+   Last Modified: 04 Jan 2025 18:46
+
+                                    Export: EndNote | Dublin Core | BibTeX
+
+                                  Repository Staff Only: item control page
+
+     * Home
+     * Browse research
+     * About
+
+     * TEQSA Provider ID: PRV12079 (Australian University)
+     * CRICOS No. 00213J
+     * ABN 83 791 724 622
+
+     * Accessibility
+     * Copyright
+     * Disclaimer
+     * Privacy
+     * Right to Information

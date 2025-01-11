@@ -1,0 +1,320 @@
+Résumé for Neil Moore
+
+   Mailing Address:
+   Neil Moore
+   321 E Maxwell St
+   Lexington, KY 40508-2701
+
+   Phone: 859-317-9772
+
+   Email: neil@s-z.org
+
+EDUCATION
+
+   Ph.D. in Computer Science, University of Kentucky, 2003–2012.
+   Dissertation Multihierarchical Documents and Fine-Grained Access
+   Control.
+
+   Undergraduate, University of Kentucky, 1997–2002. Majored in computer
+   science and mathematics. College of Engineering Dean's List Fall 1997,
+   Spring 1998, Fall 1998, Spring 1999, Fall 1999, Spring 2000, and Spring
+   2001. Graduated December 2002, receiving a B.S. Cum Laude in Computer
+   Science and a B.S. Cum Laude in Mathematics with departmental honors.
+
+HONORS
+
+   April 2007. Excellence in Contribution to the Computer Science
+   Enrichment Programs award, University of Kentucky Department of
+   Computer Science.
+
+   April 2004. Awarded First Place Graduate Student Talk at Eastern
+   Kentucky University's 18th Annual Symposium in Mathematics,
+   Statistical, and Computer Sciences, for "A Geometric Approach to
+   Efficient Implementation of Concurrent XML Markup".
+
+   March 2001: Member of the University of Kentucky Programming Team,
+   which advanced to the world finals of the 25th annual ACM International
+   Collegiate Programming Contest, Vancouver, BC, Canada.
+
+EXPERIENCE
+
+   September 2009–
+   present
+
+   IS technical support specialist IV (research support in
+   bioinformatics), University of Kentucky.
+
+   Worked as lead developer and system administrator/database
+   administrator for the Epichloë festucae Genome Project. Developed,
+   maintained, and enhanced web-based tools and databases for viewing,
+   managing, and annotating many gigabytes of bioinformatic data covering
+   ten strains and nine species of fungal endophytes in the family
+   Clavicipitaceae. Worked extensively with GBrowse, MAKER, BioPerl and
+   other bioinformatics tools and libraries. Administered GNU/Linux and
+   Mac OS X Server systems, including Apache, MySQL, RAID/NAS/NFS backups,
+   and LDAP user management. Assisted in research, including co-authoring
+   scholarly papers.
+
+   January 2008–
+   September 2009
+
+   Research assistant, University of Kentucky.
+
+   Worked as lead developer and system administrator/database
+   administrator for the Epichloë festucae Genome Project. Coordinated a
+   small team of developers (3–4 members) to develop, maintain, and
+   enhance web-based tools and databases for viewing, managing, and
+   annotating over 5 GiB of bioinformatic data. Worked extensively with
+   GBrowse, BioPerl and other bioinformatics tools and libraries.
+   Administered GNU/Linux and Mac OS X Server systems, including Apache,
+   MySQL, RAID/NAS/NFS backups, LDAP user management. Assisted in
+   research, including co-authoring scholarly papers.
+
+   January–
+   May 2007
+   July–
+   August 2007
+   August–
+   December 2007
+   January–
+   May 2008
+
+   Teaching assistant, University of Kentucky.
+
+   Primary lecturer for the evening section of CS 215, "Introduction to
+   Program Design, Abstraction, and Problem Solving", Spring 2007.
+   Responsible for delivering lectures, guiding student laboratory work,
+   preparing examinations, and grading.
+
+   Primary lecturer for the summer section of CS 115, "Introduction to
+   Computer Programming", Second Summer Session 2007. Responsible for
+   preparing and delivering lectures, designing programming and laboratory
+   assignments, guiding student laboratory work, preparing examinations,
+   and grading.
+
+   Primary lecturer for the evening section, and teaching assistant for a
+   day section, of CS 215, Fall 2007. Responsible for delivering lectures
+   (night section only), guiding student laboratory work, preparing
+   examinations, and grading.
+
+   Teaching assistant for two day sections of CS 215, Spring 2008.
+   Responsible for guiding student laboratory work, preparing
+   examinations, and grading.
+
+   July 2003–
+   August 2006
+
+   Research assistant, University of Kentucky.
+
+   Worked in a team environment to develop infrastructure for producing
+   image-based electronic editions of manuscripts. Designed and
+   implemented a library for storing, modifying, and querying
+   multi-hierarchical XML. Participated in the design of a framework to
+   facilitate the sharing of markup and other data among a number of
+   independently-developed modules. Participated in the implementation,
+   testing, and integration of these modules as plugins for the Eclipse
+   application framework. Assisted in research, including authoring
+   scholarly papers.
+
+   September 2001–
+   August 2003
+
+   Lead developer, BigTrends.com (Headley Investment Analysis).
+
+   Designed and implemented a distributed application for financial
+   charting and analysis, using Java, Perl, and MySQL. Developed a number
+   of web-based applications for financial charting and analysis, using
+   Perl and MySQL. Co-maintained three GNU/Linux servers to provide
+   database and web services for these applications.
+
+   November 1998–
+   May 2002
+
+   Undergraduate research, University of Kentucky CS department.
+
+   Logic programming and nonmonotonic reasoning systems; distributed
+   computing. Translation and conversion of logic programs to default
+   theories. Analysis of logic programs, including stratification,
+   well-founded semantics, and stable model semantics. Wrote a number of
+   logic programs, many encoding graph-theoretical problems. Developed and
+   optimized a distributed implementation of the stable model semantics
+   using PVM (Parallel Virtual Machine).
+
+   June 1998–
+   August 1998
+
+   Teaching assistant, Institute for the Academic Advancement of Youth
+   (IAAY), Johns Hopkins University.
+
+   Served as a teaching assistant for two three-week sessions of IAAY's
+   Center for Talented Youth (CTY) program. Assisted the instructor of a
+   Digital Logic class for talented and gifted middle school and high
+   school students. Prepared classroom materials, graded papers and exams,
+   and supervised electronics laboratory assignments for approximately 30
+   students ranging in age from 13 to 16.
+
+   I have performed volunteer work for the ACM International Collegiate
+   Programming Contest (Mid-Central region, University of Kentucky
+   Satellite site) for the past seven years now (since 2005). Tasks have
+   included configuring and preparing the contest server, administering
+   the PC^2 contest software, developing and preparing bootable live CDs
+   providing a uniform and secure environment for contestants, and leading
+   the troubleshooting and technical support team.
+
+SKILLS
+
+   Operating systems
+          PCs running GNU/Linux, Solaris, and Windows 2000/XP/Server 2003;
+          Apple computers running Mac OS X (including OS X Server); and
+          other UNIX and POSIX systems.
+
+   Software (configuration and administration)
+          Apache, Sendmail, exim, BIND, MySQL, PostgreSQL, Samba, NFS.
+
+   Programming languages
+          Expert with Perl, C, C++, POSIX/Bourne shell, and bash. Very
+          familiar with Python and SQL. Moderately familiar with
+          JavaScript, PHP, Java, Scheme, and Common Lisp.
+
+   Other information technology
+          Web development with HTML, CSS, XML, XPath, and DOM; CGI scripts
+          and Java Servlets; git, Subversion, CVS and other source code
+          management systems; database design and optimization, including
+          systems with gigabytes of data and millions of records; and core
+          Internet protocols including TCP/IP, HTTP, FTP, DNS, and SMTP.
+
+   In addition to the core technical competencies listed above, I have
+   wide-ranging experience with other technologies. I am eager to widen my
+   experience, and am capable of learning programming languages, operating
+   systems, and other software with minimal guidance.
+
+PUBLICATIONS
+
+   R. A. Finkel, V. W. Marek, N. Moore and M. Truszczyński. Computing
+   Stable Models in Parallel. In Answer Set Programming: Towards Efficient
+   and Scalable Knowledge Representation and Reasoning. AAAI Press, Palo
+   Alto, CA, pp. 72–76, 2001.
+
+   J. W. Jaromczyk and N. Moore. Geometric data structures for
+   multihierarchical XML tagging of manuscripts. In Proc. 20th European
+   Workshop on Computational Geometry. Seville, Spain, March 2004.
+
+   N. Moore. A Geometric Approach to Efficient Implementation of
+   Concurrent XML Markup. Eastern Kentucky University 18th Annual
+   Symposium in Mathematics, Statistical, and Computer Sciences. Richmond,
+   KY, April 2004.
+
+   A. Dekhtyar, I. E. Iacob, J. W. Jaromczyk, K. Kiernan, N. Moore, and D.
+   C. Porter. Database Support for Image-based Electronic Editions. Proc.
+   Int'l Workshop on Multimedia Information Systems (MIS 2004). College
+   Park, MD, August 2004.
+
+   J. W. Jaromczyk, M. Kowaluk, N. Moore. On Visualization of Complex
+   Image-Based Markup. In Proc. Int'l Conf. on Computer Vision and
+   Geometry. Warsaw, Poland, September 2004.
+
+   J. W. Jaromczyk, M. Kowaluk, N. Moore. A Web Interface to Image-Based
+   Concurrent Markup Using Image Maps. In Proc. 6th ACM Int'l Workshop on
+   Web Information and Data Management (WIDM 2004). Washington, DC,
+   November 2004.
+
+   A. Dekhtyar, I. E. Iacob, J. W. Jaromczyk, K. Kiernan, N. Moore, D. C.
+   Porter. Support for XML Markup of Image-based Electronic Editions.
+   Int'l Journal on Digital Libraries 6(1): 55–69, 2006.
+
+   K. Kiernan, D. Porter, A. Dekhtyar, I. E. Iacob, J. W. Jaromczyk, N.
+   Moore. The Edition Production Technology (EPT) and the ARCHway and
+   Electronic Boethius Projects. 17th Joint International Conference of
+   the Association for Computers and the Humanities and the Association
+   for Literary and Linguistic Computing (ACH/ALLC). Victoria, BC, June
+   2005.
+
+   J. W. Jaromczyk, N. Moore. The ARCHway Software Infrastructure: a Demo
+   of a Platform and Utilities for Building Applications for Electronic
+   Editions. Demo at 17th Joint International Conference of the
+   Association for Computers and the Humanities and the Association for
+   Literary and Linguistic Computing (ACH/ALLC). Victoria, BC, June 2005.
+
+   A. Dekhtyar, I. E. Iacob, J. Jaromczyk, K. Kiernan, N. Moore, D. C.
+   Porter. Building Image-based Electronic Editions using the Edition
+   Production Technology. Poster at ACM/IEEE Joint Conference on Digital
+   Libraries (JCDL 2005). Denver, CO, June 2005.
+
+   E. G. Arnaoudova, P. J. Bowens, R. G. Chui, R. D. Dinkins, U. Hesse, J.
+   W. Jaromczyk, M. Martin, P. Maynard, N. Moore, C. L. Schardl.
+   Visualizing and sharing results in bioinformatics projects: GBrowse and
+   GenBank exports. BMC Bioinformatics 10(S-7), 2009.
+
+   N. Moore. The Halting Problem and Undecidability of Document Generation
+   under Access Control for Tree Updates. 3rd Int'l Conference on Language
+   and Automata Theory and Applications (LATA 2009). Tarragona, Spain,
+   April 2009.
+
+   E. G. Arnaoudova, J. W. Jaromczyk, N. Moore, C. L. Schardl, R. Yoshida.
+   Phylotree—a toolkit for computing experiments with distance-based
+   methods for genome coevolution. BMC Bioinformatics 11(S-4): P6, 2010.
+
+   E. G. Arnaoudova, D. C. Haws, P. Huggins, J. W. Jaromczyk, N. Moore, C.
+   L. Schardl, R. Yoshida. Statistical phylogenetic tree analysis using
+   differences of means. Frontiers in Neuroscience 4:47, 2010.
+
+   N. Moore. Reconciling two models of multihierarchical markup. 13th
+   Int'l Workshop on the Web and Databases (WebDB 2010). Indianapolis, IN,
+   June 2010.
+
+   N. Moore. Computational complexity of the problem of tree generation
+   under fine-grained access control policies. J. Information and
+   Computation 209(3): 548–567, 2011.
+
+   N. Moore, J.W. Jaromczyk. Finding a longest open reading frame of an
+   alternatively spliced gene. In Proc. IEEE International Conference on
+   Bioinformatics and Biomedicine (BIBM), Workshops, November 2011.
+
+   J.W. Jaromczyk, N. Moore, C.L. Schardl. A linear-time algorithm for
+   finding a maximum-length ORF in a splice graph. Int'l J. of
+   Computational Biology and Drug Design 5(3/4): 284–297, 2012.
+
+   R. J. O'Connell, M. R. Thon, S. Hacquard, S. G. Amyotte, J. Kleeman, M.
+   F. Torres, U. Damm, E. A. Buiate, L. Eppstein, N. Alkan, J. Altmüller,
+   L. Alvarado-Balderrama, C. A. Bauser, C. Becker, B. W. Birren, Z. Chen,
+   J. Choi, J. A. Crouch, J. P. Duvick, M. A. Farman, P. Gan, D. Heiman,
+   B. Henrissat, R. J. Howard, M. Kabbage, C. Koch, B. Kracher, Y. Kubo,
+   A. D. Law, M.-H. Lebrun, Y.-H. Lee, I. Miyara, N. Moore, U. Neumann, K.
+   Nordström, D. G. Panaccione, R. Panstruga, M. Place, R. H. Proctor, D.
+   Prusky, G. Reich, R. Reinhardt, J. A. Rollins, S. Rounsley, C. L.
+   Schardl, D. C. Schwartz, N. Shenoy, K. Shirasu, U. R. Sikhakolli, K.
+   Stüber, S. A. Sukno, J. A. Sweigard, Y. Takano, H. Takahara, F. Trail,
+   H. C. van der Does, L. M. Voll, I. Will, S. Young, Q. Zeng, J. Zhang,
+   S. Zhou, M. B. Dickman, P. Schulze-Lefert, E. V. L. van Themaat, L.-J.
+   Ma, L. J. Vaillancourt. Lifestyle transitions in plant pathogenic
+   Colletotrichum fungi deciphered by genome and transcriptome analyses.
+   Nature Genetics 44(9):1060–5, 2012.
+
+   C. L. Schardl, C. A. Young, U. Hesse, S. G. Amyotte, K. Andreeva, P. J.
+   Calie, D. J. Fleetwood, D. C. Haws, N. Moore, B. Oeser, D. G.
+   Panaccione, K. K. Schweri, C. R. Voisey, M. L. Farman, J. W. Jaromczyk,
+   B. A. Roe, D. M. O'Sullivan, B. Scott, P. Tudzynski, Z. An, E. G.
+   Arnaoudova, C. T. Bullock, N. D. Charlton, L. Chen, M. Cox, R. D.
+   Dinkins, S. Florea, A. E. Glenn, A. Gordon, U. Güldener, D. R. Harris,
+   W. Hollin, J. Jaromczyk, R. D. Johnson, A. K. Khan, E. Leistner, A.
+   Leuchtmann, C. Li, J. Liu, J. Liu, M. Liu, W. Mace, C. Machado, P.
+   Nagabhyru, J. Pan, J. Schmid, K. Sugawara, U. Steiner, J. E. Takach, E.
+   Tanaka, J. S. Webb, E. V. Wilson, J. L. Wiseman, R. Yoshida, Z. Zeng.
+   Plant-symbiotic fungi as chemical engineers: multi-genome analysis of
+   the clavicipitaceae reveals dynamics of alkaloid loci. PLoS Genetics
+   9(2), 2013.
+
+   C. L. Schardl, C.A. Young, N. Moore, N. Krom, P.-Y. Dupont, J. Pan, S.
+   Florea, J. S. Webb, J. Jaromczyk, J. W. Jaromczyk, M. P. Cox, M. L.
+   Farman. Genomes of plant-associated Clavicipitaceae. Advances in
+   Botanical Research 70:291–327, 2014.
+
+   C. A. Young, C. L. Schardl, D. G. Panaccione, S. Florea, J. E. Takach,
+   N. D. Charlton, N. Moore, J. S. Webb, J. Jaromczyk. Genetics, Genomics
+   and Evolution of Ergot Alkaloid Diversity. Toxins 7(4):1273–1302, 2015.
+
+   M. F. Torres, N. Ghaffari, E. A. S. Buiate, N. Moore, S. Schwartz, C.
+   D. Johnson, L. J. Vaillancourt. A Colletotrichum graminicola mutant
+   deficient in the establishment of biotrophy reveals early
+   transcriptional events in the maize anthracnose disease interaction.
+   BMC Genomics 8:17(1):202.Epub, 2016.

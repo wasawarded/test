@@ -1,0 +1,5 @@
+
+   WebLogic allows users to develop and deploy an application that has
+   business logic and allows the application to access other services like
+   database, messaging, or other enterprise systems. It is a robust
+   platform for distributed applications.

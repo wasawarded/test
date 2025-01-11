@@ -1,0 +1,227 @@
+   the sense that it aims to formulate correct arguments that any rational
+   person would find convincing. The main discipline studying logical
+   reasoning is logic.
+
+   Distinct types of logical reasoning differ from each other concerning
+--
+   true, the conclusion could not be false. Valid arguments follow a rule
+   of inference, such as modus ponens or modus tollens. Deductive
+   reasoning plays a central role in formal logic and mathematics.
+
+   For non-deductive logical reasoning, the premises make their conclusion
+--
+   knowledge.^[7]
+
+   The main discipline studying logical reasoning is called logic. It is
+   divided into formal and informal logic, which study formal and informal
+   logical reasoning.^[8]^[9]^[10] Traditionally, logical reasoning was
+   primarily associated with deductive reasoning studied by formal
+   logic.^[11] But in a wider sense, it also includes forms of
+   non-deductive reasoning, such as inductive, abductive, and analogical
+   reasoning.^[12]^[13]^[14]
+--
+   starts from the premises and arrives at the conclusion.^[18]^[24] But
+   the terms "argument" and "inference" are often used interchangeably in
+   logic. The purpose of arguments is to convince a person that something
+   is the case by providing reasons for this belief.^[25]^[26] Many
+   arguments in natural language do not explicitly state all the premises.
+--
+   The rules governing deductive reasoning are often expressed formally as
+   logical systems for assessing the correctness of deductive arguments.
+   Aristotelian logic is one of the earliest systems and was treated as
+   the canon of logic in the Western world for over two thousand years. It
+   is based on syllogisms, like concluding that "Socrates is a mortal"
+   from the premises "Socrates is a man" and "all men are
+   mortal".^[44]^[45]^[46] The currently dominant system is known as
+   classical logic and covers many additional forms of inferences besides
+   syllogisms. So-called extended logics are based on classical logic and
+   introduce additional rules of inference for specific domains. For
+   example, modal logic can be used to reason about what is possible and
+   what is necessary. Temporal logic can be used to draw inferences about
+   what happened before, during, and after an event.^[47]^[48]^[49]
+   Classical logic and its extensions rest on a set of basic logical
+   intuitions accepted by most logicians. They include the law of excluded
+   middle, the double negation elimination, the principle of explosion,
+--
+   explosion.^[52]^[53]^[54]
+
+   Deductive reasoning plays a central role in formal logic and
+   mathematics.^[1] In mathematics, it is used to prove mathematical
+   theorems based on a set of premises, usually called axioms. For
+--
+   conclusion. Fallacies often appear to be correct on the first
+   impression and thereby seduce people into accepting and using them. In
+   logic, the term "fallacy" does not mean that the conclusion is false.
+   Instead, it only means that some kind of error was committed on the way
+   to reaching the conclusion. An argument can be a fallacy even if, by a
+   fortuitous accident, the conclusion is true. Outside the field of
+   logic, the term "fallacy" is sometimes used in a slightly different
+   sense for a false belief or theory and not for an
+   argument.^[32]^[96]^[97]
+--
+   thinking. In this sense, it is roughly equivalent to critical thinking
+   and includes the capacity to select and apply the appropriate rules of
+   logic to specific situations.^[110] It encompasses a great variety of
+   abilities besides drawing conclusions from premises. Examples are to
+   understand a position, to generate and evaluate reasons for and against
+--
+   [edit]
+     * Argumentation theory
+     * Dialogical logic
+     * Epilogism
+     * List of rules of inference
+--
+    9. ^ Dowden 2020, p. 355.
+   10. ^ Girod 2014, p. 13.
+   11. ^ Craig 1996, Formal and informal logic.
+   12. ^ Bronkhorst et al. 2020, p. 1674-6.
+   13. ^ ^a ^b Enyeart, Baker & Vanharlingen 1980, p. 263–267.
+--
+   16. ^ Dowden 2020, p. 346-7, 432, 470.
+   17. ^ ^a ^b ^c Dowden 2020, p. 1.
+   18. ^ ^a ^b ^c ^d Audi 1999, Philosophy of logic.
+   19. ^ ^a ^b Honderich 2005, philosophical logic.
+   20. ^ Copi, Cohen & Rodych 2018, p. 4.
+   21. ^ Kenny 2018, p. 140.
+--
+   42. ^ ^a ^b Velleman 2006, p. 8, 103.
+   43. ^ Church 1996, p. 104.
+   44. ^ ^a ^b Jacquette 2006, p. 1–12, Introduction: Philosophy of logic
+       today.
+   45. ^ Smith 2020.
+--
+   49. ^ Goranko & Rumberg 2022.
+   50. ^ Shapiro & Kouri Kissel 2021.
+   51. ^ Haack 1996, p. 1, 4, 1. 'Alternative' in 'Alternative Logic'.
+   52. ^ ^a ^b Borchert 2006, Logic, Non-Classical.
+   53. ^ Moschovakis 2021.
+   54. ^ Priest, Tanaka & Weber 2018.
+--
+   Media. p. 22. ISBN 9780387728377.
+
+     Atwater, Lyman Hotchkiss (1867). Manual of Elementary Logic: Designed
+   Especially for the Use of Teachers and Learners. J. B. Lippincott.
+   p. 167.
+
+     Audi, Robert (1999). "Philosophy of logic". The Cambridge Dictionary
+   of Philosophy. Cambridge University Press. ISBN 9781107643796. Archived
+   from the original on 14 April 2021. Retrieved 29 December 2021.
+--
+   Archived from the original on 8 January 2022. Retrieved 8 January 2022.
+
+     Borchert, Donald (2006). "Logic, Non-Classical". Macmillan
+   Encyclopedia of Philosophy, 2nd Edition. Macmillan. ISBN 9780028657905.
+
+--
+   Press. p. 37. ISBN 9781482238099.
+
+     Church, Alonzo (1996). Introduction to Mathematical Logic. Princeton
+   University Press. p. 104. ISBN 9780691029061.
+
+--
+
+     Copi, Irving M.; Cohen, Carl; Rodych, Victor (3 September 2018).
+   Introduction to Logic. Routledge. ISBN 9781351386975.
+
+     Cottrell, Stella (14 March 2017). Critical Thinking Skills: Effective
+--
+   ISBN 9781350314672.
+
+     Craig, Edward (1996). "Formal and informal logic". Routledge
+   Encyclopedia of Philosophy. Routledge. ISBN 9780415073103. Archived
+   from the original on 16 January 2021. Retrieved 29 December 2021.
+--
+   doi:10.1007/s11409-013-9099-2. S2CID 255162310.
+
+     Gabbay, Michael (4 September 2002). Logic With Added Reasoning.
+   Broadview Press. p. 15. ISBN 9781551114057.
+
+--
+   Press. ISBN 9781482243147.
+
+     Goranko, Valentin; Rumberg, Antje (2022). "Temporal Logic". The
+   Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford
+   University. Retrieved 24 January 2023.
+--
+   Routledge. p. 86. ISBN 9781317775393.
+
+     Groarke, Louis F. (2022). "Aristotle: Logic". Internet Encyclopedia
+   of Philosophy. Archived from the original on 29 December 2021.
+   Retrieved 1 January 2022.
+
+     Haack, Susan (1996). "1. 'Alternative' in 'Alternative Logic'".
+   Deviant Logic, Fuzzy Logic: Beyond the Formalism. Chicago and London:
+   University of Chicago Press. pp. 1, 4. ISBN 9780226311333.
+
+--
+   Lab, Stanford University. Retrieved 18 January 2023.
+
+     Honderich, Ted (2005). "philosophical logic". The Oxford Companion to
+   Philosophy. Oxford University Press. ISBN 9780199264797. Archived from
+   the original on 29 January 2021. Retrieved 2 January 2022.
+--
+   ISBN 9780198841531.
+
+     Jacquette, Dale (2006). "Introduction: Philosophy of logic today".
+   Philosophy of Logic. North Holland. pp. 1–12. ISBN 9780444515414.
+   Archived from the original on 7 December 2021. Retrieved 29 December
+   2021.
+--
+
+     Johnson, Gregory (6 January 2017). Argument and Inference: An
+   Introduction to Inductive Logic. MIT Press. p. 2. ISBN 9780262035255.
+
+     Johnson-Laird, Phil (30 December 2009). "Deductive reasoning". WIREs
+--
+   p. 100. ISBN 9781487588618.
+
+     Kohar, Richard (15 June 2016). Basic Discrete Mathematics: Logic, Set
+   Theory, And Probability. World Scientific Publishing Company. pp. 54,
+   57. ISBN 9789814730419.
+--
+   Realism/Antirealism Debate. Springer Nature. p. 83. ISBN 9783030580476.
+
+     Moschovakis, Joan (2021). "Intuitionistic Logic: 1. Rejection of
+   Tertium Non Datur". The Stanford Encyclopedia of Philosophy.
+   Metaphysics Research Lab, Stanford University. Retrieved 11 December
+--
+
+     Norman, J.; Sylvan, R. (6 December 2012). Directions in Relevant
+   Logic. Springer Science & Business Media. p. 419. ISBN 9789400910058.
+
+     Nunes, Terezinha (5 October 2011). "Logical Reasoning and Learning".
+--
+   Springer Science & Business Media. pp. 2066–9. ISBN 9781441914279.
+
+     Nute, Donald (6 December 2012). Defeasible Deontic Logic. Springer
+   Science & Business Media. p. 82. ISBN 9789401588515.
+
+--
+
+     Priest, Graham; Tanaka, Koji; Weber, Zach (2018). "Paraconsistent
+   Logic". The Stanford Encyclopedia of Philosophy. Metaphysics Research
+   Lab, Stanford University. Retrieved 14 December 2021.
+
+--
+   the Philosophy of Normativity. OUP Oxford. p. 192. ISBN 9780191610219.
+
+     Salmon, Merrilee (2012). Introduction to Logic and Critical Thinking.
+   Cengage Learning. ISBN 978-1133711643.^[permanent dead link‍]
+
+--
+   Lang. p. 15. ISBN 9781433107801.
+
+     Shapiro, Stewart; Kouri Kissel, Teresa (2021). "Classical Logic". The
+   Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford
+   University. Archived from the original on 3 May 1998. Retrieved 4
+   December 2021.
+
+     Smith, Robin (2020). "Aristotle's Logic". The Stanford Encyclopedia
+   of Philosophy. Metaphysics Research Lab, Stanford University. Archived
+   from the original on 26 December 2021. Retrieved 1 January 2022.
+--
+   Categories:
+     * Reasoning
+     * Concepts in logic
+
+   Hidden categories:

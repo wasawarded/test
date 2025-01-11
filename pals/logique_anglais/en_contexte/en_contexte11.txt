@@ -1,0 +1,17 @@
+     * RESOLVED: CLOSE ISSUE 25. Addressed by SWC document.
+     * RESOLVED: close ISSUE-27 with the understanding that neither RIF
+       Core nor RIF BLD will have constraint logic programming.
+     * RESOLVED: close ISSUE-28 with the understanding that RIF Core (as
+       defined earlier today) does not have the problems which caused us
+--
+
+   Resolutions from Telecon 9 0ctober 2007
+     * RESOLVED: the name of the dialect is RIF basic logic dialect and
+       the short notation is RIF-BLD
+     * RESOLVED: to split RIF Compatibility from BLD and publish 2 drafts
+--
+       task forces in RIF, one focusing on a logical dialect and the other
+       one focusing on a production rules dialect
+     * RESOLVED: Rename the current "RIF Core" draft: "RIF basic logic
+       dialect"
+     * RESOLVED: Create a "RIF basic PR dialect"

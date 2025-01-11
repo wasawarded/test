@@ -1,0 +1,492 @@
+<html>
+<head>
+<BASE HREF="http://www.linuxmag-france.org/old/lm7/initgtk.html">
+
+<title>Initiation ˆ GTK+ (2&egrave;me partie) - Linux Magazine France No 7</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="D&eacute;cid&eacute;ment, les choses &eacute;voluent plut&ocirc;t vite dans le monde de GTK+. Dans l'article pr&eacute;c&eacute;dent, je disais que la version 1.2.x de GTK+ &eacute;tait encore consid&eacute;r&eacute;e comme instable et voici que la version stable de Gimp se met &agrave; l'utiliser. Et il y a fort &agrave; parier qu'au moment o&ugrave; vous lirez ces lignes, la plupart des applications majeures utilisant GTK+ seront pass&eacute;es &agrave; la version 1.2.x. J'axerais donc cette initiation sur les derni&egrave;res versions. Nous allons voir aujourd'hui comment disposer les widgets les uns par rapports aux autres." 1="modele - Linux Magazine France No 7">
+</head>
+
+<body bgcolor="#FFFFFF" link="#000099">
+<h2> <font color="#000066" face="Arial, Helvetica, sans-serif">Initiation 
+        &agrave; GTK+ (2&egrave;me partie)</font> </h2>
+      <p><font face="Arial, Helvetica, sans-serif" color="#000066"><b>D&eacute;cid&eacute;ment, 
+        les choses &eacute;voluent plut&ocirc;t vite dans le monde de GTK+. Dans 
+        l'article pr&eacute;c&eacute;dent, je disais que la version 1.2.x de GTK+ 
+        &eacute;tait encore consid&eacute;r&eacute;e comme instable et voici que 
+        la version stable de Gimp se met &agrave; l'utiliser. Et il y a fort &agrave; 
+        parier qu'au moment o&ugrave; vous lirez ces lignes, la plupart des applications 
+        majeures utilisant GTK+ seront pass&eacute;es &agrave; la version 1.2.x. 
+        J'axerais donc cette initiation sur les derni&egrave;res versions. Nous 
+        allons voir aujourd'hui comment disposer les widgets les uns par rapports 
+        aux autres.</b> </font>
+      <p align="center"><img src="images/InitGTK/logogtk.jpg" width="173" height="227"> 
+      <p><font color="#000066" size="-1" face="Arial, Helvetica, sans-serif"><b><font face="Verdana, Arial, Helvetica, sans-serif">Quelques 
+        widgets couramment utilis&eacute;s</font></b></font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Afin 
+        d'avoir des widgets &agrave; ranger les uns par rapport aux autres, nous 
+        allons tout d'abord faire un rappel et un approfondissement sur deux widgets 
+        particuli&egrave;rement utilis&eacute;s : les labels et les boutons.</font> 
+      <p><font color="#000066" size="-1" face="Arial, Helvetica, sans-serif"><b><font face="Verdana, Arial, Helvetica, sans-serif">Les 
+        Labels</font></b></font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Quand 
+        on construit une interface utilisateur, on a souvent besoin d'afficher 
+        des petits bouts de texte qui n'ont pas d'autres utilisations que d'&ecirc;tre 
+        lus. En GTK+, c'est le r&ocirc;le des "<i>GtkLabel</i>". Ces widgets sont 
+        tout simplement cr&eacute;&eacute;s par :</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">GtkWidget 
+        *gtk_label_new(const char *Texte);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Le 
+        param&egrave;tre '<i>Texte</i>' contient bien &eacute;videmment le texte 
+        que l'on souhaite affich&eacute;. Ce texte pourra &eacute;ventuellement 
+        &ecirc;tre chang&eacute; par un appel &agrave; la fonction :</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">void 
+        gtk_label_set_text(GtkLabel *Label, const char *NouveauTexte);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">o&ugrave; 
+        <i>Label </i>est le <i>GtkLabel</i> dont on veut modifier le texte, et 
+        <i>NouveauTexte</i> est ... le nouveau texte du Label !</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Je 
+        voudrais insister sur un point bien particulier de GTK+. Vous avez peut-&ecirc;tre 
+        remarqu&eacute; que les fonctions de la forme <i>gtk_..._new()</i> renvoient 
+        toutes un pointeur sur un <i>GtkWidget</i>, m&ecirc;me si ici, le widget 
+        cr&eacute;&eacute; est en fait un <i>GtkLabel</i>. Cela vient du fait 
+        que GTK+ a &eacute;t&eacute; cr&eacute;&eacute; en utilisant une hi&eacute;rarchie 
+        d'objets (comme quoi le C++ n'a pas invent&eacute; grand chose...). GTK+ 
+        renvoie donc le type le plus g&eacute;n&eacute;ral afin que l'on puisse 
+        choisir ensuite ce que l'on d&eacute;sire en faire. Dans notre cas, un 
+        <i>GtkLabel</i> est un <i>GtkMisc</i> qui est un <i>GtkWidget</i>. L'arbre 
+        de hi&eacute;rarchie des objets de GTK+ est pr&eacute;sent&eacute; dans 
+        le GTK Tutorial de Tony Gale et Ian Main.</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">En 
+        revanche la fonction <i>gtk_label_set_label</i> requiert que le premier 
+        param&egrave;tre soit bien un <i>GtkLabel</i> et pas autre chose. On devra 
+        donc faire un <i>casting</i> (un changement de type en bon fran&ccedil;ais) 
+        pour appeler cette fonction : <i>GtkWidget *Label;</i></font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Label 
+        = gtk_label_new("Ancien Texte");</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_label_set_text((GtkLabel 
+        *)Label, "Nouveau Texte");</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">ou 
+        mieux encore :</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_label_set_text(GTK_LABEL(Label), 
+        "Nouveau Texte");</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">La 
+        macro <i>GTK_LABEL()</i> (il en existe une &eacute;quivalente pour chaque 
+        widget de GTK+) fait essentiellement deux choses. Elle v&eacute;rifie 
+        d'abord que le pointeur pass&eacute; en param&egrave;tre peut effectivement 
+        &ecirc;tre cast&eacute; en un <i>GtkLabel</i> *, en v&eacute;rifiant qu'il 
+        appartient bien &agrave; la m&ecirc;me branche de la hi&eacute;rarchie 
+        d'objets que <i>GtkLabel </i>*. Puis elle effectue le casting proprement 
+        dit. C'est une tr&egrave;s bonne habitude d'utiliser et d'abuser de ces 
+        macros. Elles permettent un d&eacute;buggage simple et rapide. De plus, 
+        si GTK+ est compil&eacute; sans les options de d&eacute;buggage, ces macros 
+        deviennent juste un simple casting et ne p&eacute;nalisent donc pas la 
+        rapidit&eacute; d'&eacute;xecution du programme.</font> 
+      <p><font color="#000066" size="-1" face="Verdana, Arial, Helvetica, sans-serif"><b>Les 
+        Boutons</b></font> 
+      <p align="center"><img src="images/InitGTK/BOITES.jpg" width="107" height="60">
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Un 
+        autre widget bien utile est le bouton. Les bouton sont des objets rectangulaires 
+        qui r&eacute;agissent &agrave; un click de la souris et qui se mettent 
+        en surbrillance lorsque le pointeur de la souris passe dessus. La cr&eacute;ation 
+        d'un bouton est bien &eacute;videmment possible gr&acirc;ce &agrave; la 
+        fonction :</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">GtkWidget 
+        *gtk_button_new(void);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">qui 
+        cr&eacute;e un bouton vide. En effet, en regardant dans l'arbre hi&eacute;rarchique 
+        de GTK+, on peut s'apercevoir que les <i>GtkButtons</i> d&eacute;rivent 
+        des <i>GtkContainers</i> et peuvent donc contenir &agrave; peu pr&egrave;s 
+        n'importe quoi. Mais comme en g&eacute;n&eacute;ral, on souhaite qu'un 
+        bouton contienne tout simplement un label, on utilisera plus souvent :</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">GtkWidget 
+        *gtk_button_new_with_label(const char *label);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">qui 
+        cr&eacute;e un bouton avec un label &agrave; l'int&eacute;rieur.</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">C'est 
+        bien beau de savoir utiliser tous ces widgets, encore faut-il pouvoir 
+        les disposer de fa&ccedil;on assez harmonieuse.</font> 
+      <p><font color="#000066" size="-1" face="Arial, Helvetica, sans-serif"><b><font face="Verdana, Arial, Helvetica, sans-serif">Les 
+        Containers</font></b></font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">La 
+        plupart des widgets couramment utilis&eacute;s d&eacute;rivent de <i>GtkContainer</i>, 
+        et peuvent donc contenir un autre widget. On ne cr&eacute;e g&eacute;n&eacute;ralement 
+        pas directement des <i>GtkContainers</i>, mais des descendants de containers, 
+        par exemple pour placer une image dans un bouton. Pour inclure un widget 
+        dans un autre, on utilise la fonction :</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">void 
+        gtk_container_add(GtkContainer *container, GtkWidget *widget);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">o&ugrave; 
+        '<i>container</i>' est le contenant et '<i>widget</i>' le contenu. On 
+        peut &eacute;galement choisir le nombre de pixels s&eacute;parant le bord 
+        du widget du bord du container avec la fonction :</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">void 
+        gtk_container_set_border_width(GtkContainer *container, unsigned int LargeurDuBord);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Malheureusement 
+        les <i>GtkContainers</i> ne peuvent contenir qu'un seul autre widget, 
+        ce qui limite leur utilisation &agrave; des cas particuliers. Pour placer 
+        plus d'un widget &agrave; l'int&eacute;rieur d'un autre widget, on doit 
+        utiliser un autre moyen. Par exemple les Bo&icirc;tes.</font> 
+      <p><font color="#000066" size="-1" face="Arial, Helvetica, sans-serif"><b><font face="Verdana, Arial, Helvetica, sans-serif">Les 
+        Bo&icirc;tes</font></b></font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Les 
+        Bo&icirc;tes de GTK+ sont des empilements verticaux ou horizontaux de 
+        widgets. Pour les cr&eacute;er, on utilise selon l'orientation choisie 
+        :</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">GtkWidget* 
+        gtk_hbox_new(int homogene, int remplissage);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">ou</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">GtkWidget* 
+        gtk_vbox_new(int homogene, int remplissage);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Le 
+        param&egrave;tre '<i>homogene</i>' peut valoir soit <i>TRUE</i> soit <i>FALSE</i>. 
+        S'il vaut <i>TRUE</i>, tous les widgets utilisent la m&ecirc;me place 
+        dans l'empilement, sinon les widgets ont leur largeur (ou hauteur) par 
+        d&eacute;faut. Le param&egrave;tre '<i>remplissage</i>' d&eacute;finit 
+        le nombre de pixels &agrave; ajouter entre deux widgets cons&eacute;cutifs. 
+        Pour placer un widget dans une <i>GtkHBox</i> ou une <i>GtkVBox</i>, on 
+        utilise :</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">void 
+        gtk_box_pack_start(GtkBox *boite, GtkWidget *widget,int expand, int fill, 
+        unsigned</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">int 
+        padding);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">ou</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">void 
+        gtk_box_pack_end(GtkBox *boite, GtkWidget *widget,int expand, int fill, 
+        unsigned</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">int 
+        padding);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">suivant 
+        que l'on souhaite ins&eacute;rer le widget en haut (resp. &agrave; gauche) 
+        ou en bas (resp. &agrave; droite) de l'empilement. Le param&egrave;tre 
+        '<i>boite</i>' est bien s&ucirc;r le <i>GtkHBox</i> ou le <i>GtkVBox</i> 
+        qui doit contenir '<i>widget</i>'.</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Le 
+        param&egrave;tre '<i>expand</i>' contr&ocirc;le qui de la bo&icirc;te 
+        ou du widget doit adapter sa taille. S'il vaut <i>TRUE</i>, le widget 
+        est &eacute;tir&eacute; de fa&ccedil;on &agrave; occuper toute la place 
+        encore disponible dans la bo&icirc;te. S'il vaut <i>FALSE</i>, c'est la 
+        bo&icirc;te qui r&eacute;tr&eacute;cie.</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Le 
+        param&egrave;tre '<i>fill</i>' n'a de sens que si '<i>expand</i>' vaut 
+        <i>TRUE</i>. S'il vaut <i>TRUE</i>, c'est effectivement le widget qui 
+        est &eacute;tir&eacute;, sinon '<i>padding</i>' pixels sont ajout&eacute;s 
+        autour du widget avant que celui-ci ne soit &eacute;tir&eacute;. Si tout 
+        cela vous semble un peu compliqu&eacute;, vous pouvez toujours utiliser 
+        les fonctions :</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">void 
+        gtk_box_pack_start_defaults(GtkBox *boite, GtkWidget *widget);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">et</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">void 
+        gtk_box_pack_end_defaults(GtkBox *boite, GtkWidget *widget);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">qui 
+        sont des appels d&eacute;guis&eacute;s aux fonctions pr&eacute;c&eacute;dentes 
+        avec <i>expand = TRUE</i>, <i>fill = TRUE</i> et <i>padding = 0.</i></font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Voici 
+        un exemple qui clarifiera les choses :</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">/* 
+        boite.c */</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">#include 
+        &lt;gtk/gtk.h></font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">void 
+        main(int argc, char *argv[])</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">{</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">GtkWidget 
+        *Fenetre, *Boite, *Bouton;</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_init(&amp;argc, 
+        &amp;argv);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">/* 
+        La fen&ecirc;tre principale */</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Fenetre 
+        = gtk_window_new(GTK_WINDOW_TOPLEVEL);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_widget_show(Fenetre);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">/* 
+        La boite */</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Boite 
+        = gtk_hbox_new(FALSE, 5);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_container_add(GTK_CONTAINER(Fenetre), 
+        Boite);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_widget_show(Boite);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">/* 
+        Les boutons &agrave; l'int&eacute;rieur */</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Bouton 
+        = gtk_button_new_with_label("Bouton 1");</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_box_pack_start(GTK_BOX(Boite), 
+        Bouton, FALSE, FALSE, 0); gtk_widget_show(Bouton);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Bouton 
+        = gtk_button_new_with_label("Bouton 2");</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_box_pack_start(GTK_BOX(Boite), 
+        Bouton, TRUE, FALSE, 0); gtk_widget_show(Bouton);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Bouton 
+        = gtk_button_new_with_label("Bouton 3");</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_box_pack_start(GTK_BOX(Boite), 
+        Bouton, TRUE, TRUE, 10); gtk_widget_show(Bouton);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_main();</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">}</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Saisissez 
+        ce programme et compilez-le avec :</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gcc 
+        boite.c -o boite `gtk-config --cflags --libs`</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Ex&eacute;cutez 
+        le et essayez de redimensionner la fen&ecirc;tre principale pour voir 
+        comment les diff&eacute;rents param&egrave;tres agissent. Bien s&ucirc;r, 
+        n'h&eacute;sitez pas &agrave; changer les param&egrave;tres jusqu'&agrave; 
+        ce que vous ayez bien compris l'effet de chacun d'eux.</font> 
+      <p><font color="#000066" size="-1" face="Arial, Helvetica, sans-serif"><b><font face="Verdana, Arial, Helvetica, sans-serif">Les 
+        Tables</font></b></font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Il 
+        existe une m&eacute;thode de placement plus souple et plus puissante mais 
+        elle est un peu plus difficile &agrave; mettre en oeuvre. Il s'agit des 
+        '<i>GtkTable</i>'. Il faut s'imaginer un <i>GtkTable</i> comme un tableau 
+        avec un certain nombre de lignes et de colonnes. Et les widgets que l'on 
+        d&eacute;sire placer occupent les cases de ce tableau.</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Pour 
+        cr&eacute;er un <i>GtkTable</i>, on utilise la fonction :</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">GtkWidget 
+        *gtk_table_new(int Lignes, int Colonnes, int Homogene);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">o&ugrave; 
+        '<i>Lignes</i>' et '<i>Colonnes</i>' sont respectivement le nombre de 
+        lignes et de colonnes de notre tableau. Et '<i>Homogene</i>' est un param&egrave;tre 
+        bool&eacute;en qui ne peut donc prendre que les valeurs '<i>TRUE</i>' 
+        ou '<i>FALSE</i>'. Si '<i>Homogene</i>' vaut '<i>TRUE</i>', toutes les 
+        cases de notre tableau auront la m&ecirc;me hauteur et la m&ecirc;me largeur. 
+        Sinon, la taille des cases d&eacute;pend du widget le plus haut sur la 
+        m&ecirc;me ligne et du widget le plus large sur la m&ecirc;me colonne. 
+        Ainsi, l'appel suivant :</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_table_new(3, 
+        5, TRUE);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">cr&eacute;e 
+        un tableau de 3 lignes et 5 colonnes dont toutes les cases ont la m&ecirc;me 
+        taille :</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">0 
+        1 2 3 4 5</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">0 
+        +------+------+------+------+------+</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">| 
+        | | | | |</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">1 
+        +------+------+------+------+------+</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">| 
+        | | | | |</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">2 
+        +------+------+------+------+------+</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">| 
+        | | | | |</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">3 
+        +------+------+------+------+------+</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Les 
+        num&eacute;ros que j'ai plac&eacute;s en haut et &agrave; gauche du tableau 
+        vont nous aider &agrave; placer les widgets dans ce tableau.</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Pour 
+        placer un widget dans un <i>GtkTable</i>, on doit bien s&ucirc;r le cr&eacute;er, 
+        et ensuite -bien s&ucirc;r- l'attacher dans le<i> GtkTable</i> &agrave; 
+        l'aide de la fonction :</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">void 
+        gtk_table_attach(GtkTable *Table, GtkWidget *Widget,</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">int 
+        AbscisseGauche, int AbscisseDroite,</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">int 
+        OrdonneeHaute, int OrdonneeBasse,</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">int 
+        OptionsX, int OptionsY,</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">int 
+        RemplissageX, int RemplissageY);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Eh 
+        oui, cela fait pas mal de param&egrave;tres! Mais la puissance des <i>GtkTables</i> 
+        est &agrave; ce prix, et puis, avec un peu d'habitude, c'est vraiment 
+        moins compliqu&eacute; que cela en &agrave; l'air.</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Tout 
+        d'abord, les deux premiers param&egrave;tres '<i>Table</i>' et '<i>Widget</i>' 
+        sont respectivement le <i>GtkTable</i> et le <i>widget</i> que l'on souhaite 
+        placer dans le <i>GtkTable</i>.</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Les 
+        quatre suivants d&eacute;finissent les points d'ancrage de notre <i>widget</i> 
+        dans le <i>GtkTable</i>. En effet, un widget peut s'&eacute;tendre sur 
+        plus d'une case du tableau. Par exemple, si vous utilisez respectivement 
+        pour ces quatre param&egrave;tres les valeurs 2, 4, 1, 3, le widget sera 
+        plac&eacute; dans la table comme suit:</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">0 
+        1 2 3 4 5</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">0 
+        +------+------+------+------+------+</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">| 
+        | | | | |</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">1 
+        +------+------+------+------+------+</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">| 
+        | | | | |</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">2 
+        +------+------+ Widget +------+</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">| 
+        | | | | |</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">3 
+        +------+------+------+------+------+</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Les 
+        param&egrave;tres '<i>OptionsX</i>' et '<i>OptionsY</i>' contr&ocirc;lent 
+        comment le widget occupera la place qui lui est allou&eacute;e. Ils peuvent 
+        prendre comme valeur n'importe quelle combinaison des options <i>GTK_FILL</i>, 
+        <i>GTK_SHRIN</i>K et <i>GTK_EXPAND</i> combin&eacute;es par un <i>ou logique</i> 
+        (|).</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Si 
+        l'option <i>GTK_FILL</i> est utilis&eacute;e, le widget occupe toute la 
+        place disponible. Si l'option <i>GTK_SHRINK</i> est sp&eacute;cifi&eacute;e, 
+        le widget r&eacute;tr&eacute;cira en m&ecirc;me temps que la table. L'option 
+        <i>GTK_EXPAND</i> a le m&ecirc;me r&ocirc;le que le param&egrave;tre '<i>expand</i>' 
+        pour les bo&icirc;tes. Et les param&egrave;tres '<i>RemplissageX</i>' 
+        et '<i>RemplissageY</i>' remplissent le m&ecirc;me r&ocirc;le que le param&egrave;tre 
+        <i>padding</i> pour les bo&icirc;tes. C'est &agrave; dire qu'ils sp&eacute;cifient 
+        le nombre de pixels vides autour du widget.</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Comme 
+        pour les bo&icirc;tes, il existe une fonction simplifi&eacute;e pour placer 
+        un widget dans une table :</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">void 
+        gtk_table_attach_defaults(GtkTable *Table, GtkWidget *Widget,</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">int 
+        AbscisseGauche, int AbscisseDroite,</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">int 
+        OrdonneeHaute, int OrdonneeBasse);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">qui 
+        est exactement &eacute;quivalent &agrave; :</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">void 
+        gtk_table_attach(GtkTable *Table, GtkWidget *Widget,</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">int 
+        AbscisseGauche, int AbscisseDroite,</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">int 
+        OrdonneeHaute, int OrdonneeBasse,</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">GTK_FILL 
+        | GTK_EXPAND, GTK_FILL | GTK_EXPAND, 0, 0);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">mais 
+        souvent plus facile &agrave; utiliser.</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">L&agrave; 
+        encore un bon exemple clarifiera les choses.</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">/* 
+        table.c */</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">#include 
+        &lt;gtk/gtk.h></font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">int 
+        main(int argc, char *argv[])</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">{</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">GtkWidget 
+        *Fenetre;</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">GtkWidget 
+        *Table;</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">GtkWidget 
+        *Label;</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_init(&amp;argc, 
+        &amp;argv);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">/* 
+        La fenetre */</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Fenetre 
+        = gtk_window_new(GTK_WINDOW_</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">TOPLEVEL);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_widget_show(Fenetre);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">/* 
+        La table */</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Table 
+        = gtk_table_new(3, 5, FALSE);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_container_add(GTK_CONTAINER(Fenetre), 
+        Table);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_widget_show(Table);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">/* 
+        Les Labels */</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Label 
+        = gtk_label_new("Label (0, 0)->(1, 1)");</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_table_attach(GTK_TABLE(Table), 
+        Label, 0,1, 0,1,</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">GTK_FILL, 
+        GTK_FILL, 0, 0);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_widget_show(Label);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Label 
+        = gtk_label_new("Label (0, 1)->(2, 3)");</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_table_attach(GTK_TABLE(Table), 
+        Label, 0,2, 1,3,</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">GTK_FILL 
+        | GTK_EXPAND, GTK_FILL, 0, 0); gtk_widget_show(Label);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Label 
+        = gtk_label_new("Label (1, 0)->(2, 1)");</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_table_attach(GTK_TABLE(Table), 
+        Label, 1,2, 0,1,</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">GTK_FILL, 
+        GTK_FILL | GTK_EXPAND, 0, 0); gtk_widget_show(Label);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Label 
+        = gtk_label_new("Label (2, 0)->(4, 2)");</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_table_attach(GTK_TABLE(Table), 
+        Label, 2,4, 0,2,</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">GTK_FILL 
+        | GTK_EXPAND, GTK_FILL | GTK_EXPAND, 0, 0); gtk_widget_show(Label);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Label 
+        = gtk_label_new("Label (2, 2)->(4, 3)");</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_table_attach(GTK_TABLE(Table), 
+        Label, 2,4, 2,3,</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">GTK_FILL 
+        | GTK_EXPAND | GTK_SHRINK,</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">GTK_FILL 
+        | GTK_EXPAND, 0, 0);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_widget_show(Label);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Label 
+        = gtk_label_new("Label (4, 0)->(5, 3)");</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gtk_table_attach(GTK_TABLE(Table), 
+        Label, 4,5, 0,3,</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">GTK_FILL 
+        | GTK_EXPAND | GTK_SHRINK,</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">GTK_FILL 
+        | GTK_EXPAND | GTK_SHRINK, 0, 0); gtk_widget_show(Label);</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">/* 
+        Et maintenant la boucle principale d'attente des &eacute;v&eacute;nements 
+        */ gtk_main();</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">return 
+        0;</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">}</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Compilez 
+        ceci comme d'habitude avec :</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">gcc 
+        table.c -o table `gtk-config --cflags --libs`</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Amusez-vous 
+        &agrave; changer les param&egrave;tres de toutes les fonctions, afin de 
+        bien comprendre comment ils agissent.</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">Vous 
+        connaissez maintenant les principales fa&ccedil;ons de placer des widgets 
+        les uns dans les autres. La prochaine fois, nous continuerons notre exploration 
+        des widgets de GTK+. </font>
+      <p>&nbsp;
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">David 
+        Odin D&eacute;veloppeur GTK+, Auteur de GIRAM</font> 
+      <p><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">David.Odin@bigfoot.com</font> 
+<div align="center"> 
+  <hr>
+  <font size="-1" face="Arial, Helvetica, sans-serif">&copy; Copyright 2000 Diamond Editions/Linux magazine France. 
+  - Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.1or any later version published by the Free Software Foundation; A copy of the license is included in the section entitled &quot;GNU Free Documentation License&quot;.</font><br>
+</div>
+</body>
+
+<SCRIPT language="Javascript">
+<!--
+
+// FILE ARCHIVED ON 20030315184055 AND RETRIEVED FROM THE
+// INTERNET ARCHIVE ON 20051010012333.
+// JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+// ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+// SECTION 108(a)(3)).
+
+   var sWayBackCGI = "http://web.archive.org/web/20030315184055/";
+
+   function xLateUrl(aCollection, sProp) {
+      var i = 0;
+      for(i = 0; i < aCollection.length; i++)
+         if (aCollection[i][sProp].indexOf("mailto:") == -1 &&
+             aCollection[i][sProp].indexOf("javascript:") == -1)
+            aCollection[i][sProp] = sWayBackCGI + aCollection[i][sProp];
+   }
+
+   if (document.links)  xLateUrl(document.links, "href");
+   if (document.images) xLateUrl(document.images, "src");
+   if (document.embeds) xLateUrl(document.embeds, "src");
+
+   if (document.body && document.body.background)
+      document.body.background = sWayBackCGI + document.body.background;
+
+//-->
+
+</SCRIPT>
+</html>

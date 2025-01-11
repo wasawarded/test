@@ -1,0 +1,30 @@
+   example is in the SAT-based analysis of quantification information flow
+   programs, where efficient methods for conditioned model counting using
+   d-DNNF were exploited [5]. Another example is the Probabilistic Logic
+   Programming framework, ProbLog [6]. Here, the model counters were used
+   to provide probabilistic inference for targeted queries compiled from a
+   given logic program.
+
+   Finally, since the original publication of this work in 2012 by Muise
+--
+
+   For stable model counting, every model represented by the compiled
+   theory must be stable: a notion in logic programming that stipulates
+   that the truth of atoms cannot be self supporting given the logic
+   program’s rules [9]. To accommodate for stable models, DSHARP was
+   modified to include an internal propagator that rules out any model
+--
+    6. Fierens, D.; den Broeck, G. V.; Renkens, J.; Shterionov, D. S.;
+       Gutmann, B.; Thon, I.; Janssens, G.; and Raedt, L. D. 2015.
+       Inference and learning in probabilistic logic programs using
+       15(3):358–401.
+    7. Aziz, R. A.; Chu, G.; Muise, C.; and Stuckey, P. 2015. Stable model
+       counting and its application in probabilistic logic programming. In
+       The 29th AAAI Conference on Artificial Intelligence.
+    8. Aziz, R. A.; Chu, G.; Muise, C.; and Stuckey, P. 2015. Projected
+--
+       Applications of Satisfiability Testing.
+    9. Gelfond, M., and Lifschitz, V. 1988. The stable model semantics for
+       logic programming. In Logic Programming, Proceedings of the Fifth
+       International Conference and Symposium, Seattle, Washington, August
+       15-19, 1988 (2 Volumes), 1070–1080.

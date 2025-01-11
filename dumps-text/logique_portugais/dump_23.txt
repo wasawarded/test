@@ -1,0 +1,185 @@
+
+     * [1]Concursos
+     * [2]OAB
+     * [3]ENEM & Vestibulares
+     * [4]Carreiras Militares
+     * [5]Carreiras Policiais
+
+   (BUTTON) Entrar
+   [6]Logo Questões Estratégicas
+     * [7]Provas
+     * [8]Simulados
+     * [9]Planos de Estudo
+     * [10]Resumos
+     * [11]Questões
+     *
+
+   [12]×
+     * [13]Disciplinas
+     * [14]Instituições
+     * [15]Cargos
+     * [16]Bancas Organizadoras
+     *
+     * [17]Planos
+     * [18]Contato
+     * [19]Blog
+     *
+     * [20]Modo Noturno [21]Modo Normal
+
+   [22]×
+     * [23]Provas
+     * [24]Simulados
+     * [25]Resumos
+     * [26]Questões
+     * [27]Planos de Estudo
+     * [28]Disciplinas
+     * [29]Instituições
+     * [30]Cargos
+     * [31]Bancas Organizadoras
+     *
+     * [32]Planos
+     * [33]Contato
+     *
+     * [34]Modo Noturno [35]Modo Normal
+     * Sites
+     * [36]Concursos Públicos
+     * [37]OAB
+     * [38]ENEM & Vestibulares
+     * [39]Carreiras Militares
+     * [40]Carreiras Policiais
+
+Questão 42 do Concurso Universidade Federal do Sul e Suldeste do Pará
+(UNIFESSPA) - Bibliotecário - CEPS-UFPA (2014)
+
+[41]Biblioteconomia [42]Processos Técnicos | [43]Busca e Recuperação da
+Informação
+
+[44]Universidade Federal do Sul e Suldeste do Pará (UNIFESSPA) - Diversos
+Cargos - CEPS-UFPA (2014)
+
+   Quanto aos sistemas de recuperação da informação (SRIs) é correto
+   afirmar:
+     * A O modelo booleano de recuperação utilizado nos SRIs baseia-se na
+       comparação parcial entre a representação dos documentos e a
+       representação da consulta do usuário.
+     * B Nos exemplos “rio Tocantins”, amazon? e inter*, os símbolos
+       (“...”, ?, *) são operadores lógicos do modelo booleano utilizados
+       em sistemas de recuperação da informação.
+     * C Relevance Feedback é uma técnica de recuperação da informação,
+       utilizada também no modelo probabilístico aplicado pelos SRIs.
+     * D O modelo probabilístico utilizado nos SRIs para recuperação da
+       informação, não permite o refinamento da busca pelo usuário.
+     * E O modelo vetorial de recuperação da informação baseia-se na busca
+       da informação pela expressão lógica de termos indexados na base.
+
+   (BUTTON) Resolver
+     * (BUTTON)
+     *
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+
+Questões relacionadas ao concurso da Universidade Federal do Sul e Suldeste
+do Pará (UNIFESSPA) Bibliotecário
+
+     * [45]Todas as questões da prova Universidade Federal do Sul e
+       Suldeste do Pará (UNIFESSPA) - Bibliotecário - CEPS-UFPA (2014)
+     * [46]Questões de Biblioteconomia
+     * [47]Questões de Processos Técnicos
+     * [48]Questões de Busca e Recuperação da Informação
+     * [49]Questões da banca CEPS-UFPA
+     * [50]Questões para Bibliotecário
+
+     * [51]Questões
+     * [52]Provas
+     * [53]Disciplinas
+     * [54]Instituições
+     * [55]Bancas Organizadoras
+     * [56]Cargos
+
+     * [57]Cadastro
+     * [58]Login
+     * [59]Planos de Estudo
+     * [60]Simulados
+     * [61]Resumos
+     * [62]Planos
+     * [63]Contato
+
+   [64]Baixe o app no Google Play
+
+   © Questões Estratégicas Todos os direitos reservados [65]Termos de Uso
+
+Références
+
+   Liens visibles :
+   1. https://www.questoesestrategicas.com.br/concursos-publicos
+   2. https://www.questoesestrategicas.com.br/oab
+   3. https://www.questoesestrategicas.com.br/enem
+   4. https://www.questoesestrategicas.com.br/carreiras-militares
+   5. https://www.questoesestrategicas.com.br/carreiras-policiais
+   6. https://www.questoesestrategicas.com.br/
+   7. https://www.questoesestrategicas.com.br/provas
+   8. https://www.questoesestrategicas.com.br/simulados
+   9. https://www.questoesestrategicas.com.br/planos-de-estudo
+  10. https://www.questoesestrategicas.com.br/resumos
+  11. https://www.questoesestrategicas.com.br/questoes
+  12. file:///tmp/lynxXXXXfkeM1F/L18951-4375TMP.html
+  13. https://www.questoesestrategicas.com.br/disciplinas
+  14. https://www.questoesestrategicas.com.br/instituicoes
+  15. https://www.questoesestrategicas.com.br/cargos
+  16. https://www.questoesestrategicas.com.br/bancas
+  17. https://www.questoesestrategicas.com.br/planos#default
+  18. https://www.questoesestrategicas.com.br/contato
+  19. https://www.questoesestrategicas.com.br/blog
+  20. file:///tmp/lynxXXXXfkeM1F/L18951-4375TMP.html
+  21. file:///tmp/lynxXXXXfkeM1F/L18951-4375TMP.html
+  22. file:///tmp/lynxXXXXfkeM1F/L18951-4375TMP.html
+  23. https://www.questoesestrategicas.com.br/provas
+  24. https://www.questoesestrategicas.com.br/simulados
+  25. https://www.questoesestrategicas.com.br/resumos
+  26. https://www.questoesestrategicas.com.br/questoes
+  27. https://www.questoesestrategicas.com.br/planos-de-estudo
+  28. https://www.questoesestrategicas.com.br/disciplinas
+  29. https://www.questoesestrategicas.com.br/instituicoes
+  30. https://www.questoesestrategicas.com.br/cargos
+  31. https://www.questoesestrategicas.com.br/bancas
+  32. https://www.questoesestrategicas.com.br/planos
+  33. https://www.questoesestrategicas.com.br/contato
+  34. file:///tmp/lynxXXXXfkeM1F/L18951-4375TMP.html
+  35. file:///tmp/lynxXXXXfkeM1F/L18951-4375TMP.html
+  36. https://www.questoesestrategicas.com.br/concursos-publicos
+  37. https://www.questoesestrategicas.com.br/oab
+  38. https://www.questoesestrategicas.com.br/enem
+  39. https://www.questoesestrategicas.com.br/carreiras-militares
+  40. https://www.questoesestrategicas.com.br/carreiras-policiais
+  41. https://www.questoesestrategicas.com.br/assuntos/biblioteconomia
+  42. https://www.questoesestrategicas.com.br/questoes/busca/assunto/processos-tecnicos
+  43. https://www.questoesestrategicas.com.br/questoes/busca/assunto/busca-e-recuperacao-da-informacao
+  44. https://www.questoesestrategicas.com.br/provas/ver/unifesspa-bibliotecario-2014-ceps-ufpa
+  45. https://www.questoesestrategicas.com.br/questoes/busca/concurso/unifesspa-bibliotecario-2014-ceps-ufpa
+  46. https://www.questoesestrategicas.com.br/questoes/busca/disciplina/biblioteconomia
+  47. https://www.questoesestrategicas.com.br/questoes/busca/assunto/processos-tecnicos
+  48. https://www.questoesestrategicas.com.br/questoes/busca/assunto/busca-e-recuperacao-da-informacao
+  49. https://www.questoesestrategicas.com.br/questoes/busca/banca/ceps-ufpa
+  50. https://www.questoesestrategicas.com.br/questoes/busca/cargo/bibliotecario
+  51. https://www.questoesestrategicas.com.br/questoes
+  52. https://www.questoesestrategicas.com.br/provas
+  53. https://www.questoesestrategicas.com.br/disciplinas
+  54. https://www.questoesestrategicas.com.br/instituicoes
+  55. https://www.questoesestrategicas.com.br/bancas
+  56. https://www.questoesestrategicas.com.br/cargos
+  57. https://www.questoesestrategicas.com.br/usuario/login/usuario
+  58. https://www.questoesestrategicas.com.br/usuario/login/usuario
+  59. https://www.questoesestrategicas.com.br/planos-de-estudo
+  60. https://www.questoesestrategicas.com.br/simulados
+  61. https://www.questoesestrategicas.com.br/resumos
+  62. https://www.questoesestrategicas.com.br/planos
+  63. https://www.questoesestrategicas.com.br/contato
+  64. https://play.google.com/store/apps/details?id=br.com.questoesestrategicas
+  65. https://www.questoesestrategicas.com.br/outros/termos/privacidade
+
+   Liens cachés :
+  67. file://localhost/tmp/lynxXXXXfkeM1F/L18951-4375TMP.html
+  68. https://www.facebook.com/questoesestrategicas/
+  69. https://twitter.com/qestrategicas
+  70. https://www.instagram.com/questoesestrategicas/

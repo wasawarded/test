@@ -1,0 +1,5 @@
+ang="en"><head><title data-rh="true">Introdução à Lógica Formal. A lógica é o estudo dos argumentos, a… | 
+data-rh="true" name="title" content="Introdução à Lógica Formal. A lógica é o estudo dos argumentos, a… | 
+="true" property="og:title" content="Introdução à Lógica Formal"/><meta data-rh="true" property="al:androi
+meta data-rh="true" name="description" content="A lógica é o estudo dos argumentos, a ciência que separa q
+ta-rh="true" property="og:description" content="A lógica é o estudo dos argumentos, a ciência que separa q

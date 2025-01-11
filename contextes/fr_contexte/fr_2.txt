@@ -1,0 +1,517 @@
+          + 2.3 Philosophique
+          + 2.4 Informatique
+     * 3 Grands domaines de la logique
+       (BUTTON) Afficher / masquer la sous-section Grands domaines de la
+       logique
+          + 3.1 Logique syllogistique
+          + 3.2 Logique propositionnelle
+          + 3.3 Calcul des prédicats
+          + 3.4 Logique modale
+          + 3.5 Logique philosophique
+     * 4 Notions élémentaires de logique formelle
+       (BUTTON) Afficher / masquer la sous-section Notions élémentaires de
+       logique formelle
+          + 4.1 Syntaxes
+          + 4.2 Quantification
+          + 4.3 Égalité
+     * 5 Logique non binaire
+     * 6 Bibliographie
+     * 7 Notes et références
+--
+   [ ] Basculer la table des matières
+
+Logique
+
+   [ ] 164 langues
+--
+   Page d’aide sur l’homonymie
+
+   Pour les articles homonymes, voir Logique (homonymie).
+   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
+   savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
+--
+   des références à l'aide d'appels de notes.
+   [220px-Gregor_Reisch%2C_Margarita_Philosophica%2C_Typus_Logice.jpg]
+   Gregor Reisch, « La logique présente ses thèmes centraux », Margarita
+   Philosophica (de), 1503/08 (?). Les deux chiens veritas et falsitas
+   courent derrière le lièvre problema, la logique se presse armée de son
+   épée syllogismus. En bas à gauche se trouve Parménide dans une grotte,
+   grâce auquel la logique aurait été introduite dans la philosophie.
+
+   La logique — du grec λογική / logikḗ (adjectif dérivé de λόγος / lógos,
+   « raison, langage, raisonnement »), sous-entendu τέχνη / tékhnē :
+   « l'art du raisonnement », — est, dans une première approche, l'étude
+--
+   première fois par Xénocrate^[1].
+
+   La logique antique se décompose d'abord en dialectique et rhétorique.
+
+   Elle est depuis l'Antiquité l'une des grandes disciplines de la
+--
+   Les travaux de George Boole, William Stanley Jevons, Gottlob Frege ont
+   permis depuis le XIX^e siècle le développement fulgurant d'une approche
+   mathématique de la logique. Sa convergence opérée avec l'informatique
+   depuis la fin du XX^e siècle lui a donné un regain de vitalité.
+
+--
+
+   [modifier | modifier le code]
+   Article détaillé : Histoire de la logique.
+
+Antiquité
+--
+   [modifier | modifier le code]
+
+   La logique est à l'origine de la recherche de règles générales et
+   formelles permettant de distinguer un raisonnement concluant de celui
+   qui ne l'est pas. Elle trouve ses premiers tâtonnements dans les
+--
+   envol.
+
+   La logique a très tôt été utilisée contre elle-même, c'est-à-dire
+   contre les conditions mêmes du discours : le sophiste Gorgias l'utilise
+   dans son Traité du non-être^[2] afin de prouver qu'il n'y a pas
+   d'ontologie possible : « ce n'est pas l'être qui est l'objet de nos
+   pensées » : la vérité matérielle de la logique est ainsi ruinée. Le
+   langage acquiert ainsi sa propre loi, celle de la logique, indépendante
+   de la réalité. Mais les sophistes ont été écartés de l'histoire de la
+   philosophie (sophiste a pris un sens péjoratif), si bien que la
+   logique, dans la compréhension qu'on en a eu par exemple au Moyen Âge,
+   est restée soumise à la pensée de l'être.
+
+--
+
+   Au XVII^e siècle, le philosophe Gottfried Wilhelm Leibniz réalise des
+   recherches fondamentales en logique qui révolutionnent profondément la
+   logique aristotélicienne. Il se réclame constamment de la tradition des
+   syllogismes d'Aristote^[3] et tente de l'intégrer à son propre
+   système^[4]. Il est le premier à imaginer et à développer une logique
+   formelle.
+
+   Emmanuel Kant, quant à lui, définit la logique comme « une science qui
+   expose dans le détail et démontre avec rigueur les règles formelles de
+   toute pensée »^[5]. Les six œuvres d'Aristote regroupées sous le titre
+--
+   Analysis of Logic^[6], puis An Investigation Into the Laws of Thought,
+   on Which are Founded the Mathematical Theories of Logic and
+   Probabilities^[7]. Boole y développe une nouvelle forme de logique, à
+   la fois symbolique et mathématique. Son but est de traduire des idées
+   et des concepts en expressions et équations, de leur appliquer certains
+   calculs et de traduire le résultat en termes logiques, marquant ainsi
+   le début de la logique moderne, fondée sur une approche algébrique et
+   sémantique, que l'on a appelée plus tard algèbre de Boole en son
+   honneur.
+--
+   [modifier | modifier le code]
+
+   De manière très générale, il existe quatre approches de la logique :
+
+Historique
+--
+
+          Cette première approche met l'accent sur l’évolution et le
+          développement de la logique, en insistant tout particulièrement
+          sur la syllogistique aristotélicienne et les tentatives, depuis
+          Leibniz, de faire de la logique un véritable calcul
+          algorithmique. Cette approche historique est tout
+          particulièrement intéressante pour la philosophie car aussi bien
+          Aristote, les Stoïciens ou Leibniz ont travaillé comme
+          philosophes et comme logiciens, tout au long de l'histoire de la
+          logique.
+
+Mathématique
+
+   [modifier | modifier le code]
+   Article détaillé : Logique mathématique.
+
+          La logique mathématique contemporaine est liée aux
+          mathématiques, à l’informatique et à l'ingénierie. L’approche
+          mathématique a une position qui est un peu particulière d'un
+          point de vue épistémologique, puisqu'elle est à la fois un outil
+          de définition des mathématiques, et une branche de ces mêmes
+          mathématiques, donc un objet.
+--
+          essentiellement le langage propositionnel, reposent sur un
+          outillage d’analyse et argumentatif provenant, d'une part des
+          développements logiques réalisés au cours de l'histoire de la
+          philosophie et, d'autre part, des développements récents de la
+          logique mathématique. Par ailleurs, la philosophie et surtout la
+          philosophie de la logique se donnent pour tâche d’éclairer les
+          concepts fondamentaux et les méthodes de la logique.
+
+Informatique
+--
+          artificielle^[8]. L'approche informatique est aujourd'hui
+          cruciale car, en essayant de mécaniser les raisonnements, voire
+          de les automatiser, la logique et les mathématiques vivent une
+          véritable révolution depuis la fin du XX^e siècle. Et notamment
+          à la suite de l'exploitation de la correspondance
+          preuve-programme. Les conséquences épistémologiques de ces
+          développements sont encore largement insoupçonnées^[9].
+
+Grands domaines de la logique
+
+   [modifier | modifier le code]
+
+Logique syllogistique
+
+   [modifier | modifier le code]
+   Articles détaillés : Logique traditionnelle, Syllogisme et Aristote.
+
+   L'Organon est le principal ouvrage de logique d'Aristote, comprenant
+   notamment les Premiers Analytiques ; il constitue le premier travail
+   explicite de logique formelle, avec notamment l'introduction de la
+   syllogistique^[10].
+
+--
+   entièrement élaboré^[réf. nécessaire]. Cependant, Aristote n'a pas été
+   le seul, ni le premier : les stoïciens ont proposé un système de
+   logique propositionnelle qui a été étudiée par les logiciens médiévaux.
+   En outre, le problème de généralité multiple a été reconnu à l'époque
+   médiévale.
+
+Logique propositionnelle
+
+   [modifier | modifier le code]
+--
+   formules représentent des propositions qui peuvent être formées en
+   combinant les propositions atomiques^[11] et en utilisant les
+   connecteurs logiques, et dans lequel un système de règles de
+   démonstration formelle établit certains « théorèmes ».
+
+--
+   Article détaillé : Calcul des prédicats.
+   Le Begriffschrift de Gottlob Frege a introduit la notion de
+   quantificateurs dans une notation logique. Le Begriffschrift de Gottlob
+   Frege a introduit la notion de quantificateurs dans une notation
+   logique, qui représente ici la formule
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">∀</mi>
+--
+
+   Un calcul des prédicats est un système formel, qui peut être soit la
+   logique du premier ordre, soit la logique du second ordre, soit la
+   logique d'ordre supérieur, soit la logique infinitaire. Il exprime par
+   la quantification un large échantillon de propositions du langage
+   naturel. Par exemple, le paradoxe du barbier de Bertrand Russell, «il y
+--
+   la conjonction, l'implication, la négation, et l'équivalence.
+
+Logique modale
+
+   [modifier | modifier le code]
+   Article détaillé : Logique modale.
+
+   Dans le langage naturel, une modalité est une flexion ou un ajout pour
+--
+   affirmation est satisfaite.
+
+   En logique formelle, une logique modale est une logique étendue par
+   l'adjonction d'opérateurs, qui sont appliqués aux propositions pour en
+   modifier le sens.
+
+Logique philosophique
+
+   [modifier | modifier le code]
+
+   La logique philosophique traite des descriptions formelles du langage
+   naturel. Ces philosophes considèrent que l'essentiel du raisonnement
+   quotidien peut être transcrit en logique, si une ou des méthode(s)
+   parvient (parviennent) à traduire le langage ordinaire dans cette
+   logique. La logique philosophique est essentiellement une extension de
+   la logique traditionnelle antérieure à la logique mathématique et
+   s'intéresse à la connexion entre le langage naturel et la logique.
+
+   Par conséquent, les logiciens philosophiques ont grandement contribué
+   au développement des logiques non standard (par exemple, les logiques
+   libres, les logiques temporelles) ainsi qu'aux diverses extensions de
+   la logique (par exemple les logiques modales) et à la sémantique de ces
+   logiques (par exemple, le supervaluationisme (en) de Kripke dans la
+   sémantique de la logique).
+
+Notions élémentaires de logique formelle
+
+   [modifier | modifier le code]
+
+   Un langage logique est défini par une syntaxe, c'est-à-dire un système
+   de symboles et de règles pour les combiner sous forme de formules. De
+   plus, une sémantique est associée au langage. Elle permet de
+--
+   en construisant des démonstrations.
+
+   La logique comprend classiquement :
+     * la logique des propositions (aussi appelée calcul des
+       propositions) ;
+     * la logique des prédicats, qui contient des notations pour des
+       entités avec des quantifications sur ces entités,
+
+   auxquelles s'ajoute :
+     * la logique combinatoire basée sur les notions de fonction et
+       d'application, en lien avec le lambda-calcul et la logique
+       intuitionniste.
+
+--
+   [modifier | modifier le code]
+
+   La syntaxe de la logique des propositions est fondée sur des variables
+   de propositions appelées également atomes que nous notons avec des
+   lettres minuscules (p, q, r, s, etc.) Ces symboles représentent des
+--
+   leur vérité : elles peuvent être soit vraies, soit fausses, mais on
+   peut aussi ne rien vouloir dire sur leur statut. Ces variables sont
+   combinées au moyen de connecteurs logiques qui sont, par exemple :
+    1. Le connecteur binaire disjonctif (ou), de symbole : ∨ ;
+    2. Le connecteur binaire conjonctif (et), de symbole : ∧ ;
+--
+   Ces variables forment alors des formules complexes.
+
+   La syntaxe de la logique du deuxième ordre, contrairement à celle du
+   premier ordre, considère :
+     * les termes : représentant les objets étudiés ;
+--
+   de la sémantique et diffère selon le langage envisagé.
+
+   En logique traditionnelle (appelée aussi logique classique ou logique
+   du « tiers exclus »), une formule est soit vraie, soit fausse. Plus
+   formellement, l'ensemble des valeurs de vérité est un ensemble B de
+--
+   Article détaillé : Calcul des prédicats.
+
+   On introduit essentiellement deux quantificateurs dans la logique
+   moderne :
+     * ∃ : il existe au moins un, appelé « quantificateur existentiel » ;
+--
+
+   Grâce à la négation, les quantificateurs existentiels et universels
+   jouent des rôles duaux et donc, en logique classique, on peut fonder le
+   calcul des prédicats sur un seul quantificateur.
+
+--
+   la théorie préserve certaines bonnes propriétés comme le théorème de
+   complétude du calcul des prédicats classique. On considère donc très
+   souvent que l'égalité fait partie de la logique de base et l'on étudie
+   alors le calcul des prédicats égalitaire.
+
+--
+   axiomes (comme ceux de la théorie des ensembles).
+
+Logique non binaire
+
+   [modifier | modifier le code]
+--
+   bivalence soit clairement remis en question de plusieurs façons
+   différentes :
+     * La première façon considère des logiques trivalentes qui ajoutent
+       une valeur indéterminée, elles sont dues à Stephen Cole Kleene, Jan
+       Łukasiewicz et Bochvar et se généralisent en logiques polyvalentes.
+     * La deuxième façon insiste sur le démontrable. Il y a donc ce qui
+       est démontrable et le reste. Dans ce « reste », il peut y avoir des
+--
+       démontrable et des propositions au statut incertain, ni
+       démontrable, ni réfutable. Cette approche, due en particulier à
+       Gödel, est tout à fait compatible avec la logique classique
+       bivalente, et on peut même dire que l'un des apports de la logique
+       du XX^e siècle est d'avoir analysé clairement la différence entre
+       la démontrabilité et la validité, qui, elle, repose sur une
+       interprétation en termes de valeurs de vérité. Mais la logique
+       intuitionniste se fonde elle sur une interprétation des
+       démonstrations, la sémantique de Heyting — ainsi une preuve de
+--
+       cependant après coup donner des sémantiques qui interprètent les
+       énoncés, comme celle de Beth, ou celle de Kripke dans laquelle le
+       concept de base est celui de monde possible. La logique
+       intuitionniste est également utilisée pour analyser le caractère
+       constructif des démonstrations en logique classique. La logique
+       linéaire va encore plus loin dans l'analyse des démonstrations.
+     * La troisième façon est due à Lotfi Zadeh qui élabore une logique
+       floue (fuzzy logic), dans laquelle une proposition est vraie selon
+       un certain degré de probabilité (degré auquel on assigne lui-même
+       un degré de probabilité). Voir aussi l'article sur la théorie de la
+       complexité algorithmique.
+     * La quatrième façon, est celle de la logique modale qui par exemple
+       atténue (possible) ou renforce (nécessaire) des propositions. Si
+       Aristote s'intéresse déjà aux modalités, le XX^e siècle, sous
+       l'impulsion initiale de Clarence Irving Lewis, apporte une étude
+       plus approfondie de celles-ci, et Saul Aaron Kripke donne une
+       interprétation des énoncés des logiques modales utilisant des
+       mondes possibles.
+
+--
+
+   [modifier | modifier le code]
+   Article détaillé : Bibliographie de logique et de philosophie du
+   langage.
+     * Image de Platon et lectures de ses œuvres, de Jacques Follon,
+       Peeters Publishers (ISBN 2-87723-305-7) (1997)
+     * Jean-Pierre Belna, Histoire de la logique, 2005
+     * Robert Blanché et Jacques Dubucs, La logique et son histoire :
+       d'Aristote à Russell, Paris, Armand Colin, 1996
+     * François Chenique, Éléments de Logique Classique, Paris,
+       L'Harmattan, 2006
+     * Bruno Couillaud, Traité de Logique - analytique, dialectique,
+       rhétorique, sophistique, 2^e éd., De Guibert, 2007
+     * Pascal Engel, La Norme du vrai, philosophie de la logique, Paris,
+       Gallimard, 1989
+     * (en) Michael R. Genesereth et Nils J. Nilsson, Logical Foundations
+       of Artificial Intelligence, Morgan Kaufmann, 1987 [détail de
+       l’édition]
+     * Paul Gochet et Pascal Gribomont, Logique. Vol. 1 : méthodes pour
+       l'informatique fondamentale, Paris, Hermès, 1990
+     * Paul Gochet et Pascal Gribomont, Logique. Vol. 2: méthode formelle
+       pour l'étude des programmes, Paris, Hermès, 1994
+     * Paul Gochet, Pascal Gribomont et André Thayse, Logique. Vol. 3:
+       méthodes pour l'intelligence artificielle, Paris, Hermès, 2000
+     * (en) William Kneale & Martha Kneale, The development of logic,
+       Oxford, Clarendon Press, 1962
+     * François Lepage, Éléments de logique contemporaine, Presses de
+       l'université de Montréal, 1991
+     * Dirk Pereboom, Logique et logistique, Genève, INU PRESS, 1995
+       (ISBN 2-88155-002-9).
+     * Xavier Verley, Logique symbolique, Ellipses, 1999
+     * Alfred North Whitehead et Bertrand Russell, Principia Mathematica,
+       3 vol., Merchant Books, 2001 (ISBN 978-1603861823) (vol. 1),
+--
+       auteurs).
+
+    1. ↑ Jean-Baptiste Gourinat, « La logique : une création de la Grèce
+       antique », Pour la Science, n^o 49,‎ 2005 (présentation en ligne)
+    2. ↑ « Gorgias - Texte fondateur », sur www.philo5.com (consulté le 28
+       mai 2020)
+    3. ↑ Robert Blanché, « Logique - 4) L'ère de la logique dite
+       « classique » », sur Encyclopædia Universalis (consulté le 11 mars
+       2015) : « Il accepte ce qui a été fait, il le reprend, mais pour
+       l'approfondir. La logique traditionnelle n'est qu'un échantillon
+       d'une logique générale, qui reste à établir. »
+    4. ↑ Herbert H. Knecht, La logique chez Leibniz : essais sur le
+       rationalisme baroque, L'Âge d'Homme, coll. « Dialectica », 1981
+       (lire en ligne), p. 38-39
+--
+
+   Sur les autres projets Wikimedia :
+     * logique, sur le Wiktionnaire
+     * Logique, sur Wikiversity
+     * Logique, sur Wikisource
+
+   Une catégorie est consacrée à ce sujet : Logique.
+
+Articles connexes
+--
+     * Philosophie
+     * Éthique | Métaphysique | Épistémologie
+     * Heidegger et la logique
+     * Tractatus logico-philosophicus
+
+   Sur la logique mathématique :
+     * Déduction naturelle
+     * Équivalence logique
+     * Fonction logique
+     * Logique mathématique
+     * Logique et raisonnement mathématique
+     * Logique intuitionniste
+     * Logique linéaire notamment les lois de De Morgan
+     * Logique minimale
+     * Logique pneumatique
+
+   Voir aussi :
+     * Bibliographie de logique et de philosophie du langage
+
+Liens externes
+--
+          + Medical Subject Headings
+     * Liens internet
+     * Revues de logique
+
+   v · m
+   Logique
+   Domaines académiques
+     * Théorie des ensembles
+     * Théorie de la démonstration
+     * Théorie des modèles
+     * Logique philosophique
+     * Logique mathématique
+     * Logique informelle
+     * Histoire de la logique
+     * Philosophie de la logique
+
+   Concepts fondamentaux
+--
+     * Plus
+
+   Esprit critique et logique informelle
+     * Affirmation
+     * Analyse
+--
+     * Rhétorique
+
+   Logique mathématique
+     * Algèbre de Boole
+     * Calcul des prédicats
+--
+     * Théorie de la calculabilité
+     * Déduction naturelle
+     * Logique traditionnelle
+     * Logique classique
+     * Logique linéaire
+     * Lois de De Morgan
+     * Théorie de la démonstration
+--
+     * Théorie des modèles
+
+   Logiques non classiques
+     * Logique de description
+     * Logique intuitionniste
+     * Logique minimale
+     * Logique floue
+     * Logique modale
+     * Logique non monotone
+     * Logique paracohérente
+     * Logiques sous-structurelles
+     * Logique de Łukasiewicz
+
+      Métalogique et métamathématique
+     * Théorème de Cantor
+     * Thèse de Church
+--
+     * Théorème de Löwenheim-Skolem
+
+   Philosophie de la logique
+     * Atomisme logique
+     * Constructivisme
+     * Logicisme
+--
+
+   Champs connexes
+     * Logique
+     * Philosophie des sciences
+     * Métaphysique
+--
+   Principales branches
+     * Action
+     * Logique
+     * Éthique et Morale
+     * Esthétique
+--
+   Principales doctrines philosophiques
+   Éthique
+     * Éthique déontologique
+     * Utilitarisme
+     * Éthique des vertus
+--
+     * icône décorative Portail de l’informatique
+     * icône décorative Portail de l'informatique théorique
+     * icône décorative Portail de la logique
+     * icône décorative Portail des sciences
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Logique&oldid=217792684 ».
+   Catégories :
+     * Sciences cognitives
+     * Logique
+     * Rhétorique
+
+--
+     * Portail:Technologies/Articles liés
+     * Portail:Informatique théorique/Articles liés
+     * Portail:Logique/Articles liés
+     * Article de qualité en anglais
+     * Bon article en allemand

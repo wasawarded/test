@@ -1,0 +1,359 @@
+   #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+   Pages for logged out editors learn more
+     * Contributions
+     * Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Basic idea
+     * 2 Advantages
+     * 3 Disadvantages
+       (BUTTON) Toggle Disadvantages subsection
+          + 3.1 Trusted computing base
+          + 3.2 Efficiency and complexity of proof procedures
+     * 4 Influences
+     * 5 Notes
+     * 6 References
+
+   [ ] Toggle the table of contents
+
+Logic for Computable Functions
+
+   [ ] 3 languages
+     * Español
+     * Русский
+     * Türkçe
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   1970s automated theorem prover
+   See also: Logic of Computable Functions
+
+   Logic for Computable Functions (LCF) is an interactive automated
+   theorem prover developed at Stanford and Edinburgh by Robin Milner and
+   collaborators in early 1970s, based on the theoretical foundation of
+   logic of computable functions previously proposed by Dana Scott. Work
+   on the LCF system introduced the general-purpose programming language
+   ML to allow users to write theorem-proving tactics, supporting
+   algebraic data types, parametric polymorphism, abstract data types, and
+   exceptions.
+
+Basic idea
+
+   [edit]
+
+   Theorems in the system are terms of a special "theorem" abstract data
+   type. The general mechanism of abstract data types of ML ensures that
+   theorems are derived using only the inference rules given by the
+   operations of the theorem abstract type. Users can write arbitrarily
+   complex ML programs to compute theorems; the validity of theorems does
+   not depend on the complexity of such programs, but follows from the
+   soundness of the abstract data type implementation and the correctness
+   of the ML compiler.
+
+Advantages
+
+   [edit]
+
+   The LCF approach provides similar trustworthiness to systems that
+   generate explicit proof certificates but without the need to store
+   proof objects in memory. The Theorem data type can be easily
+   implemented to optionally store proof objects, depending on the
+   system's run-time configuration, so it generalizes the basic
+   proof-generation approach. The design decision to use a general-purpose
+   programming language for developing theorems means that, depending on
+   the complexity of programs written, it is possible to use the same
+   language to write step-by-step proofs, decision procedures, or theorem
+   provers.
+
+Disadvantages
+
+   [edit]
+
+Trusted computing base
+
+   [edit]
+
+   The implementation of the underlying ML compiler adds to the trusted
+   computing base. Work on CakeML^[1] resulted in a formally verified ML
+   compiler, alleviating some of these concerns.
+
+Efficiency and complexity of proof procedures
+
+   [edit]
+
+   Theorem proving often benefits from decision procedures and theorem
+   proving algorithms, whose correctness has been extensively analyzed. A
+   straightforward way of implementing these procedures in an LCF approach
+   requires such procedures to always derive outcomes from the axioms,
+   lemmas, and inference rules of the system, as opposed to directly
+   computing the outcome. A potentially more efficient approach is to use
+   reflection to prove that a function operating on formulas always gives
+   correct result.^[2]
+
+Influences
+
+   [edit]
+
+   Among subsequent implementations is Cambridge LCF. Later systems
+   simplified the logic to use total instead of partial functions, leading
+   to HOL, HOL Light, and the Isabelle proof assistant that supports
+   various logics. As of 2019, the Isabelle proof assistant still contains
+   an implementation of an LCF logic, Isabelle/LCF.
+
+Notes
+
+   [edit]
+    1. ^ "CakeML". Retrieved 2 November 2019.
+    2. ^ Boyer, Robert S; Moore, J Strother. Metafunctions: Proving Them
+       Correct and Using Them Efficiently as New Proof Procedures (PDF)
+       (Report). Technical Report CSL-108, SRI Projects 8527/4079.
+       pp. 1–111. Archived (PDF) from the original on November 2, 2019.
+       Retrieved 2 November 2019.
+
+References
+
+   [edit]
+     *
+
+   Gordon, Michael J.; Milner, Arthur J.; Wadsworth, Christopher P.
+   (1979). Edinburgh LCF: A Mechanised Logic of Computation. Lecture Notes
+   in Computer Science. Vol. 78. Berlin Heidelberg: Springer.
+   doi:10.1007/3-540-09724-4. ISBN 978-3-540-09724-2. S2CID 21159098.
+
+     Gordon, Michael J. C. (2000). "From LCF to HOL: a short history".
+   Proof, language, and interaction. Cambridge, Massachusetts: MIT Press.
+   pp. 169–185. ISBN 0-262-16188-5. Retrieved 2007-10-11.
+
+     Loeckx, Jacques; Sieber, Kurt (1987). The Foundations of Program
+   Verification (2nd ed.). Vieweg+Teubner Verlag.
+   doi:10.1007/978-3-322-96753-4. ISBN 978-3-322-96754-1.
+
+     Milner, Robin (May 1972). Logic for Computable Functions: description
+   of a machine implementation (PDF). Stanford University.
+
+     Milner, Robin (1979). "Lcf: A way of doing proofs with a machine". In
+   Bečvář, Jiří (ed.). Mathematical Foundations of Computer Science 1979.
+   Lecture Notes in Computer Science. Vol. 74. Berlin Heidelberg:
+   Springer. pp. 146–159. doi:10.1007/3-540-09526-8_11.
+   ISBN 978-3-540-09526-2.
+
+     * v
+     * t
+     * e
+
+   ML programming
+
+   Software
+
+   Implementations,
+   dialects
+   Caml
+     * OCaml°
+          + Eff
+          + F*°
+          + F#°
+          + JoCaml°
+          + Reason°
+
+   Standard ML
+     * Alice°
+     * Concurrent ML
+     * Extended ML
+     * MLton°
+     * Standard ML of New Jersey° (SML/NJ)
+
+   Dependent ML
+     * ATS°
+
+     * Futhark°
+     * Lazy ML
+     * MacroML
+     * Ur°
+
+   Programming tools
+
+     Alt-Ergo°
+
+     Astrée
+
+     Camlp4°
+
+     FFTW°
+
+     Frama-C°
+
+     Haxe°
+
+     Marionnet°
+
+     MTASC°
+
+     Poplog°
+
+     Semgrep°
+
+     SLAM project
+   Theorem provers,
+   proof assistants
+     * Coq°
+     * HOL°
+          + HOL Light°
+     * Isabelle°
+     * LEGO
+     * Logic for Computable Functions
+     * Matita°
+     * Twelf°
+
+     * GeneWeb°
+
+   [110px-OCaml_Logo.svg.png]
+
+   Community
+
+   Designers
+
+     Lennart Augustsson (Lazy ML)
+
+     Damien Doligez (OCaml)
+
+     Gérard Huet (Caml)
+
+     Xavier Leroy (Caml, OCaml)
+
+     Robin Milner (ML)
+
+     Don Sannella (Extended ML)
+
+     Don Syme (F#)
+
+     * Thierry Coquand
+     * Steven G. Johnson
+     * Christine Paulin-Mohring
+     * Frank Pfenning
+     * Simon Thompson
+
+     Italics = discontinued
+
+     ° = Open-source software
+   Book Category:Family:ML Category:Family:OCaml Category:Software:OCaml
+
+   Stub icon
+
+   This mathematical logic-related article is a stub. You can help
+   Wikipedia by expanding it.
+
+     * v
+     * t
+     * e
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Logic_for_Computable_Functi
+   ons&oldid=1236574973"
+
+   Categories:
+     * Logic in computer science
+     * Proof assistants
+     * Mathematical logic stubs
+
+   Hidden categories:
+     * Articles with short description
+     * Short description is different from Wikidata
+     * All stub articles
+
+     * This page was last edited on 25 July 2024, at 12:41 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

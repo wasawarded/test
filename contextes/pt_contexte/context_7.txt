@@ -1,0 +1,3 @@
+udo, procedimentos que se baseiem simplesmente na lógica da oposição, embora permitam separar claramente m
+mplícitas da memória. Ao procedimento com base na lógica da oposição chamou teste de exclusão e ao procedi
+tas definições devem ser enquadradas pela própria lógica que subjaz ao PDP, não reflectindo nenhuma posiçã

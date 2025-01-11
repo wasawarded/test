@@ -1,0 +1,917 @@
+   Menu
+   [1]Crítica
+   ×
+   ____________________
+   [2]Epistemologia   [3]Estética   [4]Ética   [5]Filosofia   [6]Filosofia
+   da ciência   [7]Filosofia da linguagem   [8]Filosofia da mente
+   [9]Filosofia da religião   [10]Filosofia política   [11]História da
+   filosofia   [12]Lógica   [13]Metafísica
+   [14]Newsletter   [15]Donativos   [16]Sobre nós
+   21 de Dezembro de 2010   [17]Lógica
+
+Nietzsche sobre a lógica
+
+   Steven D. Hales
+   Tradução de Desidério Murcho
+
+     “Todos os filósofos são tiranizados pela lógica”.
+     (Humano, Demasiado Humano §6)
+
+   As críticas de Nietzsche à lógica ocupam um lugar muitíssimo peculiar
+   na história da filosofia. Nos mais de cem anos desde que ficou louco, o
+   conhecimento da lógica e a sensibilidade a ela tornou-se para muitos um
+   sine qua non do filosofar. Este facto, juntamente com o renascimento
+   dos estudos sobre Nietzsche, leva-nos a esperar que a bibliografia
+   secundária contenha várias avaliações cuidadosas das suas críticas.
+   Contudo, entre as 1912 entradas de Nietzsche Scholarship in English: A
+   Bibliography 1968–1992, de Hilliard, não há um só artigo dedicado ao
+   tratamento da lógica por parte de Nietzsche, e também nada se encontra
+   entre as 4566 entradas de International Nietzsche Bibliography (1968),
+   de Reichert e Schlecta!^1 Mesmo nos textos canónicos sobre Nietzsche há
+   pouquíssimo no que respeita à lógica. Nietzsche: Philosopher,
+   Psychologist, Antichrist, de Kaufmann, faz silêncio sobre a questão, e
+   Nietzsche: Life as Literature, de Nehamas, faz quase o mesmo.^2 Nos
+   livros de Clark, Danto e Schacht há apenas umas poucas páginas que
+   dizem respeito às preocupações de Nietzsche.^3
+
+   A pobreza da bibliografia secundária é suficientemente estranha, mas o
+   próprio conhecimento de Nietzsche da lógica parece um pouco excêntrico.
+   Como filólogo clássico, Nietzsche estava certamente ciente da lógica
+   aristotélica tradicional, chegando até a lançar-se numa reductio ad
+   absurdum contra um oponente (BGE 15).^4 E é claro que Nietzsche leu
+   Kant e Hegel, acusando os seus seguidores de serem “operários
+   filosóficos” por empurrarem os dados do passado para fórmulas lógicas
+   rígidas (BGE 211). Contudo, Nietzsche parece ignorar completamente as
+   estrelas da lógica do século XIX. Por exemplo, em 1847 os pais da
+   lógica moderna, Augustus De Morgan e George Boole, publicaram Formal
+   Logic e Mathematical Analysis of Logic, respectivamente. Gottlob Frege,
+   o inventor da lógica de predicados quantificada, publicou o seu seminal
+   Begriffsschrift em 1879 e Die Grunlagen der Arithmetik em 1884. Apesar
+   de estas obras estarem disponíveis no decurso da sua vida produtiva,
+   não há qualquer indício de que Nietzsche tenha lido qualquer delas, ou
+   sequer estivesse ciente delas. Além disso, Nietzsche não menciona em
+   lugar algum John Venn ou C. S. Peirce, e o seu conhecimento de John
+   Stuart Mill parece restringir-se ao pensamento ético. Há também algumas
+   peripécias curiosas: Nietzsche refere-se ao hoje esquecido Afrikan Spir
+   — uma espécie de fenomenalista neo-kantiano que defendia o princípio da
+   identidade como uma verdade sintética a priori — como um “excelente
+   lógico” (HATH 18).^5
+
+   Dado a sua compreensão imprecisa e idiossincrática da lógica, o que
+   está Nietzsche exactamente a criticar quando ataca a lógica? Esta é a
+   pergunta inicial a que este ensaio procura responder. Nos seus textos,
+   encontramos uma baralhada de passagens superficialmente contraditórias
+   e aparentes vacilações com respeito à lógica. Como é habitual, isto
+   exemplifica o estilo retórico favorito de Nietzsche — uma obliteração
+   aparente de uma posição, seguida de um recuo para a abraçar
+   parcialmente. Exemplos desta táctica incluem a sua denúncia da vontade
+   (BGE 19) e depois uma defesa da vontade de poder; a rejeição da
+   causalidade (WP 551) e depois uma forte dependência do “poder”, uma
+   noção aparentemente causal; a sua malevolência perante o cristianismo,
+   seguida de uma admissão de que Jesus (com algumas reservas) foi um
+   espírito livre (AC 32); e a sua declaração de que não há quaisquer
+   factos morais (BGE 108, TI VII 1), juntamente com fórmulas para a
+   grandiosidade e receitas para a virtude (EH II 10, AC 11).^6 A
+   linguagem de Nietzsche é muitas vezes poderosa e é fácil ficarmos
+   enleados na primeira parte da sua táctica e perder de vista a segunda.
+   Assim, temos de ser cuidadosos ao considerar a sua invectiva contra a
+   lógica.
+
+   Em HATH 11 Nietzsche declara: “A lógica […] repousa sobre pressupostos
+   que não correspondem a algo de real no mundo, e.g., no pressuposto da
+   igualdade das coisas, a identidade da mesma coisa em diferentes pontos
+   do tempo”. Em TI III 3 encontramos o seguinte: “[…] ciência de
+   fórmulas, sistemas de signos: tal como a lógica e essa lógica aplicada,
+   a matemática. Nestas, a realidade não aparece sequer, nem sequer como
+   problema; tão pouco quanto a questão de que valor poderá possivelmente
+   ter um sistema de signos convencionais como o que constitui a lógica”.
+   A Vontade de Poder contém muito desta crítica; e.g., §512: “A vontade
+   de verdade lógica pode ser levada a cabo apenas depois de se pressupor
+   uma falsificação fundamental de todos os acontecimentos […] a lógica
+   não emerge da vontade de verdade”. WP 516: “A lógica (como a geometria
+   e a matemática) aplica-se apenas a entidades fictícias que criámos. A
+   lógica é a tentativa de compreender o mundo efectivo por meio de um
+   esquema de ser postulado por nós mesmos; mais correctamente, de o
+   tornar formalizável e calculável para nós”. WP 521: “O mundo parece-nos
+   lógico porque o tornámos lógico”. Finalmente, uma nota do início da
+   década de 1870: “a lógica é apenas escravidão nos grilhões da
+   linguagem”.^7
+
+   Sem dúvida que a sua linguagem é forte, e não é surpreendente que
+   Ofelia Schutte conclua de passagens tais que Nietzsche via a lógica
+   mais como uma inimiga do que como uma amiga (p. 28), tendo considerado
+   silenciar a lógica (p. 29), tendendo a eliminar a necessidade da lógica
+   (p. 31), apresentando a lógica e a vida como adversárias (p. 36), e
+   pretendendo que os seus ensinamentos fossem além da lógica (p. 34).^8
+   Nem é chocante que Michel Haar infira que Nietzsche encoraja a
+   descrença nas leis da lógica (p. 6), visando destruir a lógica (pp.
+   6-7), repudiando os princípios lógicos (p. 34), e oferecendo uma
+   filosofia que foge da lógica conceptual (p. 6).^9 No mesmo campo, Alan
+   Schrift sustenta que Nietzsche considera a lógica um aborto intelectual
+   do qual não podemos senão retirar conclusões ilusórias, e que a lógica
+   não combina com os preceitos mais básicos de Nietzsche.^10 Contudo,
+   estes filósofos estão profundamente enganados quanto às perspectivas
+   finais de Nietzsche, arriscando-se muito ao ignorar variadíssimas
+   passagens cruciais.
+
+   Apesar das suas óbvias reservas sobre aspectos da lógica, Nietzsche
+   está certamente ciente também dos seus aspectos positivos. Em HATH 256
+   escreve: “A escola não tem tarefa mais importante do que ensinar o
+   pensamento rigoroso, o juízo cuidadoso, as conclusões lógicas”; e em
+   HATH 271: “O maior progresso realizado pelos homens repousa em aprender
+   a tirar conclusões correctas.” (Itálico de Nietzsche.) TI VIII 7 faz
+   eco disto, denegrecendo as universidades alemãs porque “mesmo entre os
+   próprios estudantes de filosofia, a teoria, a prática, a vocação da
+   lógica começa a morrer”. Em GS 191, reconhece claramente a diferença
+   entre bons e maus argumentos, e critica veementemente os últimos; e em
+   GS 348 elogia profusamente os judeus por argumentarem logicamente,
+   afirmando que a Europa muito lhes deve por terem promovido “hábitos
+   intelectuais mais limpos”. Em BGE 21 critica a ideia de causa sui por
+   ser uma “violentação e perversão da lógica”. Dificilmente estas serão
+   afirmações de alguém que se dispôs a entregar-se à destruição por
+   atacado da lógica. Quanto à afirmação de Schutte de que Nietzsche
+   tencionava estabelecer a vida e a lógica como adversárias — a unicidade
+   fluida livre dionisíaca em contraste com a rígida razão logocêntrica —
+   Nietzsche afirma muitas vezes exactamente o oposto! Por exemplo, numa
+   nota inicial escreve que “Ninguém pode viver no seio de tal negação da
+   razão […] Isto demonstra que a crença na lógica e a crença em si são
+   necessárias para a vida”. (“Drafts” 177). Treze anos depois estava
+   ainda disposto a afirmar aproximadamente o mesmo: “Sem aceitar as
+   ficções da lógica […] o homem não poderia viver” (BGE 4). Compare-se a
+   sua afirmação em WP 522 de que “O pensamento racional é interpretar
+   segundo um esquema que não podemos deitar fora” (itálico de Nietzsche).
+   Assim, não apenas a lógica não se opõe à vida, mas de facto a lógica e
+   o pensamento lógico são condições necessárias para viver.
+
+   Não pretendo sugerir que Nietzsche é inequívoco neste aspecto. Nas
+   passagens acabadas de citar Nietzsche afirma que a lógica e a
+   racionalidade são necessárias para a vida, e isto é, aparentemente, a
+   sua posição habitual. Por vezes, em especial no seu precoce ensaio não
+   publicado “Sobre a Verdade e as Mentiras num Sentido Não Moral”,
+   enfraquece a sua afirmação de que são apenas necessárias para pensar, e
+   que a vida poderia ser possível sem elas (cf. TI VIII 7). Em OTL p. 84,
+   Nietzsche escreve que “tudo o que distingue o homem dos animais depende
+   da sua capacidade para volatilizar as metáforas perceptivas num
+   esquema, dissolvendo assim uma imagem num conceito”. Assim, os seres
+   humanos entregam-se a um processo que abstrai das impressões sensoriais
+   para formar conceitos e demarcar objectos. Na expressão feliz de
+   Magnus, “a razão cronofóbica ossifica o fluxo irrestrito”.^11 Em última
+   análise, esta conceptualização dá origem ao “grande edifico dos
+   conceitos” (OTL p. 85) que “exala […] lógica”. No §2 de OTL Nietzsche
+   discute o “homem de intuição” que estilhaça o edifício conceptual
+   existente com novas metáforas, mitos e arte. Apesar de o homem de
+   intuição parecer viver ilogicamente, pode na realidade não pensar de
+   todo em todo. Nietzsche afirma que quando a “teia de conceitos é
+   rasgada pela arte” (OTL p. 89), o homem está apenas a sonhar. Passa
+   então a caracterizar as pessoas miticamente inspiradas, como os antigos
+   gregos, afirmando que vivem num sonho. Assim, o argumento de OTL é, ao
+   que parece, que o pensamento propriamente dito apoia-se essencialmente
+   na estrutura conceptual, e por isso na aceitação da lei lógica. Mesmo
+   que a vida seja possível sem pensamento racional ou categorias lógicas,
+   o pensamento não o é. Compare-se com o seu comentário em WP 522 de que
+   “paramos de pensar quando nos recusamos a fazê-lo sob as restrições da
+   linguagem”. Como se verá, Nietzsche considera a lógica nada mais do que
+   a estrutura profunda da linguagem. Tendo isto em vista, a restrição da
+   linguagem não é mais do que a restrição da sua lógica subjacente, e uma
+   vez mais vemos que abandonar a lógica significa parar de pensar.
+
+   É evidente que Nietzsche faz afirmações bastante substanciais no que
+   respeita à lógica e à razão: hesita entre considerá-las essenciais para
+   a própria vida ou considerá-las apenas essenciais para o pensamento. De
+   um modo ou do outro, está muito longe de encorajar a destruição da
+   lógica, ou do repúdio dos princípios lógicos, ao contrário do que Haar
+   afirma. Mas talvez Haar, Schutte e Schrift possam responder como se
+   segue. Nas passagens críticas (TI III 3, e.g.), Nietzsche parece
+   centrar-se na lógica como uma “ciência de fórmulas” ou “sistema de
+   signos”. Por outras palavras, é a lógica formal propriamente dita que
+   Nietzsche ataca. Nas passagens aparentemente favoráveis à lógica,
+   Nietzsche não está a elogiar a lógica formal, mas antes a defender a
+   argumentação clara, a racionalidade e o pensamento sem estar poluído
+   pela superstição. De modo que se separarmos a lógica enquanto ciência
+   formal, por um lado, e o pensamento racional, por outro, Nietzsche pode
+   ser interpretado como um crítico da primeira, ainda que seja respeitoso
+   quanto à segunda. Haar et al. têm assim razão quanto ao lado crítico de
+   Nietzsche, ainda que sejam algo insensíveis aos seus comentários
+   positivos.
+
+   Apesar de esta ser uma postura interpretativa possível, esta proposta
+   não é, em última análise, sustentável. Há pelo menos duas razões para
+   isto. A primeira é que Nietzsche não separa claramente as questões de
+   lógica formal e do pensamento racional. Apesar de ser verdade que por
+   vezes Nietzsche parece ter a lógica formal em mente (e.g. TI III 3) e
+   noutras parece centrar-se na racionalidade (e.g. WP 522), a maior parte
+   do tempo as duas coisas estão fundidas. Veja-se HATH 265 e 271, onde
+   canta hinos à actividade de retirar conclusões lógicas. É este processo
+   de retirara conclusões lógicas apenas o resultado do pensamento
+   rigoroso e não dogmático, ou há uma conexão com a lógica enquanto
+   ciência do raciocínio correcto? É difícil dizer. E quanto a TI VIII 7,
+   onde Nietzsche lamenta o desaparecimento da lógica como vocação nas
+   universidades alemãs? Talvez aqui a queixa de Nietzsche seja apenas que
+   os estudantes universitários são mentalmente moles e pouco dados ao
+   pensamento. Contudo, é difícil sustentar esta interpretação, dado que
+   na mesma passagem Nietzsche refere-se especificamente à teoria da
+   lógica como uma das coisas que receia estar a desaparecer. Além disso,
+   Nietzsche meter a razão e a lógica no mesmo saco, dedicando um capítulo
+   inteiro em TI — ““Razão” na Filosofia” — a essa crítica. É claro que a
+   própria falta de clareza de Nietzsche não é em si suficiente para
+   impedir que um comentador imponha um esquema interpretativo que
+   desambigúe os textos. A segunda razão contra a dicotomia entre o
+   pensamento racional e a lógica formal é mais fundamental. Vimos que
+   Nietzsche considera que a restrição da linguagem é essencial para
+   pensar e portanto para o pensamento racional. Argumentarei depois que
+   Nietzsche encara também a lógica como a infra-estrutura da linguagem.
+   Assim, a lógica, enquanto semântica formal da linguagem natural, e o
+   pensamento estão inextrincavelmente ligados para Nietzsche. Sejam quais
+   forem as suas perspectivas finais quanto à lógica formal e quanto ao
+   pensamento racional, estão no mesmo barco.
+
+   Qual é exactamente, afinal, a sua queixa contra a lógica? Precisamos de
+   examinar as suas afirmações de modo mais preciso para determinar
+   precisamente quais são as características da lógica que Nietzsche
+   promove, e quais são as que considera problemáticas. Duas
+   características fulcrais da lógica que Nietzsche põe em causa são uma
+   suposta dependência da identidade, e um postular ilusório de objectos.
+   No citado HATH 11, Nietzsche afirma que a lógica pressupõe a identidade
+   persistente das coisas ao longo do tempo, e em BGE 4 afirma que o
+   auto-idêntico é parte de um “mundo totalmente inventado”. Em GS 111 e
+   WP 510 sugere que a origem da própria lógica se enraíza num desejo de
+   postular coisas diferentes como idênticas. Além disso, declara que
+   todos os conceitos (OTL p. 83), incluindo o de substância (GS 111),
+   emergem da igualização de coisas desiguais. Isto considera Nietzsche um
+   “artigo de fé” erróneo (GS 110). Considere-se também o seu ataque à
+   coisidade — “a nossa crença em coisas é a condição prévia da nossa
+   crença na lógica” (WP 516). WP 558 faz eco disto ao afirmar que “a
+   coisidade só foi inventada por nós devido às exigências da lógica”.
+   Contudo, não há coisas, pelo menos realmente, e portanto a lógica só se
+   aplica a “entidades fictícias” (WP 516).
+
+   Está muita coisa em causa nestas passagens, o que obriga a
+   considerá-las cuidadosamente. Eis algumas das afirmações que Nietzsche
+   parece estar a fazer:
+    1. A lógica pressupõe a existência de coisas;
+    2. as coisas são apenas ficções inventadas pelos seres humanos;
+    3. a lógica pressupõe a identidade persistente das coisas ao longo do
+       tempo;
+    4. a lógica pressupõe a identidade das coisas num instante;
+    5. não há identidade ao longo do tempo; e
+    6. nada é auto-idêntico, ou só as “ficções” o são.
+
+   Examinemos a primeira afirmação. É verdade que a lógica pressupõe a
+   existência de coisas? Uma resposta adequada a esta pergunta exige a
+   introdução de alguns dos instrumentos adquiridos no último século de
+   desenvolvimento lógico. Dada a compreensão imprecisa e rudimentar que
+   Nietzsche tinha da lógica, poder-se-á considerar que esta é uma
+   metodologia inapropriada. Há duas boas razões para não o pensar.
+   Primeiro, estamos interessados em saber se as posições em que Nietzsche
+   aposta são verdadeiras ou, se o não forem, se pelo menos fazem sentido
+   e são consistentes. Ignorar o que se aprendeu sobre a lógica desde o
+   tempo de Nietzsche é simplesmente uma abordagem retrógrada a uma
+   questão técnica. Segundo, os conceitos e a clareza do vocabulário
+   moderno podem iluminar problemas a que Nietzsche só confusamente podia
+   aludir.
+
+   A interpretação de Nietzsche proposta por Clark, por exemplo, padece de
+   não subscrever completamente esta metodologia. Clark argumenta que nas
+   suas obras iniciais Nietzsche sustenta que a lógica falsifica a
+   realidade (a lógica pressupõe que há coisas reais “lá fora” quando só
+   há ficções, que há coisas idênticas, etc.), ao passo que na sua obra
+   tardia Nietzsche aborda a lógica como uma ciência formal que nada diz
+   sobre a realidade.^12 Em defesa desta última afirmação, Clark refere a
+   citada passagem TI III 3, na qual Nietzsche afirma que nos sistemas de
+   signos como a lógica a realidade não surge sequer como um problema.
+   Assim, Clark atribui a Nietzsche uma mudança no seu pensamento sobre a
+   lógica. Contudo, há uma explicação alternativa dos dados. A lógica
+   moderna divide-se em sintaxe e semântica, e quando se insere as
+   afirmações de Nietzsche neste quadro de referência, a explicação de
+   Clark é desnecessária. É o aspecto sintáctico da lógica que se mantém à
+   distância do mundo; fornece regras para a manipulação de operadores,
+   conectivas, quantificadores, letras predicativas, variáveis e
+   constantes do sistema formal, para mudar símbolos de lugar e para
+   demonstrar teoremas a partir de axiomas. A sintaxe e a teoria da
+   demonstração nada dizem sobre o mundo e nada pressupõem quanto à
+   aplicabilidade dos símbolos da nossa linguagem formal a seja o que for.
+   Com respeito à sintaxe, TI III 3 está perfeitamente correcta — a
+   realidade não surge sequer como problema. Contudo, dado que não compete
+   à sintaxe preocupar-se com a realidade, ou saber se a lógica e a
+   matemática podem aplicar-se a algo, isto não deveria ser surpreendente.
+
+   A interpretação das fórmulas da lógica compete à semântica. A semântica
+   especifica domínios não vazios de entidades, ou universos de discurso,
+   juntamente com uma função de interpretação que nos leva dos símbolos
+   fornecidos pela sintaxe para as entidades no domínio. Ou seja, a
+   semântica ocupa-se do significado dos nossos símbolos lógicos. A função
+   de interpretação atribui um só objecto no domínio a cada constante,
+   diz-nos a que coisas as variáveis se aplicam, e fornece uma extensão no
+   domínio para cada letra predicativa. Com respeito à semântica, WP 516 e
+   558 estão correctas — a coisidade é uma exigência da lógica. Isto é,
+   para que os símbolos e fórmulas da lógica tenham significado ou para
+   que tenham aplicabilidade, precisamos de conjuntos de coisas que os
+   símbolos e fórmulas possam referir. A natureza destas coisas é uma
+   questão complementar que, estritamente falando, está para lá do alcance
+   da lógica, sendo mais apropriadamente objecto da metafísica ou da
+   ontologia. Em qualquer caso, é perfeitamente consistente que Nietzsche
+   sustente simultaneamente que a lógica pressupõe a existência de coisas,
+   e que a lógica nada diz sobre a realidade. A primeira é verdadeira se
+   for interpretada como uma afirmação sobre a semântica, e a segunda se
+   for interpretada como uma afirmação sobre a sintaxe. Assim, não estamos
+   obrigados a concluir, como Clark, que ao longo do tempo Nietzsche mudou
+   de ideias quanto à lógica. Nem temos sequer de concluir que Nietzsche
+   compreendia bem a distinção aqui traçada entre sintaxe e semântica.
+   Sugiro apenas que é plausível que no seu pensamento sobre sistemas de
+   símbolos, Nietzsche se sentia atraído igualmente pelas duas ideias
+   superficialmente conflituantes de que a lógica tem e não tem
+   pressupostos sobre a realidade. Ao aplicar a distinção entre sintaxe e
+   semântica da lógica moderna podemos explicar de maneira consistente
+   estes dois impulsos, de um modo que ambos se revelam verdadeiros.
+
+   Assim, a primeira afirmação de Nietzsche sobre a lógica, de que
+   pressupõe a existência de coisas, é verdadeira com algumas reservas. A
+   reserva principal é que só as fórmulas lógicas interpretadas pressupõem
+   a existência de coisas. As fórmulas não interpretadas nada pressupõem
+   sobre as coisas e são, na expressão de Nietzsche em OTL p. 81, “cascas
+   ocas” que nada dizem sobre a realidade. Até aqui, Nietzsche ainda não
+   fez grandes críticas à lógica, e a sua primeira afirmação é facilmente
+   integrável na teoria lógica moderna. Que dizer, contudo, da segunda
+   afirmação, segundo a qual as coisas são apenas ficções intentadas pelos
+   seres humanos? Neste caso, trata-se de um exemplo do seu anti-realismo
+   consumado. O realismo e o anti-realismo estão no centro de uma parte
+   importante do debate actual, e são termos notavelmente
+   escorregadios.^13 Putnam caracteriza bem o género de realismo a que
+   Nietzsche se opõe:
+
+     Nesta perspectiva, o mundo consiste numa totalidade fixa de objectos
+     independentes da mente. Há exactamente uma descrição verdadeira e
+     completa “do modo como o mundo é” […] Chamarei externista a esta
+     perspectiva, pois o seu ponto de vista favorito é um ponto de vista
+     de Deus.^14
+
+   Que Nietzsche rejeita um ponto de vista de Deus dificilmente é
+   novidade. Na verdade, Nietzsche considera a ideia de tal perspectiva
+   uma das “sombras de Deus” que ainda precisam de ser conquistadas e que
+   subsistem depois da morte de Deus (GS 108).^15 Este facto serve para
+   explicar o seu comentário em TI III 5: ““Razão” na linguagem: oh, que
+   velha enganadora! Receio que não estejamos a livrar-nos de Deus porque
+   ainda acreditamos na gramática…”. Um dos legados da deificação da
+   natureza é a ideia de que há objectos reais, bem individuados, e
+   verdades no mundo que podem ser conhecidas por Deus. Mesmo depois da
+   morte de Deus permanecemos com esta ontologia realista e com o ponto de
+   vista de Deus que inventámos para se adequar à nossa religião. A
+   afirmação de Nietzsche acima (e compare-se os seus comentários em BGE
+   34) é que a lógica inscrita na nossa linguagem tem os mesmos tipos de
+   compromissos ontológicos que tinha a nossa religião. A nossa fé na
+   gramática origina uma fé na lógica, que não é muito melhor do que a fé
+   no velho Deus — ambos nos conduzem aos mesmos erros metafísicos. Assim,
+   não nos livrámos de Deus, ou, mais precisamente, da sua sombra, ao
+   persistir na nossa fé na gramática.^16
+
+   O que Nietzsche defende é então que a estrutura da nossa linguagem
+   codifica uma metafísica errada. Logo, não é de esperar que a
+   metodologia da análise linguística nos forneça uma interpretação
+   aceitável do mundo. Dado que Nietzsche encara a lógica como a estrutura
+   profunda da linguagem, e como já vimos que a lógica realmente se
+   compromete com entidades, segue-se que temos razões para suspeitar
+   dessas entidades. O que urge fazer é investigar a semântica da
+   linguagem natural e o género de entidades que esta requer, e portanto,
+   inicialmente, uma investigação da própria linguagem. Há uma intersecção
+   interessante entre a posição de Nietzsche sobre a linguagem e a
+   semiótica de Rudolf Carnap. Um breve olhar sobre a posição de Carnap
+   permitirá tornar mais nítida a crítica de Nietzsche da semântica e
+   mostrar como Carnap peca em não atender às preocupações de
+   Nietzsche.^17
+
+   Carnap oferece os seguintes exemplos de frases destituídas de
+   significado (cf. pp. 67-68):
+    1. César é e.
+    2. César é um número primo.
+
+   É fácil ver o que há de errado na primeira frase; viola as regras da
+   sintaxe. Mas a segunda é diferente: parece apenas falsa, dado não se
+   dar o caso de César ser um número primo. Por que é destituída de
+   significado e não falsa? A resposta de Carnap apoia-se numa distinção
+   entre a sintaxe gramatical e a sintaxe lógica. As regras sintácticas
+   efectivas da linguagem natural incluem a sintaxe gramatical. Carnap
+   pensa que a sintaxe gramatical é inadequada e enganadora porque não
+   distingue tipos de palavras de um modo suficientemente subtil. Permite
+   assim a construção gramaticalmente correcta de frases que na realidade
+   são destituídas de sentido, como 2. A sintaxe gramatical distingue
+   entre substantivos, adjectivos, verbos, etc., mas não distingue (o que
+   Carnap pensa que deveria fazer) entre substantivos que denotam
+   propriedades físicas e os que denotam números. Se a sintaxe comum
+   fizesse tal distinção, então 2 seria tão agramatical quanto 1. É esta
+   imprecisão da sintaxe gramatical que permite o que Carnap considera a
+   quintessência da verborreia destituída de significado (pp. 69-71): a
+   passagem de Heidegger “E quanto a este Nada? — O Nada em si nadifica”.
+
+   Assim, a sintaxe gramatical comum é logicamente deficiente e a cura
+   apropriada é uma sintaxe melhorada que faça todas as distinções subtis
+   entre “categorias sintácticas” que Carnap exige. A isto chama Carnap
+   “sintaxe lógica”. Uma linguagem perfeita para Carnap seria uma
+   linguagem com uma sintaxe lógica, na qual a metafísica não pudesse
+   sequer ser expressa. Carnap chama à construção desta linguagem a grande
+   tarefa filosófica que os lógicos enfrentam.
+
+   Há muita concordância entre Carnap e Nietzsche. Ambos estão
+   interessados em corroer a metafísica, ambos pensam que há algo de
+   errado na linguagem comum que nos engana, ambos consideram que a
+   metafísica é uma “ainda não ciência” (TI III 3), e ambos preferem
+   análises históricas e empíricas à especulação metafísica. O comentário
+   de Carnap de que os “metafísicos são músicos sem capacidade musical”
+   (p. 80) quase soa a aforismo nietzschiano. Na verdade, Carnap leu
+   Nietzsche e elogia-o (p. 80). Contudo, Carnap parece não estar ciente
+   das críticas de Nietzsche à linguagem, ou de como estas se poderiam
+   aplicar ao seu próprio programa. Nietzsche dificilmente pensaria que o
+   advento da sintaxe lógica constituiria uma melhoria relativamente à
+   sintaxe gramatical, e consideraria sem dúvida que nada mais seria do
+   que a substituição de um conjunto de erros por outro. O modo como a
+   linguagem é agora pode conduzir-nos à verborreia heideggeriana, mas a
+   almejada sintaxe lógica de Carnap integraria na própria estrutura da
+   linguagem vários pressupostos sobre o mundo e sobre a efectiva natureza
+   das coisas. As categorias sintácticas subtis que distinguiriam entre
+   palavras para coisas, para propriedades e para números são na realidade
+   apenas categorias ontológicas com uma coloração linguística. Claro que
+   Carnap tem razão ao pensar que a metafísica não se poderia exprimir
+   numa linguagem com uma sintaxe lógica, mas isso seria apenas porque os
+   pressupostos e divisões metafísicos estariam previamente integrados na
+   linguagem. As perguntas metafísicas “Há diferença entre coisas e
+   propriedades?” ou “São os números redutíveis a propriedades?”
+   tornar-se-iam incompreensíveis uma vez solidificadas e canonizadas na
+   sintaxe as divisões entre coisas, números e propriedades.
+
+   Nietzsche considera que a linguagem natural é defeituosa, em grande
+   parte tal como a linguagem “logicamente perfeita” de Carnap. É fácil
+   ver como os compromissos ontológicos fazem parte da sintaxe lógica de
+   Carnap. Menos evidente, mas ainda presente segundo Nietzsche, são os
+   compromissos ontológicos das nossas linguagens naturais. “São os
+   números redutíveis a propriedades?” é um pergunta destituída de
+   significado para a linguagem logicamente perfeita de Carnap. De modo
+   semelhante, a pergunta “Existem coisas?” é uma pergunta destituída de
+   significado na linguagem natural comum. Para ver porquê considere-se
+   uma resposta negativa — não, as coisas não existem, ou pelo menos
+   algumas coisas não existem. Isto é, há (existe) um x tal que x não
+   existe! Um corolário disto é que tudo existe (dado que não se dar o
+   caso de haver um x tal que x não existe, segue-se que para todo o x, x
+   existe). Como perspicácia filosófica, isto é evidentemente tolo. A
+   posição de Nietzsche é que tal tolice nada é senão o resultado de
+   certos pressupostos existenciais codificados na nossa linguagem. Claro
+   que isto não é, por si, uma crítica. Precisamos de razão para pensar
+   que estes pressupostos existenciais são maus. É aqui que entra o
+   anti-realismo de Nietzsche quanto a objectos.
+
+   O que Nietzsche defende é que não há uma descrição única e privilegiada
+   do mundo, e não há objectos já feitos nos quais possamos tropeçar. Isto
+   não significa que nada exista, ou que fiquemos reduzidos ao idealismo;
+   ao invés, categorizamos os nossos fenómenos sensoriais de um modo que
+   se adequa aos nossos fins e propósitos. Por exemplo, Roderick Chisholm
+   refere-se ao “han”, um termo introduzido pelo exército britânico na
+   primeira guerra mundial.^18 Um han é o objecto que consiste num
+   cavaleiro e o seu cavalo, e os hans eram contabilizados juntamente com
+   armas, mantimentos e outros aprestos de guerra. Um han é um género
+   estranho de objecto, contudo. Não parece correcto dizer que um dia o
+   exército britânico descobriu a existência de hans, tendo prontamente
+   notificado a Fleet Street. Numa certa medida, um han é um objecto
+   inteiramente inventado, uma fabricação, uma ficção.^19 Compare-se com
+   os comentários semelhantes de Nietzsche em OTL (p. 85):
+
+     Se eu inventar a definição de um mamífero, e depois, após
+     inspeccionar um camelo, declaro “Olha, um mamífero”, trouxe
+     realmente à luz uma verdade, mas é uma verdade de limitado valor. O
+     que é dizer que é uma verdade completamente antropomórfica que não
+     contém um só ponto que seria “verdadeira em si” e universalmente
+     válida separadamente do homem.
+
+   Nietzsche não distingue entre objectos que existem realmente por si, e
+   os que inventamos, como os hans. Para ele, tudo é uma invenção ou
+   ficção, e tudo é o resultado do modo como impomos categorias e formamos
+   conceitos a partir do caos sensorial. Assim, “o mundo “aparente” é o
+   único: o mundo “real” não foi senão mentirosamente acrescentado” (TI
+   III 2). Há um número infinito de maneiras de o caos cru da experiência
+   poder ser talhado em objectos; os seres humanos têm simplesmente de
+   escolher aquelas interpretações que lhes permitem viver e promover os
+   seus interesses. Foi assim que tornámos o mundo lógico (WP 521),
+   formalizável e calculável para nós (WP 516).^20
+
+   Suponha-se que concedíamos o anti-realismo esboçado em traços largos de
+   Nietzsche. Em que medida afecta isto a lógica? Já estabelecemos que a
+   lógica pressupõe de facto a existência de coisas, dado a semântica
+   exigir domínios não vazios de entidades. Exige a semântica entidades
+   realistas, ou poderia safar-se tranquilamente com entidades “fictícias”
+   inventadas pelos seres humanos? Não parece haver razão para a lógica
+   exigir uma ontologia realista. As variáveis abrangem com igual
+   facilidade objectos construídos ou “reais”; pares de cavalos e
+   cavaleiros pode estar na extensão de “han” sem qualquer dificuldade, e
+   os camelos podem estar na extensão de “mamífero”. A semântica exige
+   domínios, mas os domínios podem ser igualmente populados com coisas
+   realistas ou anti-realistas; a lógica pode ser aplicada seja qual for a
+   metafísica das coisas que se adopte. Dificilmente podemos imaginar um
+   anti-realista contemporâneo como Goodman a aconselhar o abandono da
+   lógica. Assim, parece que mesmo que aceitemos as afirmações de
+   Nietzsche de que a lógica pressupõe coisas, e que as coisas não passam
+   de ficções, isto não põe a lógica minimamente em causa.
+
+   Talvez Nietzsche tenha pensado que não tenha sido apenas uma questão
+   contingente, histórica o facto de a lógica ter pressuposto o realismo
+   metafísico. Talvez tenha acreditado que seja necessário que a lógica
+   tenha uma semântica realista.^21 Tal postura conduziria certamente a
+   uma reductio directa da lógica, se o anti-realismo de Nietzsche estiver
+   correcto. Se a sua perspectiva era que há uma conexão necessária, então
+   estava enganado, como argumentei no parágrafo anterior. É claro que é
+   completamente consistente da sua parte estar enganado quanto à relação
+   entre a lógica e o realismo e ter razão nas suas críticas de outros
+   aspectos da lógica ou da metafísica realista.
+
+   Talvez a verdadeira queixa de Nietzsche seja que a lógica é enganadora,
+   isto é, ainda que a lógica não insista formalmente no realismo, ao
+   apoiarmo-nos na lógica subjacente à nossa gramática conduz as pessoas à
+   aceitação do realismo. Talvez seja isto que Nietzsche tem em mente em
+   TI III 5: “damos connosco no seio de um fetichismo grosseiro quando
+   invocamos os pressupostos básicos da metafísica da linguagem — o que é
+   dizer, da razão”; e em WP 516, onde escreve: “[se] fizermos da lógica
+   um critério do verdadeiro ser, estamos prestes a postular como
+   realidades todas essas hipóteses: substância, atributo, objecto, acção,
+   etc.; isto é, estamos a um passo da concepção de um mundo metafísico
+   […] um “mundo real””. Contudo, o suposto facto no qual os lógicos se
+   apoiam por fé (GS 110), ou em relação ao qual são “supersticiosos” (BGE
+   17), é um facto sobre lógicos, e não sobre a lógica em si.
+
+   Claro que isto não impede uma combinação de ambos. Um exemplo vívido é
+   BGE 34, onde Nietzsche declara que “que a verdade é mais do que mera
+   aparência não passa de um preconceito moral”, passando de seguida a pôr
+   em causa vários elementos desta fé até agora inquestionada, incluindo a
+   fé na gramática, discutida acima. Um objecto do seu escrutínio é a
+   bivalência, a tese de que toda a proposição tem um valor de verdade, e
+   que este valor de verdade é o verdadeiro ou o falso. Nietzsche examina
+   isto perguntando: “Efectivamente, o que nos força a supor que há uma
+   oposição essencial entre “verdadeiro” e “falso”? Não será suficiente
+   admitir graus de aparência e, digamos, sombras mais ou menos escuras e
+   matizes de aparência — diferentes “valores”, para usar a linguagem dos
+   pintores?” Nietzsche sustenta que a bivalência é um pressuposto não
+   demonstrado dos lógicos, e especula sobre os vários matizes de valores
+   como uma alternativa, para mostrar como a bivalência não é a única
+   opção concebível. É um pequeno passo, ainda que precipitado, passar
+   desta crítica da fé dos lógicos para uma rejeição genuína da própria
+   bivalência, e daí é apenas um salto (ainda que errado) para a rejeição
+   da própria lógica. Clark, por exemplo, parece pensar que a rejeição da
+   bivalência implica a rejeição de toda a lógica, assim como Derrida.^22
+   Isto está completamente errado, contudo. A rejeição da bivalência não
+   significa uma rejeição da lógica — sobram ainda várias lógicas
+   completamente multivalentes.
+
+   Nada disto é dizer que a psicologia dos lógicos é desinteressante ou
+   sem importância, mas é puramente ad hominem inferir que a lógica é
+   defeituosa ou tem problemas partindo da observação de que os lógicos
+   são supersticiosos e têm preconceitos (é como desconsiderar a obra
+   tardia de Nietzsche em virtude da sua loucura). Se os lógicos tendem a
+   comprometer-se com uma metafísica realista isso não é culpa da lógica,
+   que é neutra na matéria. Se os lógicos pressupõem a bivalência sem
+   defesa, isto não é devido a uma qualquer característica essencial da
+   lógica, pois esta pode ser modificada para acomodar a multivalência,
+   mas antes porque eles pressupõem a bivalência por outras razões. Estas
+   razões considerava Nietzsche que eram psicológicas, e constituem
+   certamente um tópico que lhe interessava, como parte integrante do seu
+   projecto geral de pôr a nu a genealogia das ideias. Assim, podemos
+   conceder a Nietzsche as suas duas afirmações (que a lógica pressupõe a
+   existência de coisas e que as coisas são meras ficções inventadas pelos
+   seres humanos) sem com isso termos de abjurar ou modificar qualquer
+   parte da lógica contemporânea.
+
+   Consideremos então a terceira afirmação de Nietzsche: que a lógica
+   pressupõe a identidade persistente das coisas ao longo do tempo. À
+   primeira vista, isto parece claramente falso, dado que as fórmulas
+   lógicas não se comprometem com o tempo nem com a flexão temporal.
+   Talvez a lógica temporal insista na mesma coisa em diferentes momentos
+   do tempo, mas é muitíssimo improvável que Nietzsche tivesse este
+   esotérico ramo da lógica em mente (que no seu tempo nem sequer
+   existia), e os géneros comuns de lógica — e.g., lógica aristotélica,
+   proposicional e de predicados — nada dizem sobre a identidade ao longo
+   do tempo. É mais provável que o verdadeiro interesse de Nietzsche seja
+   o raciocínio prudencial, que depende efectivamente da persistência ao
+   longo do tempo. A sua discussão da dicotomia entre o devedor e o credor
+   no ensaio II da Genealogia é um dos exemplos. É esta relação que
+   Nietzsche pensa ser responsável por instilar memória na humanidade. O
+   devedor tem de se lembrar que deve ao credor, e este tem de se lembrar
+   que o outro lhe deve. Não só o devedor tem de se recordar que deve algo
+   a alguém, como tem de acreditar que ele mesmo é uma coisa que persiste
+   ao longo do tempo. O devedor tem de acordar amanhã dando-se conta de
+   que é a mesma pessoa do que a que contraiu a dívida, não nasce de novo
+   todos os dias, sendo assim um objecto que persiste ao longo do tempo.
+   Uma das funções do castigo é encorajar esta crença na identidade
+   diacrónica. O medo do castigo conduz depois ao raciocínio prudencial da
+   parte do devedor — se eu pagar a dívida (no futuro, e eu existirei
+   nesse futuro) segundo os termos do empréstimo, então evitarei o
+   castigo; logo, pagarei. Assim, este tipo de raciocínio conduz a uma
+   crença num ego ou eu contínuo, uma crença (afirma Nietzsche em TI III
+   5) que é deslocada para outros objectos, criando assim o conceito de
+   “coisa”.
+
+   Suponha-se que a análise de Nietzsche está correcta quanto a isto, e
+   que o raciocínio prudencial depende realmente de um compromisso com a
+   identidade diacrónica; em que medida exactamente é isto um erro?
+   Nietzsche não está interessado em pôr em causa o raciocínio lógico dado
+   que, como vimos, considera-o pelo menos necessário para o pensamento, e
+   muito provavelmente também para a própria vida. Além disso, sem um tipo
+   qualquer de raciocínio meios-fins, é extremamente difícil ver como se
+   poderia desenvolver intencionalmente a nossa vontade de poder, ou
+   entregarmo-nos à superação de nós, ou a qualquer outra das coisas que
+   Nietzsche elogia. É mais provável que Nietzsche não queira ver-se livre
+   do conceito de identidade ao longo do tempo, nem queira fazer as
+   pessoas parar de acreditar em seres persistentes, mas antes que esteja
+   a lembrar que, como os objectos, a identidade diacrónica é uma ficção.
+   A crítica da identidade é outra manifestação do seu anti-realismo
+   quanto às coisas.
+
+   Além disso, este aspecto do seu anti-realismo é curiosamente implicado
+   pela teoria dos feixes que apresenta em A Vontade de Poder.^23 Em WP
+   557 escreve: “As propriedades de uma coisa são efeitos de outras
+   “coisas”: se removermos as outras “coisas”, então uma coisa não tem
+   propriedades, i.e., não há uma coisa sem outras coisas, i.e., não há a
+   “coisa em si””. Aqui, Nietzsche está a fornecer uma definição de
+   “propriedade”; uma propriedade é um certo género de relação, talvez
+   causal, entre “coisas”. Note-se, é claro, o seu uso das aspas:
+   Nietzsche tem o cuidado de evitar comprometer-se com qualquer posição
+   normal quanto às coisas enquanto substâncias imutáveis, coisas em si,
+   etc. Contudo, do modo como interpretamos realmente o mundo, este tem
+   mesas e cães e árvores. O que são estes objectos? Nietzsche deve-nos
+   uma explicação destas “coisas”; usar apenas aspas não lhe permite
+   escarpar-se. Nietzsche afirma depois: “Se removermos todas as relações,
+   todas as “propriedades”, todas as “actividades” de uma coisa, a coisa
+   não permanece” (WP 558). E em WP 551: “Uma “coisa” é a soma dos seus
+   efeitos”. Ou seja, as coisas quotidianas comuns são feixes de
+   propriedades, aglutinadas por nós para satisfazer os requisitos da
+   lógica e para facilitar a comunicação (WP 558). O que não reconhecemos,
+   afirma Nietzsche, é que “a “coisa” em que acreditamos só foi inventada
+   como fundamento dos vários atributos” (WP 561). É devido a este erro
+   que acabamos por aceitar o realismo da substância e acreditamos que há
+   um pequeno âmago inflexível sob todas as propriedades, uma coisa em si
+   ou particular nu ou algo.
+
+   Nietzsche é membro de uma esplêndida tradição filosófica no que
+   respeita a esta teoria dos feixes, prefigurada em Berkeley e Hume, e
+   pósfigurada em Russell. Recorde-se esta famosa passagem do Tratado de
+   Hume:
+
+     Pela minha parte, quando entro do modo mais íntimo no que chamo eu,
+     tropeço sempre numa ou noutra percepção particular, de calor ou
+     frio, de luz ou sombra, de amor ou ódio, dor ou prazer. Nunca
+     consigo apanhar-me, a qualquer momento que seja, sem uma percepção,
+     e nunca consigo observar seja o que for a não ser a percepção.
+     Quando as minhas percepções são removidas por qualquer período de
+     tempo, como quando durmo profundamente, desde que não tenha qualquer
+     sensibilidade de mim, pode-se verdadeiramente dizer que não existo.
+     E fossem todas as minhas percepções removidas com a minha morte, não
+     pudesse eu pensar, sentir ou ver, nem amar ou odiar, depois da
+     dissolução do meu corpo, eu seria totalmente aniquilado, nem concebo
+     que outro requisito mais seja necessário para me fazer uma perfeita
+     não entidade.^24
+
+   Compare-se com Berkeley: “Tendo-se observado que uma certa cor, gosto,
+   cheiro, configuração e consistência andam juntas, sendo consideradas
+   uma coisa distinta, sendo o significado do substantivo maçã; outras
+   colecções de ideias constituem uma pedra, uma árvore, um livro e coisas
+   sensíveis semelhantes”.^25 Considere-se também os comentários de
+   Russell: “O nosso propósito é, se possível, construir a partir das
+   qualidades feixes tendo as propriedades espácio-temporais que a física
+   exige das “coisas””.^26 E também “Quero sugerir que “isto é vermelho”
+   não é uma proposição sujeito-predicado, sendo antes da forma “o
+   vermelho está aqui”; que “vermelho” é um substantivo, e não um
+   predicado; e que o que comummente se chamaria “coisa” nada é senão um
+   feixe de qualidades coexistentes, como a vermelhidão, rigidez, etc”.^27
+   Como estas afirmações soam a Nietzsche!
+
+   Se a posição de Nietzsche é que uma “coisa” é um feixe de propriedades
+   num instante, então segue-se aproximadamente que a mudança é coisa que
+   não existe. Ou seja, dadas as perspectivas normais de que os conjuntos
+   têm os seus membros essencialmente e que as somas mereológicas têm as
+   suas partes essencialmente, se uma coisa é identificada como um
+   conjunto de propriedades ou uma soma mereológica de propriedades, então
+   não poderia mudar uma só dessas propriedades sem cessar de existir.
+   Dado que as coisas mudam efectivamente, isto é uma objecção recorrente
+   às teorias dos feixes.^28 Contudo, Nietzsche enfrenta sem vacilar este
+   resultado. Não tem problemas em aceitar que as coisas não mudam ou,
+   visto de outro modo, que só há mudança, não havendo coisas persistentes
+   sob a mudança. Razão: os feixes são formados e individuados
+   originalmente por meio de perspectivas sobre percepções. À medida que
+   estas perspectivas revêm os feixes, dissolvendo basicamente os feixes
+   antigos e juntando novos grupos de propriedades, as coisas estão
+   constantemente a deixar de existir e a passar a existir. De modo que à
+   medida que as interpretações mudam, mudam os feixes. Assim, não há
+   identidade diacrónica genuína; a duração do feixe (i.e., uma coisa) é
+   efémera. A identidade ao longo do tempo é uma história conveniente para
+   contar sobre feixes sucessores, mas não há verdadeira persistência.
+
+   O que dizer então destes feixes sucessores, ou feixes que persistem o
+   tempo? Por que não poderia uma perspectiva agrupar feixes em diferentes
+   instantes, juntando-os num feixe transtemporal? Tal feixe transtemporal
+   teria direito a reivindicar constituir uma coisa que persiste ao longo
+   do tempo. Sim, diz Nietzsche, tal feixe seria, para todos os efeitos e
+   propósitos, uma coisa com identidade diacrónica. O que há a notar é que
+   um feixe transtemporal não é fundamentalmente diferente de um feixe num
+   dado instante. Tal como um feixe num instante é apenas um molho de
+   propriedades agrupadas entre si para promover os interesses de uma
+   perspectiva, não tendo qualquer natureza intrínseca em si, nenhum
+   pequeno cerne rígido subjacente, nenhuma ecceidade emergente, o mesmo
+   acontece com os feixes transtemporais. Juntamos de facto feixes
+   transtemporais para satisfazer os nossos interesses (e baseamo-nos
+   neles no nosso raciocínio prudencial), mas trata-se de ficções
+   convenientes, exactamente como os feixes num instante são ficções. As
+   “coisas” são ficcionais em todas as dimensões.
+
+   Há uma história semelhante para contar quanto à crítica final de
+   Nietzsche da lógica, a ideia de que não há coisas auto-idênticas, ou
+   não há identidade sincrónica. Em si, uma passagem como WP 516 é difícil
+   de engolir, se é que não é completamente burlesca:
+
+     Supondo que não há qualquer “A” auto-idêntico, ao contrário do que
+     se pressupõe em toda a proposição da lógica (e da matemática), e o
+     “A” fosse já mera aparência, então a lógica teria um mundo meramente
+     aparente como sua condição […] o “A” da lógica é, como o átomo, a
+     reconstrução da coisa.
+
+   O que poderia ser mais louco do que a rejeição de que A = A? Contudo,
+   quando uma afirmação deste tipo é reinserida no contexto do
+   anti-realismo de Nietzsche sobre as coisas, começa a fazer sentido. Uma
+   vez mais, a crítica de Nietzsche tem menos a ver com o conceito de
+   identidade sincrónica do que com uma crítica da ideia de que há coisas
+   reais que possam ser auto-idênticas. Se não há coisas genuínas, então
+   não há coisas que sejam auto-idênticas. Os objectos ficcionais,
+   agrupados em feixes por via das perspectivas adoptadas quanto às
+   propriedades, podem ser auto-idênticos, mas tal identidade é por isso
+   perspectívica. O argumento de Nietzsche é que não há qualquer
+   identidade an sich, tal como não há coisas em si. Uma vez mais vemos
+   que a crítica de Nietzsche é de facto sobre a aplicabilidade da lógica
+   e sobre o realismo dos objectos, e não sobre a lógica em si.
+
+   Em que ficamos então? A crítica de Nietzsche da lógica é
+   fundamentalmente sobre a semântica, e centra-se na sua equação da
+   semântica existente com uma semântica realista. Argumenta contra a
+   metafísica realista com a sua afirmação de que os objectos são ficções
+   convenientes, construídos a partir de propriedades agrupados em feixes
+   que satisfazem os interesses de uma dada perspectiva. Os objectos são
+   deste modo perspectívicos, tal como afirma que a verdade é
+   perspectívica. Nietzsche afirma ainda que a lógica é a estrutura
+   escondida da linguagem, e tal como a lógica pode ser enganadora devido
+   à semântica realista, sustenta também que a linguagem engana as
+   pessoas, fazendo-as aceitar o realismo dos objectos. Vimos que a lógica
+   pode acomodar todas estas queixas. Uma semântica realista não é a única
+   possível, e os universos de discursos tanto podem ser preenchidos com
+   ficções nietzschianas como com coisas em si. A crítica de Nietzsche da
+   lógica visa libertar a razão dos grilhões königsbergianos. A acusação
+   de que a lógica ou a linguagem são enganadoras é em última análise uma
+   crítica dos que se deixam enganar desse modo, não sendo uma objecção
+   que destrua a lógica como ciência do pensamento ou como representação
+   formal da linguagem natural. Assim, as questões aparentemente sobre a
+   lógica tornam-se questões sobre as origens dos nossos conceitos
+   metafísicos, um tema muitíssimo apropriado à abordagem genealógica de
+   Nietzsche. As preocupações fundamentais de Nietzsche são afinal de
+   contas a metafísica e a fé dos lógicos, alvos legítimos que lhe
+   permitem sustentar de modo consistente o papel crucial de preservação
+   do pensamento e da vida que estabelece para a lógica e a
+   racionalidade.^29
+   Steven D. Hales
+   Philosophy and Phenomenological Research, Vol. LVI, N.º 4, Dezembro
+   1996, pp. 819-835.
+
+Notas
+
+    1. Nietzsche Scholarship in English: A Bibliography 1968–1992 (with
+       supplement), org. B. Bryan Hilliard (Urbana, Illinois: North
+       American Nietzsche Society, ed. rev. 1993); International Nietzsche
+       Bibliography, org. Herbert W. Reichert e Karl Schlecta (Chapel
+       Hill: University of North Carolina, ed. rev. 1968).
+    2. Walter Kaufmann, Nietzsche: Philosopher, Psychologist, Antichrist
+       (Princeton: Princeton University Press, 4.ª ed. 1974); Alexander
+       Nehamas, Nietzsche: Life as Literature (Cambridge: Harvard
+       University Press, 1985).
+    3. Maudemarie Clark, Nietzsche on Truth and Philosophy (Cambridge:
+       Cambridge University Press, 1990); Arthur C. Danto, Nietzsche as
+       Philosopher (Nova Iorque: Columbia University Press, 1965); Richard
+       Schacht, Nietzsche (Londres: Routledge and Kegan Paul, 1983).
+    4. Abreviaturas dos textos de Nietzsche:
+       HATH — Human, All Too Human, ed. e trad. Marion Faber e Stephen
+       Lehmann (Lincoln: University of Nebrasca Press, 1984; edição
+       original: 1878).
+       OTL — “On Truth and Lies in a Nomoral Sense” in Philosophy and
+       Truth: Selections From Nietzsche's Notebooks of the Early 1870's,
+       ed. e trad. Daniel Breazeale (Londres: Humanities Press
+       International, 1979).
+       GS — The Gay Science, ed. e trad. Walter Kaufmann (Nova Iorque:
+       Vintage Books, 1974; edição original: 1882).
+       BGE — Beyond Good and Evil, ed. e trad. Walter Kaufmann (Nova
+       Iorque: Vintage Books, 1966; edição original: 1886).
+       GM — On the Genealogy of Morals, ed. e trad. Walter Kaufmann (Nova
+       Iorque: Vintage Books, 1967; edição original: 1887).
+       AC — The Antichrist, ed. e trad. R. J. Hollingdale (Nova Iorque:
+       Viking Penguin, 1968; edição original: 1895).
+       TI — The Twilight of the Idols, ed. e trad. R. J. Hollingdale (Nova
+       Iorque: Viking Penguin, 1968; edição original: 1889).
+       EH — Ecce Homo, ed. e trad. Walter Kaufmann (Nova Iorque: Vintage
+       Books, 1967; edição original: 1908).
+       WP — The Will to Power, ed. e trad. Walter Kaufmann e R. J.
+       Hollingdale (Nova Iorque: Vintage Books, 1968).
+    5. O artigo de Mary-Barbara Zeldin's, “Afrikan Alexandrovich Spir”, in
+       The Encyclopedia of Philosophy, dir. P. Edwards (Nova Iorque:
+       Macmillan, 1967) vol. 7, p. 554, é útil.
+    6. Para mais informação sobre a sua teoria moral positiva veja-se
+       Steven D. Hales, “Was Nietzsche a Consequentialist?”,International
+       Studies in Philosophy (vol. 27, n.º 3, Verão 1995), pp. 25-34.
+    7. Trata-se de um excerto de “Drafts” §177 in Philosophy and Truth:
+       Selections From Nietzsche's Notebooks of the Early 1870's, ed. e
+       trad. Daniel Breazeale (Londres: Humanities Press International,
+       1979).
+    8. Os números citados das páginas são de Ofelia Schutte, Beyond
+       Nihilism: Nietzsche Without Masks (Chicago: University of Chicago
+       Press, 1984).
+    9. Os números citados das páginas são de Michel Haar, “Nietzsche and
+       Metaphysical Language”, in D. B. Allison, org., The New Nietzsche
+       (Nova Iorque: Dell Publishing, 1977), pp. 5-36.
+   10. Alan D. Schrift, Nietzsche and the Question of Interpretation (Nova
+       Iorque: Routledge, 1990), p. 134.
+   11. Bern Magnus, Nietzsche's Existential Imperative (Bloomington:
+       Indiana University Press, 1978), p. 196.
+   12. Clark, Nietzsche on Truth and Philosophy, p. 105.
+   13. Para alguma discussão sobre como Nietzsche é anterior ao
+       anti-realismo contemporâneo, veja-se Cornel West, “Nietzsche's
+       Prefiguration of Postmodern American Philosophy”, in Why Nietzsche
+       Now?, org. Daniel O'Hara (Bloomington: Indiana University Press,
+       1985), pp. 241–269.
+   14. Hilary Putnam, Reason, Truth and History (Cambridge: Cambridge
+       University Press, 1981), p. 49. Veja-se também o seu Realism With a
+       Human Face (Cambridge: Harvard University press, 1990) e Midwest
+       Studies in Philosophy: Realism and Antirealism (Vol. 12, 1988).
+   15. Para um prolongamento deste tema, veja-se Christoph Cox,
+       “Nietzsche, Naturalism, and Interpretation”, International Studies
+       in Philosophy (vol. 27, n.º 3, 1995), pp. 3–18.
+   16. Schutte é desnecessariamente literal quanto a TI III 5. Veja-se
+       Beyond Nihilism: Nietzsche Without Masks, p. 27.
+   17. O que se segue é uma apresentação da teoria que Carnap formula em
+       “The Elimination of Metaphysics Through the Logical Analysis of
+       Language”, in A. J. Ayer, org. Logical Positivism (Nova Iorque:
+       Macmillan, 1959), pp. 60–81. Os números seguintes das páginas
+       referem-se a este artigo.
+   18. Chisholm discutiu os hans em vários seminários de pós-graduação na
+       Universidade de Brown. Veja-se também a sua discussão de entia per
+       alio nas suas lições Carus, publicadas como Person and Object (La
+       Salle, Illinois: Open Court, 1976).
+   19. Sartre também acusa o antropomorfismo do modo como
+       conceptualizamos. Afirma que “o homem é o único ser pelo qual uma
+       destruição pode ocorrer”. Ou seja, os terremotos e tempestades não
+       destroem por si mesmos, apenas mudam tralha graúda de um lugar para
+       outro. Somos nós que classificamos isto como destruição; não há
+       qualquer destruição objectiva no mundo para lá dos nossos
+       interesses. Veja-se Jean-Paul Sartre, Being and Nothingness, trad.
+       Hazel E. Barnes (Nova Iorque: Simon and Shuster, 1956), cap. 1, §2.
+   20. Se certas interpretações são necessárias para que os seres humanos
+       vivam, então não serão estas de algum modo necessidades reais,
+       verdadeiras vidas humanas, ou algum género de verdades absolutas?
+       Como se harmoniza isto com o anti-realismo radical e o
+       perspectivismo de Nietzsche? Os conhecidos enigmas da
+       auto-referência espreitam. Tratei destas questões em Steven D.
+       Hales e Robert C. Welshon, “Truth, Paradox, and Nietzschean
+       Perspectivism”, History of Philosophy Quarterly (Vol. 11, n.º 1,
+       Janeiro 1994), pp. 101–119.
+   21. Um consultor anónimo desta revista sugeriu que Nietzsche o afirma
+       em HATH 18.
+   22. Clark, Nietzsche on Truth and Philosophy, p. 66. Para alguma
+       discussão de perspectiva de Derrida veja-se John M. Ellis, Against
+       Deconstruction (Princeton: Princeton University Press, 1989), cap.
+       1.
+   23. Nehamas também interpreta Nietzsche no sentido de estar a oferecer
+       uma teoria dos feixes em Nietzsche: Life as Literature, cap. 3,
+       apesar de não usar esta terminologia.
+   24. David Hume, Tratado do Conhecimento Humano, livro 1, §6.
+   25. George Berkeley, Of the Principles of Human Knowledge, parte I, §1.
+   26. Bertrand Russell, An Inquiry Into Meaning and Truth (Londres: Allen
+       and Unwin, 1950), p. 100.
+   27. Russell, An Inquiry Into Meaning and Truth, p. 97.
+   28. Veja-se, por exemplo, o excelente artigo de James Van Cleve, “Three
+       Versions of the Bundle Theory”, Philosophical Studies (vol. 47,
+       1985), pp. 95–107. Nietzsche não é citado como um defensor da
+       teoria dos feixes.
+   29. Agradeço a Robert Welshon críticas a uma versão anterior, e a três
+       consultores anónimos de Philosophy and Phenomenological Research.
+
+   Copyright © 2025 criticanarede.com
+   ISSN 1749-8457
+
+Références
+
+   Liens visibles :
+   1. file:///
+   2. file:///epistemologia.html
+   3. file:///estetica.html
+   4. file:///etica.html
+   5. file:///filosofia.html
+   6. file:///ciencia.html
+   7. file:///linguagem.html
+   8. file:///mente.html
+   9. file:///religiao.html
+  10. file:///politica.html
+  11. file:///historia.html
+  12. file:///logica.html
+  13. file:///metafisica.html
+  14. file:///newsletter.html
+  15. file:///donativos.html
+  16. file:///sobrenos.html
+  17. file:///tmp/lynxXXXXxzzbco/logica.html
+
+   Liens cachés :
+  19. https://www.addtoany.com/share

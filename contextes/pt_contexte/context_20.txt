@@ -1,0 +1,5 @@
+    <title>Nietzsche sobre a lógica</title>
+                <a href="/logica.html">Lógica</a> &nbsp;
+        <a href="logica.html">Lógica</a></div>
+    <h1>Nietzsche sobre a lógica</h1> 
+        “Todos os filósofos são tiranizados pela lógica”.

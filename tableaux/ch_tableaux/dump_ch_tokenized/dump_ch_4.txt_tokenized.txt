@@ -1,0 +1,640 @@
+# alternate 编辑 本页 Wikipedia ( zh ) alternate alternate alternate alternate
+alternate alternate alternate alternate alternate alternate
+Wikipedia 的 Atom feed
+
+跳 转 到 内容
+
+[ ] 主菜单
+主菜单
+( BUTTON ) 移 至 侧栏 ( BUTTON ) 隐藏
+导航
+* 首 页
+* 分类 索引
+* 特色 内容
+* 新闻 动态
+* 最近 更改
+* 随机 条目
+
+帮助
+* 帮助
+* 维基社 群
+* 方针 与 指引
+* 互助 客栈
+* 知识 问答
+* 字 词 转换
+* IRC即时 聊天
+* 联络 我们
+* 关于 维基 百科
+
+维基 百科 自由 的 百科全书
+搜索
+____________________
+( BUTTON ) 搜索
+
+[ ] 外观
+
+* 资助 维基 百科
+* 创建 账号
+* 登录
+
+[ ] 个人 工具
+* 资助 维基 百科
+* 创建 账号
+* 登录
+
+未 登录 编辑者 的 页面 了 解详 情
+* 贡献
+* 讨论
+
+目录
+
+( BUTTON ) 移 至 侧栏 ( BUTTON ) 隐藏
+* 序言
+* 1 术语
+* 2 例子
+* 3 把 运算 连 接 起 来
+( BUTTON ) 开关 把 运算 连 接 起 来 子章节
++ 3 . 1 使用 圆括 号
+* 4 性质
+* 5 真 值表
+* 6 其他 记号
+* 7 布尔术语 的 基本 数学 使用
+* 8 布尔术语 的 英语 使用
+* 9 应用
+( BUTTON ) 开关 应用 子章节
++ 9 . 1 数字 电子 电路 设计
++ 9 . 2 数据库 应用
++ 9 . 3 搜索引擎 查询
+* 10 参见
+* 11 外部 链接
+
+[ ] 开关 目录
+
+布尔逻辑
+
+[ ] 1 种 语言
+* English
+
+编辑 链接
+
+* 条目
+* 讨论
+
+[ ] 不 转换
+* 不 转换
+* 简体
+* 繁體
+* 大陆 简体
+* 香港 繁體
+* 澳 門 繁體
+* 大马 简体
+* 新加坡 简体
+* 臺灣 正體
+
+* 阅读
+* 编辑
+* 查看 历史
+
+[ ] 工具
+工具
+( BUTTON ) 移 至 侧栏 ( BUTTON ) 隐藏
+操作
+* 阅读
+* 编辑
+* 查看 历史
+
+常规
+* 链入 页面
+* 相关 更改
+* 上 传 文件
+* 特殊 页面
+* 固定链 接
+* 页面 信息
+* 引用 此 页
+* 获取 短链 接
+* 下载 二 维码
+
+打印 / 导 出
+* 下载 为 PDF
+* 打印 页面
+
+在 其他 项目 中
+* 维基 数据 项目
+
+外观
+( BUTTON ) 移 至 侧栏 ( BUTTON ) 隐藏
+本页 使用 了 标题 或 全文 手工 转换
+维基 百科 ， 自由 的 百科全书
+「布尔逻辑」 的 各地 常用 名稱
+中国 大陸 布尔逻辑
+臺灣 布林 運算
+
+布尔逻辑 （ 英語 ： Boolean
+algebra ） 得名 于 乔治 · 布尔 ， 他 是 爱尔兰 科克 的 皇后 学院 的 英国 数学 家 ， 他 在 十九 世纪 中叶 首 次 定义 了 逻辑 的 代数 系统 。 现在 ， 布尔逻辑 在 电子学 、 计算
+机 硬件 和 软件 中 有 很多 应用 。 在 1937年 ， 克劳德 · 艾尔伍德 · 香农 展示 了 布尔逻辑 如何 在 电子学 中 使用 。
+
+使用 集合 代数 作为 介绍 布尔逻辑 的 一 种 方式 。 还 使用 文氏 图 来 展示 各种 布尔逻辑 陈述 所 描述 的 集合 联系 。
+
+术语
+
+[ 编辑 ]
+[ 290 p x - Venn _ A _ intersect _ B . sv g . png ] 文氏图 ， 展示A AND B （ 紫 罗 兰色 ） 的 集合 交集 ， A OR
+B （ 所有 着色 区域 ） 的 集合 并集 ， 和 A XOR B 的 集合 （ 除 了 紫 罗 兰色 的 所有 着色 区域 ） 。 方框 表示 " 全集 " 。
+
+设X 是 一个 集合 ：
+* 元素 是 一个 集合 的 成员 。 表示 为
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ∈ < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ in
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ in } 。 如果 它 不 是 这个 集合 的 元素 ， 表示 为
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ∉ < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ notin
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ notin } 。
+
+* 全集 是 集合X ， 有时 表示 为 1 。 注意 使用 全集 这个 词 意味着 “ 虑及 的 所有 元素 ” ， 不 必然 的 同 “ 现有 的 所有 元素 ” 一样 。
+
+* 空集 或 null 集合 是 没有 元素 的 集合 ， 表示 为
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi class = " MJX - variant " > ∅ < / mi >
+< / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ varnothing
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ varnothing } ， 有时 表示 为 0 。
+
+* 一 元 算符 应用 于 一个 单一 的 集合 。 有 一个 一 元 算符 叫做 逻辑 非 （ NOT ） 。 它 的 作用 是 采用 补集 。
+
+* 二 元 算符 应用 于 两 个 集合 。 基本 的 二 元 算符 是 逻辑 或 （ OR ） 和 逻辑 与 （ AND ） 。 它们 进行 集合 的 并集 和 交集 。 还有 其他 衍生 的 二 元 算符 ， 比如 逻辑异
+或 （ XOR ， 排 他 的 或 ） 。
+
+* 子集 表示 为 A
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ⊆ < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ subseteq
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ subseteq } B ， 意味 这 在 集合A 中 所有 元素 都 在 集合B 中 。
+
+* 真子 集 表示 为 A
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ⊂ < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ subset
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ subset } B ， 意味着 在 集合A 中 的 所有 元素 都 在 集合B 中 ， 并且 两 个 集合 不 等同 。
+
+* 超集 表示 为 A
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ⊇ < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ supseteq
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ supseteq } B ， 意味着 在 集合B 中 的 所有 元素 都 在 集合A 中 。
+
+* 真 超集 表示 为 A
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ⊃ < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ supset
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ supset } B ， 意味着 在 集合B 中 的 所有 元素 都 在 集合A 中 ， 并且 两 个 集合 不 等同 。
+
+例子
+
+[ 编辑 ]
+[ 480 p x - Boolean _ Multiples _ of _ 2 _ 3 _ 5 _ c n . jpg ]
+
+设 图像 为 集合A 包含 " 全集 " 中 所有 偶数 （ 二 的 倍数 ） ， 集合B 包含 " 全集 " 中 所有 三 的 倍数 。 则 两 个 集合 的 交集 （ 在 集合A AND
+B 中 所有 的 元素 ） 将 是 " 全集 " 中 所有 六 的 倍数 。
+
+集合A 的 补集 （ 所有 不 在 集合A 中 的 元素 ） 是 " 全集 " 中 所有 的 奇数 。
+
+把 运算 连 接 起 来
+
+[ 编辑 ]
+
+尽管 在 任何 布尔 运算 中 都 最 多 有 两 个 集合 参与 ， 从 这个 运算 所 形成 的 新 集合 可以 接着 与 其他 集合 联合 起 来 实现 另外 的 布尔 运算 。 使用 前面 的 例子 ， 我们 可以 定义 一
+个 新 集合C 作为 " 全集 " 中 所有 五 的 倍数 的 集合 。 所以 " 集合A AND B AND
+C " 将 是 " 全集 " 中 所有 30 的 倍数 。 如果 为 了 更 方便 ， 我们 可以 把 集合 AB 当作 集合A 和 B 的 交集 ， 或者 说 " 全集 " 中 所有 六 的 倍数 的 集合 。 那 么 我们 可以 称 "
+集合 AB AND C " 是 " 全集 " 中 所有 30 的 倍数 的 集合 。 我们 接着 进一步 的 把 这个 结果 叫做 集合 ABC 。
+
+使用 圆括 号
+
+[ 编辑 ]
+
+尽管 任何 数目 的 逻辑 AND （ 或 任何 数目 的 逻辑 OR ） 可以 被 连 接 在 一起 而 没有 歧义 ， AND 和 OR 和 NOT 的 组合 可以 导致 歧义 的 情况 。 在 这种 情况 下 ， 可以 使
+用 圆括 号 来 分清 运算 的 次序 。 永远 是 最 内 的 括号 内 的 运算 先 进行 ， 随后 是 外层 的 括号 以此类推 ， 直到 在 所有 的 括号 内运 算 都 完成 。 接着 进行 括号 外 的 运算 。
+
+性质
+
+[ 编辑 ]
+
+为 两 个 主要 的 二 元 运算 的 符号 定义 为
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ∧ < / mo > < mrow
+class = " MJX - TeXAtom - ORD " > < mo > / < / mo > < / mrow > < mo > ∩ < / mo > < / mstyle >
+< / mrow > < annotation encoding = " application / x - t ex " > {\displaystyle \ land
+/ \ cap }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ land / \ cap } ( 逻辑 与 / 交集 ） 和
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ∨ < / mo > < mrow
+class = " MJX - TeXAtom - ORD " > < mo > / < / mo > < / mrow > < mo > ∪ < / mo > < / mstyle >
+< / mrow > < annotation encoding = " application / x - t ex " > {\displaystyle \ lor
+/ \ cup }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ lor / \ cup } ( 逻辑 或 / 并集 ） ， 把 单一 的 一 元 运算 的 符号 定义 为
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi mathvariant = " normal " > ¬ < / mi >
+< / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ lnot }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle \ lnot } /
+~ ( 逻辑非 / 补集 ） 。 我们 还 使用 值0 （ 逻辑 假 / 空集 ） 和 1 （ 逻辑 真 / 全集 ） 。 下列 性质 适用 于 布尔代数 和 布尔 逻辑 二者 ：
+
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > a < / mi > < mo > ∨ < / mo > < m o
+stretchy = " false " > ( < / mo > < mi > b < / mi > < mo > ∨ < / mo > < mi > c < / mi > < m o
+stretchy = " false " > ) < / mo > < mo > = < / mo > < m o stretchy = " false " > ( < / mo >
+< mi > a < / mi > < mo > ∨ < / mo > < mi > b < / mi > < m o stretchy = " false " > ) < / mo > < mo > ∨ < / mo >
+< mi > c < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle a \ lor ( b \ lor c ) = ( a \ lor
+b ) \ lor c }< / annotation > < / semantics > : MATH ]
+{\displaystyle a \ lor ( b \ lor c ) = ( a \ lor b ) \ lor c }
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > a < / mi > < mo > ∧ < / mo > < m o
+stretchy = " false " > ( < / mo > < mi > b < / mi > < mo > ∧ < / mo > < mi > c < / mi > < m o
+stretchy = " false " > ) < / mo > < mo > = < / mo > < m o stretchy = " false " > ( < / mo >
+< mi > a < / mi > < mo > ∧ < / mo > < mi > b < / mi > < m o stretchy = " false " > ) < / mo > < mo > ∧ < / mo >
+< mi > c < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle a \ land ( b \ land c ) = ( a \ land
+b ) \ land c }< / annotation > < / semantics > : MATH ]
+{\displaystyle a \ land ( b \ land c ) = ( a \ land b ) \ land c } 结合律
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > a < / mi > < mo > ∨ < / mo > < mi > b < / mi >
+< mo > = < / mo > < mi > b < / mi > < mo > ∨ < / mo > < mi > a < / mi > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle a \ lor b = b \ lor
+a }< / annotation > < / semantics > : MATH ]
+{\displaystyle a \ lor b = b \ lor a }
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > a < / mi > < mo > ∧ < / mo > < mi > b < / mi >
+< mo > = < / mo > < mi > b < / mi > < mo > ∧ < / mo > < mi > a < / mi > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle a \ land b = b \ land
+a }< / annotation > < / semantics > : MATH ]
+{\displaystyle a \ land b = b \ land a } 交换律
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > a < / mi > < mo > ∨ < / mo > < m o
+stretchy = " false " > ( < / mo > < mi > a < / mi > < mo > ∧ < / mo > < mi > b < / mi > < m o
+stretchy = " false " > ) < / mo > < mo > = < / mo > < mi > a < / mi > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle a \ lor ( a \ land
+b ) = a }< / annotation > < / semantics > : MATH ]
+{\displaystyle a \ lor ( a \ land b ) = a }
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > a < / mi > < mo > ∧ < / mo > < m o
+stretchy = " false " > ( < / mo > < mi > a < / mi > < mo > ∨ < / mo > < mi > b < / mi > < m o
+stretchy = " false " > ) < / mo > < mo > = < / mo > < mi > a < / mi > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle a \ land ( a \ lor
+b ) = a }< / annotation > < / semantics > : MATH ]
+{\displaystyle a \ land ( a \ lor b ) = a } 吸收律
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > a < / mi > < mo > ∨ < / mo > < m o
+stretchy = " false " > ( < / mo > < mi > b < / mi > < mo > ∧ < / mo > < mi > c < / mi > < m o
+stretchy = " false " > ) < / mo > < mo > = < / mo > < m o stretchy = " false " > ( < / mo >
+< mi > a < / mi > < mo > ∨ < / mo > < mi > b < / mi > < m o stretchy = " false " > ) < / mo > < mo > ∧ < / mo >
+< m o stretchy = " false " > ( < / mo > < mi > a < / mi > < mo > ∨ < / mo > < mi > c < / mi > < m o
+stretchy = " false " > ) < / mo > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle a \ lor ( b \ land c ) = ( a \ lor
+b ) \ land ( a \ lor c ) }< / annotation > < / semantics > : MATH ]
+{\displaystyle a \ lor ( b \ land c ) = ( a \ lor b ) \ land ( a \ lor c ) }
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > a < / mi > < mo > ∧ < / mo > < m o
+stretchy = " false " > ( < / mo > < mi > b < / mi > < mo > ∨ < / mo > < mi > c < / mi > < m o
+stretchy = " false " > ) < / mo > < mo > = < / mo > < m o stretchy = " false " > ( < / mo >
+< mi > a < / mi > < mo > ∧ < / mo > < mi > b < / mi > < m o stretchy = " false " > ) < / mo > < mo > ∨ < / mo >
+< m o stretchy = " false " > ( < / mo > < mi > a < / mi > < mo > ∧ < / mo > < mi > c < / mi > < m o
+stretchy = " false " > ) < / mo > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle a \ land ( b \ lor c ) = ( a \ land
+b ) \ lor ( a \ land c ) }< / annotation > < / semantics > : MATH ]
+{\displaystyle a \ land ( b \ lor c ) = ( a \ land b ) \ lor ( a \ land c ) } 分配律
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > a < / mi > < mo > ∨ < / mo > < mi
+mathvariant = " normal " > ¬ < / mi > < mi > a < / mi > < mo > = < / mo > < mn > 1 < / mn > < / mstyle >
+< / mrow > < annotation encoding = " application / x - t ex " > {\displaystyle a \ lor
+\ lnot a = 1 }< / annotation > < / semantics > : MATH ]
+{\displaystyle a \ lor \ lnot a = 1 }
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > a < / mi > < mo > ∧ < / mo > < mi
+mathvariant = " normal " > ¬ < / mi > < mi > a < / mi > < mo > = < / mo > < mn > 0 < / mn > < / mstyle >
+< / mrow > < annotation encoding = " application / x - t ex " > {\displaystyle a \ land
+\ lnot a = 0 }< / annotation > < / semantics > : MATH ]
+{\displaystyle a \ land \ lnot a = 0 } 互补律
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > a < / mi > < mo > ∨ < / mo > < mi > a < / mi >
+< mo > = < / mo > < mi > a < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle a \ lor a = a }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle a \ lor a = a }
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > a < / mi > < mo > ∧ < / mo > < mi > a < / mi >
+< mo > = < / mo > < mi > a < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle a \ land a = a }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle a \ land a = a } 幂 等 律
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > a < / mi > < mo > ∨ < / mo > < mn > 0 < / mn >
+< mo > = < / mo > < mi > a < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle a \ lor 0 = a }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle a \ lor 0 = a }
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > a < / mi > < mo > ∧ < / mo > < mn > 1 < / mn >
+< mo > = < / mo > < mi > a < / mi > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle a \ land 1 = a }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle a \ land 1 = a } 有 界律
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > a < / mi > < mo > ∨ < / mo > < mn > 1 < / mn >
+< mo > = < / mo > < mn > 1 < / mn > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle a \ lor 1 = 1 }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle a \ lor 1 = 1 }
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi > a < / mi > < mo > ∧ < / mo > < mn > 0 < / mn >
+< mo > = < / mo > < mn > 0 < / mn > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle a \ land 0 = 0 }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle a \ land 0 = 0 }
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi mathvariant = " normal " > ¬ < / mi >
+< mn > 0 < / mn > < mo > = < / mo > < mn > 1 < / mn > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ lnot 0 = 1 }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle \ lnot 0 = 1 }
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi mathvariant = " normal " > ¬ < / mi >
+< mn > 1 < / mn > < mo > = < / mo > < mn > 0 < / mn > < / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ lnot 1 = 0 }< / annotation >
+< / semantics > : MATH ]
+{\displaystyle \ lnot 1 = 0 } 0 和 1 是 互补 的
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi mathvariant = " normal " > ¬ < / mi >
+< m o stretchy = " false " > ( < / mo > < mi > a < / mi > < mo > ∨ < / mo > < mi > b < / mi > < m o
+stretchy = " false " > ) < / mo > < mo > = < / mo > < mi mathvariant = " normal " > ¬ < / mi >
+< mi > a < / mi > < mo > ∧ < / mo > < mi mathvariant = " normal " > ¬ < / mi > < mi > b < / mi >
+< / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ lnot ( a \ lor b ) = \ lnot
+a \ land \ lnot b }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ lnot ( a \ lor b ) = \ lnot a \ land \ lnot b }
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi mathvariant = " normal " > ¬ < / mi >
+< m o stretchy = " false " > ( < / mo > < mi > a < / mi > < mo > ∧ < / mo > < mi > b < / mi > < m o
+stretchy = " false " > ) < / mo > < mo > = < / mo > < mi mathvariant = " normal " > ¬ < / mi >
+< mi > a < / mi > < mo > ∨ < / mo > < mi mathvariant = " normal " > ¬ < / mi > < mi > b < / mi >
+< / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ lnot ( a \ land b ) = \ lnot
+a \ lor \ lnot b }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ lnot ( a \ land b ) = \ lnot a \ lor \ lnot b } 德 · 摩根 定律
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mi mathvariant = " normal " > ¬ < / mi >
+< mi mathvariant = " normal " > ¬ < / mi > < mi > a < / mi > < mo > = < / mo > < mi > a < / mi >
+< / mstyle > < / mrow > < annotation
+encoding = " application / x - t ex " > {\displaystyle \ lnot \ lnot
+a = a }< / annotation > < / semantics > : MATH ]
+{\displaystyle \ lnot \ lnot a = a } 对 合律
+
+真值 表
+
+[ 编辑 ]
+
+布尔逻辑 只 使用 两 个 值0 和 1 ， 这 两 个 值 的 交集 和 并集 可以 使用 真值 表 定义 如下 ：
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ∩ < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ cap
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ cap } 0 1
+0 0 0
+1 0 1
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ∪ < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ cup
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ cup } 0 1
+0 0 1
+1 1 1
+* 也 可以 建立 涉及 多 个 输入 和 其他 布尔 运算 的 更 复杂 的 真值表 。
+
+* 真 值表 应用 在 逻辑 中 ， 解释0 为 假 ， 1 为 真 ，
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ∩ < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ cap
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ cap } 为 与 ，
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ∪ < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ cup
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ cup } 为 或 ， 而 ¬为非 。
+
+其他 记号
+
+[ 编辑 ]
+
+可以 使用 各种 样式 的 基本 算符 来 表达 布尔逻辑 。 AND （ 与 ） 、 OR （ 或 ） 、 NOT （ 非 ） 是 最 直觉 的 。 数学 家 、 工程师 和 程序员 经常 使用 + 表示 或 ，
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ⋅ < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ cdot
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ cdot }
+表示 与 （ 因为 在 某些 方面 这些 运算 类似 于 在 其他 代数 结构 中 的 加法 和 乘法 ， 并且 这种 记号 使 熟悉 普通 代数 的 人 易于 得到 积之 和 范式 ） 。 非 也 表示 为 在 要 否 定 的 表达
+式 顶上 的 一个 横线 。
+
+另 一 种 记号 使用 " 交 " 表示 与 使用 " 并 " 表示 或 。 但是 这 会 导致 混淆 ， 因为 术语 " 并 " 也 经常 用于 合并 集合 的 另 一个 布尔 运算 ， 它 包括 了 与 和 或 二者 。
+
+布尔术语 的 基本 数学 使用
+
+[ 编辑 ]
+* 在 联立方程 的 情况 下 ， 被 联立 的 方程 暗 含 逻辑 与 ：
+
+x + y = 2
+
+AND
+
+x - y = 2
+
+同样 适用 于 联立 不 等式 ：
+
+x + y < 2
+
+AND
+
+x - y < 2
+
+* 大于 等于 号 （
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ≥ < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ geq
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ geq } ） 和 小于 等于 号 （
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ≤ < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ leq
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ leq } ） ， 可以 认为 是 暗含 逻辑 或 的 一对 等式 与 不 等式 的 联立 ：
+
+X < 2
+
+OR
+
+X = 2
+
+* 加 / 减号 （
+[ MATH : < semantics > < mrow class = " MJX - TeXAtom - ORD " > < mstyle
+displaystyle = " true " scriptlevel = " 0 " > < mo > ± < / mo > < / mstyle > < / mrow >
+< annotation encoding = " application / x - t ex " > {\displaystyle \ pm
+}< / annotation > < / semantics > : MATH ]
+{\displaystyle \ pm } ） ， 在 表示 “ 平方根 的 解 ” 情况 下 ， 可以 被 看作 暗含 逻辑 或 的 一 对 联立 等式 ：
+
+WIDTH = 3
+
+OR
+
+WIDTH = - 3
+
+布尔术语 的 英语 使用
+
+[ 编辑 ]
+
+在 把 英语 句子 转换 成 形式 的 布尔语 句 的 时候 要 小心 。 很多 英语 词语 不 精确 的 意义 可能 导致 多种 逻辑 结果 ， 例如 英语 单词 NOT （ 非 ） ： “ 所有 闪光 的 东西 不 是 金子
+。 ” 可以 解析 为 以下 不 同 的 逻辑 表达 ：
+* “ 没有 闪光 的 东西 是 金子 ”
+* “ 有些 闪光 的 东西 不 是 金子 ”
+
+作为 英语 单词 的 AND （ 与 ） 和 OR （ 或 ） 在 特定 情况 下 是 可以 互换 使用 的 ：
+* " 在 下雨 与 下雪 的 时候 我 总是 带 伞 。 "
+* " 在 下雨 或 下雪 的 时候 我 总是 带 伞 。 "
+
+还要 注意 在 英语 中 单词OR （ 或 ） 可以 分别 对 应 于 逻辑 表达 中 的 或 （ OR ） （ 此 亦 彼 亦 ） 和 异或 （ XOR ） （ 此 即 彼非 ） ， 具体 意思 要 依赖 于 上下文 进行 判断 ：
+* " 我 在 潮湿 或 高温 的 时候 出 汗 。 " （ 此 亦 彼 亦 ， 判定 为 逻辑 或 ）
+* " 我 午饭 打算 吃 鸡肉 或 牛肉 。 " （ 此 即 彼非 ， 判定 为 逻辑异 或 ）
+
+在 规定 计算机 程序 或者 电子 电路 时 ， 如何 使用 英语 准确 描述 其 功能 逻辑 是 个 关键 问题 。 例如 ， 对于 功能 “ 程序 应 校验 申请者 已经 选择 取 了 男性 或 女性 单选框 ” ， 应
+当 被 当作 一个 异 或 （ 非此即彼 ） 逻辑 （ 即 “ 程序 应 校验 申请者 已经 选择 取 了 男性 或 女性 选项 ， 并且 此 二 选 项 互相 排他 ” ） ， 则 程序 语句 须 特别 限定 “ 二者 之间 只有
+一个 能 被 选择 ” 来 确保 校验 功能 的 实现 ； 假如 将 其 混为 或 逻辑 （ 此 亦 彼 亦 ） ， 则 该 校验 功能 有 可能 被 错误 地 实现 ， 造成 申请者 同时 选择 两 个 选项 、 而 校验 依然 通过
+。
+
+在 其他 非技术 语言 的 情况 下 ， 对于 一 段 英语 文字 的 解释 可能 包含 更 多 的 不确定性 ， 可能 需要 深入 探讨 、 以 确保 明晰 该段 文字 背后 所 含 的 逻辑 意义 的 多种 可能性 。
+
+应用
+
+[ 编辑 ]
+
+数字 电子 电路 设计
+
+[ 编辑 ]
+
+布尔逻辑 还 在 电子 工程 中 的 电路 设计 中 使用 ； 这里 的 0和 1 表示 在 数字 电路 中 某 一个 位 的 不同 状态 ， 典型 的 是 高 和 低 电压 。 使用 包含 变量 的 表达式 描述 电路 ， 并且
+对于 这些 变量 的 所有 的 值 两 个 这种 表达式 是 等 价 的 ， 当 且 仅 当 对应 的 电路 有 相同 的 输入 - 输出 行为 。 进一步 的 说 ， 每 种 可能 的 输入 - 输出 行为 都 被 建模 为 适合 的 布
+尔 表达式 。
+
+基本 的 逻辑 閘 比如 與閘 、 或 閘 、 非閘 可以 单独 使用 ， 或者 联合 成與 非閘 、 或 非閘 和 異 或 閘 来 控制 数字 电子 和 电路 。 这些 閘 的 串联 或 并联 控制 了 运算 的 优先 级 。
+
+数据库 应用
+
+[ 编辑 ]
+
+关系 数据库 使用 SQL语言 ， 或者 其他 特定 于 数据库 的 语言 ， 来 进行 查询 ， 它 可以 包含 布尔逻辑 。 对于 这种 应用 ， 在 表中 每个 记录 都 可以 被 当作 " 集合 " 的 " 元素
+" 。 例如 ， 在 SQL 中 ， 下列 SELEC T语 句 被 用 来 从 在 数据库 中 的 表格 中 检索 数据 ：
+* SELECT * FROM EMPLOYEES WHERE LAST _ NAME = ' Smith ' AND FIRST _ NAME =
+' John ' ;
+
+* SELECT * FROM EMPLOYEES WHERE LAST _ NAME = ' Smith ' OR FIRST _ NAME =
+' John ' ;
+
+* SELECT * FROM EMPLOYEES WHERE NOT LAST _ NAME = ' Smith ' ;
+
+在 有 多 个 运算 出现 的 时候 ， 可以 使用 圆括 号 来 明确 的 指定 布尔 运算 发生 的 次序 ：
+* SELECT * FROM EMPLOYEES WHERE （ NOT LAST _ NAME =
+' Smith ' ） AND （ FIRST _ NAME = ' John ' OR FIRST _ NAME = ' Mary ' ） ;
+
+在 需要 的 时候 可以 使用 嵌 套 的 圆括 号 。
+
+联合 两 个 （ 或 更 多 ） 表格 的 任何 布尔 运算 在 关系 数据库 术语 中 都 被 称为 连 接 。
+
+搜索引擎 查询
+
+[ 编辑 ]
+
+对于 这种 应用 ， 在 互联网 上 的 每个 web 页面 都 被 当作 是 " 集合 " 的 " 元素 " 。 各种 在线 搜索引擎 使用 各自 不 同 的 语法 。 下面 描述 Google 使用 的 语法 。
+* 逻辑 与 不 使用 符号 。 所以 ， 它 是 连 接 两 个 搜索 项 的 缺省 方式 ：
+
+" 搜索 项 1 " " 搜索 项 2 "
+
+* 使用 关键 字OR 表示 逻辑 或 ：
+
+" 搜索 项 1 " OR " 搜索 项 2 "
+
+* 使用 减号 表示 逻辑非 ：
+
+- " 搜索 项 1 "
+
+* 不 支持 使用 圆括 号 来 明确 指定 运算 的 次序 。
+
+参见
+
+[ 编辑 ]
+* 布尔代数 主题 列表
+* 布尔代 数
+* 布尔函数
+* 命题 逻辑
+* 逻辑门
+* 文氏 图
+* 并 集
+* 补集
+* 交集
+
+外部 链接
+
+[ 编辑 ]
+* 逻辑 的 演算 （ 页面 存档 备份 ， 存 于 互联网 档案馆 ） , George Boole著 , Cambridge and Dublin
+Mathematical Journal Vol . III ( 1848 ) , p p . 183 - 9 8 .
+* Logical Formula Evaluator （ 页面 存档 备份 ， 存 于 互联网 档案馆 ） （ for Windows ） , a
+s oftware which calculates all possible values of a logical formula
+* How Stuff Works - Boolean Logic （ 页面 存档 备份 ， 存 于 互联网 档案馆 ）
+* Maiki & Boaz BDD - PROJECT , a Web Application for BDD reduction and
+visualization .
+
+* 查
+* 论
+* 编
+
+数字 系统
+组件
+逻辑门 · 数字 电路 · 集成电路 ( IC )
+理论
+布尔逻辑 · 數位 訊號 處理 · 计算机 系统 结构
+应用
+數位 音訊 · 數位 摄影 · 数字 视频
+
+检索 自 “ https : // z h . wikipedia . org / w / inde x . php ? title = 布尔逻辑 & oldid = 76912914 ”
+
+分类 ： ​
+* 邏輯
+* 代数 逻辑
+* 布尔代 数
+* 形式逻辑 系统
+
+隐藏 分类 ： ​
+* 含有 英語 的 條目
+
+* 本页面 最后 修订 于 2023年 4月 21日 ( 星期五 ) 13 : 37 。
+* 本站 的 全部 文字 在 知识 共享 署名 - 相同 方式 共享 4 . 0 协议 之 条款 下 提供 ， 附加 条款 亦 可能 应用 。 （ 请 参阅 使用 条款 ）
+Wikipedia® 和 维基 百科 标志 是 维基 媒体 基金会 的 注册 商标 ； 维基™ 是 维基 媒体 基金会 的 商标 。
+维基 媒体 基金会 是 按 美国 国內 稅收法 501 ( c ) ( 3 ) 登记 的 非营利 慈善 机构 。
+
+* 隐私 政策
+* 关于 维基 百科
+* 免责 声明
+* 行为 准 则
+* 开发者
+* 统计
+* Cookie 声明
+* 手机 版视 图
+
+* Wikimedia Foundation
+* Powered by MediaWiki

@@ -1,0 +1,1277 @@
+              [1]SciELO - Scientific Electronic Library Online
+   [grp1c.gif]   [artsrc.gif]
+   [2]vol.27 número2 [3]Conhecer as regras do jogo: Uma introdução às
+   normas para escrita científica da American Psychological Association
+   [next0.gif]  [4] índice de autores [5]índice de assuntos [6]Pesquisa de
+   artigos [7]Home Page [8]lista alfabética de periódicos
+
+Serviços Personalizados
+
+Journal
+
+     * [iconStatistics.gif] [9]SciELO Analytics
+     * [iconStatistics.gif] Google Scholar H5M5 ()
+
+Artigo
+
+     * [10][iconPDFDocument.gif] Português (pdf)
+     * [11][iconXMLDocument.gif] Artigo em XML
+     * [12][iconReferences.gif] Referências do artigo
+     * [13][fulltxt.gif] [14]Como citar este artigo
+     * [iconStatistics.gif] [15]SciELO Analytics
+
+     [16][iconTranslation.gif] Tradução automática
+
+     [17][iconEmail.gif] Enviar este artigo por email
+
+Indicadores
+
+     * Não possue artigos citados Citado por SciELO
+     * [iconStatistics.gif] [18]Acessos
+
+Links relacionados
+
+     * Não possue artigos similares Similares em SciELO
+
+Compartilhar
+
+     * [19][mendeley.png] [20]Mais
+     * [21]Mais
+     __________________________________________________________________
+
+     * [22][iconPermalink.gif] Permalink
+
+   [icon-close.png]
+   ____________________
+
+[23]Psicologia
+
+versão impressa ISSN 0874-2049
+
+  Psicologia vol.27 no.2 Lisboa  2013
+
+
+
+   Procedimento de dissociação de processos
+
+   Process-dissociation procedure
+
+
+   Mário B. Ferreira^a*, Joana Reis^a, Diana Orghian^a, Jerônimo Sôro^a
+
+   ^aFaculdade de Psicologia, Universidade de Lisboa, Portugal
+
+   [24]^*Autor para correspondência
+
+
+   RESUMO
+
+   O procedimento de dissociação de processos (PDP) é um paradigma
+   metodológico que tem vindo a ser largamente usado em várias áreas da
+   investigação em psicologia. A principal inovação deste procedimento
+   resulta da possibilidade que fornece ao investigador de dissociar e
+   quantificar o grau de automaticidade e de controlo subjacentes ao
+   comportamento humano no desempenho de diversas tarefas. Este
+   procedimento, que incorpora em si mesmo uma concepção própria de
+   automatismo e controlo, é um contributo importante para a resolução de
+   problemas metodológicos associados aos testes directos e indirectos e
+   às dissociações de processos baseadas em tarefas. Na presente exposição
+   faz-se uma descrição pormenorizada do paradigma em causa recorrendo a
+   exemplos específicos de vários domínios da Psicologia (e.g., memória,
+   estereótipos, julgamento e decisão). São também mencionados os
+   pressupostos básicos de aplicação do PDP e por fim referem-se as
+   limitações do paradigma, cuidados a ter na sua aplicação assim como
+   alguns procedimentos alternativos.
+
+   Palavras-chave: Procedimento de dissociação de processos (PDP),
+   automaticidade, controlo.
+
+
+   ABSTRACT
+
+   The process-dissociation procedure (PDP) is a methodological paradigm
+   widely used in different domains of psychological research. The main
+   innovation of this procedure stems from the possibility it offers to
+   dissociate and to quantify the degree of automaticity and control
+   underlying human performance in different tasks. The PDP embodies a
+   particular definition of automaticity and control, which is an
+   important contribution to solve methodological problems related with
+   direct and indirect tests and with dissociation of processes based on
+   tasks. In the present paper the paradigm will be described using
+   several examples from different areas of psychological research (e.g.,
+   memory, stereotypes, judgment and decision making). The basic
+   assumptions underlying the PDP, guidelines to its application, the PDP
+   main limitations and some alternative procedures will also be
+   described.
+
+   Keywords: Process-dissociation procedure (PDP), automaticity, control.
+
+
+   Introdução
+
+   Até que ponto podemos controlar a forma como processamos informação?
+   Até que ponto este processamento de informação decorre de estratégias
+   intencionais e conscientes ou, pelo contrário, ocorre de forma
+   largamente inconsciente?
+
+   Responder a estas questões é simultaneamente crucial para a
+   investigação em psicologia e extremamente difícil de um ponto de vista
+   metodológico.
+
+   Para enfrentar estas dificuldades, Jacoby (1991, 1998; Jacoby, Toth, &
+   Yonelinas, 1993) desenvolveu um paradigma metodológico inovador
+   conhecido por procedimento de dissociação de processos (PDP) que
+   permitiu não só dissociar mas também estimar matematicamente os
+   contributos de processos controlados e de processos automáticos no
+   desempenho de diferentes tarefas.
+
+   Inicialmente proposto no âmbito de estudos de memória, a aplicação do
+   PDP foi mais tarde generalizada (com pequenas modificações) a outros
+   domínios da cognição humana como atitudes e estereótipos (e.g., Payne,
+   2001; 2005), percepção social e inferências de traços de personalidade
+   (Ferreira et al., 2012), julgamento e decisão em condições de incerteza
+   (Ferreira, Garcia-Marques, Sherman & Sherman, 2006), julgamentos morais
+   (Conway & Garownski, 2013), entre outros. Hoje em dia, mais do que um
+   procedimento especificamente desenhado para dissociar memória explícita
+   de memória implícita, o PDP é um paradigma metodológico geral que
+   incorpora uma teoria de automatismo e controlo própria e que pode ser
+   usado para distinguir o contributo relativo de processos controlados e
+   automáticos nos mais diversos domínios da investigação experimental em
+   psicologia. É justamente nesta dimensão de paradigma metodológico
+   geral, que o PDP ganha toda a sua real importância para a investigação
+   em psicologia.
+
+   Neste artigo, começamos por identificar e discutir brevemente o
+   principal problema metodológico ao qual Jacoby (1991) pretendeu
+   responder com a introdução do PDP. Seguidamente são descritas
+   sucintamente as primeiras aplicações na investigação em memória. Depois
+   de revermos as origens do PDP, focar-nos-emos nas suas características
+   metodológicas gerais, pressupostos teóricos e limitações, uma vez que
+   pensamos serem estes os aspectos chave que um cientista que considere
+   recorrer ao PDP deve conhecer, independentemente da sua área específica
+   de investigação.
+
+   As origens do PDP: o pressuposto da tarefa pura
+
+   Embora a literatura científica em psicologia experimental seja pródiga
+   em exemplos onde estratégias ou processos intencionais são usados para
+   explicar os resultados, há muito que também sabemos que a memória
+   humana tem uma natureza associativa cujo funcionamento ocorre
+   largamente fora do controlo estratégico do indivíduo (Anderson & Bower,
+   1973).
+
+   Curiosamente, só a partir de meados dos anos 70 é que a investigação e
+   teorização em psicologia cognitiva começaram a lidar directamente com a
+   diferença entre processamento de informação automático (largamente
+   involuntário) e controlado (maioritariamente voluntário) (e.g., Posner
+   & Snyder, 1975; Schneider & Shiffrin, 1977; Shiffrin & Schneider,
+   1977).
+
+   De acordo com a visão clássica de automaticidade, os processos
+   cognitivos automáticos são caracterizados pela activação espontânea de
+   associações pré-existentes ou estruturas de conhecimento desenvolvidas
+   ao longo do tempo por activação repetida em memória. A activação destas
+   estruturas acontece sem qualquer consciência por parte da pessoa, sendo
+   muitas vezes também inconsciente a sua influência nos comportamentos,
+   ideias, julgamentos e atitudes da mesma. Uma outra característica dos
+   processos automáticos está relacionada com a sua falta de
+   intencionalidade, uma vez que são desencadeados por pistas externas ou
+   internas ao indivíduo mas tipicamente independentes da sua vontade
+   (Neely, 1977; Shiffrin & Dumais, 1981). Trata-se de processos altamente
+   eficientes que uma vez desencadeados tendem a decorrer de forma
+   obrigatória, não fazendo uso (ou fazendo um uso muito modesto) de
+   recursos cognitivos gerais disponíveis. Por último e em consonância com
+   o que foi dito anteriormente estes processos ocorrem fora do controlo
+   do sujeito e são dificilmente controláveis por este (Bargh, 1994).
+
+   Em contraste, os processos cognitivos controlados são tipicamente
+   descritos como sendo intencionais e requerendo a atenção focalizada do
+   indivíduo. Há habitualmente um acesso introspectivo consciente por
+   parte da pessoa que acompanha o desencadeamento e evolução destes
+   processos. Como o nome indica são processos que se encontram sob o
+   controlo da pessoa, desde que esta disponha dos recursos cognitivos
+   necessários para exercer tal controlo. Assim, embora limitados pela
+   capacidade da memória de trabalho, são flexíveis podendo por isso
+   convergir com os processos automáticos, ou pelo contrário, opor-se a
+   estes.
+
+   Note-se contudo que uma caracterização dicotómica entre processos
+   automáticos e controlados com base nas características acima
+   apresentadas é provavelmente forçada. Uma perspectiva mais em linha com
+   a investigação acumulada sugere um contínuo entre controlo e
+   automaticidade onde o processamento de informação, em cada
+   circunstância, pode possuir mais ou menos características de
+   automaticidade (ver Wegner & Bargh, 1998).
+
+   A investigação experimental decorrente da abordagem dualista acima
+   referida tem vindo a sugerir que processos cognitivos automáticos e
+   controlados podem operar independentemente um do outro (Logan, 1980;
+   Logan & Cowan, 1984; Neely, 1977; Posner & Snyder, 1975). Tal conclusão
+   decorre da obtenção de dissociações entre o desempenho das pessoas em
+   tarefas que medem respostas decorrentes do processamento automático da
+   informação e o seu desempenho em tarefas que medem respostas
+   controladas.
+
+   Um exemplo deste tipo de dissociações são os resultados obtidos em
+   testes directos e indirectos de memória (para uma revisão ver Hintzman,
+   1990). Num teste directo (ou explícito) de memória (e.g., teste de
+   recordação livre ou de reconhecimento) é pedido aos participantes que
+   recordem informação passada. Pelo contrário, num teste indirecto (ou
+   implícito) de memória é pedido aos participantes que realizem uma
+   tarefa capaz de reflectir indirectamente a memória da informação
+   passada. Um exemplo deste tipo de tarefa é pedir aos participantes que
+   leiam uma lista de palavras durante a fase de estudo (e.g., casa) e
+   mais tarde, na fase de teste, pedir-lhes que completem fragmentos
+   dessas palavras (e.g., c _s_) com a primeira palavra que lhes ocorrer
+   (e.g., Graf & Mandler, 1984; Tulving, Schacter, & Stark, 1982). A
+   evidência a favor da existência de uma memória implícita das palavras
+   estudadas, dissociada da memória explícita, resulta justamente da
+   obtenção de resultados que mostram que, nos testes indirectos, a
+   apresentação de palavras como casa na fase de estudo aumenta a
+   probabilidade destas palavras serem usadas para completar os fragmentos
+   (e.g., c_s__) na fase de teste, mesmo quando em testes directos não
+   há sinal de recordação explícita dessas, ou seja, os participantes não
+   se recordam destas palavras como tendo sido estudadas anteriormente.
+   Vários são os estudos que nos mostram dissociações entre estes dois
+   tipos de memória, incluindo dados de pacientes neuropsicológicos.
+   Sabemos por exemplo que pacientes que sofrem de amnésia (para uma
+   revisão ver Schacter, Chiu, & Ochsner, 1993) apresentam um desempenho
+   pior que o dos participantes da condição controlo (i.e., não amnésicos)
+   em tarefas que requerem o uso de estratégias deliberadas de recuperação
+   de informação / memória explícita (e.g., recordar se uma palavra foi ou
+   não anteriormente apresentada) . No entanto em tarefas que dependem
+   apenas de memória implícita (e.g., efeitos de primação na tarefa de
+   completamento de palavras), amnésicos e participantes da condição
+   controlo apresentam resultados semelhantes.
+
+   Tais procedimentos com base na dissociação de tarefas são também
+   comummente usados noutras áreas da investigação em psicologia. É o caso
+   da investigação em estereótipos e preconceito, que usa um número
+   crescente de medidas implícitas como o teste de primação afectiva
+   (Fazio, Jackson, Dunton, & Williams, 1995) ou o famoso teste de
+   associação implícita (Greenwald, McGhee, & Schwartz, 1998). Estas
+   medidas são muitas vezes utilizadas para substituir ou complementar
+   medidas de preconceito explícitas, como a escala moderna de racismo
+   (McConahay, 1986) ou o termómetro afectivo (Haddock, Zanna, & Esses,
+   1993).
+
+   Contudo, de um ponto de vista metodológico, toda a evidência
+   experimental assim obtida lida com uma limitação de fundo dificilmente
+   ultrapassável por este tipo de procedimento: o pressuposto da tarefa
+   pura. Trata-se da suposição de que uma dada tarefa experimental pode
+   ser usada para medir, de forma pura, apenas processos cognitivos
+   automáticos ou apenas processos controlados.
+
+   A crítica da identificação de processos automáticos e controlados com
+   diferentes tarefas foi inicialmente feita por diversos autores da
+   investigação em memória (e.g., Jacoby, 1991; Reingold & Merikle, 1990),
+   que notaram que o desempenho nos testes indirectos de memória é
+   frequentemente contaminado pelo uso intencional da memória. Ou seja,
+   nada impede os participantes de usarem a sua memória explícita das
+   palavras estudadas na fase de estudo quando lhes é pedido para
+   completar os fragmentos de palavras com as primeiras palavras que lhes
+   ocorrerem. Por outro lado, é virtualmente impossível garantir que num
+   teste directo de memória não haja contaminação proveniente de memória
+   implícita. Num teste de reconhecimento por exemplo, os participantes
+   podem efectivamente reconhecer uma palavra como tendo sido
+   anteriormente apresentada ou tentar apenas adivinhar as palavras que
+   foram ou não apresentadas. Neste último caso, a memória implícita
+   decorrente da fase de estudo leva a que estes adivinhem com maior
+   frequência palavras que foram efectivamente estudadas (devido à sua
+   familiaridade), inflacionando assim a medida de memória explícita.
+
+   Embora tenha sido aqui ilustrado com o caso dos testes directos e
+   indirectos de memória, o problema decorrente do pressuposto da tarefa
+   pura tem uma natureza geral e tem sido recorrentemente revisitado e
+   discutido em diversos domínios de investigação como em estereótipos e
+   preconceitos (e.g., Payne, 2001, 2008) e julgamento e decisão (e.g.,
+   Bishara, 2005; Ferreira et al., 2006).
+
+   Em suma, nenhuma tarefa é uma medida pura de um processo cognitivo. É
+   tecnicamente impossível garantir que qualquer resposta observável
+   dependa inteira e somente de processamento automático ou controlado. É,
+   aliás, altamente provável que a maioria do comportamento que a
+   psicologia procura compreender decorra simultaneamente de processos
+   automáticos e controlados que co-ocorrem e que se influenciam
+   mutuamente (Wegner & Bargh, 1998).
+
+   Mas então como aceder e estudar o contributo de ambos os processos
+   controlados e automáticos?
+
+   Em 1991, Larry Jacoby propôs um procedimento de dissociação de
+   processos (PDP) cujo objectivo é justamente a obtenção de estimativas
+   do contributo dos processamentos controlado e automático evitando os
+   problemas metodológicos da dissociação de tarefas acima referidos.
+
+   PDP enquanto procedimento de dissociação de processos em estudos de
+   memória
+
+   O PDP tem por base três ideias originais que Larry Jacoby sintetizou no
+   seu artigo seminal de 1991. A primeira ideia inovadora de Jacoby foi
+   desenvolver tarefas onde memória implícita e explícita funcionassem em
+   oposição (Jacoby, Kelley, Brown, & Jasechko, 1989). Na prática, tais
+   tarefas são equivalentes a testes indirectos de memória com instruções
+   para não usar nenhuma das palavras de que se consiga efectivamente
+   recordar. Por exemplo, num teste indirecto de memória, após
+   apresentação de uma lista de palavras, pode ser pedido aos
+   participantes para, na fase de teste, completarem fragmentos de
+   palavras apresentadas uma a uma (algumas das quais previamente
+   estudadas) com a primeira palavra que lhes ocorrer, sem fazer qualquer
+   referência à lista inicialmente estudada. Jacoby e colaboradores (1993)
+   usaram instruções semelhantes mas com uma mudança: disseram aos
+   participantes para não completarem os fragmentos com palavras que
+   tivessem sido previamente apresentadas. Com estas instruções a memória
+   explícita da lista apresentada opõe-se à memória implícita. Com efeito,
+   as vezes em que os participantes completaram os fragmentos com palavras
+   previamente apresentadas são reveladoras de memória implícita na
+   ausência de memória explícita (caso contrário, as palavras não seriam
+   usadas).
+
+   Contudo, procedimentos que se baseiem simplesmente na lógica da
+   oposição, embora permitam separar claramente memória implícita de
+   memória explícita, funcionam como testes conservadores de memória
+   implícita. Isto porque o desempenho dos participantes apenas revela os
+   efeitos das influências implícitas na memória na ausência de memória
+   explícita. Ora o facto de termos memória explícita para uma palavra não
+   quer necessariamente dizer que não tenhamos também memória implícita.
+   Por isto, um procedimento de oposição de processos subestima
+   sistematicamente as influências automáticas da memória.
+
+   A segunda ideia inovadora de Jacoby (1991) foi corrigir para esta
+   subestimação comparando o desempenho mnésico em condições em que
+   memória implícita e explícita se opõem e em condições em que as duas
+   actuam de forma concertada. Na prática, testes em que memória implícita
+   e explícita funcionam de maneira concertada são equivalentes a testes
+   directos de memória com instruções para adivinhar quando o participante
+   não consegue recordar explicitamente uma palavra das estudadas para
+   completar o fragmento. Dado que este adivinhar é informado pela
+   memória implícita que o participante tem da lista de estudo, o
+   desempenho neste teste é o resultado combinado de memória explícita e
+   implícita. Ou seja, o completamento dos fragmentos com palavras
+   previamente apresentadas pode ser o resultado de memória explícita, de
+   influências implícitas da memória ou de ambas.
+
+   Jacoby (1991) usou os termos Recolecção (R) e Familiaridade (F) para se
+   referir respectivamente às influências explícitas e implícitas da
+   memória. Ao procedimento com base na lógica da oposição chamou teste de
+   exclusão e ao procedimento em que os dois processos agem
+   concertadamente chamou teste de inclusão. A proporção de itens
+   estudados que são usados para completar fragmentos no teste de inclusão
+   é o resultado de R+F(RÇF). O termo (RÇF), ou seja, a intersecção entre
+   Recolecção e Familiaridade, corresponde a situações em que os
+   participantes responderam ao problema recorrendo simultaneamente a
+   estratégias de Recolecção e de Familiaridade (e.g., completar um
+   fragmento com a primeira palavra que lhe ocorre e verificar que esta
+   palavra faz parte da lista previamente estudada). Na medida em que RÇF
+   é um subconjunto de R e também de F, para evitar que este seja
+   contabilizado duas vezes (uma vez em R e outra vez em F) torna-se
+   necessário subtrair RÇF à soma R+F. A proporção de itens estudados que
+   são usados para completar fragmentos no teste de exclusão é o resultado
+   de F(RÇ F). Ou seja, corresponde ao completamento de fragmentos com
+   base apenas na familiaridade (F). Completamentos que envolvam
+   simultaneamente R e F (i.e., RÇF) têm que ser subtraídos uma vez que
+   quando há recolecção da palavra estudada os participantes não vão
+   usá-la para completar os fragmentos mesmo que a palavra seja muito
+   familiar (F).
+
+   Finalmente, a terceira inovação de Jacoby (1991) foi assumir (com base
+   em resultados anteriores, ver por exemplo Mandler, 1980) uma concepção
+   teórica em que F e R são processos de memória independentes. Isto quer
+   dizer que a intersecção de R e F é igual ao produto de R por F (RÇF =
+   RF), tornando-se assim possível formalizar matematicamente a relação
+   entre F e R (onde P é a probabilidade de usar itens estudados dada
+   pela proporção de itens estudados usados na fase de teste):
+
+   P(usar palavra estudada)[inclusão] = R + F  RF = R + F(1-R) P(usar
+   palavra estudada)[exclusão] = F  RF = F(1-R)
+
+   E quantificar estas duas componentes resolvendo as equações acima: R =
+   P(usar palavra estudada)[inclusão]  (usar palavra estudada)[exclusão]
+
+   F = P(usar palavra estudada)[exclusão] /(1  R)
+
+   A primeira aplicação do PDP (Jacoby,1991; estudo 3) foi feita num
+   estudo de memória que envolvia um teste de reconhecimento. Os
+   participantes foram expostos numa primeira fase a palavras e anagramas
+   apresentados sequencialmente num ecrã de computador, com instruções
+   para ler as palavras e resolver os anagramas. Numa segunda fase era
+   apresentada oralmente uma outra lista de palavras com instruções para
+   repetir cada palavra em voz alta e memorizar a palavra para um teste de
+   memória posterior. Seguia-se um teste de reconhecimento que podia ter
+   instruções de exclusão, isto é, uma palavra deveria ser reconhecida
+   como tendo sido previamente apresentada apenas se tivesse sido
+   apresentada oralmente na segunda fase de estudo, mas não na primeira;
+   ou instruções de inclusão, isto é, uma palavra deveria ser identificada
+   como previamente apresentada quando tinha sido apresentada na primeira
+   ou na segunda fase de estudo. Na medida em que apenas uma das condições
+   (exclusão) implica o recurso a processos controlados de recolecção para
+   distinguir entre as palavras apresentadas na primeira fase e as
+   apresentadas na segunda fase de estudo, a diferença de desempenho entre
+   as condições de inclusão e exclusão fornece, segundo Jacoby, uma medida
+   de controlo consciente.
+
+   Nesta primeira aplicação do PDP as instruções de inclusão e exclusão
+   foram manipuladas inter-participantes pelo que só foi possível estimar
+   R e F de forma global (e não por participante) o que obviamente limita
+   o tipo de análise estatística possível de realizar (ver Garcia-Marques
+   & Ferreira, no prelo). Assim, Jacoby (1991) limitou-se a comparar as
+   estimativas obtidas neste terceiro estudo com o desempenho de outros
+   participantes num estudo semelhante ao acima descrito, onde incluíra
+   uma tarefa de divisão da atenção durante a codificação de palavras na
+   fase de estudo e instruções de exclusão na fase de teste (Jacoby, 1991,
+   estudo 2). Na medida em que esta divisão da atenção impediu a
+   Recolecção (processo controlado) mas não afectou a Familiaridade
+   (processo automático), o desempenho dos participantes neste estudo
+   deveria depender sobretudo da Familiaridade. Com efeito, as estimativas
+   de Familiaridade (calculadas no estudo 3) foram praticamente iguais ao
+   desempenho dos participantes em condições de atenção dividida no estudo
+   2 (.59 e .54 para anagramas; e .42 e .43 para palavras, ver Jacoby,
+   1991, pp. 528-530). Este resultado que foi interpretado como uma
+   primeira validação do PDP.
+
+   Posteriormente, Jacoby, Toth e Yonelinas (1993) realizaram novos
+   estudos de memória utilizando o PDP mas desta vez a medida dependente
+   usada foi a proporção de fragmentos de palavras que, na fase de teste,
+   foram preenchidos com palavras previamente apresentadas na lista de
+   estudo com instruções de inclusão e exclusão manipuladas
+   intra-participantes. Os participantes eram instruídos para tentar
+   recordar as palavras previamente estudadas tendo como pista fragmentos
+   dessas palavras. Sempre que o fragmento aparecesse a verde deveriam
+   usá-lo para recordar uma palavra estudada ou, se não se recordassem de
+   nenhuma palavra, deviam completá-lo com a primeira palavra que lhes
+   ocorresse (inclusão); sempre que o fragmento aparecesse a vermelho
+   deveriam completá-lo com uma palavra que não tivesse sido previamente
+   estudada (exclusão)[25]^1. Os participantes estudavam as listas de
+   palavras em condições de atenção dividida ou sem atenção dividida
+   (e.g., Jacoby et al., 1993; estudo 1b). Na condição de atenção dividida
+   os participantes tiveram, como esperado, um pior desempenho mnésico do
+   que os participantes sem atenção dividida. O uso do PDP permitiu
+   verificar que tal queda do desempenho se deveu exclusivamente a uma
+   diminuição de R (de .25 para .00) que virtualmente desapareceu enquanto
+   F se manteve largamente invariante (.47 e .46, respectivamente). Estes
+   estudos não só confirmaram a interpretação dos resultados de Jacoby
+   (1991) como estabeleceram o PDP como uma forma de dissociação dos
+   processos explícitos e implícitos (Recolecção e Familiaridade) em
+   memória.
+
+   O uso do PDP nos estudos de memória não ficou por aqui tendo-se
+   acumulado ao longo das duas últimas décadas uma quantidade
+   impressionante de investigações com e sobre o PDP que têm permitido a
+   sua validação convergente assim como a identificação das condições
+   adequadas de aplicação (para uma revisão ver Yonelinas & Jacoby, 2012).
+
+   O PDP enquanto paradigma metodológico geral para dissociação de
+   contribuições de processos controlados e automáticos
+
+   Originalmente desenvolvido para separar as contribuições automática
+   (Familiaridade) e controlada (Recolecção) do desempenho em tarefas de
+   memória (Jacoby, 1991, Jacoby, Toth & Yonelinas, 1993), o PDP é, hoje
+   em dia, um instrumento metodológico geral capaz de separar e dissociar
+   as contribuições dos processos controlados e automáticos nos mais
+   diversos domínios.
+
+   O PDP faz uso, numa mesma tarefa, de uma condição de facilitação ou de
+   inclusão na qual processos automáticos e controlados actuam de forma
+   concertada convergindo numa mesma resposta; e de uma condição de
+   interferência ou exclusão na qual os dois processos actuam em oposição,
+   divergindo para respostas diferentes. Assumindo que ambos os processos
+   contribuem para a resposta observada e que operam de forma
+   independente, torna-se possível, recorrendo a álgebra simples, obter
+   estimativas quantitativas de automatismo (A) e controlo (C) comparando
+   o desempenho dos participantes nas duas condições de inclusão e
+   exclusão.
+
+   A título de ilustração, imagine uma pessoa que tem uma forte tentação
+   por doces e que resolve durante a semana fazer dieta e não comer doces
+   nenhuns, enquanto durante o fim-de-semana come todos os doces que lhe
+   apetecer. Digamos ainda que durante os fins-de-semana, e após
+   observação do seu comportamento, concluímos que a probabilidade desta
+   pessoa comer um doce é de 0.9. Esta probabilidade tanto pode resultar
+   da tentação dificilmente controlável e largamente automática (A) de
+   comer doces como da intenção explícita e controlada de comer doces (C).
+   Durante o resto da semana a mesma pessoa tem uma probabilidade de .2 de
+   comer doces. Ou seja, ela claramente controla a sua tentação por doces
+   ainda que este controlo não seja perfeito. Esta probabilidade de 0.2
+   resulta assim da sua tentação por doces (A) quando o controlo falha (1
+    C). Ora, se subtrairmos 0.2 a 0.9 obteremos uma boa estimativa da sua
+   capacidade de se controlar: 0.7. Assumindo que ela só come doces
+   durante a semana quando o seu controlo falha[26]^2, isto quer dizer que
+   a probabilidade de comer doces durante a semana (0.2) é igual à
+   tentação automática na ausência de controlo, ou seja: A(1-C). É agora
+   fácil chegar a uma estimativa de A, pois se A(1  C)= 0.2 então A =
+   0.2/(1  C). Como já sabemos que C = 0.7, então A = 0.2/(1  0.7) Û A =
+   0.67. Ou seja, trata-se de uma tentação relativamente forte que só não
+   se traduz mais vezes em comer doces durante a semana devido à inibição
+   intencional que a pessoa do nosso exemplo exerce sobre esta tendência
+   comportamental automática (para ilustrações semelhantes ver Payne &
+   Bishara, 2009; Shiv & Fedorikhin, 1999).
+
+   Assim temos as seguintes equações para o mesmo comportamento (e.g.,
+   comer doces) em condições de inclusão (e.g., comer doces ao fim de
+   semana) e em condições de exclusão (e.g., comer doces durante a
+   semana):
+
+   Comportamento [Inclusão] = C + A (1  C)
+
+   Comportamento [Exclusão] = A (1  C)
+
+   Imaginemos agora que distraímos a atenção da pessoa acima referida. É
+   natural que ela coma mais doces quando está distraídamas porquê?
+   Porque reduzimos a sua capacidade de exercer controlo (C)? Ou porque
+   aumentamos a sua tentação automática (A) por doces (o que poderia
+   acontecer se o que tivéssemos usado para a distrair fossem
+   justamente...doces)?
+
+   Só um procedimento como o PDP nos permite examinar experimentalmente
+   questões como estas. Ou seja, verificar qual o contributo específico
+   dos processos controlados e automáticos que estão subjacentes ao
+   comportamento de comer doces em função de diversas manipulações.
+
+   O uso das equações acima implica, no entanto, criar condições
+   experimentais onde se define operacionalmente Controlo ou processamento
+   controlado como levando ao output considerado subjectivamente certo ou
+   intencionalmente desejado (e.g., não comer doces durante a semana).
+   Decorre desta definição de Controlo a própria definição operacional de
+   automaticidade ou processamento automático: o que leva ao output oposto
+   ao da resposta intencional quando o Controlo falha (e.g., comer doces
+   durante a semana). Importa contudo salientar que estas definições devem
+   ser enquadradas pela própria lógica que subjaz ao PDP, não reflectindo
+   nenhuma posição de princípio que implique que as respostas decorrentes
+   de processamento automático sejam inerentemente piores do que as
+   respostas controladas.
+
+   Em suma, através da obtenção de estimativas de A e C numa mesma tarefa,
+   o PDP permite o teste empírico de dissociações de processos que
+   decorrem teoricamente das características conceptuais de ambos os
+   processos.
+
+   Pressupostos do PDP
+
+   Como qualquer tarefa ou procedimento experimental, o PDP assenta em
+   pressupostos que, se violados, põem em causa a interpretação das
+   estimativas de A e C. O principal pressuposto é o de independência
+   entre os processos controlados e automáticos. As duas expressões
+   algébricas apresentadas acima, que equacionam o desempenho nas
+   condições de inclusão e exclusão em termos dos dois processos,
+   expressam matematicamente esta independência. Neste sentido, violações
+   de independência invalidam o PDP. Para além disto o PDP assume ainda
+   que A e C são iguais nas condições de inclusão e de exclusão. Ou seja,
+   a preponderância dos dois modos de processamento não muda em função de
+   se tratar de um ensaio de inclusão (onde ambos os processos contribuem
+   para uma mesma resposta) ou de exclusão(onde o processo controlado
+   passa a opor-se ao automático). Como o PDP envolve apenas duas medidas
+   empíricas (desempenho nas condições de inclusão e exclusão) para
+   estimar dois parâmetros: A e C, sempre que A[inclusão] ≠ A[exclusão]
+   e/ou C[inclusão] ≠ C[exclusão] torna-se matematicamente inviável obter
+   as estimativas de A e C, invalidando, nestes casos, o uso do PDP[27]^3.
+   A título ilustrativo, voltemos ao exemplo dos doces, se a tentação
+   automática para comer doces durante o fim-de-semana (condição de
+   inclusão) for menor do que tentação automática de comer doces durante a
+   semana (condição de exclusão) então isto quer dizer que a componente
+   automática A que se assume ser a mesma nas respectivas equações de
+   inclusão e exclusão (ver fórmulas acima) é afinal diferente. Passa a
+   haver uma componente automática para a inclusão, A1, que é menor do que
+   a componente automática para a condição de exclusão, A2. Em
+   circunstâncias como esta passaríamos a ter três incógnitas: A1, A2, e C
+   para calcular a partir de duas equações de 1º grau, o que é impossível.
+   O mesmo se aplica quando a componente C é diferente nas condições de
+   inclusão e exclusão.
+
+   Pela mesma razão (i.e., apenas duas medidas empíricas para estimar dois
+   parâmetros) o PDP não possui graus de liberdade extra, o que limita a
+   realização de testes directos dos pressupostos, i.e., análises de fit
+   das estimativas dos parâmetros possíveis de realizar com modelos
+   polinomais mais complexos (mas ver a este respeito Jacoby, 1998;
+   Yonelinas & Jacoby, 2012)[28]^4. A garantia de que os pressupostos
+   básicos do PDP não estão a ser violados pode, contudo, ser obtida
+   experimentalmente mostrando-se que certas manipulações, histórica e
+   teoricamente, identificadas com um dos processos afecta selectivamente
+   esse processo deixando o outro invariante. Por exemplo, uma das marcas
+   características dos processos automáticos é a sua elevada eficiência,
+   ou seja, não usam recursos cognitivos gerais, enquanto os processos
+   controlados dependem da disponibilidade de recursos cognitivos. Neste
+   sentido, previu-se que manipulações de sobrecarga cognitiva que
+   comparassem o desempenho em condições de alta versus baixa sobrecarga
+   deveriam levar a uma dissociação de processos traduzida no decréscimo
+   de C e na invariância de A, uma vez que a escassez de recursos deve
+   reduzir a possibilidade de processamento controlado mas não deve
+   afectar o processamento automático. Por outro lado, uma das marcas
+   características dos processos automáticos é a sua natureza associativa
+   enquanto os processos controlados são melhor descritos por uma
+   linguagem do pensamento governada por regras (Sloman, 1996). Neste
+   sentido, previu-se que tarefas de natureza associativa como a respostas
+   aprendidas por repetição ou primação de repetição deveriam levar à
+   dissociação inversa. Ou seja, afectar as estimativas de A mas deixar as
+   de C largamente invariantes através de diferentes condições de
+   aprendizagem associativa. Ambas as dissociações de processos acima
+   referidas têm sido recorrentemente encontradas na investigação usando o
+   PDP (e.g., Jacoby, Toth & Yonelinas, 1993; Hay & Jacoby, 1996).
+
+   A ideia geral é que a obtenção deste tipo de dissociações envolvendo
+   invariância de um dos processos seria extremamente improvável na
+   presença de violações dos pressupostos acima referidos. Tal
+   possibilidade torna-se ainda mais improvável quando estas dissociações
+   são repetidamente encontradas num mesmo domínio de estudo. Pelo
+   contrário, a recorrente falha em encontrar tais dissociações é
+   indicador de violações severas dos pressupostos do PDP.
+
+   Cuidados na aplicação do PDP
+
+   Na aplicação do PDP são importantes alguns cuidados no sentido de não
+   haver violações dos pressupostos que são potencialmente evitáveis.
+   Designadamente, os materiais e instruções usados nas condições de
+   inclusão e de exclusão devem ser tão semelhantes quanto possível de
+   maneira a promover o mesmo grau de activação dos processos automáticos.
+   No mesmo sentido, as instruções e materiais devem garantir a simetria
+   de funcionamento dos processos controlados entre as condições de
+   inclusão e exclusão. Ou seja, embora estes processos contribuam para a
+   mesma resposta dos processos automáticos na condição de inclusão e se
+   oponham a esta resposta na condição de exclusão, o grau desta
+   contribuição deve ser igual em módulo apesar de se manifestar em
+   sentidos opostos.
+
+   É igualmente importante usar tarefas que não sejam nem muito difíceis
+   nem muito fáceis uma vez que os pressupostos do PDP são mais facilmente
+   violados quando o desempenho dos participantes é muito elevado ou muito
+   baixo. Por exemplo, se o desempenho na condição de exclusão for
+   perfeito (zero erros) o cálculo de A leva a um valor nulo (A = 0). Não
+   porque deixe de haver contribuições automáticas mas devido a um
+   artefacto matemático que decorre da forma como se calcula A e C (ver
+   equações pag.14).
+
+   Na prática isto quer dizer que os dados de participantes com desempenho
+   perfeito não podem ser usados com o PDP. A remoção dos dados destes
+   participantes da análise é uma prática tolerada sobretudo se for uma
+   proporção pequena (relativamente ao total da amostra) e aproximadamente
+   igual nos diversos níveis da variável independente. Mas a forma
+   aconselhada de lidar com este problema é simplesmente ter um número de
+   ensaios suficientemente grande para garantir (por pré-teste se
+   necessário) que a probabilidade de um participante conseguir exercer um
+   controlo perfeito em todos os ensaios seja minimizada (i.e., haver
+   sempre erros) evitando-se (ou minimizando-se) assim a remoção de
+   participantes da análise de dados.
+
+   Seguidamente veremos dois exemplos de aplicação do PDP que nos ajudarão
+   a ilustrar como se traduzem na prática os cuidados acima referidos.
+   Note-se que para usar o PDP com sucesso é necessário encontrar
+   condições experimentais específicas que não violem os principais
+   pressupostos do PDP e, desta forma, permitam a obtenção de estimativas
+   de Controlo e Automaticidade independentes.
+
+   Exemplos de Aplicação do PDP
+
+   PDP e estereótipos sociais
+
+   No seguimento de trabalhos como o de Devine (1989) sobre as
+   características automáticas e controladas dos estereótipos sociais,
+   Payne (2001) propôs a tarefa hoje conhecida por shooter task em
+   combinação com o PDP justamente para dissociar as componentes
+   automática e controlada dos estereótipos sociais. Na aplicação original
+   desta tarefa, Payne apresentou uma sequência de fotografias de armas
+   (e.g., pistola) ou ferramentas (e.g., chave de fendas) cada uma
+   imediatamente precedida pela fotografia de um caucasiano ou de um
+   afro-americano. A tarefa dos participantes era indicar tão rápido
+   quanto possível, para cada objecto apresentado, se se tratava de uma
+   arma ou de uma ferramenta. Payne considerou que a condição de inclusão
+   do seu estudo correspondia aos ensaios em que uma arma era antecedida
+   pela fotografia de um afro-americano (quer o controlo decorrente da
+   intenção de categorizar correctamente o objecto, quer o estereótipo do
+   afro-americano que associa este grupo ao uso de armas levavam os
+   participantes a responder arma). Enquanto os ensaios em que uma
+   ferramenta era antecedida pela fotografia de um afro-americano
+   correspondiam aos ensaios de exclusão (a resposta controlada opunha-se
+   à associação estereotípica afro-americano  arma). Com esta aplicação
+   do PDP, Payne (estudo 1, 2001) mostrou que as fotografias de
+   afro-americanos (por comparação com as de caucasianos) tiveram uma
+   influência automática (derivada das associações estereotípicas)
+   independente do processamento controlado. Este efeito diz-se automático
+   porque a tendência para responder arma na presença das fotografias de
+   afro-americanos (vs. fotografias de caucasianos) influenciou as
+   respostas do sujeito quer esta convergisse ou se opusesse ao desempenho
+   intencional dos participantes (i.e., categorizar correctamente os
+   objectos em armas ou ferramentas).
+
+   Este estudo de Payne (2001) é uma das primeiras aplicações do PDP fora
+   do âmbito dos estudos puramente de memória e marca o início da
+   investigação que tornou o PDP um verdadeiro instrumento geral de
+   dissociação de processos.
+
+   PDP e julgamento na incerteza
+
+   Muitas das decisões, escolhas e julgamentos do nosso dia-a-dia são
+   feitas de forma intuitiva ou heurística. As inferências que realizamos
+   em condições de incerteza surgem-nos naturalmente e sem esforço ou
+   intenção e parecem decorrer de um conjunto de heurísticas ou atalhos
+   cognitivos largamente automáticos que há muito são investigados em
+   psicologia (e.g., Gilovich, Griffin & Kahneman; 2002; Tversky &
+   Kahneman, 1982). Contudo, o julgamento humano não se resume a estas
+   heurísticas. Nalgumas circunstâncias processos de decisão deliberados
+   sobrepõem-se à intuição dominando as decisões. Num esforço de
+   caracterização e compreensão da natureza destes dois processos e da
+   forma com interagem entre si, Ferreira e colaboradores (2006)
+   utilizaram o PDP. O objectivo era dissociar processos automáticos e
+   controlados no domínio do julgamento na incerteza manipulando variáveis
+   que distinguem conceptualmente os dois processos.
+
+   Para o efeito desenvolveu-se um conjunto de problemas directamente
+   inspirados no tipo de problemas inferenciais historicamente usados na
+   investigação em julgamento e decisão. As condições de inclusão e
+   exclusão foram definidas não por instruções mas pela própria estrutura
+   dos problemas (o que simplifica o procedimento uma vez que deixa de ser
+   necessário instruir os participantes para se comportarem de forma
+   diferente numa e noutra condição). Assim, cada participante respondia a
+   um conjunto de problemas inferenciais, metade dos quais eram problemas
+   de inclusão (i.e., problemas em que os julgamentos automáticos e
+   controlados convergiam na mesma resposta) enquanto a outra metade eram
+   problemas de exclusão (i.e., problemas em que os julgamentos
+   controlados se opunham aos automáticos). As versões de inclusão e
+   exclusão de cada problema eram exactamente iguais excepto no que dizia
+   respeito aos dados considerados importantes para o processamento
+   controlado que eram invertidos num dos casos (de forma a manter a
+   simetria da estrutura do problema).
+
+   Assim, por exemplo um problema como o dos Engenheiros e Advogados
+   (Kahneman & Tversky, 1972) poderia ser usado como um problema de
+   exclusão, uma vez que na sua forma original, processos controlados
+   opõem-se aos automáticos:
+
+   Vários psicólogos entrevistaram um grupo de pessoas. O grupo incluía 30
+   engenheiros e 70 advogados. Os psicólogos prepararam um breve sumário
+   da sua impressão relativa a cada entrevistado. A descrição seguinte foi
+   escolhida aleatoriamente do conjunto de todas as descrições: O João tem
+   45 anos. É conservador, cuidadoso e ambicioso. Não mostra interesse por
+   assuntos políticos e despende a maior parte do seu tempo livre nos seus
+   muitos hobbies, que incluem carpintaria, velejar, e fazer puzzles
+   matemáticos.
+
+   Qual das seguintes alternativas é mais provável?
+
+   a) O João é engenheiro.
+
+   b)O João é advogado.
+
+   Esta versão constitui a condição de exclusão uma vez que temos duas
+   formas distintas de responder ao problema: um julgamento largamente
+   automático com base na semelhança entre a descrição do João e o
+   estereótipo de Engenheiro que fornece uma resposta imediata e
+   espontânea para o problema: o João é Engenheiro (heurística da
+   representatividade); e um julgamento controlado com base numa regra de
+   amostragem que reconhece a importância de considerar o número relativo
+   de engenheiros e advogados na estimativa da resposta mais provável (de
+   facto, dado que a descrição foi escolhida aleatoriamente e que 7 em
+   cada 10 são advogados a probabilidade de partida de ser um advogado é
+   claramente superior à de ser engenheiro  apenas 3 em cada 10 pessoas
+   neste amostra são engenheiros). Os dois modos de processamento,
+   automático e controlado estão assim em oposição.
+
+   Para criar a versão de inclusão deste problema basta inverter as
+   probabilidade de partida (i.e., o texto passa a dizer que ...o grupo
+   incluía 70 engenheiros e 30 advogados). Consegue-se assim que a
+   prevalência das respostas controlada e automática seja sensivelmente
+   constante nas duas versões, com a diferença que os processos
+   controlados de julgamento (neste caso a aplicação deliberada de uma
+   regra de amostragem) convergem na mesma resposta dos automáticos (neste
+   caso um julgamento baseado na heurística da representatividade) na
+   versão de inclusão mas opõem-se a ela na versão de exclusão.
+
+   Após o desenvolvimento dos problemas nas suas versões inclusiva e
+   exclusiva, todos os problemas foram pré-testados de forma a verificar
+   que não eram nem demasiado difíceis nem demasiado fáceis. Só aqueles
+   problemas que se revelaram moderadamente difíceis é que foram usados.
+
+   Por fim, realizaram-se vários estudos experimentais onde os
+   participantes respondiam a séries destes problemas em diversas
+   condições experimentais (Ferreira et al., 2006). Num dos estudos, foi
+   pedido a metade dos participantes para responder aos problemas usando a
+   sua intuição e sem perder muito tempo com nenhuma resposta em
+   particular, enquanto a outra metade foi instruída para basear as suas
+   respostas em reflexão racional. Os resultados mostraram que os
+   participantes que baseavam as suas respostas em reflexão racional
+   tinham um melhor desempenho nos problemas do que os participantes que
+   usavam sobretudo a sua intuição, em especial nos problemas de exclusão.
+   A aplicação do PDP permitiu verificar que esta superioridade se deveu a
+   um maior processamento controlado da informação dos participantes da
+   condição de reflexão racional em relação aos participantes da condição
+   de resposta intuitiva. Por outro lado, a estimativa de processamento
+   automático dos participantes das condições de resposta intuitiva e de
+   reflexão racional manteve-se igual. As instruções afectaram unicamente
+   os processos controlados de aplicação de regras deixando invariante a
+   tendência para fazer julgamentos automáticos com base em heurísticas. O
+   quer dizer, o que distingue os participantes instruídos para serem
+   racionais dos instruídos a ser intuitivos não é a tendência para fazer
+   julgamentos com base em heurísticas (nisto eles são virtualmente
+   iguais), mas sim o controlo que os primeiros exercem sobre esta
+   tendência, inibindo as respostas heurísticas e substituindo-as por
+   respostas baseadas em regras (Ferreira et al., 2006; estudo 1). O
+   padrão inverso de resultados, com uma manipulação experimental a
+   afectar unicamente os processos automáticos deixando invariantes os
+   controlados, foi igualmente obtido por Ferreira e colaboradores (2006;
+   estudo 3).
+
+   PDP e automaticidade
+
+   As estimativas automática e controlada obtidas através do PDP podem ter
+   diferentes significados conforme as tarefas e contextos em que o PDP é
+   usado. Assim, ao contrário de abordagens que definem automatismo em
+   termos de listas de características (e.g., intencionalidade,
+   eficiência, controlabilidade, consciência; Bargh, 1994), o PDP implica
+   que se comece por especificar qual o significado do controlo exercido
+   numa dada tarefa (i.e., em que é que o recurso a um processamento
+   controlado se traduzirá em termos de desempenho na tarefa). Recordemos,
+   a este respeito, o exemplo dos doces anteriormente usado onde controlo
+   foi definido como não comer doces durante a semana, uma vez que era
+   essa a intenção declarada da pessoa. Automatismo é depois definido como
+   sendo a influência que guia as respostas dos participantes quando o
+   controlo falha (no mesmo exemplo comer doces durante a semana
+   decorrente da tentação que a pessoa tinha por doces). Outras
+   características mais ou menos associadas aos processamentos automático
+   e controlado (conforme o domínio de estudo e as abordagens teóricas
+   adoptadas) são depois investigadas empiricamente, o que está em linha
+   com a ideia de que a distinção entre automatismo e controlo não é uma
+   questão de tudo ou nada mas antes uma questão de grau (Wegner & Bargh,
+   1998).
+
+   Com efeito, uma das vantagens do PDP e da definição de automaticidade
+   que incorpora é a sua capacidade para acomodar naturalmente resultados
+   que podem surgir como paradoxais para as abordagens de automatismo
+   baseadas na listagem de características de automatismo e de controlo
+   (ver página 3).
+
+   Por exemplo, apesar das teorias clássicas considerarem processos
+   automáticos como dificilmente controláveis, Stewart e Payne (2008)
+   mostraram que a implementação de intenções para pensar de forma
+   contra-estereotípica reduz o enviesamento automático mesmo em
+   sobrecarga cognitiva. A utilização do PDP neste caso permitiu verificar
+   que esta manipulação de intenção afectou A enquanto manteve C
+   invariável, evidenciando um padrão de moderação distinto do encontrado
+   (ou mesmo esperado) normalmente.
+
+   Alternativas e limitações do PDP
+
+   Conforme referido anteriormente, o PDP apresenta algumas limitações que
+   resultam da necessidade de verificação dos seus pressupostos (i.e.
+   sempre que estes são severamente violados o PDP não deve ser usado
+   porque fornece estimativas erradas dos processos). Note-se, no entanto,
+   que todos os procedimentos têm pressupostos cuja violação põe em causa
+   a sua validade. Veja-se talvez o caso mais comum que é a tendência, em
+   investigação experimental, para equacionar dissociações de tarefas como
+   indicador de dissociação de processos. Tal estratégia, como vimos,
+   baseia-se no pressuposto de que cada tarefa mede apenas um e um só
+   processo. Ora se os pressupostos do PDP podem por vezes ser violados, o
+   pressuposto da tarefa pura subjacente à dissociação de tarefas é
+   quase sempre violado.
+
+   Uma outra limitação do PDP decorre do facto de se tratar de um modelo
+   matemático extremamente simples, o que limita a possibilidade de
+   realização de testes directos de fit das estimativas de C e A. Contudo
+   esta simplicidade é provavelmente a razão pela qual o PDP tem tido uma
+   utilização tão vasta e diversificada na investigação de processos
+   automáticos e controlados em psicologia. Estão, no entanto, disponíveis
+   outros modelos matemáticos mais complexos (e.g., o modelo QUAD proposto
+   por Conrey, Sherman, Gawronski, Hungenberg, & Groom, 2005; o modelo ABC
+   de Stahl & Degner, 2007; o modelo conjoint recognition de Brainerd,
+   Reyna, & Monjardin, 1999) que não só envolvem mais parâmetros e
+   diferentes interpretações destes parâmetros, como implicam a obtenção
+   de mais dados empíricos.
+
+   Testes de fit dos seus parâmetros tornam a validação destes modelos
+   menos dependente da obtenção de padrões de dissociação específicos como
+   acontece no caso do PDP. O uso destes modelos em detrimento do PDP
+   decorrerá, para cada investigador, de considerações teóricas (e.g.,
+   número de processos independentes que um modelo parcimonioso do
+   comportamento humano deve incluir) assim como de análises
+   custo-benefício da sua utilização.
+
+   Conclusões
+
+   As teorias dualistas de processamento baseiam-se na ideia de que o
+   comportamento humano resulta simultaneamente de processos controlados e
+   automáticos. No entanto, é difícil testar estes modelos sem meios para
+   quantificar a influência específica destes processos. Instrumentos
+   metodológicos como o PDP fornecem uma solução para este problema
+   permitindo aos investigadores separar e comparar processos automáticos
+   e controlados. Uma outra contribuição do PDP (e modelos semelhantes) é
+   o facto de a sua utilização forçar os investigadores a explicitarem as
+   suas definições de controlo e automatismo e a serem mais específicos na
+   formulação das suas hipóteses. Mais do que afirmações gerais sobre qual
+   dos processos, automático ou controlado, domina o comportamento humano,
+   com o PDP é possível testar empiricamente a influência de ambos os
+   processos em diferentes domínios de actividade e para diferentes tipos
+   de comportamento humano.
+
+
+   Referências
+
+   Anderson, J. R., & Bower, G. H. (1973). Human associative memory.
+   Washington, D.C.: Winston.         [ [29]Links ]
+
+   Bargh, J. A. (1994). The Four Horsemen of automaticity: Awareness,
+   efficiency, intention, and control in social cognition. In R. S. Wyer,
+   Jr., & T. K. Srull (Eds.), Handbook of social cognition (2nd ed., pp.
+   1-40). Hillsdale, NJ: Erlbaum.
+
+   Bishara, A. J., (2005). Control and accessibility bias in single and
+   multiple anchoring effects. Unpublished doctoral dissertation,
+   Washington University.         [ [30]Links ]
+
+   Brainerd, C. J., Reyna, V. F., & Mojardin, A. H. (1999). Conjoint
+   recognition. Psychological Review, 106(1), 160-179.
+   [ [31]Links ]
+
+   Buchner, A., Erdfelder, E., & Vaterrodt-Pltinnecke, B. (1995). Toward
+   unbiased measurement of conscious and unconscious memory processes
+   within the process dissociation framework. Journal of Experimental
+   Psychology: General, 124, 137-160.         [ [32]Links ]
+
+   Conrey, F. R., Sherman, J. W., Gawronski, B., Hugenberg, K., & Groom,
+   C. (2005). Separating multiple processes in implicit social cognition:
+   The Quad-Model of implicit task performance. Journal of Personality and
+   Social Psychology, 89, 469-487.         [ [33]Links ]
+
+   Conway, P., & Gawronski, B. (2013). Deontological and utilitarian
+   inclinations in moral decision-making: A process dissociation approach.
+   Journal of Personality and Social Psychology, 104, 216-235.
+   [ [34]Links ]
+
+   Devine, P. G. (1989). Stereotypes and prejudice: Their automatic and
+   controlled components. Journal of Personality and Social Psychology,
+   56, 5-18.         [ [35]Links ]
+
+   Erdfelder, E., Faul, E, & Buchner, A. (1996). G-Power: A general power
+   analysis program. Behavior Research Methods, Instruments and Computers,
+   28, 1-11.         [ [36]Links ]
+
+   Fazio, R. H., Jackson, J. R., Dunton, B. C., & Williams, C. J. (1995).
+   Variability in automatic activation as an unobstrusive measure of
+   racial attitudes: A bona fide pipeline? Journal of Personality and
+   Social Psychology, 69(6), 1013-1027.         [ [37]Links ]
+
+   Ferreira, M. B., Garcia-Marques, L., Sherman, S. J., & Sherman, J. W.
+   (2006). Automatic and controlled components of judgment and decision
+   making. Journal of Personality and Social Psychology, 91(5), 797-813.
+          [ [38]Links ]
+
+   Ferreira, M. B., Garcia-Marques, L., Hamilton, D. L., Ramos, T.,
+   Uleman, J., & Jerónimo, R. (2012). On the relation between spontaneous
+   trait inferences and intentional inferences: An inference monitoring
+   hypothesis. Journal of Experimental Social Psychology, 48, 1-12.
+     [ [39]Links ]
+
+   García-Pérez, M. A. (1994). Parameter estimation and goodness-of-fit
+   testing in multinomial models. British Journal of Mathematical and
+   Statistical Psychology, 47, 247282. doi: 10.1111/j.2044-8317.
+   [ [40]Links ]
+
+   Garcia-Marques, T., & Ferreira, M. B. (no prelo). Paradigma de suporte
+   ao Procedimento de Dissociação de Processos. Laboratório de Psicologia.
+           [ [41]Links ]
+
+   Gilovich, T., Griffin, D., & Kahneman, D. (Eds.). (2002). Heuristics
+   and biases: The psychology of intuitive judgment. Cambridge, England:
+   Cambridge University Press.         [ [42]Links ]
+
+   Graf, P., & Mandler, G. (1984). Activation makes words more accessible,
+   but not necessarily more retrievable. Journal of Verbal Learning and
+   Verbal Behavior, 23(5), 553-568.         [ [43]Links ]
+
+   Greenwald, A. G., McGhee, D. E., & Schwartz, J. L. K. (1998). Measuring
+   individual differences in implicit cognition: the implicit association
+   test. Journal of Personality and Social Psychology, 74(6), 1464-1480.
+          [ [44]Links ]
+
+   Haddock, G., Zanna, M. P., & Esses, V. M. (1993). Assessing the
+   structure of prejudicial attitudes: The case of attitudes toward
+   homosexuals. Journal of Personality and Social Psychology, 65(6),
+   1105-1118.         [ [45]Links ]
+
+   Hay, J. F., & Jacoby, L. L. (1996). Separating habit and recollection:
+   Memory slips, process dissociations and probability matching. Journal
+   of Experimental Psychology: Learning, Memory and Cognition, 22,
+   1323-1335        [ [46]Links ]
+
+   Hintzman, D. L. (1990). Human learning and memory: Connections and
+   dissociations. Annual Review of Psychology, 41(1), 109-139.
+   [ [47]Links ]
+
+   Jacoby, L. L. (1991). A process dissociation framework: Separating
+   automatic from intentional uses of memory. Journal of Memory and
+   Language, 30(5), 513-541.         [ [48]Links ]
+
+   Jacoby, L. L. (1998). Invariance in automatic influences of memory:
+   Toward a user's guide for the process-dissociation procedure. Journal
+   of Experimental Psychology: Learning, Memory, and Cognition, 24(1),
+   3-26.         [ [49]Links ]
+
+   Jacoby, L. L., Kelley, C. M., Brown, J., & Jasechko, J. (1989).
+   Becoming famous overnight: Limits on the ability to avoid unconscious
+   influences of the past. Journal of Personality and Social Psychology,
+   56, 326-338.         [ [50]Links ]
+
+   Jacoby, L. L., Toth, J. P., & Yonelinas, A. P. (1993). Separating
+   conscious and unconscious influences of memory: Measuring recollection.
+   Journal of Experimental Psychology: General, 122(2), 139-154.
+   [ [51]Links ]
+
+   Kahneman, D., & Tversky, A., (1972). Subjective probability: A judgment
+   of representativeness. Cognitive Psychology, 3, 430-454.
+   [ [52]Links ]
+
+   Logan, G. D. (1980) . Attention and automaticity in Stroop and priming
+   tasks: Theory and data. Cognitive Psychology, 12, 523-553.
+   [ [53]Links ]
+
+   Logan. G. D., & Cowan, W. B. (1984). On the ability to inhibit thought
+   and action: A theory of an act of control. Psychological Review, 91,
+   295-327.         [ [54]Links ]
+
+   Mandler, G. (1980). Recognizing: The judgment of previous occurrence.
+   Psychological Review, 87, 252-271.         [ [55]Links ]
+
+   McConahay, J. B. (1986). Modern racism, ambivalence, and the Modern
+   Racism Scale. In J. F. Dovidio & S. L. Gaertner (Eds.), Prejudice,
+   discrimination, and racism (pp. 99-125). Orlando: Academic Press.
+      [ [56]Links ]
+
+   Neely, J. H. (1977). Semantic priming and retrieval from lexical
+   memory: Roles of inhibitionless spreading activation and
+   limited-capacity attention. Journal of Experimental Psychology:
+   General, 106, 226-254.         [ [57]Links ]
+
+   Payne, B. K. (2001). Prejudice and perception: the role of automatic
+   and controlled processes in misperceiving a weapon. Journal of
+   Personality and Social Psychology, 81(2), 181-192.
+   [ [58]Links ]
+
+   Payne, B. K. (2005). Conceptualizing Control in Social Cognition: How
+   executive control modulates the expression of automatic stereotyping.
+   Journal of Personality and Social Psychology, 89, 488-503.
+   [ [59]Links ]
+
+   Payne, B. K. (2008). What mistakes disclose: A process dissociation
+   approach to automatic and controlled processes in social psychology.
+   Social and Personality Psychology Compass, 2(2), 1073-1092.
+   [ [60]Links ]
+
+   Payne, B. K., & Bishara, A. J. (2009). An integrative review of process
+   dissociation and related models in social cognition. European Review of
+   Social Psychology, 20(1), 272-314.         [ [61]Links ]
+
+   Posner, M. I., & Snyder, C. R. (1975). Attention and cognitive control.
+   In R. L. Solso (Ed.), Information processing and cognition (pp. 55-85).
+   Hillsdale, NJ: Erlbaum.
+
+   Reingold, E. M., & Merikle, P. M. (1990). On the inter-relatedness of
+   theory and measurement in the study of unconscious processes. Mind &
+   Language, 5(1), 9-28.         [ [62]Links ]
+
+   Roberts, S., & Pashler, H. (2000). How persuasive is a good fit? A
+   comment on theory testing. Psychological Review, 107, 358-367.
+   [ [63]Links ]
+
+   Schacter, D.L., Chiu, C.Y.P., & Ochsner, K.N. (1993). Implicit memory:
+   A selective review. Annual Review of Neuroscience, 16, 159-182.
+    [ [64]Links ]
+
+   Schneider, W., & Shiffrin, R. M. (1977). Controlled and automatic human
+   information processing: Detection, search, and attention. Psychological
+   Review, 84, 1-66.         [ [65]Links ]
+
+   Shiffrin, R. M., & Dumais, S. T. (1981). The development of automatism.
+   In J. R. Anderson (Ed.), Cognitive skills and their acquisition (pp.
+   111-140). Hillsdale, N.J.: Erlbaum.
+
+   Shiffrin, R. M., & Schneider, W. (1977). Controlled and automatic human
+   information processing: II. Perceptual learning, automatic attending,
+   and a general theory. Psychological Review, 84, 127-190.
+   [ [66]Links ]
+
+   Shiv, B., & Fedorikhin, A. (1999). Heart and mind in conflict: The
+   interplay of affect and cognition in consumer decision making. Journal
+   of Consumer Research, 26, 278-292.         [ [67]Links ]
+
+   Sloman, S. A. (1996). The empirical case for two systems of reasoning.
+   Psychological Bulletin, 119(1), 3-22.         [ [68]Links ]
+
+   Stahl, C., & Degner, J. (2007). Assessing automatic activation of
+   valence: A multinomial model of EAST performance. Experimental
+   Psychology, 54, 99-112.         [ [69]Links ]
+
+   Stewart, B. D., & Payne, B. K. (2008) . Bringing automatic stereotyping
+   under control: Implementation intentions as efficient means of thought
+   control. Personality and Social Psychology Bulletin, 34, 1332-1345.
+        [ [70]Links ]
+
+   Tversky, A., & Kahneman, D. (1982). Evidential impact of base rates. In
+   D. Kahneman, P. Slovic, & A. Tversky (Eds.), Judgment under
+   uncertainty: Heuristics and biases (pp. 117128). New York, NY:
+   Cambridge University Press.
+
+   Tulving, E., Schacter, D. L., & Stark, H. A. (1982). Priming effects in
+   word-fragment completion are independent of recognition memory. Journal
+   of Experimental Psychology: Learning, Memory, and Cognition, 8(4),
+   336-342.         [ [71]Links ]
+
+   Wegner, D. M., & Bargh, J. A. (1998). Control and automaticity in
+   social life. In D. T. Gilbert, S. T. Fiske, & G. Lindzey (Eds.),
+   Handbook of social psychology (pp. 446-496). (4th ed). New York:
+   McGraw-Hill Vol.         [ [72]Links ] 1.
+
+   Yonelinas, A. P. (1997). Recognition memory ROCs for item and
+   associative information: The contribution of recollection and
+   familiarity. Memory and Cognition, 25 (6), 747-763.
+   [ [73]Links ]
+
+   Yonelinas, A. P. (1999). The contribution of recollection and
+   familiarity to recognition and source memory: An analysis of receiver
+   operating characteristics and a formal model. Journal of Experimental
+   Psychology: Learning, Memory, and Cognition, 25 (6), 1415-1434.
+    [ [74]Links ]
+
+   Yonelinas, A. P., & Jacoby, L. L. (2012). The process-dissociation
+   approach two decades later: Convergence, boundary conditions, and new
+   directions. Memory & Cognition, 40, 663-680.         [ [75]Links ]
+
+   Yonelinas, A. P., Regehr, G., & Jacoby, L. L. (1995). Incorporating
+   response bias in a dual-process theory of memory. Journal of Memory and
+   Language, 34, 821-835.         [ [76]Links ]
+
+
+   [77]^*Autor para correspondência
+
+   Mário Boto Ferreira, Faculdade de Psicologia, Universidade de Lisboa,
+   Alameda da Universidade 1649-013.
+
+   Correio eletrónico: [78]mferreira@fp.ul.pt
+
+
+   Enviado a 06-01-2013. Aceite a 12-06-2013
+
+
+   Notas
+
+   [79]^1A correcta compreensão e respeito por estas instruções por parte
+   dos participantes é essencial para garantir que R e F funcionam como
+   fontes independentes de resposta tal como preconiza o PDP. Ou seja, em
+   cada ensaio os participantes devem sempre começar por tentar recordar
+   uma palavra (que pode servir para completar ou não o fragmento) e só
+   depois eventualmente responder com a primeira palavra que lhes ocorrer.
+   O recurso a outras estratégias de resposta como por exemplo gerar uma
+   palavra com base no fragmento e só depois tentar recordar se a palavra
+   gerada foi previamente estudada invalida o uso do PDP porque R torna-se
+   dependente da fase de geração que é influenciada por F (a este respeito
+   ver Jacoby, 1998).
+
+   [80]^2É possível assumir outro tipo de relação entre A e C.
+   Designadamente, assumir que C só ocorre na ausência de A. Contudo o seu
+   uso na investigação com modelos multinomiais semelhantes ao PDP tem
+   sido relativamente raro e tem estado confinado a domínios muito
+   específicos (a este respeito ver Payne & Bishara, 2009).
+
+   [81]^3No caso da aplicação original do PDP à memória (e.g., Jacoby,
+   Toth, & Yonelinas, 1993), as base-lines de completamento de fragmentos
+   correspondentes a palavras novas (não apresentadas na fase de estudo)
+   podem ser usadas como uma forma de verificar que o critério de resposta
+   não mudou entre os testes de inclusão e exclusão. Especificamente, as
+   base-lines deverão ser aproximadamente iguais nos testes de inclusão e
+   exclusão. Diferenças nas base-lines sugerem violações na equivalência
+   dos processos nos dois testes (inclusivo e exclusivo).
+
+   [82]^4Uma análise mais detalhada das questões ligadas à estimação de
+   parâmetros e testes de fit não cabe no âmbito do presente texto pelo
+   que se convida os leitores interessados a consultar Yonelinas (1997,
+   1999; Yonelinas, Regehr & Jacoby, 1995; Buchner, Erdfelder &
+   Vaterrodt-Pltinnecke, 1995; Erdfelder, Faul & Buchner, 1996) no caso do
+   PDP; e Garcia-Perez (2011; ver também Roberts & Pashler, 2000) para uma
+   discussão formal e análise crítica destes tópicos.
+
+   Edifício ISCTE, sala 2E1
+   Av. das Forças Armadas
+   P-1649-026 Lisboa
+   [e-mailt.gif]
+   [83]revista@appsicologia.org
+
+Références
+
+   1. http://scielo.pt/scielo.php?lng=pt
+   2. http://scielo.pt/scielo.php?script=sci_issuetoc&pid=0874-204920130002&lng=pt&nrm=iso
+   3. http://scielo.pt/scielo.php?script=sci_arttext&pid=S0874-20492013000200005&lng=pt&nrm=iso
+   4. http://scielo.pt/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article^dpsi&index=AU&format=iso.pft&lang=p&limit=0874-2049
+   5. http://scielo.pt/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article^dpsi&index=KW&format=iso.pft&lang=p&limit=0874-2049
+   6. http://scielo.pt/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article^dpsi&format=iso.pft&lang=p&limit=0874-2049
+   7. http://scielo.pt/scielo.php?script=sci_serial&pid=0874-2049&lng=pt&nrm=iso
+   8. http://scielo.pt/scielo.php?script=sci_alphabetic&lng=pt&nrm=iso
+   9. http://analytics.scielo.org/?journal=0874-2049&collection=prt
+  10. file:///pdf/psi/v27n2/v27n2a06.pdf
+  11. http://scielo.pt/scieloOrg/php/articleXML.php?pid=S0874-20492013000200006&lang=pt
+  12. javascript: void(0);
+  13. javascript:void(0);
+  14. javascript:void(0);
+  15. http://analytics.scielo.org/?document=S0874-20492013000200006&collection=prt
+  16. javascript: void(0);
+  17. javascript:void(0);
+  18. http://analytics.scielo.org/w/accesses?document=S0874-20492013000200006&collection=prt
+  19. http://www.mendeley.com/import/?url=http://scielo.pt/scielo.php?script=sci_arttext&pid=S0874-20492013000200006&lng=pt&nrm=iso&tlng=pt
+  20. https://www.addthis.com/bookmark.php?v=250&username=xa-4c347ee4422c56df
+  21. https://www.addthis.com/bookmark.php?v=250&username=xa-4c347ee4422c56df
+  22. javascript:void(0);
+  23. http://scielo.pt/scielo.php?script=sci_serial&pid=0874-2049&lng=pt&nrm=iso
+  24. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#0
+  25. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#1
+  26. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#2
+  27. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#3
+  28. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#4
+  29. javascript:void(0);
+  30. javascript:void(0);
+  31. javascript:void(0);
+  32. javascript:void(0);
+  33. javascript:void(0);
+  34. javascript:void(0);
+  35. javascript:void(0);
+  36. javascript:void(0);
+  37. javascript:void(0);
+  38. javascript:void(0);
+  39. javascript:void(0);
+  40. javascript:void(0);
+  41. javascript:void(0);
+  42. javascript:void(0);
+  43. javascript:void(0);
+  44. javascript:void(0);
+  45. javascript:void(0);
+  46. javascript:void(0);
+  47. javascript:void(0);
+  48. javascript:void(0);
+  49. javascript:void(0);
+  50. javascript:void(0);
+  51. javascript:void(0);
+  52. javascript:void(0);
+  53. javascript:void(0);
+  54. javascript:void(0);
+  55. javascript:void(0);
+  56. javascript:void(0);
+  57. javascript:void(0);
+  58. javascript:void(0);
+  59. javascript:void(0);
+  60. javascript:void(0);
+  61. javascript:void(0);
+  62. javascript:void(0);
+  63. javascript:void(0);
+  64. javascript:void(0);
+  65. javascript:void(0);
+  66. javascript:void(0);
+  67. javascript:void(0);
+  68. javascript:void(0);
+  69. javascript:void(0);
+  70. javascript:void(0);
+  71. javascript:void(0);
+  72. javascript:void(0);
+  73. javascript:void(0);
+  74. javascript:void(0);
+  75. javascript:void(0);
+  76. javascript:void(0);
+  77. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#top0
+  78. mailto:mferreira@fp.ul.pt
+  79. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#top1
+  80. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#top2
+  81. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#top3
+  82. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#top4
+  83. mailto:revista@appsicologia.org

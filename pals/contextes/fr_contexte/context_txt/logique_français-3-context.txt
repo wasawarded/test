@@ -1,0 +1,55 @@
+Les grands principe de la Logique
+
+Objectifs de la leçon
+--
+Les différentes approches
+
+De manière très générale, il existe quatre approches de la logique :
+
+Historique
+
+Cette première approche met l'accent sur l’évolution et le
+développement de la logique, en insistant tout particulièrement sur
+la syllogistique aristotélicienne et les tentatives, depuis Leibniz, de
+faire de la logique un véritable calcul algorithmique. Cette approche
+historique est tout particulièrement intéressante pour
+la philosophie car aussi bien Aristote, les Stoïciens ou Leibniz ont
+travaillé comme philosophes et comme logiciens, tout au long de
+l'histoire de la logique.
+
+Mathématique
+
+La logique mathématique contemporaine est liée aux mathématiques, à
+l’informatique et à l'ingénierie. L’approche mathématique a une
+position qui est un peu particulière d'un point de vue épistémologique,
+puisqu'elle est à la fois un outil de définition des mathématiques, et
+une branche de ces mêmes mathématiques, donc un objet.
+--
+essentiellement le langage propositionnel, reposent sur un outillage
+d’analyse et argumentatif provenant, d'une part des développements
+logiques réalisés au cours de l'histoire de la philosophie et, d'autre
+part, des développements récents de la logique mathématique. Par
+ailleurs, la philosophie et surtout la philosophie de la logique se
+donnent pour tâche d’éclairer les concepts fondamentaux et les méthodes
+de la logique.
+
+Informatique
+--
+systèmes, la programmation et l'intelligence artificielle. L'approche
+informatique est aujourd'hui cruciale car, en essayant de mécaniser les
+raisonnements, voire de les automatiser, la logique et les
+mathématiques vivent une véritable révolution depuis la fin
+du xx^e siècle. Et notamment suite à l'exploitation de
+la correspondance preuve-programme. Les
+conséquences épistémologiques de ces développements sont encore
+largement insoupçonnées.
+
+Grands domaines de la logique
+
+Syllogisme :
+--
+propositions contradictoires, l’une est vraie et l’autre fausse.
+
+Par leur formalisation logique et l’énoncé des grands principes qui
+structurent notre pensée, l’Organon et la réflexion logique d’Aristote
+tiennent une place centrale dans la philosophie.

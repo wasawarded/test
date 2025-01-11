@@ -1,0 +1,206 @@
+
+   Logical consequence (also entailment or implication) is a fundamental
+   concept in logic which describes the relationship between statements
+   that hold true when one statement logically follows from one or more
+   statements. A valid logical argument is one in which the conclusion is
+--
+   involves the questions: In what sense does a conclusion follow from its
+   premises? and What does it mean for a conclusion to be a consequence of
+   premises?^[1] All of philosophical logic is meant to provide accounts
+   of the nature of logical consequence and the nature of logical
+   truth.^[2]
+--
+   explain with formal proof and models of interpretation.^[1] A sentence
+   is said to be a logical consequence of a set of sentences, for a given
+   language, if and only if, using only logic (i.e., without regard to any
+   personal interpretations of the sentences) the sentence must be true if
+   every sentence in the set is true.^[3]
+--
+   The two prevailing techniques for providing accounts of logical
+   consequence involve expressing the concept in terms of proofs and via
+   models. The study of the syntactic consequence (of a logic) is called
+   (its) proof theory whereas the study of (its) semantic consequence is
+   called (its) model theory.^[4]
+--
+   [edit]
+
+   See also: Non-monotonic logic and Belief revision § Non-monotonic
+   inference relation
+
+--
+   [edit]
+
+     * Abstract algebraic logic
+     * Ampheck
+     * Boolean algebra (logic)
+     * Boolean domain
+     * Boolean function
+     * Boolean logic
+     * Causality
+     * Deductive reasoning
+     * Logic gate
+     * Logical graph
+     * Peirce's law
+     * Probabilistic logic
+     * Propositional calculus
+     * Sole sufficient operator
+     * Strawson entailment
+     * Strict conditional
+     * Tautology (logic)
+     * Tautological consequence
+     * Therefore sign
+--
+       Consequence The Stanford Encyclopedia of Philosophy (Fall 2009
+       Edition), Edward N. Zalta (ed.).
+    2. ^ Quine, Willard Van Orman, Philosophy of Logic.
+    3. ^ ^a ^b McKeon, Matthew, Logical Consequence Internet Encyclopedia
+       of Philosophy.
+    4. ^ Kosta Dosen (1996). "Logical consequence: a turn in style". In
+       Maria Luisa Dalla Chiara; Kees Doets; Daniele Mundici; Johan van
+       Benthem (eds.). Logic and Scientific Methods: Volume One of the
+       Tenth International Congress of Logic, Methodology and Philosophy
+       of Science, Florence, August 1995. Springer. p. 292.
+       ISBN 978-0-7923-4383-7.
+--
+       Nostrand Publishing. p.88.
+   10. ^ Hunter, Geoffrey (1996) [1971]. Metalogic: An Introduction to the
+       Metatheory of Standard First-Order Logic. University of California
+       Press (published 1973). p. 101. ISBN 9780520023567. OCLC 36312727.
+       (accessible to patrons with print disabilities)
+--
+     Augusto, Luis M. (2017), Logical consequences. Theory and
+   applications: An introduction. London: College Publications. Series:
+   Mathematical logic and foundations.
+
+     Barwise, Jon; Etchemendy, John (2008), Language, Proof and Logic,
+   Stanford: CSLI Publications.
+
+     Brown, Frank Markham (2003), Boolean Reasoning: The Logic of Boolean
+   Equations 1st edition, Kluwer Academic Publishers, Norwell, MA. 2nd
+   edition, Dover Publications, Mineola, NY, 2003.
+--
+
+     Edgington, Dorothy (2001), Conditionals, Blackwell in Lou Goble
+   (ed.), The Blackwell Guide to Philosophical Logic.
+
+     Edgington, Dorothy (2006), "Indicative Conditionals", Conditionals,
+--
+   University Press.
+
+     Goble, Lou, ed. (2001), The Blackwell Guide to Philosophical Logic,
+   Blackwell.
+
+--
+
+     Planchette, P. A. (2001), Logical Consequence in Goble, Lou, ed., The
+   Blackwell Guide to Philosophical Logic. Blackwell.
+
+     Quine, W.V. (1982), Methods of Logic, Cambridge, MA: Harvard
+   University Press (1st ed. 1950), (2nd ed. 1959), (3rd ed. 1972), (4th
+   edition, 1982).
+--
+     Shapiro, Stewart (2002), Necessity, meaning, and rationality: the
+   notion of logical consequence in D. Jacquette, ed., A Companion to
+   Philosophical Logic. Blackwell.
+
+     Tarski, Alfred (1936), On the concept of logical consequence
+   Reprinted in Tarski, A., 1983. Logic, Semantics, Metamathematics, 2nd
+   ed. Oxford University Press. Originally published in Polish and German.
+
+--
+     * e
+
+   Logic
+
+     * Outline
+--
+     * Formal semantics (natural language)
+     * Inference
+     * Philosophy of logic
+     * Proof
+     * Semantics of logic
+     * Syntax
+
+--
+
+   topics
+     * Mathematical logic
+     * Boolean algebra
+     * Set theory
+--
+     * Paradoxes
+     * Fallacies
+     * Logic symbols
+
+     * Philosophy portal
+--
+     * e
+
+   Mathematical logic
+
+   General
+--
+          + list
+     * Cardinality
+     * First-order logic
+     * Formal proof
+     * Formal semantics
+--
+
+   Traditional
+     * Classical logic
+     * Logical truth
+     * Tautology
+--
+     * Propositional formula
+     * Truth tables
+     * Many-valued logic
+          + 3
+          + finite
+--
+     * Model complete theory
+     * Satisfiability
+     * Semantics of logic
+     * Strength
+     * Theories of truth
+--
+   Related
+
+     * Abstract logic
+     * Algebraic logic
+     * Automated theorem proving
+     * Category theory
+     * Concrete/Abstract category
+     * Category of sets
+     * History of logic
+     * History of mathematical logic
+          + timeline
+     * Logicism
+--
+     * Glue semantics
+     * Inquisitive semantics
+     * Intensional logic
+     * Lambda calculus
+     * Mereology
+--
+     * Formal grammar
+     * Inferentialism
+     * Logic translation
+     * Linguistics wars
+     * Philosophy of language
+     * Pragmatics
+     * Semantics of logic
+
+   Authority control databases: National Edit this at Wikidata
+--
+   Categories:
+     * Logical consequence
+     * Philosophical logic
+     * Metalogic
+     * Propositional calculus
+     * Semantic units
+     * Deductive reasoning
+     * Concepts in logic
+     * Syntax (logic)
+     * Binary operations
+

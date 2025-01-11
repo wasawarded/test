@@ -1,0 +1,1766 @@
+# alternate 编辑 Wikipedia ( zh ) alternate alternate alternate alternate
+alternate alternate alternate alternate alternate alternate
+Wikipedia 的 Atom feed
+
+跳 转 到 内容
+
+[ ] 主菜单
+主菜单
+( BUTTON ) 移 至 侧栏 ( BUTTON ) 隐藏
+导航
+* 首 页
+* 分类 索引
+* 特色 内容
+* 新闻 动态
+* 最近 更改
+* 随机 条目
+
+帮助
+* 帮助
+* 维基社 群
+* 方针 与 指引
+* 互助 客栈
+* 知识 问答
+* 字 词 转换
+* IRC即时 聊天
+* 联络 我们
+* 关于 维基 百科
+
+维基 百科 自由 的 百科全书
+搜索
+____________________
+( BUTTON ) 搜索
+
+[ ] 外观
+
+* 资助 维基 百科
+* 创建 账号
+* 登录
+
+[ ] 个人 工具
+* 资助 维基 百科
+* 创建 账号
+* 登录
+
+未 登录 编辑者 的 页面 了 解详 情
+* 贡献
+* 讨论
+
+目录
+
+( BUTTON ) 移 至 侧栏 ( BUTTON ) 隐藏
+* 序言
+* 1 词源
+* 2 概论
+* 3 分类
+( BUTTON ) 开关 分类子 章节
++ 3 . 1 经典 逻辑
++ 3 . 2 非 经典 逻辑
++ 3 . 3 形式逻辑
+o 3 . 3 . 1 符号 逻辑
+o 3 . 3 . 2 数理 逻辑
++ 3 . 4 非 形式逻辑
++ 3 . 5 哲学 逻辑
+* 4 概念
+( BUTTON ) 开关 概念子 章节
++ 4 . 1 逻辑学 基本 公理
+o 4 . 1 . 1 形式逻辑学
+o 4 . 1 . 2 非 形式逻辑学
++ 4 . 2 逻辑 系统 的 性质
++ 4 . 3 对于 逻辑 的 不同 理解
++ 4 . 4 演绎 和 归纳
+* 5 发展 历史
+* 6 逻辑学 学科 体系
+* 7 注释
+* 8 参考 文献
+( BUTTON ) 开关 参考 文献子 章节
++ 8 . 1 引用
++ 8 . 2 来 源
+* 9 外部 链接
+
+[ ] 开关 目录
+
+逻辑
+
+[ ] 164 种 语言
+* Afrikaans
+* Alemannisch
+* አማ ርኛ
+* Aragoné s
+* अं गि का
+* ال عر بي ة
+* مص رى
+* অস মী য় া
+* Asturianu
+* A zərbaycanca
+* تۆ رک جه
+* Ба шҡ ор тс а
+* Boarisch
+* Žemaitėška
+* Bikol Central
+* Бе ла ру ск ая
+* Бе ла ру ск ая ( тар аш ке ві ца )
+* Betawi
+* Бъ лг ар ск и
+* বা ংল া
+* Brezhone g
+* Bosanski
+* Batak Mandailing
+* Бу ря ад
+* Catal à
+* Chavacano de Zamboanga
+* Но хч ий н
+* کو رد ی
+* Corsu
+* Qır ımtatarca
+* Čeština
+* Чӑ ва шл а
+* Cymraeg
+* Dansk
+* Deutsch
+* Ελ λη νι κά
+* English
+* Esperanto
+* Español
+* Eesti
+* Euskara
+* Estremeñu
+* فا رس ی
+* Suomi
+* Võro
+* Na Vosa Vakaviti
+* Français
+* Nordfriisk
+* Frysk
+* Gaeilge
+* 贛語
+* Kriyòl gwiyannen
+* Galego
+* Avañe ' ẽ
+* Hawaiʻi
+* עב רי ת
+* हि न् दी
+* Fiji Hindi
+* Hrvatski
+* Magyar
+* Հա յե րե ն
+* Ար եւ մտ ահ այ եր էն
+* Interlingua
+* Jaku Iban
+* Bahasa Indonesia
+* Interlingue
+* Igbo
+* Ilokano
+* Ido
+* Íslens ka
+* Italiano
+* 日本 語
+* Patois
+* La . lojba n .
+* Jawa
+* ქა რთ ულ ი
+* Taqbaylit
+* Kabɩ yɛ
+* Gĩkũ yũ
+* Қа за қш а
+* ភា សា ខ្ មែ រ
+* 한국 어
+* Kurdî
+* Kernowek
+* Кы рг ыз ча
+* Latina
+* Lëtzebuergesch
+* Ла кк у
+* Lingua Franca Nova
+* Ladin
+* Lombard
+* Lietuvių
+* Latviešu
+* Malagasy
+* Minangkabau
+* Ма ке до нс ки
+* മല യാ ളം
+* Мо нг ол
+* मर ाठ ी
+* Bahasa Melayu
+* Mirand és
+* မြ န် မာ ဘာ သာ
+* ما زِ رو نی
+* Plattdüütsch
+* न ेप ाल भा षा
+* Nederlands
+* Norsk nynorsk
+* Norsk bokm ål
+* Novial
+* Occitan
+* Oromoo
+* ਪੰ ਜਾ ਬੀ
+* Norfuk / Pitkern
+* Polski
+* Piemont èis
+* پن جا بی
+* پښ تو
+* Português
+* Runa Simi
+* Rom ână
+* Ру сс ки й
+* Ру си нь ск ый
+* Са ха ты ла
+* ᱥᱟ ᱱᱛ ᱟᱲ ᱤ
+* Sardu
+* Sicilianu
+* Scots
+* سن ڌي
+* Srpskohrvatski / ср пс ко хр ва тс ки
+* Tacl ḥit
+* Simple English
+* Slovenčina
+* Slovenš čina
+* Shqip
+* Ср пс ки / srpski
+* Sunda
+* Svens ka
+* Kiswahili
+* தம ிழ ்
+* То ҷи кӣ
+* ไท ย
+* Türkmenç e
+* Tagalog
+* Tol ışi
+* Tok Pisin
+* Türkçe
+* Т ат ар ча / tatarça
+* Ты ва ды л
+* Ук ра їн сь ка
+* ار دو
+* Oʻ zbekcha / ўз бе кч а
+* Veps än kel ’
+* Tiếng Việt
+* Walon
+* Winaray
+* 吴语
+* IsiXhosa
+* მა რგ ალ ურ ი
+* יי ִד יש
+* Yorùbá
+* ⵜⴰ ⵎⴰ ⵣⵉ ⵖⵜ ⵜⴰ ⵏⴰ ⵡⴰ ⵢⵜ
+* 文言
+* 閩南 語 / Bân - l âm - g ú
+* 粵語
+
+编辑 链接
+
+* 条目
+* 讨论
+
+[ ] 简体
+* 不 转换
+* 简体
+* 繁體
+* 大陆 简体
+* 香港 繁體
+* 澳 門 繁體
+* 大马 简体
+* 新加坡 简体
+* 臺灣 正體
+
+* 阅读
+* 编辑
+* 查看 历史
+
+[ ] 工具
+工具
+( BUTTON ) 移 至 侧栏 ( BUTTON ) 隐藏
+操作
+* 阅读
+* 编辑
+* 查看 历史
+
+常规
+* 链入 页面
+* 相关 更改
+* 上 传 文件
+* 特殊 页面
+* 固定链 接
+* 页面 信息
+* 引用 此 页
+* 获取 短链 接
+* 下载 二 维码
+
+打印 / 导 出
+* 下载 为 PDF
+* 打印 版本
+
+在 其他 项目 中
+* 维基 共享 资源
+* 维基 数据 项目
+
+外观
+( BUTTON ) 移 至 侧栏 ( BUTTON ) 隐藏
+维基 百科 ， 自由 的 百科全书
+此 条目 的 主题 是 关于 逻辑 和 逻辑 学科 的 分类 、 历史 与 发展 。 关于 黑格尔 的 作品 《 逻辑学 》 ， 请 见 “ 大逻辑 ” 。
+系列 条目
+哲学
+从 左 到 右 ： 柏拉图 、 康德 、 尼采 、 释迦牟尼 、 孔子 、 伊本 · 西 那 从 左 到 右 ： 柏拉图 、 康德 、 尼采 、 释迦牟尼 、 孔子 、 伊本 · 西 那
+* 柏拉图
+* 康德
+* 尼采
+
+* 释迦牟尼
+* 孔子
+* 伊本 · 西 那
+
+分支
+* 形而上学
+* 认识论
+* 伦理学
+* 美学
+* 逻辑学
+
+时期
+* 古典
++ 古 希腊
++ 古 印度
++ 古 中国
+* 中 世纪
++ 经 院 哲学
++ 宋明理学
+* 近代
++ 德国 古典 哲学
+* 当代
++ 分析 哲学
++ 欧陆 哲学
+
+地域
+* 东方
++ 中国
++ 印度
++ 日本
+* 西方
++ 美
++ 英
++ 法 （ 英语 ： French philosophy ）
++ 德
++ 意
++ 俄 （ 英语 ： Russian philosophy ）
+* 中东
++ 伊斯兰 哲学
+
+传统
+各 宗教 的 哲学 信仰
+* 儒 家
+* 道 家
+* 印度 哲学
++ 印度 教
++ 佛教
++ 耆 那 教
+* 犹太教
+* 基督教
+* 伊斯兰教
+
+文献
+* 美学
+* 知识论
+* 伦理学
+* 逻辑学
+* 形而上学
+* 政治 哲学 （ 英语 ： Category : Political philosophy literature ）
+
+哲学 家
+* 美学 家
+* 知识论者
+* 伦理学 家 （ 英语 ： List of ethicists ）
+* 逻辑学 家
+* 形而上学 学者 （ 英语 ： List _ of _ metaphysicians ）
+* 社会 和 政治 哲学 家 （ 英语 ： Index of sociopolitical thinkers ）
+* 女 哲学 家 （ 英语 ： Index of sociopolitical thinkers ）
+
+列表
+* 索引 （ 英语 ： Index of philosophy ）
+* 概要
+* 年份
+* 问题
+* 出版物 （ 英语 ： List of important publications in philosophy ）
+* 理论 （ 英语 ： List of philosophies ）
+* 词汇表 （ 英语 ： Glossary of philosophy ）
+* 哲学 家
+
+[ 10 p x - Socrates . png ] 哲学 主题
+* 查
+* 论
+* 编
+
+逻辑 （ logic ） 又 称理 则 、 论理 、 推理 、 推论 ， 是 有效 （ 或 正确 ） 推论 的 研究 ^ [ 1 ] ^ [ 2 ] ； 更 广泛 地 说 ， 逻辑 是 对 论证 的 分析 和 评估 ^ [ 3 ] 。 逻辑 的
+目 的 可以 是 来 发展 评估 他人 的 论证 或 构建 自己 论证 的 一 套 方法 和 原 则 体系 ^ [ 4 ] 。
+
+逻辑 可 分为 形式 逻辑 ， 与 非 形式逻辑 。
+
+逻辑 被 使用 在 大部份 的 智能 活动 中 ， 但 主要 在 心理 、 学习 、 哲学 、 语义学 、 数学 、 推论 统计学 、 脑科学 、 法律 和 计算机 科学 等 领域 内 被 视为 一 门 学科 。 逻辑 讨论 逻
+辑 论证 一 般 会 呈现 的 一 般 形式 ， 哪 种 形式 是 有效 的 ， 以及 其中 的 谬论 。
+
+逻辑 推理 通常 可 分为 三 种 ： 归纳 推理 、 溯 因 推理 和 演绎 推理 。 科学 方法 都 属于 归纳 推理 , 没有 必然性 。 数学 则 属于 演绎 推理 。
+
+在 哲学 里 ， 逻辑 被 应用 在 大多数 的 主要 领域 之中 ： 形上学 / 宇宙论 、 本体论 、 知识论 及 伦理学 。
+
+在 数学 里 ， 逻辑 是 指 形式逻辑 和 数理 逻辑 ， 形式 逻辑 是 研究 某个 形式 语言 的 有效 推论 ^ [ 5 ] 。 主要 是 演绎 推理 。
+在 辩证法 中 也 涉及 到 逻辑 ^ [ 6 ] 。 数理 逻辑 是 研究 抽象 逻辑 关系 和 数学 基本 的 问题 。
+
+在 心理 、 脑科学 、 语义学 、 法律 里 ， 是 研究 人类 思想 推理 的 处理 。
+
+在 学习 、 推论 统计学 里 ， 是 研究 最 大 可能 的 结论 。 主要 是 归纳 推理 、 溯 因 推理 。
+
+在 电脑 科学 里 ， 是 研究 各种 方法 的 性质 ， 可能性 ， 和 实现 在 机器 上 。 主要 是 归纳 推理 、 溯 因 推理 ， 也 有 在 归纳 推理 的 研究 。
+
+从 古文明 开始 （ 如 古 印度 ^ [ 注 1 ] 、 中国 古代 ^ [ 注
+2 ] 和 古 希腊 ） 都 有 对 逻辑 进行 研究 。 在 西方 ， 亚里斯多德 将 逻辑 建立 成 一 门 正式 的 学科 ， 并 在 哲学 中 给 予 它 一个 基本 的 位置 。
+
+词源
+
+[ 编辑 ]
+
+参见 ： 逻辑史 和 中国 逻辑史
+
+逻辑 （ 英语 ： logic ） 的 字根 来 自 （
+古 希腊语 ： λο γι κή ， 罗 马化 ： logikḗ ） ， 意 为 ： 具有 理由 的 、 知识 的 、 辩证 的 、 论辩 的 ； 逻辑 此词 又 与 逻各斯 （ 古 希腊语 ： λόγ ος ， 罗 马化 ： l
+ógos ） 同源 ， 意 为 ： 词语 、 思想 、 概念 、 理念 、 论据 、 论点 、 说明 、 理由 、 原 则 、 推理 ^ [ 7 ] 。 “ logikḗ ” 此后 译 为 法语 ： logique ， 再 发展
+为 英语 的 逻辑 ： logic 。 其他 欧洲 语言 拼法 均 雷同 ， 如 德语 ： logik ， 意大利语 、 西班牙语 ： logica ， 葡萄牙语 ： lógica 等 。
+
+李之藻 （ 1565 - 1630 ） 与 人 翻译 了 一 本 逻辑学 著作 ， 译 为 《 名理探 》 。 清朝 末年 ， 有 著作 《 辩学启蒙 》 。 1902年 严复 译 《 穆勒名学 》 时 ， 将 其 意译 为
+“ 名 ” ， 但 这 不 合名 家 或者 名教 之 名 学 中 “ 名 ” 的 本意 。 同时 在 本作 中 第一 次 作为 注解 提到 “ 逻辑 ” 一 词 ， 但 他 并 不 提倡 ^ [ 8 ] 。
+梁启超 在 《 墨子之论理学 》 提倡 采用 和 制 汉语 的 意译 “ 论理 ” ^ [ 9 ] 。 1919年 孙文 在 《 孙文学说 · 以 作文 为 证 》 提倡 意译 为 “ 理 则 ” ^ [ 10 ] 。
+1917年 章士钊 在 《 逻辑指要 》 第一 次 将 “ 逻辑 ” 作为 著作 的 译名 。 他 认为 ， 意译 无法 精确 表达 原词 所 蕴含 的 意义 。 由于 意译 的 分歧 很 大 ， 最终 “ 逻辑 ” 作为 “
+logic ” 的 译名 流传 下 来 ^ [ 11 ] 。
+
+概论
+
+[ 编辑 ]
+
+逻辑 本身 是 指 是 推论 和 证明 的 思想 过程 ， 而 逻辑学 是 研究 “ 有效 推论 和 证明 的 原 则 与 标准 ” 的 一 门 学科 。 作为 一个 形式 科学 ， 逻辑 透过 对 推论 的 形式 系统 与 自然 语
+言 中 的 论证 等 来 研究 并 分类 命题 与 论证 的 结构 ^ [ 12 ] 。
+
+逻辑 的 范围 是 非常 广阔 的 ， 从 对 谬论 与 悖论 的 研究 之类 的 核心 议题 ， 到 利用 机率 来 推论 及 包含 因 果论 的 论证 等 专业 的 推理 分析 。 逻辑 在 今日 亦 常 被 使用 在 论辩 理论
+之中 （ 参见 ： 非 形式 逻辑 ） ^ [ 13 ] 。
+
+传统 上 ， 逻辑 被 作为 哲学 的 一个 分支 来 研究 ， 和 文法 与 修辞 一同 被 称为 古典 三 艺 。 古 希腊 亚里斯多德 系统 的 研究 了 逻辑 系统 ， 介绍 于 其 著作 集 《 工具论 》 中 ^ [ 1
+4 ] ^ [ 15 ] 。
+《 工具论 》 是 亚里士多德 学派 的 传人 们 （ 即 逍遥 学派 ） 将 他 的 六 篇 关于 逻辑 的 著作 汇编成 的 一 部 著作集 ， 并 定 为 此名 。 这 六 篇 著作 分别 是 《 范畴篇 》 、 《 解释篇 》
+、 《 前分析篇 》 、 《 后分析篇 》 、 《 论辩篇 》 和 《 辨谬篇 》 。
+
+自 十九 世纪 中叶 ， 形式 逻辑 已 被 作为 数学 基础 而 被 研究 ， 当中 经常 被 称之为 符号 逻辑 。 1903年 ， 阿 弗烈 · 诺夫 · 怀海德 与 伯特兰 · 罗素 写 成 了 《 数学原理 》 ，
+试图 将 逻辑 形式 地 建立 成 数学 的 基石 ^ [ 16 ] 。 不 过 ， 除 了 些 基本 的 以外 ， 当时 的 系统 已 不 再 被 使用 ， 大部份 都 被 集合论 所 取代 掉 了 。 当 对 形式逻辑 的 研究 渐渐
+地 扩张 了 之后 ， 研究 也 不再 只 局限 于 基础 的 议题 ， 之后 的 各个 数学 领域 被 合称 为 数理逻辑 。 形式逻辑 的 发展 和 其 在 电脑 上 的 应用 是 电脑 科学 的 基础 ^ [ 17 ] 。 戈
+特弗里德 · 莱布尼茨 、 乔治 · 布尔 、 戈特洛布 · 弗雷格 、 大卫 · 希尔伯特 、 库尔特 · 哥德尔 ， 等等 ， 都 在 这个 过程 中 非常 重要 ^ [ 18 ] 。
+
+分类
+
+[ 编辑 ]
+
+经典 逻辑
+
+[ 编辑 ]
+
+主 条目 ： 经典 逻辑 和 传统 逻辑
+
+经典 逻辑 : 经典 逻辑 的 逻辑 系统 基于 公理化 的 传统 逻辑 的 四 个 基本 思维 规律 ： 同一律 , 排 中律 ,
+无 矛盾律 ( 也 被 称为 矛盾律 ) , 和 充足 理由律 ， 和 其它 经典 逻辑 特有 的 特征 ( 见 : 经典 逻辑 # 特征 ） ^ [ 14 ] ^ [ 19 ] 。 经典 逻辑 是 19 和 20
+世纪 的 创新 , 它 比亚 里士多德 的 传统 逻辑 具有 更 广泛 的 应用 ， 并且 能够 将 亚里士多德 的 传统 逻辑 表述 为 一个 特例 。 同一律 , 排 中律 , 无 矛盾律
+由 亚里士多德 提出 ， 也 是 伯特兰 · 罗素 在 他 的 著作 《 哲学问题 》 中 确立 了 三 个 思维 规律 。
+
+非经典 逻辑
+
+[ 编辑 ]
+
+主 条目 ： 非 经典 逻辑
+
+非 经典 逻辑 : 与 经典 逻辑 公理化 假设 （ 见 ： 经典 逻辑 # 特征 ） 有 矛盾 的 逻辑 系统 。 例如 ： 拒绝 无 矛盾律 的 所有 种类 的 次 协调 逻辑
+^ [ 20 ] ^ [ 21 ] ， 包括 相 干逻辑 ^ [ 22 ] ， 双面 真理 说 ^ [ 23 ] 等等 。 这些 的 形式 化次 协调 逻辑 既 属于 非经典 逻辑 也 属于 形式逻辑 。
+
+形式逻辑
+
+[ 编辑 ]
+
+参见 ： 形式 系统
+
+形式逻辑 是 对 命题 、 陈述 或 断然 使用 的 句子 和 演绎 论证 的 抽象 研究 ^ [ 24 ] 。
+是 研究 纯 形式 内容 的 推论 的 一 门 学科 ， 这种 内容 是 很 明确 的 。 若 一个 推论 可以 被 表达 成 一个 完全 抽象 的 规 则 （ 即 不 只 是 和 任 一 特定 事物 或 性质 有关 的 规 则 ） 的 一个
+特定 应用 ， 则 这个 推论 拥有 纯 形式 内容 。 形式逻辑 的 规 则 由 亚里斯多德 最先 写 成 ^ [ 25 ] 。 在 许多 逻辑 的 定义 中 ， 逻辑 推论 与 带有 纯 形式 内容 的 推论会 是 同 一 种
+概念 。 但 这 不 表示 非 形式逻辑 的 概念 是 空洞 的 ， 因为 没有 任何 一 种 形式 语言 可以 捕捉 到 自然 语言 语义间 所有 的 微细 差别 。
+形式 是 逻辑 的 核心 ， 但 在 “ 形式 逻辑 ” 中 对 “ 形式 ” 使用 时常 不 很 明确 ， 因而 使 其 阐述 变 得 很 费解 。 其中 ， 符号 逻辑 仅 为 形式逻辑 的 一 种 类型 ， 而 和 形式逻辑 的 另
+一 种 类型 －只 处理 直言 命题 的 三 段 论 不 同 。 ^ [ 26 ]
+
+符号 逻辑
+
+[ 编辑 ]
+
+符号 逻辑 捕获 了 逻辑 推论 的 形式 特征 ， 并 将 其 抽象化 为 符号 的 研究 ^ [ 16 ] ^ [ 27 ] 。 符号 逻辑 通常 分为 两 个 分支 ： 命题 逻辑 和 谓词 逻辑 。
+“ 形式 逻辑 ” 通常 作为 符号 逻辑 的 同义词 。 但 广义 地 来 说 ， 形式 逻辑 是 古老 的 ， 可 追溯 至 两千 年 以前 ， 而 符号 逻辑 则 相对 较 新 ， 只有 一个 世纪 左右 的 历史 而已 。
+
+数理 逻辑
+
+[ 编辑 ]
+
+数理 逻辑 是 符号 逻辑 在 其他 领域 中 的 延伸 ， 特别 是 对 模型论 、 证明论 、 集合论 和 递 归论 的 研究 。
+
+非 形式逻辑
+
+[ 编辑 ]
+
+主 条目 ： 非 形式逻辑
+
+非 形式逻辑 ^ [ 28 ] 是 研究 自然 语言 论证 的 一 门 学科 ， 也 被 认为 与 批判性 思维 相 关联 ,
+被 理解 为 不 包含 符号 抽象化 的 任何 一 种 逻辑 推论 ； 这 是 由 “ 形式 语言 ” 和 “ 形式 理论 ” 中 类推 而 来 的 用法 。
+
+没有 任何 一 种 形式 语言 可以 捕捉 到 自然 语言 语义间 所有 的 微细 差别 , 这 说明 了 非 形式逻辑 研究 存在 的 必要性 。
+但 非 形式逻辑 典型 特征 是 不 如 形式逻辑 善于 做 严密 分析 。 柏拉图 的 作品 ^ [ 29 ] 是非 形式逻辑 的 一 重要 例子 。
+对 谬论 的 研究 是非 形式逻辑 中 尤其 重要 的 一个 分支 ， 其 历史 可 追寻 于 古 希腊 时期 亚里斯多德 的 著作 《 辨谬篇 》 。
+
+哲学 逻辑
+
+[ 编辑 ]
+
+主 条目 ： 哲学 逻辑
+
+哲学 逻辑 是 指 传统 上 使用 公认 的 逻辑 方法 来 解决 或 推进 哲学 问题 讨论 的 哲学 领域 , 是 对 逻辑 更 特定 于 哲学 的 方面 的 研究 。
+该 术语 被 理解 为 包含 并 专注 于 非经典 逻辑 , 尽管 还有 其他 含义 ^ [ 30 ] 。 约翰 · P · 伯吉斯 （ 英语 ： John P . Burgess ）
+的 《 哲学逻辑 》 ^ [ 31 ] 介绍 了 非 经典 逻辑 的 五 个 中心 分支 （ 时间 逻辑 、 模态 逻辑 、 条件 逻辑 、 相干 逻辑 和 直觉 逻辑 ） ， 重点 关注 形式化 模型 和 直觉 动机 之间 有
+时 存在 问题 的 关系 。 进一步 的 介绍 可见 其它 有关 文献 ^ [ 32 ] ^ [ 33 ] 。
+
+概念
+
+[ 编辑 ]
+
+逻辑学 基本 公理
+
+[ 编辑 ]
+
+形式逻辑学
+
+[ 编辑 ]
+
+经典 逻辑 的 四 个 基本 公理 ：
+
+同一律 （ the law of identity ）
+事物 跟 其 自身 相等同 ， “ 自己 ” 不 能 “ 不 是 自己 ” 。
+
+无 矛盾律 （ the law of non - c ontradiction ）
+事物 不 能 同时 “ 是 ” 跟 “ 不 是 ” 。 是 就是 ， 不 是 就 不 是 。
+
+排 中律 （ the law of excluded middle ）
+事物 只 能 有 “ 是 ” 或 “ 不 是 ” 两 种 状态 ， 不 存在 其他 中间 状态 。
+
+充足 理由律 （ the law of sufficient reason ）
+任何 事物 都 有 其 存在 的 充足 理由 。
+
+非 形式逻辑学
+
+[ 编辑 ]
+
+只 与 非经典 逻辑 有关 的 公理 ：
+
+函 中律 （ the law of included middle ）
+事物 不 仅 有 “ 是 ” 或 “ 不 是 ” 两 种 状态 ， 还 存在 “ 非 是 ” 及 “ 非 不 是 ” 的 P状态 （ possibly true ) , 其 值 属于 区间 [ 0 , 1 ] 。
+
+辩证 逻辑 和 对立统一 规律 ：
+
+在 辩证 逻辑 中 ， 允许 矛盾 的 存在 ， 并 接纳 对立统一 规律 。
+在 辩证 逻辑 中 认为 ， 社会 和 思想 领域 中 的 任何 事物 以及 事物 之间 都 包含 着 矛盾性 ， 事物 矛盾 双方 又 统一 又 斗争 推动 事物 的 运动 、 变化 和 发展 。 对立
+统一 规律 认为 ， 矛盾 双方 的 同一性 与 斗争性 ； 矛盾 的 普遍性 与 特殊性 ; 事物 发展 过程 中 的 矛盾 以及 矛盾 双方 发展 的 不平衡性 。 辩证法 是 解决 矛盾 的
+方法论 。
+
+逻辑 系统 的 性质
+
+[ 编辑 ]
+
+形式逻辑 系统 可以 具有 的 重要 属性 包括 ：
+
+有效性 （ validity ）
+依 系统 的 推理 规 则 ， 若 所有 前提 皆 为 真 则 结论 必 为 真 （ 保 真 ） 。 所有 命题 之前 提 皆 语义 蕴涵 （ semantic
+consequence ） 结论 。
+
+自洽性 （ cons istency ）
+系统 中 任 一定 理 都 不 与 其他 定理 相 矛盾 。 不 存在 命题P ， P 和 非P 皆 可 在 系统 中 证明 。
+
+可靠性 （ soundness ）
+系统 中 所有 定理 （ 有效 且 可 证明 的 命题 ） 皆 为 真 。 可靠性 与 完备性 互 为 逆命题 。
+
+完备性 （ completeness ）
+系统 中 不 存在 无法 证明 或 证 否 的 有效 命题 。 系统 中 真 命题 皆 可 证明 （ 真 命题 皆 为 定理 ） 且 假 命题 皆 可 证 否 。
+
+表达性 （ 英语 ： Expressive power ） ( computer science ) （ Expressivity ）
+系统 中 可以 表达 哪 些 概念 。
+
+一些 逻辑 系统 不 拥有 上述 所有 性质 ， 比如 库尔特 · 哥德尔 的 哥德尔 不 完备 定理 证明 了 ， 没有 任何 一个 蕴涵 皮亚诺 公理 的 算术 形式 系统 可以 同时 满足 自洽性 和 完备性
+。 ^ [ 27 ] 同时 他 的 针对 没有 通过 特定 公理 扩展 为 带有 等 式 的 算术 形式 系统 的 一 阶谓 词逻辑 的 定理 ， 证实 了 它们 可以 同时 满足 自洽性 和 完备性 。 ^ [ 34 ]
+
+对于 逻辑 的 不同 理解
+
+[ 编辑 ]
+
+参见 ： 逻辑 的 概念 （ 英语 ： Conceptions of logic ）
+
+逻辑 产生 于 对 论证 正确性 的 关注 。 逻辑 是 对 论证 的 研究 ， 这个 概念 在 历史 上 是 很 基本 的 ， 而 这 也 是 不 同 逻辑 传统 的 创立者 如 柏拉图 和 亚里斯多德 所 设想 的 。 现代 的
+逻辑学 家 通常 会 希望 确保 对 逻辑 的 研究 只 局限 于 由 适度 一 般 化 了 的 推论 中 所 产生 出 来 的 论证 ； 所以 如 《 斯坦福哲学百科 》 所 称 ， “ 逻辑 … … 没有 涵盖 有效 推理 的 整
+个 课题 ， 那 是 理性 理论 的 工作 。 更 明确 地 说 ， 逻辑 处理 一 种 推论 ， 其 有效性 可 追溯 至 推论 中 的 表述 的 形式 特征 ， 这 可以 是 语言 的 ， 心理 的 ， 或 其他 的 表述 。 ” ( H
+ofweber 2004 ) .^ [ 5 ]
+
+相对 地 ， 伊曼努尔 · 康德 引入 了 另 一 种 概念 来 阐述什 么 是 逻辑 。 他 主张 逻辑 应当 被 设想 为 判断 的 科学 ， 这种 想法 被 戈特洛布 · 弗雷格 采纳 ， 写入 他 的 逻辑 与 哲学 著
+作 之中 ， 其中 ， 思维 （ 德语 ： Gedanke ） 这 一 词 取代 了 康德 的 判断 （ 德语 ： Urteil ） 。 在 此 观点 下 ， 有效 的 逻辑 推论 是 源于 判断 或 思维 的 结构 特征 。
+
+演绎 和 归纳
+
+[ 编辑 ]
+
+演绎 推理 关注 于 从 给 定 的 前提 下 有 什 么 是 可 得出 的 。 而 归纳 推理 （ 从 观察 中 推论 出 可靠 广义化 的 过程 ） 有时 也 被 包含 在 对 逻辑 的 研究 中 。 相对 应 地 ， 必须 要 区分 出
+演绎 有效性 和 归纳 有效性 。 一个 推论 是 演绎 有效 的 ， 若 且 唯 若 不 可能 存在 所有 前提 皆 为 真 但 结论 为 假 的 状况 。 对于 形式逻辑 的 系统 ， 演绎 有效性 的 概念 可以 用语 义
+学 中 已 明确 理解 的 概念 严格 地 陈述 出 来 。 另一方面 ， 归纳 的 有效性 则 要求 必须 定义 对 某 一 观察 集合 的 “ 可靠 广义化 ” 。 此 定义 可以 用 各种 不 同 的 方式 来 达成 ， 有 的
+方式 会 比 其他 的 方式 不 那 么 形式化 ； 有些 定义 也 许会 用 到 机率 的 数学 模型 。 ^ [ 35 ]
+
+发展 历史
+
+[ 编辑 ]
+
+主 条目 ： 逻辑史
+
+许多 文化 都 采用 复杂 的 推理 系统 ， 最初 仅 有 三 个 地方 把 逻辑学 作为 对 推理 方法 的 明确 分析 ， 并且 有 持续 的 发展 ， 那 就 是 前 6 世纪 的 印度 、 前 5 世纪 的 中国 和 前 4 世
+纪 与 前 1 世纪 间 的 希腊 。
+
+现代 逻辑 的 形式 复杂 处理 明显 源自 希腊 传统 ， 但是 有人 提出 布尔逻辑 的 先驱 可能 知道 印度 逻辑 （ Ganeri
+2001 ） 。 希腊 传统 自身 来 自 亚里士多德逻辑 的 传播 ， 伊斯兰 哲学 家 和 中世纪 逻辑学 家 对 它 的 评论 。 欧洲 以外 的 传统 没有 存活 到 现代 时期 ： 在 中国 ， 对 逻辑 的 学
+术 研究 传统 在 韩非 的 法 家 哲学 之后 就 被 秦朝 压制 ； 在 伊斯兰 世界 ， 艾什尔里派 （ Ash ' ari ） 的 崛起 压制 了 逻辑 的 原始 工作 。
+
+但是 在 印度 ， 经院 学派 正理派 的 创新 持续 到 18 世纪 早期 。 它 没有 存活 到 殖民地 时期 （ 英语 ： Colonial
+India ） 。 在 20 世纪 ， 西方 哲学 家 如 Stanislaw Schayer 和 Klaus Glashoff 探究 了 印度 传统 逻辑学 的 某些 方面 。
+
+中世纪 时期 ， 在 亚里士多德 的 想法 显示 与 信仰 大量 兼容 之后 ， 他 的 逻辑 被 给 予 更 大 强调 。 在 中世纪 的 后期 ， 逻辑 成为 一部分 哲学 家 的 关注 焦点 ， 他们 专注 于 对 哲学
+论证 的 逻辑 分析 。
+
+逻辑学 学科 体系
+
+[ 编辑 ]
+
+* 经典 逻辑
++ 三 段 论 （ 传统 逻辑 ， 词项 逻辑 ）
++ 布尔逻辑
++ 命题 逻辑
++ 一 阶逻辑 （ 谓词 逻辑 ）
+* 非 经典 逻辑
++ 次 协调 逻辑
++ 相 干逻辑
++ 双面 真理 说
++ 可 计算性 逻辑
++ 多 值 逻辑
++ 模糊 逻辑
++ 模态 逻辑
+* 数理 逻辑 （ 符号 逻辑 ）
++ 代数 逻辑
+o 布尔代 数
+o 关系 代数
++ 模型论
++ 证明论
+o 希尔伯特 演绎 系统
+o 自然 演绎
+o 相继式 演算
+o 柯里 - 霍华德 同构
++ 递 归论
+o λ演 算
+o 组合子 逻辑
++ 公理化 集合论
++ 二阶 逻辑
++ 哥德尔 不 完备 定理
+* 直觉 逻辑 （ 构造性 逻辑 ）
++ Heyting 代数
++ 中间 逻辑
++ 直觉 类型论
+* 多 值 逻辑
++ 三 值 逻辑
++ 模糊 逻辑
++ 概率 逻辑
+* 亚 结构 逻辑 （ 子结构 逻辑 ）
++ 线性 逻辑
++ 相 干逻辑
+* 非单调 逻辑
++ 缺 省 逻辑
++ 自动 认识 逻辑
++ 可 废止 逻辑
+* 模态 逻辑
++ 真势 模态 逻辑
++ 认识 逻辑
++ 道义 逻辑
++ 时间 逻辑 （ 时态 逻辑 ）
++ 动态 逻辑
++ 可 证明性 逻辑
++ 可 解释性 逻辑
+* 哲学 逻辑
++ 次 协调 逻辑 （ 弗 协调 逻辑 ）
++ 自由 逻辑
+* 辩证法 （ 辩证 逻辑 ）
+* 非 形式逻辑
+* 逻辑 实现 的 三 种 方式
++ 演绎 推理
++ 归纳 推理
++ 溯 因 推理 （ 设 因 推理 ， 假设 推理 ）
++ 可 废止 推理
+* 逻辑史
++ 工具论 （ 古 希腊 ） 亚里士多德 （ 384 BC – 322 BC ）
++ 思维 规律 研究 （ 英国 ） 乔治 · 布尔 （ 1815 – 1864 ）
++ 概念 文字 （ 德国 ） 弗雷格 （ 1848 – 1925 ）
++ 数学 原理 （ 英国 ） 罗 素 （ 1872 - 1970 ）
+* 逻辑学 应用
++ 数学 基础
++ 量子 逻辑
++ 分析 哲学
++ 计算机 逻辑
++ 人工智能
++ 法律 逻辑学
+
+注释
+
+[ 编辑 ]
+
+1 . ^ 例如 ， 可 追溯 至 1900 年 前 的 正 理论 。
+2 . ^ 2200 年 前 的 墨 家 和 名 家
+
+参考 文献
+
+[ 编辑 ]
+
+引用
+
+[ 编辑 ]
+
+1 . ^ logic , britannic a . com . [ 2021 - 06 - 2 7 ] . （ 原始 内容 存档 于 2022 - 07 - 10 ） .
+2 . ^ Richard Henr y Popkin ; Avrum Stroll . Philosophy Made Simple .
+Random House Digital , Inc . 1 July 1993 : 238 [ 5 March 2012 ] .
+ISBN 978 - 0 - 385 - 42533 - 9 . （ 原始 内容 存档 于 2015 - 0 4 - 08 ） .
+3 . ^ Gensler , Harry J . Chapter 1 : Introduction . Introduction t o logic
+3 r d . New York : Routledge . 2017 : 1 [ 2002 ] . ISBN 9781138910591 .
+OCLC 957680480 . doi : 10 . 43 24 / 978131569336 1 .
+4 . ^ Hurley , Patrick J . A Concise Introduction t o Logic , 10 t h Edition .
+The United States of America : Thomson Wadsworth . 2008 : 1 .
+ISBN 978 - 0 - 495 - 50383 - 5 .
+5 . ^ ^ 5 . 0 ^ 5 . 1 Hofweber , T . Logic and Ontolog y . Zalta , Edward N ( 编 ) .
+Stanford Encyclopedia of Philosoph y . 2004 [ 2006 - 0 1 - 20 ] .
+（ 原始 内容 存档 于 2021 - 0 1 - 13 ） .
+6 . ^ Cox , J . Robert ; Willard , Charles Arthur ( 编 ) . Advances in
+Argument ation Theory and Research . Southern Illinois University
+Pres s . 1983 . ISBN 978 - 0 809310500 .
+7 . ^ Liddell , Henr y George , and Robert Scott . " Com p . Greek - English
+lexicon ( LSJ ) . " ( 1996 ) .
+8 . ^
+" 逻辑 最初 译本 为 固陋 所 及见者 ， 有 明季 之 《 名理探 》 ， 乃 李之藻所 译 ， 今日 税务 司译 有 《 辩学启蒙 》 ， 皆 不 是 本学 之 深 之 相 副 。 必求 甚 近 ， 姑 以 名学 译
+之 "
+9 . ^ " 吾 中国 将 来 之学界 ， 必 与 日本 学界 有 密切 之 关系 。 故今 勿 宁 多 采 之 。 免使 与 方 来 之 译 本生 参差 也 "
+10 . ^ 建国 方略 之一 · 孙文学说 · 第三 章 以 作文 为 证 - 主要 著述 - 孙中山 故居 纪念馆 _ 伟人 孙中山 . sunyat - s e n . or g .
+[ 2022 - 07 - 27 ] . （ 原始 内容 存档 于 2022 - 07 - 26 ） .
+" 然 则 逻辑究 为 何物 ？ 当 译 以 何 名而后 妥 ？ 作者 于 此 ， 盖 欲 有所 商榷 也 。 凡 稍 涉 猎乎 逻辑者 ， 莫 不 知 此 为 诸学 诸事 之 规 则 ， 为 思想 行为 之 门径 也 。 人类 由
+之 而 不 知 其 道者 众 矣 ， 而 中国 则 至今 尚未 有 其 名 。 吾 以为 当 译 之 为 “ 理 则 ” 者 也 。 夫斯学 至今 尚未 大为 发明 ， 故 专 治 此 学者 ， 所 持 之 说 ， 亦 莫衷一是 。 而
+此外 学者 之 对于 理 则 之 学 ， 则 大都 如 陶渊明 之 读书 ， 不求甚解 而已 。 惟 人类 之 禀赋 ， 其 方寸 自具 有理 则 之 感觉 ， 故 能文之士 ， 研精 构思 ， 而 作成 不 朽 之 文
+章 ， 则 无 不 暗 合 于 理 则 者 ； 而 叩 其 造诣 之 道 ， 则 彼 亦 不 自知 其 何 由 也 。 "
+11 . ^ 中国 社会科学 报 ： “ logic ” 之中 译名考 ： 意译 到 音译 的 回归 - 媒体 南开 - 南开 大学 . new s . nanka i . edu . cn . [ 27
+July 2022 ] .
+12 . ^ J . Bruno Leclercq et Laurence Bouquiaux , Logique formelle et
+argument ation , Édition 3 , De Boeck Université , 2017 ISBN
+978 - 2 - 8073 - 1446 - 7 , ISBN 978 - 2807314467
+13 . ^ J . Robert Cox and Charles Arthur Willard , ed s . Advances in
+Argument ation Theory and Research , Southern Illinois University
+Press , 1983 ISBN 978 - 0 - 8093 - 1050 - 0 , ISBN 978 - 0 809310500
+14 . ^ ^ 14 . 0 ^ 14 . 1 Smith , Robin . Aristotle ’ s Logic . 2000 - 03 - 18
+[ 2021 - 0 5 - 0 9 ] . （ 原始 内容 存档 于 2021 - 0 5 - 09 ） .
+15 . ^ 亚里士多德 著 ; 余纪元 等 翻译 . 工具论 （ 上下 ） , 中国 人民 大学 出版社 ， ISBN ： 9787300051185 , 出版 时间 ：
+2003 .
+16 . ^ ^ 16 . 0 ^ 16 . 1 Alfred North Whitehead and Bertrand Russell ,
+Principia Mathematical t o * 56 , Cambridge University Press , 1967 ,
+ISBN 978 - 0 - 521 - 62606 - 4
+17 . ^ J . Dirk W . Hoff mann , Grenz en der Mathematik : Eine Reise durch die
+Kerngebiete der mathematischen Logik , Auflage : 3 , Springer
+Spektrum , 2018 ISBN 978 - 3 - 6625 - 6616 - 9 , ISBN 978 - 3662566169
+18 . ^ J . Martin Davis , The Universal Computer . The Road from Leibniz t o
+Turing , A K Peters and CRC Press , 2011 ISBN 978 - 1 - 4665 - 0 520 - 9 , ISBN
+978 - 1466505209
+19 . ^ Shapiro , Stewart ; Kouri Kissel , Teres a . Classical Logic .
+2000 - 09 - 16 [ 2021 - 0 5 - 0 9 ] . （ 原始 内容 存档 于 2021 - 0 5 - 10 ） .
+20 . ^ Priest , Graham ; Tanaka , Koji ; Weber , Zac h . Paracons istent Logic .
+Zalta , Edward N . ( 编 ) . The Stanford Encyclopedia of Philosophy
+Summer 2018 . Metaphysics Research Lab , Stanford Universit y . 2018
+[ 2021 - 0 5 - 0 9 ] . （ 原始 内容 存档 于 2021 - 0 5 - 06 ） .
+21 . ^ 桂 起权 ， 陈立直 ， 朱福喜 ， 《 次 协调 逻辑 与 人工智能 作 》 ， 武汉 大学 出版社 ， ISBN9787307031685 ， 2002 .
+缺少 或 | url = 为 空 ( 帮助 )
+22 . ^ Mares , Edwin , " Relevance Logic " , The Stanford Encyclopedia of
+Philosophy ( Winter 2020 Edition ) , Edward N . Zalta ( e d . ) .
+[ 2021 - 06 - 2 7 ] . （ 原始 内容 存档 于 2021 - 08 - 15 ） .
+23 . ^ Priest , Graham , Francesco Berto , and Zach Weber , " Dialetheism " ,
+The Stanford Encyclopedia of Philosophy ( Fall 2018 Edition ) , Edward
+N . Zalta ( e d . ) . [ 2021 - 06 - 2 7 ] . （ 原始 内容 存档 于 2020 - 07 - 25 ） .
+24 . ^ Formal logic , Encyclopædia Britannic a . [ 2021 - 06 - 2 7 ] .
+（ 原始 内容 存档 于 2021 - 0 4 - 2 2 ） .
+25 . ^ Aristotle , The Basic Works , Richard Mckeon , editor , Modern
+Library , 2001 , ISBN 978 - 0 - 375 - 75799 - 0 , see especially , Posterior
+Analytic s .
+26 . ^ J . Antonio Joaqu ín Roldán Marco , Lógica : 1 º Bachillerato ,
+publicado de forma independiente , 2018 ISBN 978 - 1 - 9806 - 4558 - 0 , ISBN
+978 - 1980645580
+27 . ^ ^ 27 . 0 ^ 27 . 1 For a more modern treatment , see A . G . Hamilton ,
+Logic for Mathematicians , Cambridge , 1980 , ISBN 978 - 0 - 521 - 29291 - 7
+28 . ^ Informal Logic . informallogic . c a . [ 2021 - 0 5 - 0 9 ] .
+（ 原始 内容 存档 于 2021 - 0 5 - 11 ） .
+29 . ^ Plato , The Portable Plato , edited by Scott Buchanan , Penguin ,
+1976 , ISBN 978 - 0 - 14 - 0 15040 - 7
+30 . ^ John P . Burges s . Philosophical logic . Princeton University Pres s .
+2009 : vii–viii [ 2021 - 07 - 0 1 ] . ISBN 978 - 0 - 691 - 13789 - 6 .
+（ 原始 内容 存档 于 2020 - 08 - 06 ） .
+31 . ^ John P . Burgess , Philosophical Logic , Princeton University Press :
+2009 .
+32 . ^ Lou Goble ( e d . ) , The Blackwell Guide t o Philosophical Logic
+（ 页面 存档 备份 ， 存 于 互联网 档案馆 ） , Oxford : Blackwell : 2009 ( ISBN 0 - 631 - 20693 - 0 ) .
+33 . ^ Gabbay , Dov M . ; Guent hner , Franz ( 编 ) , Handbook of Philosophical
+Logic , [ 2021 - 07 - 0 1 ] , （ 原始 内容 存档 于 2016 - 0 9 - 03 ）
+34 . ^ Mendelson , Elliot t . Quantification Theory : Completeness Theorem s .
+Introduction t o Mathematical Logic . Van Nostrand . 1964 .
+ISBN 0412808307 .
+35 . ^ J . Jörg Hardy und Christoph Schamberger , Logik der Philosophie :
+Einf ührung in die Logik und Argument ations theorie , UTB GmbH , 2017
+ISBN 978 - 3 - 8252 - 4897 - 0 , ISBN 978 - 3825248970
+
+来 源
+
+[ 编辑 ]
+
+* G . Birkh off and J . von Neumann , 1936 . ' The Logic of Quantum
+Mechanics ' . Annals of Mathematics , 37 : 823 - 8 43 .
+* D . Finkelstein , 1969 . ' Matter , Space and Logic ' . In R . S . Cohen and
+M . W . Wartofs ky , ( ed s . ) , Proceedings of the Boston Colloquium for
+the Philosophy of Science , Boston Studies in the Philosophy of
+Science , vol 13 . ISBN 978 - 90 - 277 - 0377 - 4 .
+* D . M . Gabbay and F . Guent hner ( ed s . ) 2001 - 2005 . Handbook of
+philosophical logic ( 2nd e d . ) . 13 volumes . Dordrecht , Kluwer .
+* D . Hilbert and W . Ackermann , 1928 . Grund züge der theoretischen
+Logik ( Principles of Theoretical Logic ) . Springer - Verlag , ISBN
+978 - 0 - 8218 - 2024 - 7 .
+* W . Hodges , 2001 . Logic . A n introduction t o element ary logic .
+Penguin Books .
+* T . Hofweber , 2004 . Logic and Ontology （ 页面 存档 备份 ， 存 于 互联网 档案馆 ） . In the
+Stanford Encyclopedia of Philosoph y .
+* R . I . G . Hughes ( editor ) , 1993 . A Philosophical Companion t o
+First - Order Logic . Hacket t .
+* W . Kneale and M . Kneale , 1962 / 1988 . The Development of Logic .
+Oxford University Press , ISBN 978 - 0 - 19 - 824773 - 9 .
+* G . Priest , 2004 . Dialetheism （ 页面 存档 备份 ， 存 于 互联网 档案馆 ） . In the Stanford
+Encyclopedia of Philosoph y .
+* H . Putnam , 1969 . Is Logic Empirical ? . Boston Studies in the
+Philosophy of Science , vol V .
+* B . Smith , 1989 . ' Logic and the Sachverhalt ' , The Monist ,
+72 ( 1 ) : 52 - 6 9 .
+* D . Vernant , 2018 . ' Questions de Logique et de Philosophie ' .
+Mimesis , ISBN 978 - 8 - 8697 - 6102 - 7
+
+外部 链接
+
+[ 编辑 ]
+
+维基 教科书 中 的 相关 电子 教程 ： 逻辑学 导论
+
+* 倪梁康 ： 〈 现象学 与 逻辑学 〉 （ 页面 存档 备份 ， 存 于 互联网 档案馆 ） （ 2004年 ）
+* 倪梁康 ： 〈 《 逻辑研究 》 中 的 观念 对象 和 观念 直观 〉 （ 页面 存档 备份 ， 存 于 互联网 档案馆 ） （ 2009年 ）
+* History of Logic in Relations hip t o Ontology （ 页面 存档 备份 ， 存 于 互联网 档案馆 ）
+Annotated bibliography on the history of logic
+
+* 查
+* 论
+* 编
+
+逻辑
+
+概要
+学术 领域
+* 辩论法 （ 英语 ： Argument ation scheme ）
+* 价 值论
+* 审辩式 思维
+* 可 计算性 理论
+* 形式 语义学
+* 逻辑史
+* 非 形式逻辑
+* 计算机 逻辑
+* 数理 逻辑
+* 数学
+* 元 逻辑 （ 英语 ： Metalogic ）
+* 元 数学
+* 模型论
+* 哲学 逻辑
+* 哲学
+* 逻辑 哲学 （ 英语 ： Philosophy of logic ）
+* 数学 哲学
+* 证明论
+* 集合论
+
+基础 概念
+* 溯 因 推理
+* 分析 真理
+* 二律 背 反
+* 先验
+* 演绎 推理
+* 定义
+* 描述 逻辑
+* 归纳 推理
+* 推论
++ 推理 方式 （ 维基 数据 所 列 ： Q 126723190 ）
+* 蕴涵
+* 逻辑 形式 （ 英语 ： Logical form ）
+* 逻辑 真理
+* 名称
+* 充分 必要条件
+* 悖论
+* 可能 世界
+* 前 设
++ 假说
+* 机率
+* 理智
+* 推理
+* 指涉
+* 语义学
+* 命题
+* 严格 条件
+* 代换 （ 英语 ： Substitution ( logic ) ）
+* 语法
+* 真理
+* 真值
+* 有效性
+
+哲学 逻辑
+审辩式 思维
+和 非形式逻辑
+* 分析
+* 歧义性
+* 论证
+* 信仰
+* 偏见
+* 公信力
+* 证据
+* 解释
+* 解释力
+* 事实
+* 谬论
+* 探究 （ 英语 ： Inquiry ）
+* 意见
+* 奥卡姆剃刀
+* 前提
+* 政治 宣传
+* 审慎
+* 推理
+* 关联
+* 修辞学
+* 严谨
+* 含糊
+
+演绎 推理
+* 结构 主义
+* 双面 真理 说
+* 虚构主义 （ 英语 ： Fictionalism ）
+* 有限主义
+* 形式主义
+* 直觉主义
+* 逻辑 原子论
+* 逻辑主义
+* 唯名论
+* 实用主义
+* 唯 实 论
++ 柏拉图 实在论
+
+元 逻辑 （ 英语 ： metalogic ） 和 元数 学
+* 康托尔 定理
+* 可 判 定性
+* 邱奇 - 图 灵论 题
+* 一致性
+* 有效 方法 （ 英语 ： Effective method ）
+* 数学 基础
+* 哥德尔 完备性 定理
+* 哥德尔 不 完备 定理
+* 可靠性
+* 完备性
+* 可 判 定性
+* 解释
+* 勒 文海姆 –斯科伦 定理
+* 元 定理
+* 可 满足性
+* 独立性
+* 类型 - 记 号 区别
+* 使用 - 提 及 区别
+
+非传统 逻辑
+模态 逻辑
+* 真性 逻辑
+* 价 值 逻辑
+* 道义 逻辑
+* 信念 逻辑 （ 英语 ： Doxastic logic ）
+* 认识 逻辑
+* 时间 逻辑
+
+直觉主义
+* 直觉主义 逻辑
+* 结构 分析
+* Heyting 算术 （ 英语 ： Heyting arithmetic ）
+* 直觉 类型论
+* 建 构式 集合论 （ 英语 ： Constructive set theory ）
+
+模糊 逻辑
+* 真实性 程度 （ 英语 ： Degree of truth ）
+* 模糊规 则
+* 模糊集
+* 模糊 有限 元素
+* 模糊 集合 运算 （ 英语 ： Fuzzy set operations ）
+
+亚 结构 逻辑
+* 结构 规 则
+* 相 干逻辑
+* 线性 逻辑
+
+次 协调 逻辑
+* 双面 真理 说
+
+描述 逻辑
+* 本体论
+* 本体 语言
+
+逻辑学 家
+* 安德逊
+* 亚里斯多德
+* 鲁世德
+* 西 那
+* 贝恩
+* 巴威斯
+* 博内斯
+* 布尔
+* 布勒斯
+* 康托尔
+* 卡尔纳普
+* 邱奇
+* 克吕西波
+* 加里
+* 德摩 根
+* 弗雷格
+* 吉奇
+* 根岑
+* 哥德尔
+* 希尔伯特
+* 克莱尼
+* 克里普克
+* 莱布尼兹
+* 勒 文海姆
+* 皮亚诺
+* 皮尔士
+* 普特南
+* 奎 因
+* 罗 素
+* 施 罗 德
+* 司 各 脱
+* 斯科伦
+* 史慕扬
+* 塔斯基
+* 图灵
+* 怀特黑德
+* 奥卡姆 的 威廉
+* 维根斯坦
+* 策 梅洛
+
+列表
+主题
+* 逻辑 概要 （ 英语 ： Outline of logic ）
+* 数理 逻辑 （ 英语 ： List of mathematical logic topics ）
+* 布尔代 数
+* 集合论 （ 英语 ： List of set theory topics ）
+
+其它
+* 逻辑学 家
+* 推理 规 则 （ 英语 ： List of rules of inference ）
+* 悖论
+* 谬论
+* 逻辑 符号
+
+常见 逻辑 符号
+
+& ∨ ¬ ~ → ⊃ ≡ | ∀ ∃ ⊤ ⊥ ⊢ ⊨
+∴ ∵
+
+* 参见 ： [ 18 p x - Socrates . png ] 哲学 主题
+* 分类 分类
+
+* 查
+* 论
+* 编
+
+数理 逻辑
+
+基本 概念
+
+* 公理
++ 列表
+* 势
+* 一 阶逻辑
+* 形式 证法 （ 英语 ： Formal proof ）
+* 逻辑 语义学
+* 数学 基础
+* 信息论
+* 蕴涵
+* 结构
+* 集合
+* 定理
+* 形式 理论
+* 类型论
+
+定理
+（ 列表 （ 英语 ： Category : Theorems in the foundations of
+mathematics ） 及 悖论 （ 英语 ： Paradoxes of set theory ） ）
+
+* 哥德尔 完备性 定理 及 哥德尔 不 完备 定理
+* 塔斯基 不 可 定义 定理
+* 巴拿赫 - 塔斯基 定理
+* 康托尔 定理 、 悖论 和 对 角 论证法
+* 紧致性 定理
+* 停机 问题
+* 林德斯特伦 定理 （ 英语 ： Lindström ' s theorem ）
+* 勒 文海姆 –斯科伦 定理
+* 罗 素悖论
+
+逻辑
+
+传统 逻辑
+* 逻辑 真理
+* 恒真式
+* 命题
+* 推理
+* 逻辑 等 价
+* 一致性
++ 相同 一致性 （ 英语 ： Equicons istency ）
+* 逻辑 论证
+* 可靠性 定理
+* 有效性
+* 直言 三 段 论
+* 对立 四边形
+* 文氏 图
+
+命题 逻辑
+* 逻辑 代数
+* 布尔函数
+* 逻辑 运算 符
+* 命题 逻辑
+* 命题 公式
+* 真 值表
+* 多 值 逻辑
++ 三 值
++ 有限值 （ 英语 ： Finite - v alued logic ）
++ 无限值
+
+经典 逻辑
+* 经典 逻辑
+* 一 阶逻辑
+* 二阶 逻辑
++ 一 元 （ 英语 ： Monadic second - order logic ）
+* 高阶 逻辑
+* 自由 逻辑
+* 量化
+* 谓词 （ 英语 ： Predicate ( mathematical logic ) ）
+* 一 元谓 词演 算
+
+集合论
+
+* 集合
++ 遗传集 （ 英语 ： Hereditary set ）
+* 类
+* （ 基本 ） 元素
+* 有序 对
+* 序数
+* 子集
+* 相等
+* 外延性
+* 力迫
+* 关系
++ 等 价 关系
++ 集合 划分
+* 集合 运算
++ 交集
++ 并 集
++ 补集
++ 笛 卡儿 积
++ 幂集
++ 同一性 （ 英语 ： List of set identities and relations ）
+
+集合 种类
+* 可 数 集
+* 不 可数 集
+* 空集
+* 居集 （ 英语 ： Inhabited set ）
+* 单 元素 集合
+* 有限 集合
+* 无限 集合
+* 传递 集合
+* 超滤子 （ 英语 ： Ultrafilter ( set theory ) ）
+* 递 归 集合
+* 模糊集
+* 全集
++ 可 构造 全集 （ 英语 ： Constructible universe ）
++ 格伦迪克 全集 （ 英语 ： Grothendieck universe ）
++ 冯 · 诺伊曼 全集
+
+映射 与 势
+* 函数 、 映射
++ 定 义域
++ 到 达域
++ 像
+* 单射 、 满射 、 双射
+* 康托尔 - 伯恩斯坦 - 施 罗 德 定理
+* 同构
+* 哥德尔数
+* 列举法
+* 大 基数
++ 不 可 达 基数
+* 阿 列夫 数
+* 运算
++ 二 元 运算
+
+集合 理论
+* 策 梅洛 - 弗兰克尔 ( ZFC )
++ 选择 公理
++ 连 续统 假设
+* 广义 集合论 ( GST ) （ 英语 ： General set theory ）
+* 克里普克 - 普拉克 ( KP ) （ 英语 ： Kripke –Platek set theory ）
+* 莫尔斯 - 凯利 集合论 ( MK ) （ 英语 ： Morse–Kelley set theory ）
+* 朴素 集合论
+* 新 基础 集合论
+* 塔斯基 - 格 罗 滕迪克 ( TG ) （ 英语 ： Tarski–Grothendieck set theory ）
+* 冯 · 诺伊曼 - 博内斯 - 哥 德尔 ( NBG )
+* 建 构式 集合论 （ 英语 ： Constructive set theory ）
+
+句法 （ 英语 ： Synt ax ( logic ) ） 及 语言
+
+* 字 母表
+* 元数
+* 自动机 理论
+* 公理 模式
+* 表达式
++ 基础 表达式 （ 英语 ： Ground expression ）
+* 扩展 （ 英语 ： Extension by new cons tant and function names ）
+* 关系
+* 形式
++ 文法
++ 语言
++ 证明
++ 系统
++ 理论
+* 形成 规 则 （ 英语 ： Formation rule ）
+* 合式 公式
++ 原 子公式
++ 封闭式
++ 基本式 （ 英语 ： Ground formula ）
++ 开放式
+* 自由 变量 和 约束 变量
+* 元 语言
+* 逻辑 运算 符
++ ¬
++ ∨
++ ∧
++ →
++ ↔
++ 逻辑 相等 （ 英语 ： Logical equality ）
+* 谓词 （ 英语 ： Predicate ( mathematical logic ) ）
++ 泛 函谓 词
++ 谓 词变量
++ 命题 变量
+* 量化
++ ∃
++ !
++ ∀
++ 级别 （ 英语 ： Quantifier rank ）
+* 句子
++ 原子 句子
+* 逻辑 签名 （ 英语 ： Signature ( logic ) ）
+* 字符串
+* 替换法 （ 英语 ： Substitution ( logic ) ）
+* 逻辑 符号
++ 函数 符号
++ 逻辑 常量 （ 英语 ： Logical cons tant ）
++ 非逻辑 符号 （ 英语 ： Non - l ogical symbol ）
++ 变数
+* 逻辑 术语 （ 英语 ： Term ( logic ) ）
+
+公理 系统 示例
+（ 列表 （ 英语 ： List of first - order theories ） ）
+* 实 算术 （ 英语 ： True arithmetic ）
++ 皮亚诺 公理
++ 二阶 （ 英语 ： Second - order arithmetic ）
++ 初 等 函数 （ 英语 ： Element ary function arithmetic ）
++ 原始 递 归 （ 英语 ： Primitive recursive arithmetic ）
++ 罗 宾逊 算术 （ 英语 ： Robinson arithmetic ）
++ 斯科勒姆 算术 （ 英语 ： Skolem arithmetic ）
+* 实数 的 构造
++ 塔尔斯基 公理化 （ 英语 ： Tarski ' s axiomatization of the reals ）
+* 布尔代 数
++ 正 则 定义 （ 英语 ： Boolean algebras canonically defined ）
++ 最 小 公理 （ 英语 ： Minimal axioms for Boolean algebra ）
+* 几何 （ 英语 ： Foundations of geometry ）
++ 欧 几 里 得 几何
++ 《 原本 》
++ 希尔伯特 公理
++ 非 欧 几 里 得 几何
++ 塔尔斯基 公理 （ 英语 ： Tarski ' s axioms ）
+* 《 数学原理 》
+
+证明论
+
+* 形式 证明
+* 自然 演绎
+* 蕴涵
+* 推理 规 则
+* 相继式 演算
+* 定理
+* 系统
++ 形式
++ 公理
++ 演绎
++ 希尔伯特 演绎 系统
+o 列表 （ 英语 ： List of Hilbert systems ）
+* 完备 理论 （ 英语 ： Complete theory ）
+* ZFC 系统 的 独立性 （ 英语 ： Independence ( mathematical logic ) ）
++ 列表
+* 不 可能 证明 （ 英语 ： Proof of impossibility ）
+* 序数 分析 （ 英语 ： Ordinal analysis ）
+* 逆 数学
+* 自恰 理论 （ 英语 ： Self - verifying theories ）
+
+模型论
+
+* 解释
+* 结构
++ 初 等等 价
++ 有限 模型 （ 英语 ： Finite model theory ）
++ 饱和 模型
++ 子结构
+* 非 标准 模型
++ 算术 （ 英语 ： Non - s tandard model of arithmetic ）
+* 结构图 （ 英语 ： Diagram ( mathematical logic ) ）
++ 基本图 （ 英语 ： Element ary diagram ）
+* 分类 理论 （ 英语 ： Categorical theory ）
+* 完备 模型论 （ 英语 ： Model complete theory ）
+* 可 满足性 （ 英语 ： Satisfiability ）
+* 逻辑 语义学
+* 强度 （ 英语 ： Streng th ( mathematical logic ) ）
+* 真理
++ 语义 理论
++ 塔尔斯基
++ 克里普克
+* T - 模式
+* 转移 原 则 （ 英语 ： Transfer principle ）
+* 真理 谓词 （ 英语 ： Truth predicate ）
+* 真值
+* 型
+* 超积
+* 有效性
+
+可 计算性 理论
+
+* 邱奇数
+* 邱奇 - 图 灵论 题
+* 递 归可枚举 集合
+* 可 计算 函数
+* 递 归 集合
+* 决定性 问题
++ 可 决定性 （ 英语 ： Decidability ( logic ) ）
++ 不 可 决定性
++ P
++ NP
++ P / NP 问题
+* 柯氏 复杂性
+* Λ演 算
+* 原始 递归 函数
+* 递 归
+* 递 归 集合
+* 图灵机
+* 类型论
+
+其他 相关
+
+* 抽象 逻辑 （ 英语 ： Abstract logic ）
+* 范畴论
+* 具象 范畴 、 抽象 范畴
+* 集合 范畴
+* 逻辑史
+* 数理 逻辑
++ 历史 年表 （ 英语 ： Timeline of mathematical logic ）
+* 逻辑主义
+* 数学 对象
+* 数学 哲学
+* 超 任务 （ 英语 ： Supertask ）
+
+[ 16 p x - Nuvola _ apps _ edu _ mathematics _ blue - p . sv g . png ] 数学 主题
+
+* 查
+* 论
+* 编
+
+哲学
+
+分支 （ 形而上学 · 认识论 · 逻辑学 · 伦理学 · 美学 · 价 值论 ）
+哲学 与 … …
+* 艺术
++ 设计
++ 音乐
++ 电影
+* 历史
+* 人性
+* 语言
+* 文学
+* 文化
+* 教育
+* 人生
+* 宗教
+* 宇宙 学
+* 存在
+* 哲学
+* 精神
++ 痛苦 （ 英语 ： Pain ( philosophy ) ）
++ 幽默
++ 心理学 （ 英语 ： Philosophy of psychology ）
++ 神经 哲学 （ 英语 ： Neurophilosophy ）
++ 行动
+* 数学
++ 人工智能
++ 信息
+* 时空
+* 科学
++ 物理
++ 化学
++ 生物
++ 地理
+* 环境
+* 技术
++ 工程 （ 英语 ： Philosophy of engineering ）
+* 医学 哲学
++ 医疗 卫生 哲学
+* 性 （ 英语 ： Philosophy of sex ）
+* 社会科学 （ 英语 ： Philosophy of social science ）
++ 经济
++ 公正
++ 法律
++ 政治
++ 社会
+* 战争
+
+哲学 学派
+哲学史
+* 西方
+* 古典
+* 中 世纪
+* 文艺复兴
+* 近代 （ 巴洛克 时期 · 启蒙 时代 · 19 世纪 ）
+* 当代
+* 东方
+
+古典
+中国
+* 儒 家
+* 法 家
+* 名 家
+* 墨 家
+* 魏晋 玄学
+* 道 家
+* 杨朱
+* 禅宗
+
+希腊 - 希腊化 哲学
+* 前 苏格拉底
+* 毕达哥拉斯主义
+* 诡辩 学派
+* 柏拉图主义
+* 亚里斯多德主义 （ 逍遥 学派 ）
+* 犬儒 学派
+* 伊 比 鸠鲁 学派
+* 斯多亚 学派
+* 新 柏拉图主义
+* 解释 学
+
+印度
+* 佛教
+* 顺世论
+* 印度教 （ 英语 ： Hindu philosophy ）
+* 耆 那 教 （ 英语 ： Jain philosophy ）
+
+波斯 （ 英语 ： Iranian philosophy ）
+* 玛兹达克
+* 祆教
+* 楚尔凡 教义
+
+中 世纪
+9 – 16
+世纪
+基督 欧洲
+* 经 院 哲学
+* 人文主义
+* 托马斯主义 （ 阿 奎那 ）
+
+东亚
+* 宋明理学 （ 程朱理学 · 陆 王心学 · 永嘉 学派 ）
+* 韩国 儒学
+* 日本 朱子学
+
+印度
+* 新 逻辑 学派 ( 印度 哲学 ) （ 英语 ： Navya - Nyāya ）
+* 有 保留 的 非二元论 （ 英语 ： Vishishtadvaita ）
+* 二元论 （ 英语 ： Dvaita ）
+
+伊斯兰
+* 阿威罗 伊主义 （ 英语 ： Averroism ）
+* 阿 维森纳
+* 照明主义 （ 英语 ： Illuminationism ）
+* 伊斯兰教 义学
+* 苏菲主义 （ 英语 ： Sufi philosophy ）
+
+犹太教
+* 犹太 - 伊斯兰 （ 英语 ： Judeo - Islamic philosophies ( 800 – 1400 ) ）
+
+近代
+17 – 19
+世纪
+人物
+* 新 托马斯主义
+* 笛卡尔主义
+* 康德主义
+* 新 康德主义
+* 黑格尔主义
+* 马克思主义 哲学
+
+唯物 - 唯心
+* 辩证唯物主义
+* 唯心主义
+* 绝对 唯心论 （ 英语 ： Absolute idealism ）
+* 理性主义
+* 经验主义
+* 效益主义
+* 实用主义
+
+其他
+* 自由主义
+* 无 政府主义
+* 现代主义
+* 现象 学
+* 超验主义
+* 存在主义
+* 日本 国学
+* 新 儒 家
+* 寂静主义
+* 改革 宗 知识论 （ 英语 ： Reformed epistemology ）
+
+当代
+20 – 21
+世纪
+分析
+* 分析 女性主义 （ 英语 ： Analytical feminism ）
+* 分析 马克思主义
+* 后 分析 哲学 （ 英语 ： Postanalytic philosophy ）
+* 结果 论 - 功利主义
+* 道义论 -罗尔斯主义
+* 德性 伦理学
+* 实验 哲学
+* 内在主义 与 外在主义 （ 英语 ： Internalism and externalism ）
+* 证伪主义
+* 基础主义 - 真理 融 贯论
+* 维特根斯坦 - 逻辑 实证主义 - 维 也 纳学派 - 日常 语言 哲学 - 蒯 因 的 自然主义 （ 英语 ： Naturalized epistemology ）
+* 科学主义
+* 法律 实证主义
+
+欧陆
+* 新 马克思主义 - 西方 马克思主义 - 后 马克思主义
+* 黑格尔主义
+* 批判 理论 - 法兰克福 学派
+* 结构 主义 - 后 结构 主义 - 解构 主义
+* 现象 学 - 存在主义
+* 解释 学
+* 符号 学
+* 女性主义
+* 精神 分析 学 - 拉康主义
+* 后 殖民主义
+* 后 现代主义 （ 英语 ： Postmodern philosophy ）
+* 社会 建构 主义
+
+非西方
+* 京都 学派
+* 俄国 宇宙主义
+* 更 多
+
+领域
+形 上学
+* 原子论
+* 二元论
+* 一元论
+* 自然主义
+
+本体论
+* 行动
+* 事件
+* 过程 哲学 （ 英语 ： Process philosophy ）
+
+现实
+* 反 实在论 （ 英语 ： Anti - realism ）
+* 概念论
+* 唯心主义
+* 唯物主义
+* 自然主义
+* 唯名论
+* 实在论
+* 自然神论
+
+认识论
+* 理性主义
+* 唯心主义 认识论
+* 经验主义
+* 建构 主义 （ 英语 ： Constructivist epistemology ）
+* 特殊主义 （ 英语 ： Epistemological particularism ）
+* 怀疑论 （ 英语 ： Philosophical skepticism # Epistemology and skepticism ）
+* 唯 我 论
+* 信仰主义
+
+精神
+* 行为主义
+* 取消主义
+* 副 现象主义
+* 机能主义 （ 英语 ： Functionalism ( philosophy of mind ) ）
+* 客观主义
+* 主观主义
+
+伦理学
+* 结果 论
+* 义务 伦理学
+* 德性 伦理学
+
+自由 意志
+* 相容论
+* 决定论
+* 自由 意志主义
+
+规范性 （ 英语 ： Norm ( philosophy ) ）
+* 绝对主义
+* 特殊主义 （ 英语 ： Moral particularism ）
+* 相对主义
+* 虚无主义
+* 怀疑主义
+* 普遍主义
+
+美学
+* 形式主义
+* 制度论 （ 英语 ： Institutional theory of art ）
+* 美学 回应 （ 英语 ： Aesthetic emotions ）
+
+逻辑学
+* 经典
+* 非 经典
+* 形式
+* 非 形式
+* 悖论
+* 谬误
+
+* 各 地区 哲学
+* 哲学 相关 列表
+
+各 地区 哲学
+* 非洲 （ 埃塞俄比亚 （ 英语 ： Ethiopian philosophy ） ）
+* 阿 兹特克 （ 英语 ： Aztec philosophy ）
+* 东方 （ 中国 · 日本 · 朝 韩 （ 英语 ： Korean philosophy ） · 香港 · 台湾 · 印度 ·
+伊朗 （ 英语 ： Iranian philosophy ） · 印尼 （ 英语 ： Indonesian philosophy ） ·
+巴基斯坦 （ 英语 ： Pakistani philosophy ） ）
+* 西方 （ 美国 （ 英语 ： American philosophy ） · 英国 · 丹麦 （ 英语 ： Danish philosophy ） ·
+法国 （ 英语 ： French philosophy ） · 德国 · 希腊 · 意大利 · 波兰 （ 英语 ： Polish
+philosophy ） · 罗马尼亚 （ 英语 ： Romanian philosophy ） · 俄国 （ 英语 ： Russian
+philosophy ） · 斯洛文尼亚 （ 英语 ： Slovene philosophy ） ）
+
+列表
+* 概要
+* 索引
+* 问题
+* 学派
+* 词 汇表
+* 概念
+* 哲学 家
+* 运动
+* 出版物
+
+* 主题 主题
+* [ 16 p x - Symbol _ question . sv g . png ] 分类
+* 专题 专题
+* 历史 上 的 今天 最近 更改
+
+* 查
+* 论
+* 编
+
+认知 心理学
+
+概念
+
+认知
+* 感知
+* 注意
+* 形态 辨识
+* 输入
+* 登录
+* 输出
+* 前 注意 处理 （ 英语 ： Pre - attentive processing ）
+
+逻辑
+* 推理
+* 概念 形成
+* 解决 问题
+* 智慧
+
+心 智
+* 命题 表征 （ 英语 ： Propositional _ formula # Propositions ）
+* 心 像
+* 命题 登录
+* 双码 理论
+* 心智 模型
+* 数值 认知 （ 英语 ： Numerical _ cognition ）
+
+记忆
+* 短期 记忆
+* 中期 记忆
+* 长期 记忆
+* 情节 记忆
+* 自传体 记忆
+* 闪光灯 记忆
+* 语义 记忆
+* 感觉 记忆
+
+语言学
+
+* 语音 及 语音学
+* 语法 及 语言学
+* 语言 习得 及 语言 教育
+
+参见 ： 心理学
+
+检索 自 “ https : // z h . wikipedia . org / w / inde x . php ? title = 逻辑 & oldid = 83714044 ”
+
+分类 ： ​
+* 逻辑
+* 哲学
+
+隐藏 分类 ： ​
+* 含有 缺少 网址 的 网站 引用 的 页面
+* 使用 ISBN 魔术链 接 的 页面
+* 含有 英语 的 条目
+* 含有 古 希腊语 的 条目
+* 含有 法语 的 条目
+* 含有 德语 的 条目
+
+* 本页面 最后 修订 于 2024年 8月 7日 ( 星期三 ) 09 : 15 。
+* 本站 的 全部 文字 在 知识 共享 署名 - 相同 方式 共享 4 . 0 协议 之 条款 下 提供 ， 附加 条款 亦 可能 应用 。 （ 请 参阅 使用 条款 ）
+Wikipedia® 和 维基 百科 标志 是 维基 媒体 基金会 的 注册 商标 ； 维基™ 是 维基 媒体 基金会 的 商标 。
+维基 媒体 基金会 是 按 美国 国内 税收法 501 ( c ) ( 3 ) 登记 的 非营利 慈善 机构 。
+
+* 隐私 政策
+* 关于 维基 百科
+* 免责 声明
+* 行为 准 则
+* 开发者
+* 统计
+* Cookie 声明
+* 手机 版视 图
+
+* Wikimedia Foundation
+* Powered by MediaWiki

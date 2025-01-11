@@ -1,0 +1,6 @@
+Définir la logique
+Denis Bonnay (1)
+
+Institut d'Histoire et de Philosophie des Sciences et des Techniques
+Résumé
+Qu'est-ce que la logique, et quels problèmes spécifiques rencontre-t-on lorsqu'on esssaie de la définir ? Cet article en français 'destiné à un large public' présente les définitions en termes de preuves et en termes sémantiques des opérations logiques. Mais comment de telles définitions sont-elles possibles si d'une part, on doit définir le plus compliqué à l'aide du plus simple, et si d'autre part la logique est ce qu'il y a de plus simple ? J'examine à la lumière de ce problème les concessions faites dans chacune des deux traditions, preuve-théorique et sémantique.

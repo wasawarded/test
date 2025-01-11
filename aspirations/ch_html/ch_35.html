@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+    <title>【学术圆桌】我所理解的中国逻辑-中国社会科学网</title>
+    <meta name="renderer" content="webkit"/>
+<meta name="force-rendering" content="webkit"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+<meta name="Keywords" content="" />
+<meta name="description" content="【学术圆桌】我所理解的中国逻辑" />
+<meta name="baidu-site-verification" content="d2eTvy3SqO" />
+<meta name="filetype" content="0">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="1">
+<meta name="catalogs" content="131709">
+<meta name="contentid" content="5687663">
+<meta name="publishdate" content="2023-09-25">
+<meta name="author" content="李秀伟">
+<meta name="source" content="中国社会科学网">
+    <script type="text/javascript" src="../../../images/jquery-3.6.0.js"></script>
+    <script type="text/javascript" src="../../../images/sk_pc_mobile_v2022.js"></script>
+
+    <link class="stylefile" rel="stylesheet" href="../../../images/sk_nav0_base_pc.css">
+    <link class="stylefile" rel="stylesheet" href="../../../images/sk_all_v2_pc.css">
+
+    <link class="mobileStyle" rel="stylesheet" type="text/css" href="../../../images/sk_base_mobile.css" />
+    <link class="mobileStyle" rel="stylesheet" type="text/css" href="../../../images/sk_all_v2_mobile.css" />
+
+    <link rel="stylesheet" type="text/css" href="../../../images/idangerous.swiper2.7.6.css">
+    <script type="text/javascript" src="../../../images/jquery.SuperSlide.2.1.1.js"></script>
+    <script type="text/javascript" src="../../../images/idangerous.swiper2.7.6.min.js"></script>
+    <script type="text/javascript" src="../../../images/jquery.qrcode.min.js"></script>
+    <!--[if IE 9]>
+    <script type="text/javascript" src="../../../images/placeholder.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="../../../images/jweixin-1.6.0.js"></script>
+    <script>
+
+        $(function () {
+ //请求后台获取微信分享配置及验证签名
+    $.ajax({
+ url: 'https://cssn.cn/wx-api/config/h5/share-init',
+ type: 'GET',  //方法
+ data: {
+  url: location.href,  //参数
+ },
+ headers: {},
+ contentType: "application/x-www-form-urlencoded",  //请求格式
+ dataType: 'json',
+ success: function(res) {
+  
+  //判断无附件图使用logo
+  var imgUrl = '';
+console.log(imgUrl);
+  if(imgUrl == undefined || imgUrl == null || imgUrl == '') {
+   //没有附件默认logo
+   imgUrl = 'https://www.cssn.cn/images/skweixinlog.jpg';
+  }
+ console.log(imgUrl);
+//加载微信分享配置
+  wx.config({
+   debug: false,
+   appId: res.data.appId,
+   timestamp: res.data.timestamp,
+   nonceStr: res.data.nonceStr,
+   signature: res.data.signature,
+   jsApiList: ["updateAppMessageShareData", "updateTimelineShareData"]
+  });
+ //微信分享加载
+  wx.ready(function () {
+//微信分享到朋友
+   wx.updateAppMessageShareData({ 
+    title: '【学术圆桌】我所理解的中国逻辑',//标题
+    desc: '中国社会科学网',//描述
+    link: location.href,//链接
+    imgUrl: imgUrl,//图片
+    success: function () {
+     console.log("微信分享成功");
+    }
+   });
+//微信分享到朋友圈
+   wx.updateTimelineShareData({ 
+    title: '【学术圆桌】我所理解的中国逻辑',//标题
+    link: location.href,//链接
+    imgUrl: imgUrl,//图片
+    success: function () {
+     console.log("微信分享成功");
+    }
+   })
+  });
+  wx.error(function(res3) {
+   console.log(res3.errMsg);
+  });
+ },
+});
+});
+
+        var isPC = IsPC();//获取是否为PC端
+        if (isPC) {//如果是PC端加载PC的js和css
+            $(".mobileStyle").remove();
+            dynamicLoadJs('../../../images/sk_nav0_base_pc.js')
+        } else {//如果是移动端加载移动端的js和css
+            if (window.sessionStorage.getItem("isPc") == "true") {
+                var oMeta = document.createElement('meta');
+                oMeta.content = '';
+                oMeta.name = 'viewport';
+                document.getElementsByTagName('head')[0].appendChild(oMeta);
+                $(".mobileStyle").remove();
+                dynamicLoadJs('../../../images/sk_nav0_base_pc.js')
+                $(function () {
+                    $(".AppBtn").css('display', 'block');
+                    $(".qrcodeCanvas_wrap").css('display', 'none');
+                    $(".nav_wrap").addClass("AppBtnBox");
+                })
+            } else {
+                $(".stylefile").remove();
+                dynamicLoadJs('../../../images/sk_base_mobile.js')
+                $(function () {
+                    $("html,body").animate({scrollTop: 0}, 100);
+                })
+            }
+            $(function () {
+                //切换pc移动
+                $(".PcBtn").click(function () {
+                    window.sessionStorage.setItem("isPc", "true")
+                    window.location.reload()
+                })
+                $(".AppBtn").click(function () {
+                    window.sessionStorage.setItem("isPc", "false")
+                    window.location.reload()
+                })
+                $(".AppBtn2").click(function () {
+                    window.sessionStorage.setItem("isPc", "false")
+                    window.location.reload()
+                })
+            })
+        }
+    </script>
+</head>
+<body>
+<!-- 嵌套头部开始 -->
+<script>
+    // Quick Tracking 阿里sdk引入
+    (function(w, d, s, q) { 
+        w[q] =w[q] || []; 
+        var f=d.getElementsByTagName(s)[0],j=d.createElement(s); 
+        j.async=true; 
+        j.id='beacon-aplus'; 
+        j.src='https://d.alicdn.com/alilog/mlog/aplus/204201353.js'; 
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'aplus_queue');
+
+    aplus_queue.push({ action: 'aplus.setMetaInfo', arguments: ['appKey', 'qwfmf7ygk8c6a37if0oq266o']  }) 
+    aplus_queue.push({ action: 'aplus.setMetaInfo', arguments: ['aplus-rhost-v', 'quickaplus-server-api-cn-zhangjiakou.aliyuncs.com']  });
+
+
+
+    $(function() {
+        $('.search_input').on('keyup', function(e) {
+            if (e.keyCode == 13) {
+                gbkSub($(this))
+            } else {
+                $('.search_input').val( $(this).val() )
+            }
+        })
+        $('.search_btn').on('click', function(e) {
+            gbkSub($(this))
+        })
+
+        function gbkSub(obj) {
+            var val = encodeURIComponent($.trim ( obj.parent().find('.search_input').eq(0).val()) )
+            
+            // 埋点搜索
+            aplus_queue.push({
+                'action':'aplus.record',
+                'arguments':['search_click', 'CLK', {
+                    search_key: val,
+                    current_page_name: $('title').text(),
+                    page_name: $('title').text(), //您当前页面的自定义页面编码
+                }]
+
+            });
+            if ( val == '' ) {
+                // alert("请输入您要搜索的内容");
+                var url = 'http://www.cssn.cn/so/';
+                window.open(url);
+            } else {
+                var url = 'http://www.cssn.cn/so/s?qt=' + val;
+                window.open(url);
+            }
+        }
+    })
+
+        
+
+
+        $(function() {
+
+            var article_title = $('.qt_article_title').text();
+            var article_id = $('.qt_article_parent').attr('data-article_id');
+            var share_channel = $('.qt_article_parent').attr('data-share_channel');
+            var published_date = $('.qt_published_date').text();
+            var article_source = $('.qt_article_source').text();
+            var article_author = $('.qt_article_author').text();
+
+            // console.log('article_title:', article_title)
+            // console.log('article_id:', article_id)
+            // console.log('share_channel:', share_channel)
+            // console.log('published_date:', published_date)
+            // console.log('article_source:', article_source)
+            // console.log('article_author:', article_author)
+
+            // Quick Tracking 详情页浏览
+            aplus_queue.push({
+                'action':'aplus.sendPV',
+                'arguments':[{ is_auto: false}, {
+                    //保留字段
+                    page_name:'article_detail_page',
+                    page_title:'文章详情页',
+                    //可选参数
+                    article_title: article_title,
+                    article_id:article_id,
+                    article_author: article_author,
+                    article_source: article_source,
+                    published_date: published_date,
+                }]
+            });
+
+            // 点击分享埋点
+            $('.ops_icons a').on('click', function(e) {
+                var btnName = $(this).attr('title')
+                var isOriginal = ''
+                if (article_source.indexOf('中国社会科学网') != -1 && isOriginal != '') {
+                    isOriginal = '原创'
+                } else {
+                    isOriginal = '非原创'
+                }
+                aplus_queue.push({
+                    'action':'aplus.record',
+                    'arguments':['adp_share_click', 'CLK', {
+                        article_id: article_id,
+                        page_name: "article_detail_page", //您当前页面的自定义页面编码
+                        s_original: isOriginal,//btnName,
+                        article_title: article_title,
+                        published_date: published_date,
+                        article_source: article_source,
+                        article_author: article_author,
+                        share_channel: btnName
+                    }]
+                });
+            })
+
+            // 点击文章页中的链接埋点
+            $('.content_center a').on('click', function() {
+                aplus_queue.push({
+                    'action':'aplus.record',
+                    'arguments':['adp_hyperlinks_click', 'CLK', {
+                        article_id: $(this).attr('href'),
+                        page_name: "文章详情页-超链接点击", //您当前页面的自定义页面编码
+                    }]
+                });
+            })
+
+
+
+
+        })
+</script>
+<!-- head start -->
+<div class="top pcNone">
+    <div class="top_main">
+        <div class="top_left">
+            <a href="/"><img src="/images/sk_logo_v2022.png" alt="" /></a>
+        </div>
+        <div class="top_right">
+            <div class="PcBtn"><img src="/images/sk_m_pcbtn.png" alt="" /></div>
+            <div class="searchBtn"><img src="/images/sk_m_searchbtn.png" alt="" /></div>
+            <div class="AppBtn"><img src="/images/sk_m_mobilebtn.png" alt="" /></div>
+            <div class="search_div mobileNone">
+                <input class="search_input" type="text" name="temp" placeholder="请输入您要搜索的内容" />
+                <input class="search_btn" name="searchButton" type="button" value="搜索" />
+            </div>
+        </div>
+    </div>
+    <div class="search">
+        <div class="search_div">
+            <input class="search_input" type="text" name="temp" placeholder="请输入您要搜索的内容" />
+            <input class="search_btn" name="searchButton" type="button" value="搜索" />
+        </div>
+        <div class="search_close"></div>
+    </div>
+</div>
+<!-- head end -->
+<!-- nav start -->
+<div class="nav_wrap">
+    <div class="nav_main">
+        <div class="nav_box">
+            <ul class="nav_ul clear">
+                <li><a class="icon_learn" href="/xxzx/" target="_blank" ignoreapd="true">中心</a></li>
+                <li><a href="/xszg/" target="_blank" ignoreapd="true">学术中国</a></li>
+                <li><a href="/zkzg/" target="_blank" ignoreapd="true">智库中国</a></li>
+                <li><a href="http://v.cssn.cn/#/index" target="_blank" ignoreapd="true">社科视频</a></li>
+                <li><a href="/dkzgxp/" target="_blank" ignoreapd="true">中国学派</a></li>
+                <li><a href="https://sz.cssn.cn/" target="_blank" ignoreapd="true">数字思政</a></li>
+                <li><a href="/gjgc/" target="_blank" ignoreapd="true">国际观察</a></li>
+                <li><a href="/kgxc/" target="_blank" ignoreapd="true">考古现场</a></li>
+                <li><a href="/ggzp/" target="_blank" class="nav_zp" ignoreapd="true">公告<i></i>招聘</a></li>
+                <li><a class="arrow" href="javascript:;">学科体系<i></i></a></li>
+            </ul>
+            <a class="nav_more nav_site_pc" href="javascript:;">+</a>
+            <a class="nav_more nav_site_more" href="javascript:;"><img src="/images/sk_nav_rtbg.png" /></a>
+        </div>
+        <div class="nav_fixed_logo"><a href="/"><img src="/images/sk02-logo-nav0.png" alt="" /></a>
+        </div>
+        <div class="nav_fixed_search">
+            <input class="search_input" type="text" name="temp" placeholder="请输入您要搜索的内容" />
+            <input class="search_btn" name="searchButton" type="button" value="" />
+        </div>
+        <div class="AppBtn2"><img src="/images/sk_m_mobilebtn.png" alt="" /></div>
+    </div>
+    <!-- 学科体系下拉菜单 -->
+    <div class="sub_xktx">
+        <div class="nav_wrapper">
+            <a href="/mkszy/" target="_blank" ignoreapd="true">马克思主义</a>
+            <a href="/zx/" target="_blank" ignoreapd="true">哲学</a>
+            <a href="/jjx/" target="_blank" ignoreapd="true">经济学</a>
+            <a href="/fx/" target="_blank" ignoreapd="true">法学</a>
+            <a href="/lsx/" target="_blank" ignoreapd="true">历史学</a>
+            <a href="/wx/" target="_blank" ignoreapd="true">文学</a>
+            <a href="/xwcbx/" target="_blank" ignoreapd="true">新闻传播学</a>
+            <a href="/ysx/" target="_blank" ignoreapd="true">艺术学</a>
+            <a href="/zzx/" target="_blank" ignoreapd="true">政治学</a>
+            <a href="/shx/" target="_blank" ignoreapd="true">社会学</a>
+            <a href="/mzx/" target="_blank" ignoreapd="true">民族学</a>
+            <a href="/jyx/" target="_blank" ignoreapd="true">教育学</a>
+            <a href="/glx/" target="_blank" ignoreapd="true">管理学</a>
+            <a href="/jsx/" target="_blank" ignoreapd="true">军事学</a>
+            <a href="/zgdsdj/" target="_blank" ignoreapd="true">中共党史党建</a>
+            <a href="/qygbx/" target="_blank" ignoreapd="true">区域国别学</a>
+            <a href="/gjaqx/" target="_blank" ignoreapd="true">国家安全学</a>
+        </div>
+    </div>
+</div>
+<!-- nav end -->
+<div class="nav_site_more_con clear">
+    <i class="more_btn"></i>
+    <div class="layout clear">
+        <h1 class="clear"><a href="/"><img src="/images/sk_logo_v2022.png" alt="" /></a></h1>
+        <ul class="clear navtop">
+            <li class="icon_learn"><a href="/xxzx/" target="_blank" ignoreapd="true">中心</a></li>
+            <li><a href="/xszg/" target="_blank" ignoreapd="true">学术中国</a></li>
+            <li><a href="/zkzg/" target="_blank" ignoreapd="true">智库中国</a></li>
+            <li><a href="https://v.cssn.cn/#/index" target="_blank" ignoreapd="true">社科视频</a></li>
+            <li><a href="/dkzgxp/" target="_blank" ignoreapd="true">中国学派</a></li>
+            <li><a href="https://sz.cssn.cn/" target="_blank" ignoreapd="true">数字思政</a></li>
+            <li><a href="/gjgc/" target="_blank" ignoreapd="true">国际观察</a></li>
+            <li><a href="/kgxc/" target="_blank" ignoreapd="true">考古现场</a></li>
+            <li><a href="/ggzp/" target="_blank" class="nav_zp" ignoreapd="true">公告 · 招聘</a></li>
+        </ul>
+        <div class="more_con clear">
+            <a href="/zjzg/" target="_blank" ignoreapd="true">志鉴中国</a>
+            <a href="/skgz/" target="_blank" ignoreapd="true">社科关注</a>
+            <a href="/skyl/" target="_blank" ignoreapd="true">社科要论</a>
+            <a href="/dsskhs/" target="_blank" ignoreapd="true">社科好书</a>
+            <a href="/skqns/" target="_blank" ignoreapd="true">社科青年说</a>
+            <a href="/wlqglt/" target="_blank" ignoreapd="true">网络强国论坛</a>
+            <a href="/skrmt/" target="_blank" ignoreapd="true">社科融媒体</a>
+            <a href="/wkskjh/" target="_blank" ignoreapd="true">网刊</a>
+        </div>
+        <h3 class="clear">学科体系</h3>
+        <div class="more_con clear">
+            <a href="/mkszy/" target="_blank" ignoreapd="true">马克思主义</a>
+            <a href="/zx/" target="_blank" ignoreapd="true">哲学</a>
+            <a href="/jjx/" target="_blank" ignoreapd="true">经济学</a>
+            <a href="/fx/" target="_blank" ignoreapd="true">法学</a>
+            <a href="/lsx/" target="_blank" ignoreapd="true">历史学</a>
+            <a href="/wx/" target="_blank" ignoreapd="true">文学</a>
+            <a href="/xwcbx/" target="_blank" ignoreapd="true">新闻传播学</a>
+            <a href="/ysx/" target="_blank" ignoreapd="true">艺术学</a>
+            <a href="/zzx/" target="_blank" ignoreapd="true">政治学</a>
+            <a href="/shx/" target="_blank" ignoreapd="true">社会学</a>
+            <a href="/mzx/" target="_blank" ignoreapd="true">民族学</a>
+            <a href="/jyx/" target="_blank" ignoreapd="true">教育学</a>
+            <a href="/glx/" target="_blank" ignoreapd="true">管理学</a>
+            <a href="/jsx/" target="_blank" ignoreapd="true">军事学</a>
+            <a href="/zgdsdj/" target="_blank" ignoreapd="true">中共党史党建</a>
+            <a href="/qygbx/" target="_blank" ignoreapd="true">区域国别学</a>
+            <a href="/gjaqx/" target="_blank" ignoreapd="true">国家安全学</a>
+        </div>
+        <h3 class="clear mobileNone">新媒体矩阵</h3>
+        <div class="more_con clear mobileNone">
+            <ul class="new_media_ul">
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220922337226245876.png" alt="sk_v2022_front_wechat.png"/>
+                        <p>微信小程序</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929538050877342.jpg" alt="小程序106.jpg"/>
+                        <p>微信小程序</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220922336887208883.png" alt="sk_v2022_front_gzh.png"/>
+                        <p>微信公众号</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929539559790487.jpg" alt="微信106.jpg"/>
+                        <p>微信公众号</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220922336458060142.png" alt="sk_v2022_front_zgxp.png"/>
+                        <p>中国学派</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929539793588017.jpg" alt="学派106.jpg"/>
+                        <p>中国学派</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020230615600845961620.png" alt="W020220922336137882083.png"/>
+                        <p>中国社会科学报</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020230616566952919336.jpg" alt="111.jpg"/>
+                        <p>中国社会科学报</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929459900615313.png" alt="123.png"/>
+                        <p>新浪微博</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929540194201728.jpg" alt="微博106.jpg"/>
+                        <p>新浪微博</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929460609289083.png" alt="123.png"/>
+                        <p>今日头条号</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929540425896749.jpg" alt="头条106.jpg"/>
+                        <p>今日头条号</p>
+                    </div>
+                </div>
+            </li>
+            
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- 嵌套头部结束 -->
+<!-- content -->
+<div class="wrap_fullWidth sk_warp_center_repeat clear qt_article_parent" data-article_id='5687663' data-share_channel="前沿关注">
+    <div class="warp_center">
+        <div class="sk_crumbs">
+            <a href="../../../" target="_self" title="首页" class="CurrChnlCls">首页</a>&nbsp;>&nbsp;<a href="../../" target="_self" title="哲学" class="CurrChnlCls">哲学</a>&nbsp;>&nbsp;<a href="../" target="_self" title="前沿关注" class="CurrChnlCls">前沿关注</a>
+        </div>
+        <div class="warp_center_content">
+            
+            <div class="content_head">
+                <h1 class="qt_article_title">【学术圆桌】我所理解的中国逻辑</h1>
+                
+                <div class="head_intro clear">
+                    <div class="intro_left">
+                        <span class="qt_published_date">2023-09-25</span>
+                        
+                        
+                        <span class="qt_article_source"><font>来源：</font>中国社会科学网</span>
+                    </div>
+                </div>
+            </div>
+            <div id="getHeight"></div>
+<div class="content_left">
+    <div class="sk_size_change"><a href="javascript:;" data-size="22" class="a1">字体放大</a><a class="a2 active" href="javascript:;" data-size="20">字体放小</a></div>
+    <div class="wxgzh">
+        <div class="wx_img"><img src="/images/sk_wx_gzh.png" alt="" /></div>
+        <p>微信公众号</p>
+    </div>
+    <div class="intro_right">
+        <div class="title">— <span>分享</span> —</div>
+        <div class="ico_wx">
+            <a class="wx_icon" title="微信"></a>
+            <div class="qrcodeCanvas_wx">
+                <div class="qrcodeCanvas"></div>
+            </div>
+        </div>
+        <div class="view sk_share" id="ops_share"></div>
+        <script src="/images/share_cssn_v2.min.js" charset="utf-8"></script>
+        <div class="ico_url">
+            <a class="url_icon" title="复制地址"></a>
+            <div class="copyUrl">链接已复制</div>
+            <input type="text" class="link_url" style="opacity: 0;width: 1px;height: 1px;position: absolute;bottom:0;z-index: -1;" />
+        </div>
+    </div>
+</div>
+            <div class="content_right">
+                <div class="content_center">
+                    <div class=TRS_Editor><p align="justify">　<img style="border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-width: 0px" alt="" oldsrc="W020230927534478027962.jpg" src="./W020230927534478027962.jpg" />　</p>
+<p align="justify">　　<font color="#33cccc"><strong><font face="仿宋">【<font color="#33cccc"><strong><font face="仿宋">编</font></strong></font>者按】</font> <font face="仿宋">中国逻辑思想研究是在西方逻辑第二次传入中国后出现的对应西方传统逻辑教学体系而出现的一个学术热点，这一研究延续有百余年。进入20世纪90年代以来，学界开始认真反思用“据西释中”构建名辩学的方法，目前中国逻辑研究开始步入多元化探讨的新阶段。</font></strong></font></p>
+<p align="justify"><font color="#33cccc" face="仿宋"><strong>　　关于中国逻辑的思想基础、研究对象、核心问题、体系构建、多视域研究以及中国逻辑研究方法等问题，中国社会科学网特邀专家学者展开对谈，分享思想盛宴。</strong></font></p>
+<p align="left">&nbsp;</p>
+<p align="center"><img style="border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-width: 0px" alt="" oldsrc="W020230927534478105444.jpg" src="./W020230927534478105444.jpg" />&nbsp;</p>
+<p align="center"><strong><font color="#000080"><img style="border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-width: 0px" alt="" oldsrc="W020230928380885834608.jpg" src="./W020230928380885834608.jpg" /></font></strong></p>
+<p align="center"><strong><a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230920_5686963.shtml"><font color="#000000">论中国逻辑的思想基础与知识体系新构建</font></a></strong></p>
+<p align="justify">　　逻辑是具有工具性的论证科学，也是哲学的基础与根基。西方哲学从古至今的发展始终有传统逻辑与现代逻辑作为不同形态哲学的论证工具；因明作为印度“五明”知识体系的组成部分，也是内明的论证工具。中国传统哲学从先秦一直持续发展到清末，在不同历史阶段呈现出不同的思想形态，因此，与中国传统哲学演进相伴，其背后必然有论证与支撑中国哲学的中国逻辑。</p>
+<p align="justify">　　研究中国逻辑需要根植于中国传统思想生态，借鉴逻辑于西方知识体系、因明于印度五明的作用，挖掘对中国传统知识体系和哲学起到支撑与论证作用的中国逻辑，而不是对应西方传统逻辑的教学体系来构造中国逻辑的知识体系。&nbsp; <a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230920_5686963.shtml"><font color="#cc99ff">【原文阅读】</font></a></p>
+<p align="center"><img style="border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-width: 0px" alt="" oldsrc="W020230928380885884965.jpg" src="./W020230928380885884965.jpg" /></p>
+<p align="center">　<font color="#000000">　<strong>中国古代逻辑与“正名-用名”论证</strong></font></p>
+<p align="justify">　　百年来诸多学者对中国逻辑的探索铸就了不同的中国逻辑史成果，普遍存在着逻辑观与中国逻辑史写作的冲突。笔者基于逻辑学关于论证结构规则之学的观念，提出中国古代逻辑是一种“正名-用名”论证类型。</p>
+<p align="justify">　　中国逻辑是什么？演绎、归纳思想是否寓于先秦诸子思想里，时至今日，中国逻辑史界还在争论，形成不同的中国逻辑理解。有的学者认为先秦诸子文本内容包罗万象，中国逻辑史研究只写作其中的演绎、归纳逻辑思想；有的学者认为中国古代逻辑除包含演绎、归纳逻辑外，还有政治伦理的逻辑、辩证逻辑等；还有学者认为中国古代逻辑应从符号学、非形式逻辑等视角展开研究。这些研究的主流仍然是中国古代逻辑是否是演绎、归纳思想，成果呈现三大特点：先秦逻辑多元化，中国逻辑与中国思想关系有待进一步探讨，中国逻辑是什么模糊。这里的问题是能否用他文化史中的某些理论释己文化史，用猴体解剖与人体解剖关系的譬喻能否适用于思想史研究，当下（如梁启超时代等）的文化建设探讨与历史上（梁启超时代以前）的思想研究是一样的吗？&nbsp; <a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230905_5683422.shtml"><font color="#cc99ff">【原文阅读】</font></a></p>
+<p align="center"><img style="border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-width: 0px" alt="" oldsrc="W020230927534478242257.jpg" src="./W020230927534478242257.jpg" /></p>
+<p align="center"><img style="border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-width: 0px" alt="" oldsrc="W020230928380886201960.jpg" src="./W020230928380886201960.jpg" /></p>
+<p align="center"><strong><a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230920_5686962.shtml"><font color="#000000">推类与我所理解的中国逻辑</font></a></strong></p>
+<p align="justify">　　“逻辑”既可指思维规律（主要是推理规律），也可指对思维规律（主要是推理规律）的研究。推理规律内在于推理活动，不以人的主观意志为转移。在中国古代认知与行动的各个领域，广泛存在着推理活动，推理规律客观存在于中国古人的推理活动之中毋庸置疑。</p>
+<p align="justify">　　于是，当我们追问“中国古代有没有逻辑”，就不是在追问“中国古代有没有推理规律”，而是在追问“中国古代有没有对推理规律的研究”，亦即“中国古代有没有逻辑研究”。我认为中国古代有逻辑研究，以三物论说为核心的推类论述就是实际存在于中国古代本土、具有相对系统形态的逻辑研究。</p>
+<p align="justify">　　那么，推类论述是一种什么性质的逻辑研究？推类论述视域中的“推类”又该作何理解？推类论述能否说明中国古代逻辑研究相异于西方逻辑研究（如亚里士多德三段论理论）的独特个性？&nbsp; <a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230920_5686962.shtml"><font color="#cc99ff">【原文阅读】</font></a></p>
+<p align="center"><img style="border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-width: 0px" alt="" oldsrc="W020230928380886238770.jpg" src="./W020230928380886238770.jpg" /></p>
+<p align="center"><a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230920_5686965.shtml"><strong><font color="#000000">推类：一种“弱”类比</font></strong></a></p>
+<p align="justify">　　作为一种区分于归纳、演绎、溯因的推理形式和认知手段，类比推理一直是逻辑学研究的重要对象。长久以来，推类思想不仅贯穿于中国先秦时期论证实践发展的全过程，而且成为了中国古代论证的代表性特征和重要研究线索。在中西文明互鉴交流的时代背景下，有必要将推类与类比做出比较探究，从而深入挖掘中国古代论证的文化内涵和思想智慧，为构建具有自主性和特殊性的中国论证体系和话语体系作出理论贡献。</p>
+<p align="justify">　　中国古代的推类发轫于《周易》玄妙幽奥的阴阳爻变之间，成熟于《墨辩》以“故、理、类”为基础的逻辑思想的发展过程之中。崔清田明确指出“推类论证是中国传统论证的主导模式”，这一看法已逐渐被国内学者普遍认同。并且，国外学者如葛瑞汉和葛兰言也纷纷将“类”与“推类”视作支撑中国传统论证体系的核心概念，对推类这种具有中国特色的传统论证方法表现出了极大的研究热情。&nbsp; <a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230920_5686965.shtml"><font color="#cc99ff">【原文阅读】</font></a></p>
+<p align="center"><strong><font color="#000080"><img style="border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-width: 0px" alt="" oldsrc="W020230928380886260542.jpg" src="./W020230928380886260542.jpg" /></font></strong></p>
+<p align="center"><strong><a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230915_5685941.shtml"><font color="#000000">《论语》道德判断建构的三类模式</font></a></strong></p>
+<p align="justify">　　作为一部“对话集”，《论语》一书记录了孔子的诸多道德话语。这些话语往往不是以孤立的独断方式存在，而是作为某个说理过程的构成要件出现。通过对《论语》的文本调查，可以发现这些说理过程涉及3类11种模式。其中，3类模式包括：诉诸事实、诉诸理、诉诸结果。这些模式的存在，为我们进一步理解孔子的道德主张提供了新的窗口；同时它也表明，作为儒学的创始人，孔子的道德主张往往伴随着相应的论证，其思想具有论证的品质。</p>
+<p align="justify">　　理解孔子对中国传统文化的影响，不仅应关注他在《论语》中提出的具体观点，其建构这些观点的方式亦不容忽视。本文从《论语》中选择一些案例，籍以揭示孔子建构道德话语的若干模式。&nbsp; <a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230915_5685941.shtml"><font color="#cc99ff">【原文阅读】</font></a></p>
+<p align="center"><img style="border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-width: 0px" alt="" oldsrc="W020230927534478419137.jpg" src="./W020230927534478419137.jpg" /></p>
+<p align="center"><img style="border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-width: 0px" alt="" oldsrc="W020230928380886294900.jpg" src="./W020230928380886294900.jpg" /></p>
+<p align="center"><a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230905_5683411.shtml"><strong><font color="#000000">《墨经》文本的新解读</font></strong></a></p>
+<p align="justify">　　《墨经》六篇从根本上看属于墨家逻辑学专著，即墨辩专著，条目与条目之间体现了墨家逻辑思想单元之间所内在的必然的逻辑联系。通常认为，《墨经》在内容上涉及政治学、伦理学、法学、数学、几何学、力学、光学、物理学等各个学科领域，但其实是在结合各个学科来谈具体的逻辑问题。墨家的思想基本上都用逻辑立论，强调故、理、类的重要性，大致相当于今日逻辑与批判性思维学科中所谈真实性、充足性和相关性问题。</p>
+<p align="justify">　　《墨经》六篇（即广义《墨经》，如果不包括《大取》和《小取》，则称狭义《墨经》）从根本上看属于墨家逻辑学专著，即墨辩专著，条目与条目之间体现了墨家逻辑思想单元所内在的必然的逻辑联系。通常认为，《墨经》在内容上涉及政治学、经济学、伦理学、法学、语言学、数学、几何学、力学、光学、物理学、心理学、生理学等各个学科领域，但其实是在结合各个学科来谈具体的逻辑问题。&nbsp; <a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230905_5683411.shtml"><font color="#cc99ff">【原文阅读】</font></a></p>
+<p align="center"><img style="border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-width: 0px" alt="" oldsrc="W020230928380886651882.jpg" src="./W020230928380886651882.jpg" /></p>
+<p align="center"><a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230925_5687612.shtml"><strong><font color="#000000">易学逻辑大义</font></strong></a></p>
+<p align="justify">　　逻辑的本质是推理，易学逻辑以历史上的易学家对易学中逻辑理论的阐释与发展、对经典推理系统的构建等为研究对象，其主导推理类型是推类。易学逻辑在中国古代的知识体系，尤其是在中医学、天文学、伦理政治思想等方面起到了工具性的基础作用，这是易学逻辑的性质所在。</p>
+<p align="justify">　　经过数千年的文化发展，无论是象数派，还是义理派，他们对《周易》的研究，远远超过了《周易》本身的文本内容，形成了体积庞大、内容浩繁的所谓“易学”，这是对《易经》研究丰富发展的成果。在易学发展过程中，尤其是象数派，逐步地建立了一套较为严密完整的，以太极、阴阳、五行、天干、地支、八卦、九宫等为符号内容的推理理论。若从逻辑的角度看，这套推理方法是中国逻辑乃至整个中国传统文化中非常有科学价值和科学意义的东西，是中国古代知识体系构建的基础，是典型的中国式的逻辑，我们称之为“易学逻辑”。</p>
+<p align="justify">　　易学逻辑的主导推理类型是推类，是在“仰则观象于天，俯则观法于地，观鸟兽之文，与地之宜，近取诸物，远取诸身，于是始作八卦，以通神明之德，以类万物之情”(《系辞下》)等“取类”方法的基础上，主要通过“类族辨物”（《周易·同人》）、“于稽其类”（《系辞下》）等诸途径，以不同事物之间“类”的关系为依据，实现由此及彼，“触类而长”的推类推理过程。但是，易学逻辑推理理论及其具体推理方法也并非一成不变，不同时代的易学家不断对其进行丰富与发展，因此，对不同时期易学家逻辑理论与方法的研究理应成为易学逻辑思想研究的对象之一。&nbsp; <a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230925_5687612.shtml"><font color="#cc99ff">【原文阅读】</font></a></p>
+<p align="justify"><img style="border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-width: 0px" alt="" oldsrc="W020231008408251299812.jpg" src="./W020231008408251299812.jpg" /></p>
+<p align="justify"><img style="border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-width: 0px" alt="" oldsrc="W020231008408251618485.jpg" src="./W020231008408251618485.jpg" /></p>
+<p align="center"><strong><a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230907_5683947.shtml"><font color="#000000">《小取》逻辑思想与行为概念逻辑</font></a></strong></p>
+<p align="justify">　　《小取》背后的逻辑究竟是什么这个问题一直困扰着中国逻辑的研究者。通过对《小取》的文本分析可以发现，《小取》中的五类例子绝大部分都是与行为动词相关的，其中的动宾短语表达的是行为概念。因此可以说，《小取》中的逻辑是涉及行为概念推理的行为概念逻辑。传统逻辑与数理逻辑都不处理动词，或者将其简单处理为关系词，这样的逻辑并不适合直接用来解释《小取》中的推理。现有的与行为有关的逻辑，也都是处理具体的行为而非抽象的行为概念，因此我们需要以新的视角来看待《小取》中的推理和揭示其中的逻辑。</p>
+<p align="justify">　　《小取》是《墨经》中的一篇，也是中国逻辑史研究中的重要文献。许多研究者试图从《小取》入手，一探中国古代逻辑思想的究竟。然而，时至今日，关于《小取》中究竟包含怎样的逻辑思想，甚至是否包含逻辑思想这些问题，仍然存有争议。这种争议的由来，很大程度上与此领域内一度占据主流的“据西释中”的研究方法有关。所谓的“据西释中”即是根据西方逻辑学的理论来理解和解释中国古代的相关文本。在此情况下，《小取》常被拿来与亚里士多德的《工具论》相比较。与《工具论》相比，《小取》无论是在基本概念的清晰性还是理论性等方面都是远远不及的。从这个角度来看，确实可以说《小取》中“没有多少逻辑学”。但是，逻辑学作为一门学科是处在不断发展中的，判断《小取》是否提出了某种逻辑学说，不能简单地以某种情形下的逻辑学著作为标准。 <a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230907_5683947.shtml"><font color="#cc99ff">【阅读原文】</font></a></p>
+<p align="center"><strong><a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230919_5686660.shtml"><font color="#000000">侔式推理与自然逻辑</font></a></strong></p>
+<p align="justify">　　“侔式推理”是墨家逻辑研究中的一种重要的推理方式，其逻辑形式为“若A是B，则CA是CB”。关于该推理模式是否为有效推理，以及如何解释《墨经?小取》篇中所提供的与之相关的例子，这始终是中逻史研究中的重要问题。而“自然逻辑”作为现代逻辑中的逻辑工具，同样关注自然语言中的有效推理形式。将之用于研究侔式推理，一方面能够构建推理规则以对《小取》中的语例提供一种统一的解释，回应“墨家逻辑不够形式化”的质疑；另一方面则可以使结论更贴近《小取》的文本原貌，这对于客观呈现墨家逻辑的独有特征有积极意义。</p>
+<p align="justify">　　从20世纪开始，以梁启超、胡适等为代表的中国学者，开始接触到西方的逻辑理论。他们以之反观先秦时期的名学理论，惊讶地发现二者在许多地方非常相似，并进而进行深入的研究。这就掀起了先秦名学的复兴，以及中国逻辑思想史研究思潮（以下简称“中逻史”）的序幕。&nbsp; <a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230919_5686660.shtml"><font color="#cc99ff">【阅读原文】</font></a></p>
+<p align="center"><img style="border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-width: 0px" alt="" oldsrc="W020230927534478581515.jpg" src="./W020230927534478581515.jpg" /></p>
+<p align="center"><a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230926_5687980.shtml"><img style="border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-width: 0px" alt="" oldsrc="W020230928380886785145.jpg" src="./W020230928380886785145.jpg" /></a>&nbsp;</p>
+<p align="center"><strong><a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230926_5687980.shtml"><font color="#000000">中国逻辑史研究与训诂之关系刍议</font></a></strong></p>
+<p align="justify">　　中国逻辑史研究中有一个问题一直不被中国逻辑史研究者所重视，那就是训诂问题。这个问题应该说是中国逻辑史研究必须解决的先决条件。陈寅恪在冯友兰先生所著的《中国哲学史》写的《审查报告》中指出，吾人今日可依据之材料，仅为当时所遗存最小之一部，……今日之墨学者，任何古书古字，绝无依据，亦可随其一时偶然兴会，而为之改移，几若善博者能呼卢成卢，喝雉成雉之比。此今日中国号称整理国故之普通状况，诚可为长叹息者也。可见，要从“绝无依据”的墨学中研究中国古代的逻辑学，如果没有训诂的本领实在难以胜任。</p>
+<p align="justify">　　由于中国逻辑史研究需要具备必要的训诂能力，所以，中国逻辑史比较研究的兴盛一方面得益于西学东渐之逻辑学的输入，另一方就得益于清末乾嘉学派考据学的兴起。逻辑东渐给中国学术界送来了“是学为一切学之学，一切法之法”的西方逻辑传统，有了研究中国逻辑史的可能，而真正使中国逻辑史成为学问就只能依靠训诂学的佐助了。可以毫不夸张地说，如果没有乾嘉学派的关于墨学的训诂研究，就没有晚清孙诒让的《墨子闲诂》，那也就不会有梁启超、章太炎、章士钊、胡适、谭戒甫、伍非百等人的比较逻辑研究，也许就没有中国逻辑史这一学问了。在孙诒让的启迪下，梁启超于1904年在《新民丛刊》上发表了《子墨子学说》和《墨子之论理学》，颂扬墨家的这些学说是救国的真理，他说：“今欲救之，厥惟学墨，惟无学别墨而学真墨。”揭开了近代对《墨辩》逻辑的比较研究的序幕。 <a href="https://www.cssn.cn/zx/zx_rdkx/202309/t20230926_5687980.shtml"><font color="#cc99ff">【阅读原文】</font></a></p>
+<p align="center"><img style="border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-width: 0px" alt="" oldsrc="W020231010581525487220.jpg" src="./W020231010581525487220.jpg" /></p></div>
+                    
+                </div>
+                
+                <div class="content_zz">
+                    转载请注明来源：<strong>中国社会科学网</strong>【编辑：李秀伟】
+                </div>
+                <div class="warp_center_links clear">
+    <div class="view">
+        <div class="sk_title_02">
+            <span>社科推荐</span>
+        </div>
+        <ul>
+            
+            <li><a href="https://www.cssn.cn/skgz/202410/t20241011_5790125.shtml" target="_blank">跨学科聚焦人工智能多领域应用</a></li>
+            
+            <li><a href="https://www.cssn.cn/skgz/bwyc/202412/t20241227_5827622.shtml" target="_blank">以新时代城市群建设带动东北振兴</a></li>
+            
+            <li><a href="https://www.cssn.cn/skgz/bwyc/202412/t20241227_5827621.shtml" target="_blank">推动人工智能与人文价值融合</a></li>
+            
+            <li><a href="https://www.cssn.cn/skgz/bwyc/202412/t20241227_5827624.shtml" target="_blank">以制度型开放提升技术创新水平</a></li>
+            
+            <li><a href="https://www.cssn.cn/skgz/bwyc/202412/t20241227_5827620.shtml" target="_blank">加强涉外法治基础理论研究</a></li>
+            
+        </ul>
+    </div>
+</div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<div class="fiexd_title_wrap">
+    <div class="fiexd_title">
+        <span class="fiexd_title_text"></span>
+    </div>
+</div>
+<script language="javascript">
+    $(document).ready(function(){
+        //分辨率变更
+        if($(window).width()<1430){
+            $(".sk_size_change").html('<a class="a1" href="javascript:;" data-size="18">字体放大</a><a class="a2 active" href="javascript:;" data-size="16">字体放小</a>')
+        }
+        if($(window).width()>1430){
+            $(".sk_size_change").html('<a class="a1" href="javascript:;" data-size="22">字体放大</a><a class="a2 active" href="javascript:;" data-size="20">字体放小</a>')
+        }
+        $(window).resize(function() {
+            //分辨率变更
+            if($(window).width()<1430){
+                $(".sk_size_change").html('<a class="a1" href="javascript:;" data-size="18">字体放大</a><a class="a2 active" href="javascript:;" data-size="16">字体放小</a>')
+            }
+            if($(window).width()>1430){
+                $(".sk_size_change").html('<a class="a1" href="javascript:;" data-size="22">字体放大</a><a class="a2 active" href="javascript:;" data-size="20">字体放小</a>')
+            }
+        });
+        $(document).on('click','.sk_size_change a',function () {
+            // 文章字体大小调整
+            $(".sk_size_change a").removeClass('active');
+            $(this).addClass('active');
+            var size = $(this).attr('data-size')
+            setSize(size)
+        })
+    });
+    function setSize(size){
+        //文章文字大小调整
+        var fontSize = parseInt(size)
+        $(".content_center *").animate({"font-size":fontSize+'px'})
+        $(".content_center h2").animate({"font-size":parseInt(fontSize+6)+'px'})
+    }
+    (function (window, $) {
+        var web_url = window.location.href
+        $('.link_url').attr('value', web_url)
+        $('.url_icon').on('click', function () {
+            $('.link_url').select();
+            document.execCommand('copy');
+            $(this).parent().find('.copyUrl').addClass('copy_cur');
+        })
+        $('.copyUrl').on('animationend', function () {
+            $('.copyUrl').removeClass('copy_cur');
+        })
+    })(window, jQuery);
+</script>
+<script>
+    // 二维码
+    $('.qrcodeCanvas').qrcode({
+        text: window.location.href
+    });
+
+    var isPC = IsPC();
+    if (isPC) {
+        $('.qrcodeCanvas').find('canvas').eq(0).css({
+            'width': '100%',
+            'height': '100%',
+            'display': 'block'
+        })
+    }
+
+    var navWrapH = $('.nav_wrap').outerHeight()
+    var crumbsH = $('.sk_crumbs').outerHeight()
+    var fiexdH = $('.fiexd_title_wrap').outerHeight()
+    var warpCenterH = parseInt( $('.warp_center_content').css('padding-top') )
+    // var titleH = $('.content_head').find('h1').eq(0).outerHeight()
+
+    var headHeight = navWrapH + crumbsH + warpCenterH
+    var offset = $('#getHeight').offset();
+    var dis = offset['top'];
+    var leftHeight = dis - navWrapH - fiexdH
+
+    $('.fiexd_title_text').text($('.content_head').find('h1').eq(0).text())
+    // $('.fiexd_subTitle_text').text($('.content_head').find('h2').eq(0).text())
+    // $('.fiexd_title_wrap').css('top', navWrapH)
+    // console.log( 'headHeight:', headHeight )
+
+    // console.log(warpCenterH)
+    $(window).on('scroll', function() {
+
+        if ( $(window).scrollTop() > headHeight ) {
+
+            // $('.fiexd_title_wrap').show().stop().animate({'top': navWrapH},500)
+
+            $('.fiexd_title_wrap').show().css('top', navWrapH)
+
+        } else {
+            //     $('.fiexd_title_wrap').stop().animate({'top': 0} ,500, function() {
+            //         $(this).hide()
+            //     })
+
+            $('.fiexd_title_wrap').css({
+                'top': -navWrapH-32
+            })
+            // console.log( $(window).scrollTop() )
+        }
+        if ( $(window).scrollTop() > leftHeight ) {
+            $('.content_left').addClass('left_fixed')
+
+        } else {
+            $('.content_left').removeClass('left_fixed')
+        }
+    })
+</script>
+<!-- footer -->
+<div class="sk_footer sk_footer_white">
+    <div class="links">
+    <a href="/gywm/" target="_blank" ignoreapd="true">关于我们</a>
+    <a href="/ggfw/" target="_blank" ignoreapd="true">广告服务</a>
+    <a href="/wzsm/" target="_blank" ignoreapd="true">网站声明</a>
+    <a href="/wzjc/" target="_blank" ignoreapd="true">网站纠错</a>
+    <a href="/lxwm/" target="_blank" ignoreapd="true">联系我们</a>
+</div>
+<div class="icp">
+    <span>举报电话：010-65393398</span>
+    <span>举报邮箱：zgshkxw@cass.org.cn</span>
+    <span>互联网新闻信息服务许可证：10120220003</span>
+    <span><a target="_blank" rel="noopener noreferrer" href="https://beian.miit.gov.cn/" ignoreapd="true">京ICP备11013869号</a></span>
+    <span><a target="_blank" rel="noopener noreferrer" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502030146" ignoreapd="true">京公网安备11010502030146号</a></span>
+</div>
+<div class="icp icp_sscp">
+    <span class="sk_sscp_logo"><img src="/images/sk_logo_sscp.png" alt="" /></span>
+    <span>中国社会科学杂志社版权所有，未经书面授权禁止使用</span>
+    <span>Copyright &copy; 2011-2024 by www.cssn.cn all rights reserved</span>
+
+    <div class="knet">
+        <script src="https://kxlogo.knet.cn/seallogo.dll?sn=a13101211010042869jlua000000&size=3"></script>
+    </div>
+
+</div>
+<div class="rightBar mobileNone">
+    <a href="javascript:void(0);" class="backTop"></a>
+</div>
+<!--天润代码统计-->
+<div style="display:none">
+<script src="/images/cssn_webdig.js" language="javascript" type="text/javascript"></script>
+</div>
+<!-- cssn.cn Baidu tongji analytics -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?9ac7f8383ed02699dcafe4c2cba61e1f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+<script>
+    $(".content_center").find("div").removeAttr("class");
+    var htm=$(".content_center").html();
+    htm=htm.replace(/div/ig, "p");
+    $(".content_center").html(htm);
+</script>
+</body>
+</html>

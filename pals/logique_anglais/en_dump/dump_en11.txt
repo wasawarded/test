@@ -1,0 +1,791 @@
+   Warning:
+   This wiki has been archived and is now read-only.
+
+Resolutions
+
+   From RIF
+   Jump to: navigation, search
+
+Working Group resolutions
+
+   All the resolutions passed by the WG are collected in this page, in
+   reverse chronological order. However, the resolutions to accept minutes
+   as true records of meetings are not repeated here.
+
+   Resolutions from 17 February Agenda Minutes
+     * RESOLVED: RIF-RDF combinations are not defined in case rif:iri or
+       rdf:text are used in the imported RDF graphs.
+     * RESOLVED: Change the test cases to "import rejection tests" and
+       close issue-90.
+
+   Resolutions from 10 February Agenda Minutes
+     * RESOLVED: Close ISSUE-63 with the understanding that the Group
+       construct is sufficient.
+     * RESOLVED: Close ISSUE-65 with the understanding that PRD does not
+       add specific syntax to specify halting tests.
+
+   Resolutions from 27 Jan 2009 Agenda Minutes
+     * RESOLVED: Core, BLD, PRD will not have semantic metadata; removing
+       metadata from a ruleset will not change the entailments - closing
+       ISSUE-50.
+     * RESOLVED: Close ISSUE-83 - the existing presentation syntax
+       ambiguities are resolvable.
+     * RESOLVED: Accept
+       http://www.w3.org/2005/rules/wiki/Argument_names_in_uniterms_1.
+     * RESOLVED: Accept
+       http://www.w3.org/2005/rules/wiki/Argument_names_in_uniterms_2.
+
+   Resolutions from F2F12, 14-15 January 2009, hosted by Oracle in
+   Portland, OR. Minutes day one, day two
+     * RESOLVED: approve test case RDF_Combination_Blank_Node for BLD,
+       Core, PRD, and Safe-Core.
+     * RESOLVED: Approve test case RDF_Combination_Constant_Equivalence_2
+       (for all dialects, and it's Safe).
+     * RESOLVED: Approve test case RDF_Combination_Constant_Equivalence_3
+       (for all dialects, and it's Safe).
+     * RESOLVED: Approve test case
+       RDF_Combination_Constant_Equivalence_Graph_Entailment_2 but be sure
+       to make it clear that this is a different kind of test case, about
+       RDF entailment. (Current wiki template does not properly show
+       that.).
+     * RESOLVED: Approve test case RDF_Combination_Member_1 for all
+       dialects (BLD, Core, CoreSafe, PRD).
+     * RESOLVED: Close issue-39, saying ruleset-imports is in Core, and
+       we're not going to define an "includes" at this time (in part
+       because we don't know what it might mean). 'Imports' ends up in
+       PRD, where it's not ideal, but not really harmful. Some version of
+       PRD may do a more sophisticated import at some point.
+     * RESOLVED: PRD will not address interop with RDF and OWL directly --
+       there is no work to do there. SWC will instead be updated to be
+       phrased in terms of [safe] Core, so it can be (in most ways)
+       inherited for PRD.
+     * RESOLVED: Close issue-82, given understandings in discussion so far
+       today. Core as specialization of PRD is just work to do. Yes,
+       safeness restriction will resolve backward chaining problem (action
+       on Jos). Does Core compatibility with RDF+OWL extend to PRD? only
+       to the extend that's automatic through Core.
+     * RESOLVED: Close issue-48. membership (#) in Core facts and
+       conditions. subclass (##) not in Core.
+     * RESOLVED: close issue-68 with no Named-Argument Uniterms (NAU) in
+       Core or PRD.
+     * RESOLVED: Close issue-72 saying "No" (Option D). (Nothing like
+       skolem functions in Core.) We regret we were unable to find a good
+       design to address this need.
+     * RESOLVED: Close issue-33 with the understand that our mechanisms
+       for accessing RDF and XML data sources, and using externals, will
+       be sufficient.
+     * RESOLVED: Close issue-78. The only Externals in BLD (and Core, and
+       PRD) will be Predicates and Functions. No external frames, no
+       external equality, etc.
+     * RESOLVED: Close issue-69; there will be a Core schema, included in
+       BLD and PRD schemas. see ACTION-692.
+     * RESOLVED: Close issue-46; no decision to make at this time. If
+       someone produces a proposal for modules, we may consider it.
+     * RESOLVED: Add xsd:nonNegativeInteger, xsd:anyURI, xsd:hexBinary,
+       xsd:base64Binary to RIF Core. In RIF, the xsd numeric types will
+       have disjoint value spaces (as in XSD1.1, unlike current OWL 2
+       drafts)-- we'll push for OWL to change and assume they will. [The
+       owl:* types will be decided separately. Value spaces of Binaries
+       will be decided separately. When those are decided, it will close
+       issue-81].
+     * RESOLVED: Add owl:real and owl:realPlus to RIF Core, BLD, PRD.
+
+   Resolutions from 6 January 2009 Agenda Minutes
+     * RESOLVED: add isLiteralOfType and isLiteralNotOfType (Changing
+       guards to return true only for literals that are/are not of the
+       type, false for non-literals) and remove specific type-named guards
+       (e.g. isInteger, isNotInteger). Closing ISSUE-79 and the
+       membership/non-membership part of ISSUE-80.
+
+   Resolutions from 9 December 2008 Agenda Minutes
+     * RESOLVED: Replace in UCR the requirement on Rule language coverage
+       by the following statement: Because of the great diversity of rule
+       languages, no one interchange language is likely to be able to
+       bridge between all. Instead, RIF provides dialects which are each
+       targeted at a cluster of similar rule languages. RIF must allow
+       intra-dialect interoperation, i.e. interoperability between
+       semantically similar rule languages (via interchange of RIF rules)
+       within one dialect, and it should support inter-dialect
+       interoperation, i.e. interoperation between dialects with maximum
+       overlap.
+     * RESOLVED: Publish UCR as WD4
+     * RESOLVED: Publish Core as WD2
+     * RESOLVED: Publish PRD as WD2
+     * RESOLVED: Publish DTB as WD2
+
+   Resolutions from 2 December 2008 Agenda Minutes
+     * RESOLVED: to publish the test case document as FPWD (conditional on
+       Sandro's approval of modifications)
+
+   Resolutions from 25 Nov 2008 Agenda Minutes
+     * RESOLVED: Include in UCR a new requirement on Internationalized
+       text: RIF must support internationalized text - that is, text that
+       additionally conveys information in terms of a language tag.
+     * RESOLVED: Add equal and not-equal builtins for string in DTB.
+
+   Resolutions from 11 Nov 2008 Agenda Minutes
+     * RESOLVED: Publish rdf:text as a FPWD, jointly with OWL-WG, adding
+       an editor's note about infinity (actions Jos, Axel)
+     * RESOLVED: In RIF-PRD, the conflict resolution strategy for a set of
+       rules will be indicated in some way, associated with the top-level
+       group. RIF-PRD 1.0 will specify only one normative conflict
+       resolution strategy, as specified in csma's email [9] (essentially:
+       refraction+priority+recency).
+     * RESOLVED: RIF-PRD 1.0 MAY specify other conflict resolution
+       strategies for suggested use, but these will not be mandatory.
+     * RESOLVED: Close ISSUE-64.
+
+   Resolutions from 4 November 2008 Agenda Minutes
+     * RESOLVED: Parameterize the conformance clauses of Core with
+       safeness requirements "strict" and "none" (default: "none").
+       Closing ISSUE-70.
+
+   Resolutions from 21 Oct 2008 Agenda Minutes
+     * RESOLVED: Core should keep safe disjunction in rule bodies.
+       Implementations can be direct or use a well-known preprocessing
+       step.
+     * RESOLVED: Close Issue-75.
+     * RESOLVED: accept Test Case Annotation Entailment
+
+   Resolutions from 7 Oct 2008 Agenda Minutes
+     * RESOLVED: Add "New" construct with Gary's proposed semantics to
+       represent the creation of new frame objects in then-part of PRD
+       rules; not excluding extending it later with the use of
+       constructors once we resolve how to call "methods".
+     * RESOLVED: Add a construct with Gary's proposed semantics to
+       represent the declaration of local variables for binding to New
+       frames in the then-part of PRD rules ; not excluding that later
+       resolutions might extend the use of local variables in the action
+       part.
+     * RESOLVED: Extend "Retract" construct with Gary's semantics to
+       represent the removal of a frame object in then-part of PRD rules,
+       that is, to represent the removal of an object from the instances
+       of its class as well as all the frames with that object in the
+       object position.
+     * RESOLVED: accept
+       http://www.w3.org/2005/rules/wiki/Disjunctive_Information_from_Nega
+       tive_Guards_2
+
+   Resolutions from F2F11 Sept 26-27, 2008, NY; Minutes of Day 1 Day 2
+     * RESOLVED: accept
+       http://www.w3.org/2005/rules/wiki/Arbitrary_Entailment with more
+       detailed description link
+     * RESOLVED: Approve
+       http://www.w3.org/2005/rules/wiki/Chaining_strategy_numeric-add_1
+       link
+     * RESOLVED: Approve
+       http://www.w3.org/2005/rules/wiki/Chaining_strategy_numeric-add_2
+       link
+     * RESOLVED: Approve
+       http://www.w3.org/2005/rules/wiki/Chaining_strategy_numeric-subtrac
+       t_1 and 2 link
+     * RESOLVED: Accept
+       http://www.w3.org/2005/rules/wiki/Classification_non-inheritance
+       link
+     * RESOLVED: Accept
+       http://www.w3.org/2005/rules/wiki/Disjunctive_Information link
+     * RESOLVED: accept
+       http://www.w3.org/2005/rules/wiki/Equality_in_conclusion_1 link
+     * RESOLVED: accept
+       http://www.w3.org/2005/rules/wiki/Equality_in_conclusion_2 link
+     * RESOLVED: accept
+       http://www.w3.org/2005/rules/wiki/Equality_in_condition link
+     * RESOLVED: accept
+       http://www.w3.org/2005/rules/wiki/Guards_and_subtypes link
+     * RESOLVED: accept
+       http://www.w3.org/2005/rules/wiki/Inconsistent_Entailment link
+     * RESOLVED: accept
+       http://www.w3.org/2005/rules/wiki/Individual-Data_Separation_Incons
+       istency link
+     * RESOLVED: accept
+       http://www.w3.org/2005/rules/wiki/No_polymorphic_symbols link
+     * RESOLVED: accept
+       http://www.w3.org/2005/rules/wiki/Non-Annotation_Entailment link
+     * RESOLVED: accept
+       http://www.w3.org/2005/rules/wiki/OWL_Combination_Vocabulary_Separa
+       tion_Inconsistency_1 link
+     * RESOLVED: accept
+       http://www.w3.org/2005/rules/wiki/OWL_Combination_Vocabulary_Separa
+       tion_Inconsistency_2 link
+     * RESOLVED: accept
+       http://www.w3.org/2005/rules/wiki/Frame_slots_are_independent link
+     * RESOLVED: accept
+       http://www.w3.org/2005/rules/wiki/Named_Argument_Uniterms_non-polym
+       orphic link
+     * RESOLVED: RIF will not specify a mechanism for profiles
+       (sub-languages of dialects, which are not themselves a dialect),
+       (addressing part of issue-29) link
+     * RESOLVED: Future RIF dialects SHOULD extend Core. (Closing
+       ISSUE-29) link
+     * RESOLVED: remove round-tripping clause from BLD conformance, add
+       sentence to RIF_BLD clauses, closing round-tripping issue 26 link
+     * RESOLVED: Core should keep unrestricted equality and external
+       function and predicate calls in rule conditions and keep external
+       functions calls in rule conclusions link
+     * RESOLVED: close issue-71, given we're retaining equality in
+       conditions in core link
+     * RESOLVED: Close issue-74, saying Core will have both Predicates
+       (with positional arguments) and Frames (no comment on having
+       membership) link
+
+   Resolutions from 23 Sep 2008 Agenda Minutes
+     * RESOLVED: Each RIF test case MUST, eventually, be provided in RIF
+       XML, and MAY be provided in some syntax for which a
+       translator-to-XML has been promised. The translator SHOULD be
+       available for use by the WG to check the translation.
+
+   Resolutions from 16 Sep 2008 Agenda Minutes
+     * RESOLVED: Core will not have equality in the conclusion
+
+   Resolutions from 9 Sep 2008 Agenda Minutes
+     * RESOLVED: Core will not have named-argument uniterms
+
+   Resolutions from 5 Aug 2008 Agenda Minutes
+     * RESOLVED: Remove section 4.3.5 (casting function for rif:iri) from
+       DTB.
+
+   Resolutions from 29 July 2008 Agenda Minutes
+     * RESOLVED: Publish the July 28 snapshot as BLD LC, after correction
+       of the HTML problems.
+     * RESOLVED: Publish the July 28 snapshot as SWC LC.
+     * RESOLVED: Publish the July 28 snapshot as UCR 3rd public WD.
+     * RESOLVED: Publish the July 28 snapshot as FLD 2nd public WD, after
+       correction of HTML errors.
+     * RESOLVED: Publish the July 28 snapshot as DTB 1st public WD, after
+       the links are fixed.
+     * RESOLVED: Publish the July 28 snapshot as PRD 1st public WD.
+
+   Resolutions from telecon 1 July 2008 Agenda Minutes
+     * RESOLVED: Mark "External Frames" AT RISK in BLD.
+     * RESOLVED: Change the tag name of the sub elements of Equal in BLD
+       XML from side to left and right
+
+   Resolutions from telecon 24 June 2008 Agenda Minutes
+     * RESOLVED: BLD refers to DTB by version number. If/when dialects
+       need other things, they refer to new versions. BLD still refers to
+       old one.
+
+   Resolutions from telecon 10 June 2008 Agenda Minutes
+     * RESOLVED: reword req. 5.2.8 to "RIF semantics"
+     * RESOLVED: replace req. 5.2.9 with re-wording: "The semantics of a
+       RIF document must be uniquely determined by the content of the
+       document, without out-of-band data."
+     * RESOLVED: change req. 5.2.12 to "must" support ability to merge
+       rule sets
+     * RESOLVED: change req. 5.2.13 "will" to "must" & remove
+       parenthetical comment: RIF must support the identification of rule
+       sets.
+     * RESOLVED: Move 5.3.1 to 5.2.14 and make it a SHOULD instead of
+       MUST. (support XML as data)
+
+   Resolutions from telecon 3 June 2008 Agenda Minutes
+     * RESOLVED: change text of 5.1.3 to: It must be possible to create
+       new RIF dialects which extend existing dialects (thus providing
+       backward compatibility) and are handled gracefully by systems which
+       support existing dialects (thus providing forward compatibility).
+     * RESOLVED: For this next draft of UCR, add an editor's note to 5.1.6
+       to note that we're still working on how to define a coverage
+       requirement. (unless we come up with some consensus text before
+       publication)
+     * RESOLVED: rephrase 5.2.1 to: The RIF specifications must provide
+       clear conformance criteria, defining what is or is not a conformant
+       RIF implementation.
+
+   Resolutions from F2F10 (F2F10_Minutes)
+     * RESOLVED: BLD will include Conjunction in the rule head (the "then"
+       part)
+     * RESOLVED: remove language about all the subtypes of xsd:string
+       being required (from DTB)
+     * RESOLVED: DTB will provide the menu of datatypes and builtins which
+       dialects can use, by reference, when they state which datatypes and
+       builtins must be supported by implementations.
+     * RESOLVED: add xs:dayTimeDuration and xs:yearMonthDuration, but NOT
+       duration, to those required in BLD (and of course DTB), as in
+       http://www.w3.org/TR/xquery-operators/#dt-yearMonthDuration
+     * RESOLVED: add builtin predicates to BLD and DTB:
+       pred:numeric-less-or-equal, pred:numberic-greater-or-equal,
+       pred:numberic-not-equal (they amount to shortcuts, to avoid
+       disjunction).
+     * RESOLVED: Publish DTB as a FPWD once changes decided so far today
+       are made (and reviewed by Chris)
+     * RESOLVED: remove aliases for symbol space identifiers in RIF
+     * RESOLVED: modify Presentation Syntax to include "Const ::= STRING"
+       (allowing "chat" as short for "chat"^^xs:string).
+     * RESOLVED: add xsd:double as a required symbol space
+     * RESOLVED: reuse NumericLiteral from SPARQL
+       http://www.w3.org/TR/rdf-sparql-query/#rNumericLiteral giving us
+       INTEGER, DECIMAL, and DOUBLE to the Presentation Syntax
+     * RESOLVED: modify presentation syntax so that alphanumeric
+       identifiers starting with "_" are shortcut for rif:local (so _foo
+       is short for "foo"^^rif:local)
+     * RESOLVED: Adopt SPARQL convention for using backslash to allow
+       quotes (and cr, lf, tab, etc) within quoted strings (in
+       Presentation Syntax).
+     * RESOLVED: Close Issue 56 as addressed by the resolutions this
+       morning.
+     * RESOLVED: Publish SWC as LAST CALL Working Draft, after changes
+       agreed upon this session and yesterday are made (and checked by
+       CSMA)
+     * RESOLVED: Close Issue 49 with decisions made so far today
+     * RESOLVED: Close Issue 54 with at-risk label as decided this
+       morning.
+     * RESOLVED: Close Issue 60 as decided this morning -- if they are
+       incomparable it's an error
+     * RESOLVED: Answer to Dan is that in BLD, pred and funcs have one
+       arity, and it is correct that the restriction holds even across
+       multiple documents. So the requirement is met -- rulesets can be
+       merged -- but if one ruleset is in error, then the merged version
+       will be able to detect the error.
+     * RESOLVED: in the RIF XML syntax (as long as we stick with this
+       non-RDF style), attributes will have no namespace (be unqualified)
+       (so that we can avoid "rif:" in documents)
+     * RESOLVED: Change External(ATOMIC) to External(Atom) or
+       External(Frame) and add text explaining how External frames are
+       supported by the semantics.
+     * RESOLVED: accept the conformance statement on
+       http://www.w3.org/2005/rules/wiki/Conformance for BLD, up to the
+       separator line.
+     * RESOLVED: we'll have an XML such that RIF can operate on RIF
+       documents at a RIF-syntactic-level instead of a DOM level. Requires
+       something like numbering arguments or rdf:parsetype="collection" or
+       ordered="yes".
+     * RESOLVED: use an XML attribute rif:ordered="yes" (as exemplified
+       above) or using an equivalent unique method to specify order, which
+       works like rdf:parseType="Collection" (and rif:type attribute gets
+       qualified again.)
+     * RESOLVED: Close Issue 34 as addressed by text currently in BLD at
+       http://www.w3.org/2005/rules/wiki/BLD#Conformance_Clauses
+     * RESOLVED: RIF will use rif:ordered="yes". This item will be marked
+       "at risk", saying the name and XML details on this bit may change.
+     * RESOLVED: Adopt the XML syntax for metadata in
+       http://lists.w3.org/Archives/Public/public-rif-wg/2008May/0036.html
+       and given as the first example on
+       http://www.w3.org/2005/rules/wiki/Metadata_examples, using
+       conjunction-of-frames instead of all formulas.
+     * RESOLVED: the <id> and <meta> elements can occur under any Class
+       element (this matter is underspecified in 0036, and previous
+       resolution).
+     * RESOLVED: Close Issue 51 (metadata syntax and rule identification)
+       give the decisions made so far this meeting.
+     * RESOLVED: Close Issue 58 (Comments) by suggesting people use Dublin
+       Core, RDFS, and OWL properties for metadata, along the lines of
+       http://www.w3.org/TR/owl-ref/#Annotations -- specifically
+       owl:versionInfo, rdfs:label, rdfs:comment, rdfs:seeAlso,
+       rdfs:isDefinedBy, dc:creator, dc:description, dc:date, foaf:maker.
+       This goes in BLD (near where the metadata syntax goes).
+     * RESOLVED: close Issue 55 (striping and xml syntax and rdf/xml
+       syntax compatibility) addressed by decisions made so far this
+       meeting
+     * RESOLVED: move Issue 57 (xml syntax extensibility) out of critical
+       path
+     * RESOLVED: We say metadata SHOULD survive the translation
+       from-and-back-to RIF
+     * RESOLVED: close Issue 59 as discussed in this meeting
+     * RESOLVED: In Presentation Syntax, the IRIs in rif:iri Consts can be
+       relative.
+     * RESOLVED: We'll use XML 1.0 as amended http://www.w3.org/TR/xml
+       (not XML 1.1) for the XML syntax for BLD.
+     * RESOLVED: make equality-in-the-head a feature-at-risk.
+     * RESOLVED: Mark "at risk" the strictness part of the conformance
+       clause
+     * RESOLVED: Advance BLD to Last Call, pending satisfactory completion
+       of the edits decided at this meeting.
+     * RESOLVED: Publish PRD as a FPWD, given the editorial changes
+       decided so far this meeting (after confirmation of edits by Gary
+       and Adrian).
+     * RESOLVED: The WG requests a 1-year extension, with the work
+       plan/description
+       http://www.w3.org/2005/rules/wiki/Extension_Request_2008
+     * RESOLVED: conditional on reviews by Jos and Chris, publish FLD as
+       2cnd WD
+
+   Resolutions from Telecon 13 May 2008 Agenda Minutes
+     * RESOLVED: to close ISSUE-52 per the current version of BLD and SWC
+       drafts, with the understanding that ISSUE-33 and ISSUE-39, and the
+       new issue to be raised about profile mixing, are moved out of BLD
+       critical path as a consequence.
+     * RESOLVED: (on Axel's point 4) go with Prefix as Axel proposes
+       (whitespace between prefix name and uri), as long as in the
+       presentation syntax it is in a pre-amble, as a directive, so it is
+       not easily confused with a fact.
+     * RESOLVED: Presentation Syntax will follow option 1a (where
+       Const ::= ANGLEBRACKIRI | CURIE | STRING^^ANGLEBRACKIRI |
+       STRING^^CURIE )
+
+   Resolutions from Telecon 6 May 2008 Agenda Minutes (draft)
+     * RESOLVED: close ISSUE-53 as in current
+       http://www.w3.org/2005/rules/wiki/SWC
+
+   Resolutions from Telecon 22 April 2008 Agenda Minutes
+     * RESOLVED: ISSUE-37 is not critical path for BLD.
+     * RESOLVED: ISSUE-38 is not critical path for BLD.
+     * RESOLVED: ISSUE-46 is not critical path for BLD.
+     * RESOLVED: ISSUE-48 is not critical path for BLD.
+
+   Resolutions from Telecon 15 April 2008 Agenda Minutes
+     * RESOLVED: That FLD be published as a FPWD with [three additional]
+       Editor's Notes.
+     * RESOLVED: That BLD be published as a WD with [three additional]
+       Editor's Notes (same as FLD).
+     * RESOLVED: Publish rif-rdf-owl (aka SWC) as WD.
+     * RESOLVED: Close ISSUE-14. It is addressed in the RDF+OWL document
+     * RESOLVED: Close ISSUE-15. It is addressed in the RDF+OWL document
+     * RESOLVED: Close ISSUE-24. It is addressed in the RDF+OWL document.
+       At the time the issue was opened, Core was BLD.
+     * RESOLVED: Close ISSUE-16, it is addressed (as far as Phase 1) in
+       FLD and BLD through the external call mechanism
+     * RESOLVED: Postpone ISSUE-17, ISSUE-18, ISSUE-19 and ISSUE-20. They
+       are not covered by Phase I of RIF.
+     * RESOLVED: Close ISSUE-21 - unclear what it means and most likely
+       subsumed by ISSUE-38.
+     * RESOLVED: Remove ISSUE-26 from critical path (of BLD 1.0).
+
+   Resolution from Telecon 8 April 2008 Agenda Minutes
+     * RESOLVED: Repeal resolution regarding moving "RIF-BLD as a
+       specialization of FLD" to appendix and keep that as last section
+       before refs
+
+   Resolution from Telecon 25 March 2008 Minutes
+     * RESOLVED: Use fully-striped syntax for next WD (option 3 from here)
+
+   Resolutions from Telecon 18 March 2008 Minutes
+     * RESOLVED: Open an issue on terminology around
+       terms/functions/predicates and include an editorial comment in WD2
+       asking for feedback, but keep "atom" and "expr" for this draft.
+     * RESOLVED: remove nested Foralls for BLD WD2. Maybe we'll get some
+       use case some day for putting them back in.
+
+   Resolutions from Telecon 11 March 2008 Minutes
+     * RESOLVED: BLD builtins are not sensitive to order of evaluation
+       (closing issue-40).
+     * RESOLVED: Approve Michael's alternative proposal on lists and
+       update FLD+BLD syntax/semantics accordingly to reflect that and the
+       previous resolution on lists
+
+   Resolutions from F2F9 21-22 Feb, 2008, Paris
+     * RESOLVED: Create a new Document with provisional title "Data Types
+       and Builtins" to contain elements common to all dialects with
+       Harold and Axel as editors.
+     * RESOLVED: make "specialization of FLD" sections (of BLD)
+       appendices, leaving standalone sections in place, and making both
+       standalone and specialization normative.
+     * RESOLVED: make argument names distinct.
+     * RESOLVED: We keep named arguments, explaining in BLD that: A RIF
+       consumer that does not support named arguments can implement them,
+       with relative ease, by treating them as positional arguments (of a
+       different predicate, formed in a stable but
+       implementation-dependent way) in the lexical order of the argument
+       names. (Closing ISSUE-44).
+     * RESOLVED: No reification in BLD. This is like WD1, except no nested
+       frames. A change from 18-Feb draft: Equality, frames, subclass,
+       membership are no longer terms.
+     * RESOLVED: (Approach 3) Functions on error return an error element
+       that is in the domain. BLD Spec does not require that predicates
+       return F on error, just that they have a truth value. BLD spec
+       recommends using guards with builtins, to give predictability.
+       Without guards, rules may behave unpredictability on error.
+
+   Resolution from Telecon 12 February 2008 Agenda Minutes
+     * RESOLVED: Fixed interpretation functions will be represented as
+       functions and fixed interpretation relations as predicates, rather
+       than representing functions as predicates.
+
+   Resolution from Telecon 29 January 2008 Agenda Minutes
+     * RESOLVED: to close issue 36 without action (that is, direct mapping
+       between presentation and XML syntaxes, e.g. presented as a table).
+
+   Resolution from Telecon 22 January 2008 Agenda Minutes
+     * RESOLVED: close issue 45 by including lists in BLD as sequences for
+       both presentation and XML syntaxes.
+
+   Resolution from Telecon 15 January 2008 Agenda Minutes
+     * RESOLVED: to close issue 47 without action (i.e. equality stays in
+       BLD as it is currently specified)
+
+   Resolutions from Telecon 8 January 2007 Agenda Minutes
+     * RESOLVED: Close Issue-43 by including in BLD subclass formulae of
+       the form a ## b. In the RDF compatibility document, ## and
+       rdfs:subClassOf will be connected appropriately, i.e. whenever a ##
+       b holds, a rdfs:subClassOf b is required to hold.
+     * RESOLVED: Close Issue-41 by including in BLD membership formulae of
+       the form c # a. In the RDF compatibility document, # and rdf:type
+       will be connected appropriately, i.e. a # b holds iff a rdf:type b
+       holds.
+
+   Resolution from Telecon 11 December 2007 Agenda Minutes
+     * RESOLVED: Go with Axel's option C, that is using a special syntax
+       to distinguish evaluated functions/predicates from logical
+       functions/predicates
+
+   Resolution from Telecon 4 December 2007 Agenda Minutes
+     * RESOLVED: Close Issue 42 such that the relationship between the xml
+       syntax treatment of constants and the presentation treatment of
+       constants is specified in the syntax mapping table
+
+   Resolutions from Telecon 20 November 2007
+     * RESOLVED: close ISSUE-2 based on Jos' analysis
+     * RESOLVED: We'll refer to XSD 1.0 instead of XSD 1.1 in our document
+       for now, including a clear note that it our intention to change to
+       XSD 1.1 when it becomes available, so that people can use XML 1.1.
+
+   Resolutions from [:F2F8]
+     * RESOLVED: All official (ie standard) dialects will use the main RIF
+       namespace. We will support user extensions using other namespaces.
+     * RESOLVED: WG asks for 6 months extension. Plans to get BLD to Last
+       Call and hold 2 more F2F meetings by end of May.
+     * RESOLVED: Core will be what is currently called BLD with Equality
+       removed, function terms removed, and perhaps safeness, and perhaps
+       slotted terms. We will not get rid of BLD. (Ignoring editorial
+       issues for now) Frames stay in core.
+     * RESOLVED: CLOSE ISSUE 25. Addressed by SWC document.
+     * RESOLVED: close ISSUE-27 with the understanding that neither RIF
+       Core nor RIF BLD will have constraint logic programming.
+     * RESOLVED: close ISSUE-28 with the understanding that RIF Core (as
+       defined earlier today) does not have the problems which caused us
+       to raise this issue.
+     * RESOLVED: to close ISSUE-35 with the understanding that this issue
+       is settled in our latest published version of BLD.
+     * RESOLVED: no invisible extensions (official or user extensions)
+     * RESOLVED: Be nice to Michael until mid-december
+
+   Resolutions from Telecon 23 October 2007
+     * RESOLVED: Short name request for the SWC document will be
+       rif-rdf-owl
+     * RESOLVED: short name request for BLD will be rif-bld, with rif-core
+       being republished as a trivial document referring people to
+       rif-bld.
+
+   Resolutions from Telecon 9 0ctober 2007
+     * RESOLVED: the name of the dialect is RIF basic logic dialect and
+       the short notation is RIF-BLD
+     * RESOLVED: to split RIF Compatibility from BLD and publish 2 drafts
+       simultaneously: RIF-BLD (WD 2) and RIF-COMP (WD 1)
+
+   Resolutions from F2F7
+     * RESOLVED: for BLD WD2, the root element will not be dialect
+       specific
+     * RESOLVED: root element is rif:Document
+     * RESOLVED: To identify rules and rulesets (and other syntactic
+       objects not otherwise having identifiers) we'll use rdf:about or
+       rif:identifier in the next draft. This is envisioned for metadata
+       and should not affect the semantics
+     * RESOLVED: In WD2 there will be no indication of whether order has
+       semantics in XML instance documents. The issue remains open for
+       future drafts.
+     * RESOLVED: In the XML syntax, we'll use full IRIs (not qnames or
+       curies) for Const types, etc. Of course, XML entities can be used.
+     * RESOLVED: dialect-of-authoring is identified by an IRI, which
+       appears in the document as an attribute rif:dialect on the root
+       element (for WD2, until we figure out extensibility)
+     * RESOLVED: We will use Presentation Syntax, with minor changes, with
+       a mapping table to the XML syntax.
+     * RESOLVED: BLD WD2 will have structural model diagrams (which look
+       like UML).
+     * RESOLVED: Remove ASN from BLD WD2.
+     * RESOLVED: For WD2, change structural model so that Forall, Implies,
+       and Atomic are three parallel subclasses of RULE (as shown on
+       Christian's diagram labeled "BLD Rule: alternative")
+     * RESOLVED: The OWL Compatibility text will proceed to Last Call in
+       sync with BLD.
+
+   Resolutions from Telecon 11 September 2007
+     * RESOLVED: we will have naming conventions; people edit the page to
+       propose theirs (with explanation and reasons for any differences
+       from what's already on page)
+
+   Resolutions from Telecon 28 August 2007
+     * RESOLVED: To include the section on frames/classification in the
+       next BLD WD, suitably labelled as "under discussion" with rationale
+       for/against
+
+   Resolutions from Telecon 17 July 2007
+     * RESOLVED: To better understand what RIF Core could be, create two
+       task forces in RIF, one focusing on a logical dialect and the other
+       one focusing on a production rules dialect
+     * RESOLVED: Rename the current "RIF Core" draft: "RIF basic logic
+       dialect"
+     * RESOLVED: Create a "RIF basic PR dialect"
+
+   Resolutions from [:F2F6:F2F6 2-3 June 2007]
+     * RESOLVED: for [:Arch/XML_Syntax:XML syntax issue 2.1. "Should
+       string values be child-elements or attributes?"], the answer is:
+       Use Child Elements
+     * RESOLVED: Add Frames to RIF Core (objects with slots and values,
+       where slots are just binary predicates), roughly as described in
+       [:Core/Slotted_Conditions]. We'll decide about the classification
+       and slotted-predicates separately.
+
+   Resolutions from Telecon 22 May 2007
+     * RESOLVED: RIF Core follows OS ("overlapping sorts") as on
+       http://www.w3.org/2005/rules/wg/wiki/Issue-31 (resolving issue-31)
+     * RESOLVED: RIF Core will require implementations to support an
+       enumerated subset of F&O, used as functions (or predicates if they
+       are boolean functions, like comparators), in an "evaluation" style
+       (with no unbound variables as arguments).
+
+   Resolutions from Telecon 8 May 2007
+     * RESOLVED: To go with 3 (OS) or 4 (OSR), and next week we'll decide
+       between 3 and 4 (cf http://www.w3.org/2005/rules/wg/wiki/Issue-31),
+       closing Issue 31.
+
+   Resolutions from Telecon 17 April 2007
+     * RESOLVED: Change rif:uri to rif:iri for now, we can discuss level
+       of indirection and change it later if there's consensus on a new
+       name (closing Issue 30)
+
+   Resolutions from Telecon 27 March 2007
+     * RESOLVED: Publish first WD of RIF Core
+
+   Resolutions from Telecon 20 March 2007
+     * RESOLVED: Add "The examples of BNF and XML rule syntax given here
+       use the unsorted version of the condition syntax and fail to
+       illustrate the use of URIs for constants. This will be addressed in
+       a future working draft." to the CORE WD
+
+   Resolutions from 5th F2F Meeting
+     * RESOLVED: remove link to draft DTD from Core WD1
+     * RESOLVED: Remove anonymous variables from CORE WD1
+     * RESOLVED: Equal aggregates 2 Terms (one association with
+       multiplicity = 2 in Core condition language diagram)
+     * RESOLVED: we'll keep AND and OR as 0-or-more. (it's a conventional
+       treatment.)
+     * RESOLVED: UML diagram for Core condition language stays in WD1 but
+       with NamedElement and PSort removed
+     * RESOLVED: Use diagram in
+       http://lists.w3.org/Archives/Public/public-rif-wg/2007Feb/0134, in
+       Core WD1, labeled "still under discussion"
+     * RESOLVED: The concrete human-readable syntax, described in BNF, is:
+       work in progress and under discussion. (It was already resolved as
+       being For Illustrative Purposes Only)
+     * RESOLVED: the xmlns to use for WD1 is
+       "http://www.w3.org/2007/01/rif#"
+     * RESOLVED: Any sort defined in Core MUST BE identified by a URI
+     * RESOLVED: replace uri with rif:URI in WD1 and link to issue
+     * RESOLVED: keep text as in draft, which changes datatype list from
+       charter by replacing int with integer
+     * RESOLVED: to publish Core WD1, if ACTIONS assigned in this meeting
+       so far are done to our satisfaction. (That is, no new issues should
+       arise to block publication of Core WD1)
+     * RESOLVED: We'll use UML to help people visualize our abstract
+       syntax. We'll say "these are graphical views of the abstract syntax
+       using UML notation"
+
+   Telecon 20 Feb Resolutions:
+     * webizing will be stalled for after WD1.
+
+   Telecon 6 February 2007 Resolutions:
+     * RESOLVED: March 13 and 20 telecons will be at 4pm CET time (1500
+       UTC, 11am US Eastern)
+     * RESOLVED: Close issue 5
+     * RESOLVED: Close issue 7
+     * RESOLVED: 1st CORE WD will have only placeolders/section titles for
+       "OWL Compatibility" and "RDF COmpatibility"
+     * RESOLVED: 1st WD will include a MOF-UML diagram and a BNF for the
+       syntax (clearly labelled as being for illustration/explanation
+       purposes only)
+     * RESOLVED: 1st WD will contain XML examples, stripe-skipped and
+       clearly labelled as being for illustration purposes only
+
+   Telecon 30 January 2007 Resolutions:
+     * RESOLVED: we'll maintain the XML syntax(es) of RIF in the 2-step
+       process, where step one will use asn06 (contingent on asn06 being
+       defined as a subset of OWL Full or some other standard formalism)
+       and step 2 is the precisely specified mapping from asn06 to XML
+       (striped or stripe skipping or whatever).
+
+   [:F2F4:F2F4 4-5 November 2006] Resolutions:
+     * The RIF CORE will be positve Horn.
+     * RIF Core will be based on current model theory with suitable
+       extensions
+     * RIF core must have a clear and precise syntax and semantics. Each
+       standard RIF dialect must have a clear and precise syntax and
+       semantics that extends RIF core.
+     * For standard RIF dialects, model theories will be normative; in
+       their absence it will be proof theories; in the absence of both it
+       will be operational semantics.
+     * The RIFWG will define useful RIF dialects in Phase 1, e.g.
+       including negation, not necessarily in a Rec
+     * new requirements:
+     * RIF should support the ability to merge rule sets
+     * RIF will support the identification of rule sets
+     * RIF will use URIs as in RDF (see below)
+     * RIF will provide a framework for defining RIF dialects
+     * RIF must have a standard core and a limited number of standard
+       dialects based upon that core
+     * The implementability, semantic precision, standard components, and
+       translator requirements will be treated as "general" (ie not
+       specific to use cases)
+     * RIF will use URIs (IRIs) in the style of RDF and OWL, using them to
+       identify at least: globally named predicates, functions, datatypes,
+       constants (OWL individuals, not literal values), rules, and
+       rulesets.
+     * Translators to and from languages which do not use URIs as names
+       will need to use a name-mapping system (such as namespace prefixes)
+     * RIF does not mandate any particular mapping scheme. It will provide
+       a metadata vocabulary to allow translators to record the mapping if
+       they choose to.
+     * For example, in rule systems where the predicates refer to fields
+       of java objects the metadata annotations might be used to carry the
+       java fully-qualified classname and field name.
+     * For RIF these are purely annotations, any use of them for carrying
+       semantic information steps outside of RIF.
+
+   Retrieved from
+   "https://www.w3.org/2005/rules/wiki/index.php?title=Resolutions&oldid=7
+   795"
+
+Navigation menu
+
+Personal tools
+
+Namespaces
+
+     * Page
+     * Discussion
+
+Variants
+
+Views
+
+     * Read
+     * View source
+
+More
+
+RIF Working Group
+
+     * Home
+     * Events
+     * FAQ
+     * Mail Archives
+     * Public Comments
+     * Blog
+     * Tracker
+     * Test Cases
+     * Implementations
+     * Resolutions
+     * Old Wiki
+     * Telecon Regrets
+     * Meetings
+
+publications
+
+     * Core
+     * BLD
+     * PRD
+     * DTB
+     * SWC
+     * FLD
+     * PlainLiteral
+     * UCR
+     * Test
+
+Tools
+
+     * Special pages
+
+     * This page was last modified on 3 March 2009, at 15:56.
+
+     * Privacy policy
+     * About RIF
+     * Disclaimers

@@ -1,0 +1,922 @@
+   #E-International Relations » Feed E-International Relations » Comments
+   Feed JSON oEmbed (JSON) oEmbed (XML)
+
+     * Articles
+     * Books
+     * Features
+     * Students
+     * More
+          + About us
+          + Donate
+          + Advertise
+          + Join our team
+          + Republication and referencing
+          + Weekly newsletter
+          + Submissions
+          + RSS feed
+
+   Submissions
+   ____________________
+
+   ____________________
+
+     * Articles
+     * Books
+     * Features
+     * Students
+
+     * About us
+     * Submissions
+     * Donate
+     * Advertise
+     * Join our team
+     * Republication and referencing
+     * Weekly newsletter
+
+Filling the Gap: The Moral Purpose of the State and the Duty to Intervene
+
+   Joost Hendrik Pietschmann
+   Download PDF
+   Jun 6 2021 •
+   1,301
+   views
+   This content was originally written for an undergraduate or Master's
+   program. It is published as part of our mission to showcase
+   peer-leading papers written by students during their studies. This work
+   can be used for background reading and research, but should not be
+   cited as an expert source or used in place of scholarly articles/books.
+   WikiImages/Pixabay
+   WikiImages/Pixabay
+
+   What responsibilities do governments have for the human rights of
+   people living under the jurisdiction of other states? For instance, is
+   there a reason for intervention on humanitarian grounds when a
+   political regime is (i) harming its own citizens or (ii) unable to
+   prevent harm imposed on its citizens by another actor? When, given the
+   importance of state sovereignty in international law, can intervention
+   in such cases be regarded as legal, and is there a scenario in which it
+   is morally permissible to engage in illegal humanitarian intervention?
+   If there is a moral and/or legal right to intervene, does this also
+   constitute an obligation for states to intervene?
+
+   The above questions have now concerned scholars since the establishment
+   of the modern state in the wake of the Westphalian peace. However, they
+   still have not lost any of their urgency as situations continue to
+   arise frequently in which human rights violations are taking place
+   within the jurisdiction of sovereign states. For most of this time, the
+   debate revolved around the question of permissibility and thus if
+   intervention can be considered as either a moral or a legal right or
+   both. Yet, in recent years the scholarly dialogue has shifted from
+   questioning and/or positing a right to intervene towards questioning
+   and/or positing a duty to intervene (Bagnoli 2006: 118). One reason for
+   why this shift occurred is undoubtedly the release of the report by the
+   International Commission on Intervention and State Sovereignty
+   (ICISS)[1] in 2001, The Responsibility to Protect (R2P), and the
+   ratification of parts of it by all member states of the United Nations
+   at the 2005 World Summit.[2]
+
+   The report develops the idea that the notion of sovereignty as control
+   (meaning that a state has total authority over its own people) should
+   be replaced by understanding sovereignty as responsibility (meaning
+   that the state carries a duty of safeguarding the basic human rights of
+   its citizens) (ICISS 2001: 2.14, 2.15). On this account, it follows
+   that the sovereignty of a state can be temporarily suspended in cases
+   in which it is rendered unable or is unwilling to meet its
+   responsibility of protecting the human rights of its citizens (e.g. in
+   the case of genocide, war crimes, ethnic cleansing, and crimes against
+   humanity). In such cases, the ‘responsibility to protect’ these
+   citizens is automatically reassigned to the international community
+   which carries a ‘responsibility to react’ that may involve humanitarian
+   intervention given the fact that all non-military means have been
+   exhausted first (ICISS: 4.1; Pattison 2008: 262). What is astonishing
+   is the fact that R2P argues both that a state’s sovereignty is
+   contingent on its ability to protect the basic human rights of its
+   citizens and that intervention becomes a moral obligation for outside
+   actors once a state fails at upholding its ‘responsibility to protect’.
+   As a result, the report moves away from regarding humanitarian
+   intervention as something that is permissible under certain
+   circumstances – a right – towards viewing it as a responsibility that
+   falls on the international society – a duty (Pattison 2008: 263;
+   Pattison 2013: 571).
+
+   In this regard, however, the report does not explain why an
+   intervention, just by virtue of being permissible, also generates a
+   duty that obliges international society ‘to protect’. Instead, it
+   simply assumes that this ‘international responsibility to protect’
+   arises once the principle of non-intervention is overridden (Tan 2006:
+   88). There is obviously a gap in this reasoning. In order to posit a
+   duty to protect human rights that yields an obligation for states to
+   intervene in the affairs of other states, there has to be proof of a
+   positive duty[3] created by these rights that applies to all states in
+   the same way. However, I believe that one can certainly produce the
+   proof that is missing here. In order to evidence my assertion, I will
+   present a constructivist argument for (i) why it makes sense to replace
+   the notion of sovereignty as control with sovereignty as responsibility
+   and (ii) for why intervention becomes a duty that falls on
+   international society once we acknowledge the political reality of (i).
+   Following from this, I am going to explain that states should intervene
+   in the affairs of other states in order to defend human rights.
+
+   My argument proceeds in three steps. First, by comparing realist,
+   liberal and constructivist conceptions of human rights, I will show how
+   the constructivist understanding is the only one of the “big three”
+   metatheories that acknowledges the political reality of human rights,
+   that is, defining standards of conduct applicable to political
+   arrangements. Second, I will show that sovereignty can be thought of in
+   a similar way to human rights which means that it also has a
+   functional, political reality that must be recognised. Here, drawing on
+   the work of Christian Reus-Smit, I will explain that the function it
+   fulfils is guarding the ‘moral purpose of the state’ which is the
+   protection of human rights. This enables me to prove that the political
+   realities of human rights and sovereignty are co-dependent. Finally, as
+   a third step, I will explain how this co-dependency yields a positive
+   duty on the side of international society to intervene in the affairs
+   of sovereign states to protect human rights. In this regard, I will
+   further present evidence for why discharging such duty can also happen
+   for practical instead of moral reasons whereby I am going to provide
+   two examples: (i) status enhancement, and (ii) prevention of
+   international insecurity.
+
+   Sovereignty as Responsibility
+
+   (i) How should human rights be conceived?
+
+   Let us begin by taking a closer look at what can be termed the realist
+   perspective of human rights. In this regard, it is important to note
+   first that realists themselves have paid very little attention to human
+   rights. For this lack of interest, there are at least two reasons.
+   First of all, realists understand human rights as being part of ethics
+   and thus belonging to domestic politics, the working of which they
+   regard to be diametrically opposed to international politics (Casla
+   2018: 143). This assumption is closely tied to the realist notion of
+   the international realm being characterised by anarchy and thus an
+   environment in which ethics has no place, meaning that an act being
+   right or wrong only depends on the result of the act itself. As a
+   consequence, the realist tradition has tended to view human rights as a
+   secondary state goal that is subordinate to security (Wagner 2014:
+   2).[4] A second reason is that realists are generally sceptical towards
+   the concept of international law (Morgenthau 1940; Krasner 2002), and
+   the idea that there is something akin to a universal morality that
+   could figure as a bedrock for an international legal regime that
+   incorporates the protection of human rights (Morgenthau 1948). Realists
+   consider such aspects of international politics to be simply
+   epiphenomenal which means that they mirror the balance of power, but do
+   not restrict or shape state behaviour referring to the fact that norms
+   get subsumed ‘in the material structure of the international system’
+   (Mearsheimer 1995: 91). Accordingly, realists argue that states may
+   establish and enforce international legal norms and institutions to
+   protect human rights yet that it is not the norms themselves that shape
+   the particular way in which a state acts but instead it is the
+   underlying material interests and power relations that determine the
+   state’s behaviour (Slaughter 2011).
+
+   Their scepticism thus stems, first and foremost, from a worry that
+   admonitions to obey such legal and institutional norms might be used
+   malevolently by states to hide the pursuit of narrow selfish interests
+   (Dunne and Hanson 2016: 63; Donnelly 1999). In this sense, realists
+   criticise human rights policies for inevitably having a tendency to be
+   selective and biased.[5] For example, states might stress the
+   significance of human rights when dealing with some states but not with
+   others with whom they have certain kinds of links (e.g. close trade
+   relations). This shows, the objection runs, that states are
+   self-interested actors that inevitably take a partial approach to
+   further their own goals illustrating that they are not really ever
+   worried about human rights (Caney 2005: 93-94). Consequently, realists
+   regard human rights and individuals’ interests as largely peripheral to
+   international relations. They perceive of morality as an appropriate
+   standard for judging individual relations, but not the relations of
+   states as the latter remains to be governed by the logic of power and
+   interest. It follows that, from a realist perspective, individuals are
+   objects, rather than subjects, of international politics. Thus, they
+   certainly have no claim, beyond a moral claim, on other states or
+   international society which is why the most that they can hope for is
+   that their own state will act on their behalf (Donnelly 1993: 617).
+
+   However, if human rights are secondary to the study of international
+   relations as they do not determine state behaviour but only figure as a
+   veil behind which states can hide their self-interest, why would these
+   states adopt something like R2P which ultimately waves the
+   irrevocability of the principle of non-intervention (which is at the
+   heart of realism), thus forfeiting some of their sovereignty in the
+   name of human rights? Moreover, if states are pursuing their interests
+   in anarchic conditions, why would they be concerned with their
+   legitimacy from a human rights perspectives as evidenced by jointly
+   establishing human rights bodies at the international and regional
+   level, and endowing these bodies with rights to enforcement?[6] In this
+   regard, it appears, human rights have proven to be anything but
+   marginal to international relations as their repeated violation has
+   triggered debates questioning the limit of state rule over society and
+   national sovereignty. Accordingly, human rights issues even pose a
+   particularly potent challenge to the central logic of a system of
+   independent, sovereign states under anarchy and thus to one of the key
+   assumptions of realism whereby such development cannot be explained by
+   a logic of self-interest (Sikkink 1998: 517).
+
+   Then, since the realist perspective ignores the fact that human rights
+   matter for the study of international relations in so far as they seem
+   to be able to drive and/or shape state behaviour, it is now time to
+   consider a second approach that is more sensitive towards this reality:
+   liberalism. While liberal thinking differs, the central idea is that
+   individuals have a set of basic rights that they enjoy by virtue of
+   being human.[7] Accordingly, the liberal perspective of human rights
+   adopts what has been termed moral universalism. On this view there are
+   some moral values that are valid across the world. If X is morally
+   universal, then X applies to all persons. Thus, the liberal perspective
+   considers defending human rights as defending natural claims of human
+   beings. It follows, that for adherents of the liberal perspective the
+   function of human rights can be separated from the existing political
+   reality of human rights. Then, to determine whether X qualifies as a
+   human right, one does not need to look at the purpose X is supposed to
+   serve in real-world politics. Rather, one only needs to consider if X
+   is a ‘normatively salient interest attached to our status as human
+   beings’ that is profound enough to place a duty of respect and
+   protection on others (Valentini 2012b: 180; Raz 1986: ch. 7).As
+   evidence for this conception liberals point to the fact that moral
+   universalism has been increasingly embedded into the practice of
+   international politics since the birth of the Enlightenment. Starting
+   off from Europe, over time, the rights of citizens became enshrined in
+   legal constitutions all over the world, the slave trade was abolished
+   and criminalised, workers’ rights became acknowledged, and
+   international humanitarian law was expanded. These advances finally
+   became codified in the Universal Declaration of Human Rights (UDHR) in
+   1948 which is regarded by liberals as the ratification or rather the
+   acknowledgement of the existence of moral universalism (Dunne and
+   Hanson 2016: 63).
+
+   The liberal conception of human rights, however, suffers from a serious
+   weakness: namely the fact that it is insensitive towards the function
+   of human rights. As Valentini explains, “human rights are a
+   political-legal construct that emerged under particular circumstances
+   and which places constraints primarily on the conduct of states and
+   their officials, rather than on that of individuals” (Valentini 2012a:
+   576). However, on the liberal perspective this functional reality gets
+   lost as it assumes human rights to be something that exists
+   independently of the relationship between states and individuals. Thus,
+   the liberal perspective regards the implementation of these rights as a
+   moral obligation rather than an illustration of a particular consensus
+   that exists among actors and institutions in international society and
+   which has some function: that is, to define standards of conduct
+   applicable to political arrangements. That the latter instead of the
+   former is the political reality was probably illustrated best by Hannah
+   Arendt’s reflections on the refugees and rejects that have been
+   expelled from their political communities as a consequence of World War
+   II:
+
+     The conception of human rights based upon the assumed existence of a
+     human being as such broke down at the very moment when those who
+     professed to believe in it were for the first time confronted with
+     people who had indeed lost all other qualities and specific
+     relationships – except that they were still human. The world found
+     nothing sacred in the abstract nakedness of being human.
+     – Hannah Arendt (1951: 299)[8]
+
+   Thus, it seems that human rights matter only in the context of
+   political arrangements (such as states) and that individuals are
+   deprived of them once they are failed by these arrangements. This,
+   again, highlights the political reality of human rights (i.e. serving a
+   function) as these rights predominantly matter for the conduct of the
+   state towards its citizens or in the case when a state breaks down or
+   is threatened by civil war. A further illustration of this reality can
+   be provided by the fact that many of the rights postulated by the UDHR
+   have a limited scope that only applies to the territory of the state to
+   which the right holder belongs or in which she resides. The idea of a
+   human right to free elementary education (§26.1 UDHR) or the right to
+   equal access to public service (§21.2 UDHR), for example, only make
+   sense when there exists a state-supported school system and public
+   service. Beyond that, these rights are generally understood as not
+   imposing duties upon foreigners. For example, the right to equal pay
+   for equal work (§23.2 UDHR) does not impose any duty on foreigners to
+   help maintain such equality within some country X or internationally
+   (Pogge 2000: 47-48). Consequently, it is safe to say that the liberal
+   perspective is also an insufficient starting point for considering if
+   states should intervene in the affairs of other states in order to
+   protect human rights as it ignores the reality of human rights in
+   international relations. What is needed is a theory that is sensitive
+   towards this reality and which does not disregard human rights as
+   marginal or insignificant the way realism does. This theory, as I will
+   argue, is constructivism.
+
+   Constructivists perceive of international norms as “shared
+   understandings as to the permissible limits of state action, and an
+   acceptance that conduct should be justified and appraised in terms of
+   that norm” (Wheeler 2002: 30).[9] In this regard, they are viewed as
+   having a social ontological character meaning that they are social
+   rather than natural facts. Accordingly, the application of
+   international norms is regarded as a social construction co-constituted
+   by the members of international society (Kuo 2014: 79). Viewing
+   international politics according to this dynamic is helpful for
+   understanding the development of human rights. Similar to social life,
+   the international realm is constituted by a variety of contending sets
+   of expectations as to how actors ought to behave (Dunne & Hanson 2016:
+   64). Adopting a terminology created by John Rawls the rules of conduct
+   that are reached despite this disunity can be referred to as an
+   ‘overlapping consensus’. What is meant by this with regard to human
+   rights is that people of different faiths or secular traditions (what
+   Rawls refers to as ‘comprehensive doctrines’) can still and do converge
+   on some common moral values. They thus reach an ‘overlapping consensus’
+   on a set of human rights even though they disagree on as to which moral
+   theory is the most plausible to ground these rights (Caney 2005: 29;
+   Donnelly 2007). Such consensus then is political rather than moral or
+   religious which means that it is socially constructed rather than “by
+   nature” of human rights itself. Understanding human rights in this
+   sense, constructivists then argue that the inter-state order can be
+   transformed by the social construction of norms (as their acceptance
+   establishes that conduct should be justified and appraised in terms of
+   these norms) and has in fact been transformed in this way by the
+   emergence of a consensus on universal human rights in the form of the
+   UDHR (this will become apparent in the next section) (Dunne & Hanson
+   2016: 64). Thus, constructivism acknowledges both the fact that human
+   rights are an integral part of international relations and the fact
+   that these rights are, first and foremost, political insofar that they
+   fulfil a function, that is, to define standards of conduct applicable
+   to political arrangements. Having established the political reality of
+   human rights in this way, it is now time to take an in-depth look at
+   sovereignty in order to examine how it relates to the former.
+
+   (ii) The co-dependency of human rights and sovereignty
+
+   Recall the fact that the political reality of human rights is one of a
+   social construct that is fulfilling a specific function which is
+   defining standards of conduct applicable to political arrangements.
+   Continuing to adopt a constructivist perspective, one can think of
+   sovereignty in the same way.
+
+   Although sovereignty and especially anarchy were once taken as enduring
+   facts of the international realm, a number of authors has now shown
+   that they are better understood as ‘social facts’ (Searle 1995) or
+   ‘social kinds’ (Bhaskar 1979; Wendt 1999), that is, social constructs
+   that are produced and reproduced through the practices of states (Lake
+   2003: 308). Accordingly, sovereignty has to be understood as nothing
+   exogenous to the system but as a principle of historical contingences
+   meaning that “the division of sovereignty by territory (internal or
+   external) and by identity (similar or different) is neither natural nor
+   necessary but the result of several historical developments” (Kuo 2014:
+   79).[10] In this regard, then, sovereignty is to be seen as also
+   fulfilling a function. This has been illustrated most powerfully by
+   Reus-Smit (1997; 1999; 2001) who links sovereignty to the ‘moral
+   purpose of the state’ which is to be regarded as the embodiment of the
+   constitutive values defining legitimate statehood and rightful action.
+   Reus-Smit explains that “the idea of sovereignty did not emerge in a
+   moral vacuum but had to be justified, and that justification has always
+   taken the form of an appeal to higher-order values that define the
+   identity or raison d’être of the state” (Reus-Smit 2001: 527). What is
+   meant by this is that sovereignty has always been tied to a conviction
+   on what the state’s purpose (i.e. its function) is as well as to its
+   ability of fulfilling this purpose (Reus-Smit 1997: 566-571).
+   Accordingly, sovereignty is to be understood as being contingent on
+   fulfilling its function – that is guarding the ‘moral purpose of the
+   state’. Obviously, what is associated with this purpose and thus what
+   is considered as the threshold to be reached for an actor to be granted
+   legitimate statehood has changed over time.[11] However, as evidenced
+   by the UDHR consensus, the moral purpose of the state has come to be
+   most commonly linked to the cultivation of an environment in which
+   individuals can freely pursue their interests protected by a particular
+   set of state-sanctioned ‘rights’ (Reus-Smit 1997: 571). These rights,
+   then, are at minimum the basic civil and political rights agreed upon
+   in the UDHR and thus a subset of the account of human rights on which
+   there is an overlapping consensus in international society. It follows
+   that, under the consensus of the UDHR (which resembles the contemporary
+   agreement on the set of rights that constitute the moral purpose of the
+   state), sovereignty and human rights are co-dependent as the latter
+   enables and legitimizes the former while the former enables recognition
+   and protection of the latter.
+
+   Identifying and being aware of this relationship, then, provides the
+   necessary justification for why sovereignty as control should be
+   replaced by sovereignty as responsibility. This is the case, because
+   framing sovereignty in this way acknowledges political reality which
+   means that it is sensitive towards the fact that there is a consensus
+   on the moral purpose of the state (i.e. the gateway for sovereignty)
+   being the guardian of human rights. The sovereignty that is granted to
+   a state by international society under the current consensus, thus, can
+   be regarded as being dependent on this state fulfilling its
+   responsibility towards its citizens. Failure, in this regard, will
+   certainly result in this state being publicly condemned and its
+   sovereignty being partially or fully revoked due to it losing its
+   legitimacy. Examples for this include, first and foremost, the passage
+   of resolutions in the UN (i) to publicly denounce the failure of a
+   state to uphold its moral purpose (e.g. UNGA Resolution A/RES/74/246
+   condemning human rights abuses against Myanmar’s Rohingya Muslims),
+   (ii) to impose sanctions on such state (e.g. UNSC Resolution 181
+   imposing an arms embargo on South Africa in response to its Apartheid
+   policies) or (iii) to authorize military intervention (e.g. UNSC
+   Resolution 1973 authorizing the intervention in Libya).
+
+   Intervention
+
+   After having provided a rationale for why sovereignty should be framed
+   as responsibility in the previous section, what remains to be done is
+   to prove that the co-dependency of human rights and sovereignty indeed
+   yields a positive duty for states to intervene in the affairs of other
+   states in order to defend human rights.
+
+   Human rights (such as the right to life and freedom from violence and
+   injury) are what is called Hohfeldian claim rights, that is, duties
+   that are owed to other individuals (Hohfeld 1917). In this sense, as
+   Valentini points out, they follow a particular logical structure: “For
+   an agent A to have a right to X against another agent B is for A to
+   have the standing, or authority, to demand X from B” (Feinberg 1970;
+   Valentini 2016: 53). It follows, that the notion of a right is to be
+   understood as combining a duty (a moral ‘ought’) with a structure of
+   interpersonal accountability for the duty’s fulfilment (Valentini 2016:
+   53). The political reality of this structure was revealed by the
+   constructivist perspective which has shown that sovereignty is granted
+   by the state discharging its duty to provide protection of human rights
+   which has become regarded as fulfilling its moral purpose. Here, the
+   structure of interpersonal accountability for the duty’s performance is
+   given by the relationship between sovereignty and human rights where
+   the latter enables and legitimizes the former while the former enables
+   recognition and protection of the latter. Thus, individuals have a
+   standing, or authority, to demand X from B where B is the state.
+   However, what remains unclear is how this would create a positive duty
+   on the side of other states to intervene when B fails to discharge its
+   duty.
+
+   In order to shed some light on this recall the fact that the
+   overlapping consensus on the moral purpose of the state (that is
+   illustrated by the UDHR and the acceptance of the R2P doctrine’s idea
+   to replace sovereignty as control with sovereignty as responsibility)
+   is used as a means to determine which states can justify their
+   sovereignty and thus their legitimacy to international society by
+   fulfilling their function of protecting individuals’ rights. Beyond
+   that, as was shown in the previous section, what this consensus
+   constitutes is that these rights are regarded to be universally agreed
+   upon (even though the underlying comprehensive doctrines differ) what
+   in turn establishes them as what is called a norm on the constructivist
+   perspective (i.e. a shared understanding as to the permissible limits
+   of state action, and an acceptance that conduct should be justified and
+   appraised in terms of that norm) (Wheeler 2002: 30). The norm of human
+   rights protection understood as the ‘moral purpose of the state’ is
+   thus to be seen as one of the ordering principles of international
+   society (a shared understanding which binds together it members)
+   meaning that it is universal in scope with respect to the actors of
+   international society. Then, if these rights are universal in scope and
+   universally accepted as an international norm, they constitute a claim
+   that is held against every agent and/or agency that is part of
+   international society. It follows that in so far as these human rights
+   are universal, they will have primary and secondary addressees in the
+   sense that they yield a special positive perfect duty[12] in the
+   domestic environment of the state and a general imperfect duty[13] in
+   international society. What is meant by this is that their ‘claim
+   against’ is directed at a particular agent (the state) in the domestic
+   environment whereas such claim does not have a particular addressee in
+   international society that could be held accountable.
+
+   To illustrate this further, consider the addressees of the right to
+   freedom from torture. Based on the moral purpose of the state, each
+   government has the duty to safeguard people within its borders from
+   torture and to take the necessary steps to prevent, deter, and stop
+   torturing (Nickel 1993: 80-81). The states sovereignty being contingent
+   on its ability to discharge such duty then highlights why it cannot
+   refrain from doing so and why human rights protection constitutes a
+   special positive perfect duty in the domestic nexus for which the state
+   can be held accountable by its citizens. However, such an explicit
+   structure of interpersonal accountability for the duty’s performance
+   cannot be found in international society as citizens of some state A do
+   not have a claim against any particular agent i of international
+   society S in so far that they have not opted into a constitutional
+   structure with i.
+
+   However, the fact that human rights protection thus constitutes a
+   general and imperfect duty with respect to international society does
+   not revoke its validity. Being a shared understanding which binds
+   together international society, the norm still acknowledges that human
+   rights are to be protected. This means that it does not deny that
+   someone ought to act but expounds that there simply is no identifiable
+   agent who can be called upon to act (Tan 2006: 102). What is important
+   is that the issue of agency here is thus not conceptual but strategic.
+   Hence, even if it is not directed at any agent in particular, the duty
+   of human rights protection still demands full coverage. As Shue
+   explains, “universal rights, then, entail not universal duties but full
+   coverage” (Shue 1988: 690). This means that, even though human rights
+   (being understood as universal under the UDHR consensus) do not compel
+   everyone in the same way to act to aid their protection as they compel
+   everyone not to violate them, it is still the case that they compel
+   action in general. This means that all international actors do have an
+   obligation to cooperate and coordinate so that the duty of human rights
+   protection canbe effectively discharged. In this sense, that is
+   contributing towards the protection of human rights, intervention in
+   the affairs of other states is a positive duty that falls on every
+   state of international society respectively. Full coverage, then, is to
+   be provided by a division of labour amongst duty-bearers (Shue 1988:
+   690). Here, there are a number of actions that outside actors can
+   undertake to comply with this default duty. They might publicly condemn
+   the human rights violations, apply diplomatic pressure, or impose
+   sanctions (both military and economic).
+
+   However, in situations in which the last resort condition for military
+   intervention is met by the seriousness and urgency of the human rights
+   violations that are taking place (e.g. one of the four crimes outlined
+   in R2P adopted by the UN), it seems reasonable to suggest that states
+   would be morally obliged to effectively discharging their duty to
+   protect by contributing to such intervention (e.g. by providing needed
+   equipment, infrastructure or troops) (Glanville 2014: 52).
+   Nevertheless, it needs to be mentioned that active participation in a
+   military intervention is only a moral obligation so long as it does not
+   bear excessive cost to oneself. What is meant by this is that it cannot
+   be expected that states engage in intervention if such intervention
+   would severely endanger their capacity to protect the rights of their
+   own citizens. However, this does not undermine the positive duty of
+   intervention as such but rather obliges international society to
+   distribute the costs more evenly so that the universal protection of
+   human rights may still be discharged (Glanville 2014: 56-57).
+
+   Finally, as mentioned in the introduction, there are also practical
+   reasons for why states can have an interest in discharging their
+   positive duty of protecting human rights beyond their own borders. This
+   again is linked to the political reality acknowledged by adopting a
+   constructivist perspective. As Raymond Cohen has explained, “[j]ust as
+   the relationship of the individual to society is defined by a network
+   of norms and values, the relationship of the state to other actors in
+   the international system can be thought of as being governed by a
+   network of permissions and constraints” (Cohen 1980: 129). State
+   identity, thus, is shaped by the mutual constitution of agential and
+   structural interaction in international society by which the shared
+   understandings as to the permissible limits of state action (i.e. the
+   norms) are created. In this regard, then, international society is
+   characterised by compliance and not by enforcement, which means that
+   infringing upon the ‘rules’ seldomly leads to direct punishment but
+   that sustained deviation from the standards, on which there is
+   consensus in international society, may severely damage the reputation
+   of a given political actor (Malcom 2009: 36-37). Hence, factors such as
+   fearing infamy or desiring acceptance can be as potent as prevalence of
+   economic or military influence in terms of their ability to incentivise
+   compliant behaviour. It follows that discharging the positive duty of
+   human rights protection abroad might just be a matter of a state’s
+   interest in enhancing its status in international society[14] or making
+   sure that it is not eroded because other actors deem inaction in the
+   face of human rights violations as unacceptable.
+
+   Yet, there is a second practical reason that should be mentioned. This
+   reason is related to the fact that not acting in the face of gross
+   human rights violations erodes the authority of the UN as the primary
+   facilitator of international legitimacy. The UN having
+   institutionalized the overlapping consensus on human rights (the UDHR),
+   the fact that human rights and sovereignty are co-dependent (R2P), and
+   the threshold for legitimate intervention (R2P) is to be regarded as
+   bearing the duty to oversee international society’s most extensive
+   moral commitments. Then, if it would fail to secure that these
+   commitments are upheld there is a risk that states would start to
+   attempt addressing this moral deficit by looking elsewhere or acting
+   unilaterally (Gallagher 2013: 89-90). The threat that arises from this
+   is not that unilateral action may not be able to prevent the human
+   rights violations that are taking place, but that the UN’s authority
+   may become damaged to the extent at which international instability
+   will emerge as a result of the fact that the understanding of what
+   constitutes rightful conduct and rightful authority with regard to the
+   use of force (previously defined and monitored by the UN) has become
+   open to interpretation. This would naturally lead to a heightened sense
+   of insecurity in international society. It follows, that a state’s move
+   on discharging its positive duty of human rights protection abroad can
+   also be linked to this state wanting to guarantee that international
+   order continues to be upheld and thus to its own security concerns.
+
+   Conclusion
+
+   According to the above, we can assert that the essay has successfully
+   shown (i) why it makes sense to replace the notion of sovereignty as
+   control with sovereignty as responsibility and (ii) why intervention
+   becomes a duty that falls on international society once we acknowledge
+   the political reality of (i). This was done by adopting a
+   constructivist conception of human rights which ultimately has yielded
+   a picture of human rights and sovereignty being co-dependent. In doing
+   so, the essay was able to close a gap in the reasoning of the
+   ‘Responsibility to Protect doctrine’ and further demonstrate why states
+   should intervene in the affairs of other states in order to defend
+   human rights. It was further illustrated why discharging the duty to
+   protect can also happen for practical instead of moral reasons whereby
+   two examples for such practical reasons were presented: (i) status
+   enhancement, and (ii) prevention of international insecurity.
+
+   References
+
+   Arendt, H. (1951). The Origins of Totalitarianism. London: André
+   Deutsch, 1989.
+
+   Bagnoli, C. (2006). Humanitarian Intervention as a Perfect Duty: A
+   Kantian Argument. Nomos, 47, 117-140.
+
+   Bhaskar, R. (1979). The Possibility of Naturalism. Atlantic Highlands:
+   Humanities Press.
+
+   Bellamy, A. J. (2010). The Responsibility to Protect: Five Years On.
+   Ethics & International Affairs, 24(2), 143-169.
+
+   Bellamy, A. J. (2011). Libya and the Responsibility to Protect: The
+   Exception and the Norm. Ethics & International Affairs, 25(3), 263-269.
+
+   Breakey, H. (2015). Positive Duties and Human Rights: Challenges,
+   Opportunities and Conceptual Necessities. Political Studies, 63,
+   1198-1215.
+
+   Brown, C. (2002). On Morality, Self-Interest and Foreign Policy.
+   Government and Opposition, 37(2), 173-189.
+
+   Bull, H. (1977). The Anarchical Society: A Study of Order in World
+   Politics. New York: Columbia University Press.
+
+   Caney, S. (2005). Justice Beyond Borders: A Global Political Theory.
+   Oxford: Oxford University Press
+
+   Casla, K. (2018). Realism: Human Rights Foe? In D. Orsi, J. R. Avgustin
+   & M. Nurnus (Eds.), Realism in Practice: An Appraisal (pp. 143-155),
+   Bristol: E-International Relations.
+
+   Cohen, R. (1980). Rules of the Game in International Politics.
+   International Studies Quarterly, 24(1), 129-150.
+
+   Donnelly, J. (1993). Human rights, humanitarian crisis, and
+   humanitarian intervention. International Journal, 48(4), 607- 640.
+
+   Donnelly, J. (1999). The social construction of human rights. In T.
+   Dunne & N. Wheeler (Eds.), Human Rights in Global Politics (pp.71-102),
+   Cambridge: Cambridge University Press.
+
+   Donnelly, J. (2007). The Relative Universality of Human Rights. Human
+   Rights Quarterly, 29(2), 281-306.
+
+   Dunne, T. & Hanson, M. (2016). Human Rights in International Relations.
+   In M. Goodhart (Eds.), Human Rights: Politics and Practice, Oxford:
+   Oxford University Press.
+
+   Evans, G. & Sahnoun, M. (2001). The Responsibility to Protect. Ottawa:
+   International Commission on Intervention and State Sovereignty.
+
+   Feinberg, J. (1966). Duties, Rights, Claims. American Philosophical
+   Quarterly, 3(2), 137-144.
+
+   Feinberg, J. (1970). The Nature and Value of Rights. The Journal of
+   Value Inquiry, 4(4),  243-260.
+
+   Finnemore, M. & Sikkink, K. (1998). International Norm Dynamic and
+   Political Change. International Organization, 52(4), 887-917.
+
+   Fredman, S. (2008). Human Rights Transformed: Positive Rights and
+   Positive Duties. Oxford: Oxford University Press.
+
+   Glanville, L. (2014). Is Just Intervention Morally Obligatory? In C. E.
+   Gentry & A. E. Eckert (Eds.), The Future of Just War: New Critical
+   Essays (pp. 48-61), Athens: University of Georgia Press.
+
+   Hohfeld, W. (1917). Fundamental Legal Conceptions as Applied in
+   Judicial Reasoning. The Yale Law Journal, 26(8), 710-770.
+
+   Humphreys, J. (2016). Stop Kidding yourself, you have no human rights.
+   Retrieve from
+   https://www.irishtimes.com/opinion/joe-humphreys-stop-kidding-yourself-
+   you-have-no-human-rights-1.2602455
+
+   Jeske, D. (2019). Special Obligations. The Stanford Encyclopedia of
+   Philosophy (Fall 2019 Edition), Edward N. Zalta (ed.), URL =
+   <https://plato.stanford.edu/archives/fall2019/entries/special-obligatio
+   ns/>.
+
+   Johnston, A. I. (2008). Social States: China in International
+   Institutions, 1980–2000. Princeton: Princeton University Press.
+
+   Kant, I. (1795). Perpetual Peace. New York: Columbia University Press
+   (1939).
+
+   Krasner, S. (2002). Realist Views of International Law. Proceedings of
+   the Annual Meeting (American Society of International Law), 96,
+   265–268.
+
+   Kuo, H.-C. (2014). The Social Construction of the Norms of
+   “Responsibility to Protect” and “Humanitarian Interventions” under the
+   United Nations: A Constructivist Perspectives. Taiwan Journal of
+   Political Science, 62, 79-114.
+
+   Lake, D. A. (2003). The New Sovereignty in International Relations.
+   International Studies Review, 5(3), 303-323.
+
+   Mearsheimer, J. (1995). A Realist Reply. International Security, 20(1):
+   82–93.
+
+   Malcom, C. (2009). Being and Becoming: Humanitarian Intervention and
+   the Constructed Duty of Justice. Ann Arbor: ProQuest LLC
+
+   Morgenthau, H. (1940). Positivism, Functionalism, and International
+   Law. The American Journal of International Law, 34(2), 260–284.
+
+   Morgenthau, H. (1948). The Twilight of International
+   Morality. Ethics 58(2), 79–99.
+
+   Nickel, J. W. (1993). Human Rights Generate Duties to Protect and
+   Provide. Human Rights Quarterly, 15(1), 77-86.
+
+   Pattison, J. (2008). Whose Responsibility to Protect? The Duties of
+   Humanitarian Intervention. Journal of Military Ethics, 7(4), 262-283.
+
+   Pattison, J. (2013). Is There a Duty to Intervene? Intervention and the
+   Responsibility to Protect. Philosophy Compass, 8(6), 570-579.
+
+   Paul, T. V., Larson, D. W. & Wohlforth, W. C. (2014). Status in World
+   Politics. Cambridge: Cambridge University Press
+
+   Philpott, D. (2001). Revolutions in Sovereignty: How Ideas Shaped
+   Modern International Relations. Princeton, NJ: Princeton University
+   Press.
+
+   Pogge, T. (2000). The International Significance of Human Rights. The
+   Journal of Ethics, 4(2), 45-69.
+
+   Raz, J. (1986). The Morality of Freedom. Oxford: Clarendon.
+
+   Reus-Smit, C. (1997). The Constitutional Structure of International
+   Society and the Nature of Fundamental Institutions. International
+   Organization, 51(4), 555-589.
+
+   Reus-Smit, C. (1999). The Moral Purpose of the State: Culture, Social
+   Identity, and Institutional Rationality in International Relations.
+   Princeton: Princeton University Press.
+
+   Reus-Smit, C. (2001). Human Rights and the Social Construction of
+   Sovereignty. Review of International Studies. 27, 519-538.
+
+   Ruggie, J. (1993). Territoriality and beyond: problematizing modernity
+   in international relations. International Organization, 47(1), 139-174.
+
+   Schmitt, C. (1932). The Concept of the Political. Chicago and London:
+   Chicago University Press (1996).
+
+   Searle, J. (1995). The Construction of Social Reality. New York: Free
+   Press.
+
+   Shue, H. (1988). Mediating Duties. Ethics, 98(4), 687-704.
+
+   Sikkink, K. (1998). Transnational Politics, International Relations
+   Theory, and Human Rights. PS: Political Science and Politics, 31(3),
+   516-523.
+
+   Slaughter, A.-M. (2011). International Relations, Principal Theories.
+   May Planck Encyclopedia of Public International Law.
+
+   Tan, K.-C. (2006). The Duty to Protect. Nomos, 47, 84-116.
+
+   Tannewald, N. (2007). The Nuclear Taboo: The United States and the
+   Non-Use of Nuclear Weapons Since 1945. Cambridge: Cambridge University
+   Press.
+
+   The United Nations (1948). Universal Declaration of Human Rights.
+   Paris: The United Nations.
+
+   Valentini, L. (2012a). Human Rights, Freedom, and Political Authority.
+   Political Theory, 40(5), 573-601.
+
+   Valentini, L. (2012b). In What Sense are Human Rights Political? A
+   Preliminary Exploration. Political Studies, 60, 180-194.
+
+   Valentini, L. (2016). On the Justification of Basic Rights. Netherlands
+   Journal of Legal Philosophy, 45(3), 52-63.
+
+   Wagner, W. (2014). International Relations Theories and Human Rights.
+   In A. Mihr & M. Gibney (Eds.), The SAGE Handbook of Human Rights,
+   London: SAGE Publications Ltd.
+
+   Wenar, L. (2020). Rights. The Stanford Encyclopedia of
+   Philosophy (Spring 2020 Edition), Edward N. Zalta (ed.), URL =
+   <https://plato.stanford.edu/archives/spr2020/entries/rights/>.
+
+   Wendt, A. (1999). Social Theory of International Relations. New York:
+   Cambridge University Press.
+
+   Wheeler, N. J. (2002). The Humanitarian Responsibilities of
+   Sovereignty: Explaining the Development of a New Norm of Military
+   Intervention for Humanitarian Purposes in International Society. In J.
+   M. Welsh (Eds.), From Right to Responsibility: Humanitarian
+   Intervention and International Society, Oxford: Oxford University
+   Press.
+     __________________________________________________________________
+
+   [1] The International Commission on Intervention and State Sovereignty
+   was a commission established by the Canadian government to answer Kofi
+   Annan’s question on how the international community should respond to
+   gross and systematic violations of human rights if humanitarian
+   intervention is, indeed, an unacceptable assault on sovereignty
+   (Bellamy 2010).
+
+   [2] However, there were some notable differences between the ICISS
+   report and the way R2P was adopted by the UN. Here the most notable
+   differences are (i) that R2P adopted by the UN only applies to mass
+   atrocity crimes (genocide, war crimes, crimes against humanity and
+   ethnic cleansing), rather than human rights violations in general, (ii)
+   that there was no mention of the criteria of intervention, and (iii)
+   that the UN Security Council was implemented as the only body with the
+   authority to legitimize intervention (A/RES/60/1 2005 World Summit
+   Outcome: paragraphs 138 and 139).
+
+   [3] A positive duty is a duty that obliges its bearer to actively
+   perform actions or pursue goals (such as the police’s duty to protect
+   citizens). Accordingly, such duties differ from negative duties which
+   only prohibit actions (such as the duty to refrain from torture)
+   (Breaky 2014: 1198).
+
+   [4] For realists, the survival of the state is closely tied to the idea
+   of sovereignty meaning that any limits on sovereignty imposed on the
+   state by outside actors (e.g. in the form of human rights obligations)
+   are seen by realist as potentially threatening the state’s security as
+   they offer an entry point that could be used by opponents to intervene
+   in the state’s affairs.
+
+   [5] The point also has been raised forcefully by Carl Schmitt: “When a
+   state fights its political enemy in the name of humanity, it is not a
+   war for the sake of humanity, but a war wherein a particular state
+   seeks to usurp a universal concept against its military opponent. At
+   the expense of its opponent, it tries to identify itself with humanity
+   in the same way as one can misuse peace, justice, progress, and
+   civilization in order to claim these as one’s own and to deny the same
+   to the enemy. The concept of humanity is an especially useful
+   ideological instrument of imperialist expansion, and in its ethical
+   humanitarian form it is a specific vehicle of economic imperialism.
+   Here one is reminded of a somewhat modified expression of Proudhon’s:
+   whoever invokes humanity wants to cheat”. (Schmitt 1932: 54).
+
+   [6] Examples for this include, among others, the European Convention on
+   Human Rights, the American Convention on Human Rights, and the African
+   Charter – the (Banjul) Charter on Human and Peoples’ Rights as they all
+   have yielded the establishment of judicial or quasi-judicial bodies
+   which deal with violations of the human rights they specify committed
+   by states.
+
+   [7] Following from this, while realists tend to look to Hobbes and
+   Machiavelli in order to justify the promotion of national
+   self-interest, liberals draw heavily on the works of Locke and Kant. In
+   this respect, especially Kant’s ‘Perpetual Peace’ (1795) has been a
+   lodestar for the theory as it develops an idea of international
+   liberalism emphasizing that all individuals have equal moral worth
+   which is why an abuse of rights in one part of the world is ‘felt
+   everywhere’ (Dunne and Hanson 2016: 63).
+
+   [8] Something similar can be observed today at Europe’s borders as we
+   watch refugees get rejected and deported back to Turkey under an
+   EU-sponsored migration deal (Humphreys 2016).
+
+   [9] For a detailed discussion of the role of norms in international
+   politics, see also Finnemore and Sikkink (1998), Tannenwald (2007) and
+   Johnston (2008).
+
+   [10] The same point has been raised by Ruggie (1993) and Philpott
+   (2001).
+
+   [11] For example, in ancient Greece the moral purpose of the state was
+   seen in “the cultivation of bios politikos”, which is a distinctive
+   form of communal life; Renaissance Italians linked it to the “terms of
+   the pursuit of civic glory”; in Europe during the age of absolutism it
+   was tied it to “the preservation of a divinely ordained, rigidly
+   hierarchical social order”; and since the Enlightenment, the moral
+   purpose of the state has been understood as “the protection of
+   individuals’ rights” (Reus-Smit 2001: 527-528).
+
+   [12] Special duties are owed to a specific set of persons, whereas
+   general duties are owed to all persons simply qua persons. In this
+   regard, special duties are usually understood as duties we have to
+   those peoples we stand in some sort of special relationship to (e.g.
+   friends, family members, colleagues, fellow citizens) and those to whom
+   we have made promises or commitments of some sort (Jeske 2019).
+
+   [13] In the case of perfect duties there is “no latitude for discretion
+   in when, how, where and toward whom the duty should be performed”
+   (Breakey 2015: 1200). Imperfect duties, however, usually do not specify
+   when, how, where and toward whom the duty should be performed.
+
+   [14] See Paul et al. (2014) for a detailed discussion of status
+   concerns as an element of international politics.
+
+Further Reading on E-International Relations
+
+     * “The Crime He Committed Was to Steal a Cow”: Moral Luck and Gacaca
+     * Humanitarianism and Securitisation: Contradictions in State
+       Responses to Migration
+     * Do Assassinations Serve Little Purpose Other than to Communicate
+       Resolve?
+     * Virtual Invasion: ‘Just War’ and Orientalism in Call of Duty:
+       Modern Warfare
+     * Australia: Challenges to the Settler State’s Pursuit of
+       Transitional Justice
+     * The Responsibility to Protect: A Disputed Matter
+
+   [logo--symbol-core@2x.png]
+   Donate to E-IR Republication & Citations Get our Newsletter
+
+   All content on the website (with the exception of images) is published
+   under the following Creative Commons License
+
+   Copyright © — E-International Relations. All Rights Reserved
+
+   (BUTTON)
+
+Please Consider Donating
+
+   Before you download your free e-book, please consider donating to
+   support open access publishing.
+
+   E-IR is an independent non-profit publisher run by an all volunteer
+   team. Your donations allow us to invest in new open access titles and
+   pay our bandwidth bills to ensure we keep our existing titles free to
+   view. Any amount, in any currency, is appreciated. Many thanks!
+   PayPal – The safer, easier way to pay online.
+
+   Donations are voluntary and not required to download the e-book - your
+   link to download is below.
+   [icon-w315-h398-pdf-file.png]
+   Download PDF

@@ -1,0 +1,187 @@
+          + 2.4 Fluent calculus solution
+          + 2.5 Event calculus solution
+          + 2.6 Default logic solution
+          + 2.7 Answer set programming solution
+          + 2.8 Separation logic solution
+          + 2.9 Action description languages
+     * 3 See also
+--
+
+   In artificial intelligence, with implications for cognitive science,
+   the frame problem describes an issue with using first-order logic to
+   express facts about a robot in the world. Representing the state of a
+   robot with traditional first-order logic requires the use of many
+   axioms that simply imply that things in the environment do not change
+   arbitrarily. For example, Hayes describes a "block world" with rules
+   about stacking blocks together. In a first-order logic system,
+   additional axioms are required to make inferences about the environment
+   (for example, that a block cannot change position unless it is
+--
+   are called fluents. A domain in which the door is closed and the light
+   off at time 0, and the door opened at time 1, can be directly
+   represented in logic ^[clarification needed] by the following formulae:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   situation calculus gives more details.
+
+   While the three formulae above are a direct expression in logic of what
+   is known, they do not suffice to correctly draw consequences. While the
+   following conditions (representing the expected situation) are
+--
+   language for the specification of dynamical domains; therefore, such a
+   domain can be first expressed in this language and then automatically
+   translated into logic. In this article, only the expression in logic is
+   shown, and only in the simplified language with no action names.
+
+--
+       false.
+
+   A successor state axiom is a formalization in logic of these two facts.
+   For example, if
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+
+   The fluent calculus is a variant of the situation calculus. It solves
+   the frame problem by using first-order logic terms, rather than
+   predicates, to represent the states. Converting predicates into terms
+   in first-order logic is called reification; the fluent calculus can be
+   seen as a logic in which predicates representing the state of
+   conditions are reified.
+
+   The difference between a predicate and a term in first-order logic is
+   that a term is a representation of an object (possibly a complex object
+   composed of other objects), while a predicate represents a condition
+--
+
+   The event calculus solves the frame problem, eliminating undesired
+   solutions, by using a non-monotonic logic, such as first-order logic
+   with circumscription^[3] or by treating the event calculus as a logic
+   program using negation as failure.
+
+Default logic solution
+
+   [edit]
+--
+   state in which it is" (Leibniz, "An Introduction to a Secret
+   Encyclopædia", c. 1679). This default, sometimes called the commonsense
+   law of inertia, was expressed by Raymond Reiter in default logic:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   [edit]
+
+   The counterpart of the default logic solution in the language of answer
+   set programming is a rule with strong negation:
+
+--
+   {\displaystyle r(X)} remains true).
+
+Separation logic solution
+
+   [edit]
+
+   Separation logic is a formalism for reasoning about computer programs
+   using pre/post specifications of the form
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   </semantics> :MATH]
+   {\displaystyle \{\mathrm {precondition} \}\ \mathrm {code} \ \{\mathrm
+   {postcondition} \}} . Separation logic is an extension of Hoare logic
+   oriented to reasoning about mutable data structures in computer memory
+   and other dynamic resources, and it has a special connective *,
+--
+   disjoint memory regions.^[5]^[6]
+
+   Separation logic employs a tight interpretation of pre/post specs,
+   which say that the code can only access memory locations guaranteed to
+   exist by the precondition.^[7] This leads to the soundness of the most
+   important inference rule of the logic, the frame rule
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   deployed industrially to codebases with tens of millions of lines.^[9]
+
+   There appears to be some similarity between the separation logic
+   solution to the frame problem and that of the fluent calculus mentioned
+   above.^[further explanation needed]
+--
+
+   Since domains are expressed in these languages rather than directly in
+   logic, the frame problem only arises when a specification given in an
+   action description logic is to be translated into logic. Typically,
+   however, a translation is given from these languages to answer set
+   programming rather than first-order logic.
+
+See also
+--
+     * Commonsense reasoning
+     * Defeasible reasoning
+     * Linear logic
+     * Separation logic
+     * Non-monotonic logic
+     * Qualification problem
+     * Ramification problem
+--
+       investigation of the common sense law of inertia. MIT Press.
+    4. ^ i.e., no contradicting information is known
+    5. ^ Reynolds, J.C. (2002). "Separation logic: A logic for shared
+       mutable data structures". Proceedings 17th Annual IEEE Symposium on
+       Logic in Computer Science. Copenhagen, Denmark: IEEE Comput. Soc.
+       pp. 55–74. CiteSeerX 10.1.1.110.7749.
+       doi:10.1109/LICS.2002.1029817. ISBN 978-0-7695-1483-3.
+       S2CID 6271346.
+    6. ^ O'Hearn, Peter (2019-01-28). "Separation logic". Communications
+       of the ACM. 62 (2): 86–95. doi:10.1145/3211968. ISSN 0001-0782.
+    7. ^ O’Hearn, Peter; Reynolds, John; Yang, Hongseok (2001). "Local
+       Reasoning about Programs that Alter Data Structures". In Fribourg,
+       Laurent (ed.). Computer Science Logic. Lecture Notes in Computer
+       Science. Vol. 2142. Berlin, Heidelberg: Springer. pp. 1–19.
+       doi:10.1007/3-540-44802-0_1. ISBN 978-3-540-44802-0.
+--
+
+     Gelfond, M.; Lifschitz, V. (1993). "Representing action and change by
+   logic programs". Journal of Logic Programming. 17 (2–4): 301–322.
+   doi:10.1016/0743-1066(93)90035-f.
+
+--
+   Transactions on Artificial Intelligence. 2 (3–4): 193–210.
+
+     Hanks, S.; McDermott, D. (1987). "Nonmonotonic logic and temporal
+   projection". Artificial Intelligence. 33 (3): 379–412.
+   doi:10.1016/0004-3702(87)90043-9.
+--
+
+     Miller, R.; Shanahan, M. (1999). "The event-calculus in classical
+   logic - alternative axiomatizations". Electronic Transactions on
+   Artificial Intelligence. 3 (1): 77–105.
+
+--
+   doi:10.1145/316542.316545. S2CID 16203802.
+
+     Reiter, R. (1980). "A logic for default reasoning" (PDF). Artificial
+   Intelligence. 13 (1–2): 81–132. CiteSeerX 10.1.1.250.9224.
+   doi:10.1016/0004-3702(80)90014-4.
+--
+     Sandewall, E.; Shoham, Y. (1995). "Non-monotonic Temporal Reasoning".
+   In Gabbay, D. M.; Hogger, C. J.; Robinson, J. A. (eds.). Handbook of
+   Logic in Artificial Intelligence and Logic Programming. Vol. (vol. 4).
+   Oxford University Press. pp. 439–498. ISBN 978-0-19-853791-5.
+
+     Sandewall, E. (1998). "Cognitive robotics logic and its metatheory:
+   Features and fluents revisited". Electronic Transactions on Artificial
+   Intelligence. 2 (3–4): 307–329.
+--
+   doi:10.1016/0004-3702(95)90043-8.
+
+     Turner, H. (1997). "Representing actions in logic programs and
+   default theories: a situation calculus approach" (PDF). Journal of
+   Logic Programming. 31 (1–3): 245–298.
+   doi:10.1016/s0743-1066(96)00125-2.
+
+--
+     * Knowledge representation
+     * Concepts in epistemology
+     * Logic programming
+     * Philosophical problems
+     * 1969 introductions

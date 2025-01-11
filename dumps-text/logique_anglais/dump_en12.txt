@@ -1,0 +1,877 @@
+     * UFV.ca
+     * Admissions
+     * Registration
+     * International
+
+     * Learning Outcomes
+     * myUFV
+     * Contact
+
+   University of the Fraser Valley
+
+   Current
+
+   Academic Calendar
+
+   2024/25
+   (BUTTON) Toggle navigation UFV.ca
+     * Academic Calendar
+     * Course Descriptions
+     * Course Finder
+     * Course Outlines
+     * Program Index
+
+   Academic Calendar 2024/25
+
+Computing Science
+
+   English language proficiency requirements
+
+   Students registering in post-secondary level courses (numbered 100 to
+   499) will be required to meet the English language entrance proficiency
+   requirements. Students in ELS or the University Foundations programs
+   can register in those courses identified in the University Foundations
+   program with lower levels of language proficiency.
+
+   Please note that not all courses are offered every semester.
+
+   COMP 061
+
+   1.5 credits
+
+Fundamental Computer Studies
+
+   Prerequisite(s): None. Note: Students should have basic English
+   proficiency in order to be successful in this course.
+
+   Corequisite(s): None
+
+   Pre- or corequisite(s): None
+
+   Computers are a pervasive part of daily life in personal, work, and
+   educational situations. This course helps students with little or no
+   experience gain the confidence to perform basic computer operations:
+   keyboarding, word processing, emailing, and using the Internet.
+
+   COMP 071
+
+   1.5 credits
+
+Intermediate Computer Studies
+
+   Prerequisite(s): COMP 061 or equivalent. Note: Students should have
+   basic English proficiency in order to be successful in this course.
+
+   Corequisite(s): None
+
+   Pre- or corequisite(s): None
+
+   Computers are increasingly becoming a part of daily life in personal,
+   work and educational environments. This course introduces students with
+   basic computer skills to the Windows environment, Blackboard, Excel
+   spreadsheets, electronic communication, Power Point presentations, and
+   intermediate topics in Word.
+
+   COMP 091
+
+   3 credits
+
+Provincial-Level Computer Studies: Graphics and Publishing
+
+   Prerequisite(s): COMP 071 or equivalent. Note: Students should have
+   basic English proficiency in order to be successful in this course.
+
+   Corequisite(s): None
+
+   Pre- or corequisite(s): None
+
+   This provincial-level computing course teaches intermediate to advanced
+   computer skills in current online technologies, publishing, digital
+   art, and graphics. Students will use their computer skills to develop
+   problem solving and critical thinking skills as they apply computer
+   applications.
+
+   COMP 092
+
+   3 credits
+
+Provincial-Level Computer Studies: Computer Applications
+
+   Prerequisite(s): COMP 071 or equivalent. Note: Students should have
+   basic English proficiency in order to be successful in this course.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   This provincial-level computing course teaches intermediate and/or
+   advanced computer skills in networking, programming, spreadsheets,
+   database management, and online technologies. Students will use
+   computer skills to develop problem solving and critical thinking skills
+   and apply computer applications to real-life and workplace situations.
+
+   COMP 120
+
+   3 credits
+
+Computing for the Sciences
+
+   Prerequisite(s): One of the following: (C+ or better in Principles of
+   Mathematics 12), (C or better in one of Foundations of Mathematics 12,
+   Pre-calculus 12, MATH 096, or MATH 110), (C or better in both MATH 092
+   and MATH 093), or (C or better in both MATH 094 and MATH 095).
+
+   Corequisite(s): None
+
+   Pre- or corequisite(s): None
+
+   An introduction to computing and programming, with applications in the
+   sciences. Imperative programming, computational thinking, advanced
+   spreadsheets, introductory databases, and publication-quality
+   typesetting tools.
+   Note: Competency in computer skills is required. See CIS Required
+   Skills section on the CIS department website for details.
+
+   COMP 125
+
+   3 credits
+
+Principles of Computing
+
+   Prerequisite(s): One of the following: (C or better in one of
+   Pre-calculus 11, Foundations of Mathematics 11, Principles of
+   Mathematics 11, or MATH 085) or (one of Principles of Mathematics 12,
+   Foundations of Mathematics 12, Pre-calculus 12, MATH 092, or MATH 094).
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   Provides students with a broad understanding of the fundamental
+   concepts of computing, logic, and data processing. Concepts include
+   introductory hardware and software architecture, models of computation,
+   representation of data, machine arithmetic, assembler programming,
+   command line interfaces, and an introduction to some of the logical and
+   mathematical ideas used in computing.
+   Note: Competency in computer skills is required. See CIS Required
+   Skills section on the CIS department website for details.
+
+   COMP 150
+
+   4 credits
+
+Introduction to Programming
+
+   Prerequisite(s): One of the following: (C or better in one of
+   Pre-calculus 11, Foundations of Mathematics 11, Principles of
+   Mathematics 11, or MATH 085) or (one of Principles of Mathematics 12,
+   Foundations of Mathematics 12, Pre-calculus 12, MATH 092, or MATH 094).
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   An introduction to computer programming using a modern programming
+   language. Students will cover fundamental concepts such as variables,
+   data types, control structures, collections, recursion and objects.
+   Emphasis will be placed on clarity, style and design throughout.
+   Note: Competency in computer skills is required. See CIS Required
+   Skills section on the CIS department website for details.
+   Note: Students with credit for COMP 152 cannot take this course for
+   further credit.
+
+   COMP 152
+
+   4 credits
+
+Introduction to Structured Programming
+
+   Prerequisite(s): C+ or better in one of the following: Principles of
+   Mathematics 12, Pre-calculus 12, MATH 093, or MATH 095.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   This course is an introduction to structured computer programming.
+   Students will study algorithms and top-down design, and will implement
+   algorithms in a procedural programming language. Lab exercises and
+   programming assignments will emphasize scientific and numerical
+   applications.
+   Note: Competency in computer skills is required. See CIS Required
+   Skills section on the CIS department website for details.
+   Note: Students with credit for COMP 150 cannot take this course for
+   further credit.
+
+   COMP 155
+
+   4 credits
+
+Object-oriented Programming
+
+   Prerequisite(s): C+ or better in one of COMP 150 or COMP 152.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   Continues the systematic study of programming, focusing on
+   object-oriented programming and design. Introduces large and complex
+   collaborations of objects and covers important skills to design
+   modern-day software systems. Students will reflect on the practice of
+   tómiyeqw and Stó:lō worldview of community practice in relation to the
+   development of object-oriented software.
+
+   COMP 230
+
+   3 credits
+
+Databases and Database Management Systems
+
+   Prerequisite(s): COMP 155 or (admission to the Data Analysis
+   Post-degree certificate program and one of the following: STAT 106
+   [formerly MATH 106] or MATH 270/STAT 270).
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   This course covers the theoretical foundations that are necessary to
+   design and implement a database, and to use database management systems
+   effectively. The database approach is introduced and major models are
+   reviewed. Relational models are considered in more detail. Data
+   modeling techniques are used as a tool for design. Students will study
+   data manipulation languages such as relational algebra and SQL.
+   Normalization and practical design considerations are covered.
+   Note: Students with credit for CIS 230 cannot take this course for
+   further credit.
+
+   COMP 251
+
+   4 credits
+
+Data Structures and Algorithms
+
+   Prerequisite(s): COMP 125, COMP 155, and MATH 125.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   An introduction to the abstract data structures used in the solution of
+   common computing problems. Applies concepts such as stacks, queues,
+   trees, and graphs to problems using a modern object-oriented
+   programming language. Also covers the correctness and efficiency of
+   algorithms.
+
+   COMP 256
+
+   3 credits
+
+Introduction to Machine Architecture
+
+   Prerequisite(s): COMP 125 and one of (COMP 150 or COMP 152).
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   Students study the fundamental digital circuits in typical
+   microcomputer hardware, and assembly language programming as a tool for
+   understanding the computer architecture and for controlling computer
+   hardware devices.
+
+   COMP 325
+
+   3 credits
+
+Malicious Software and Attack Prevention
+
+   Prerequisite(s): COMP 155 or CIS 221. Note: COMP 256 is recommended.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   Students will learn about the vulnerabilities inherent in computer
+   programs. Topics studied will include stack and buffer overflows, race
+   conditions, file operations, string handling, interprocess
+   communication, injection attacks. C and assembly language examples will
+   be used.
+   Note: Students with credit for CIS 325 cannot take this course for
+   further credit.
+
+   COMP 331
+
+   3 credits
+
+Data Quality
+
+   Prerequisite(s): COMP 230 (formerly CIS 230) and one of the following:
+   STAT 106 (formerly MATH 106) with a B, MATH 270/STAT 270, or STAT 271.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   Data quality issues pertaining to data acquisition, storage, integrity,
+   and use. Identifying and analyzing data quality problems, and assessing
+   strategies and tools to correct them. Also covers privacy and security,
+   and data quality needs of data warehousing and mining applications.
+   Note: This course is offered as COMP 331 and STAT 331 (formerly MATH
+   331). Students may take only one of these for credit.
+
+   COMP 340
+
+   3 credits
+
+Operating Systems
+
+   Prerequisite(s): COMP 251 and admission to the Bachelor of Computer
+   Information Systems degree or the Bachelor of Science with Computing
+   Science major.
+   Note: Students accepted to a CIS or Computing Science minor may
+   register with permission of the department.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   An examination of computer operating system architecture. Students will
+   gain an understanding of general as well as distinguishing features of
+   various operating systems. Students are also expected to do some system
+   programming on multi-user operating systems such as UNIX or LINUX.
+
+   COMP 350
+
+   3 credits
+
+User Interface Design and Programming
+
+   Prerequisite(s): COMP 251 and admission to the Bachelor of Computer
+   Information Systems degree or the Bachelor of Science with Computing
+   Science major.
+   Note: Students accepted to a CIS or Computing Science minor may
+   register with permission of the department.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   This course introduces the topic of human-computer interaction by
+   teaching students how to design and program enjoyable, user-centered
+   graphical interfaces. The design principles are based on user behavior
+   and human factors such as perception, memory, and attention. Students
+   will learn to implement graphical user interfaces in a variety of
+   programming environments and operating systems.
+
+   COMP 351
+
+   3 credits
+
+Advanced Website Programming
+
+   Prerequisite(s): COMP 251 and admission to the Bachelor of Computer
+   Information Systems degree or the Bachelor of Science with Computing
+   Science major.
+   Note: Students accepted to a CIS or Computing Science minor may
+   register with permission of the department.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   This course covers current technologies for client and server-side
+   programming of dynamic websites, web-enabled applications, and web
+   services. Internet protocols, security issues, and database
+   connectivity will be examined. The course will also introduce common
+   design architectures used for the technologies.
+
+   COMP 359
+
+   3 credits
+
+Design and Analysis of Algorithms
+
+   Prerequisite(s): COMP 251 and (MATH 125 or MATH 225) and (STAT 106
+   [formerly MATH 106] or MATH 270/STAT 270).
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   Advanced study of the analysis and design of algorithms and data
+   structures in order to solve common computer science problems.
+
+   COMP 360
+
+   3 credits
+
+Computer Graphics
+
+   Prerequisite(s): COMP 251 and admission to the Bachelor of Computer
+   Information Systems degree or the Bachelor of Science with Computing
+   Science major.
+   Note: Students admitted to a CIS or Computing Science minor may
+   register with department permission.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   This course focuses on the development of Computer Graphics technology.
+   Topics include graphics hardware, lighting models, texture models and
+   the geometric representation of shapes and surfaces.
+
+   COMP 361
+
+   3 credits
+
+Introduction to Robotics
+
+   Prerequisite(s): COMP 251.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   This course introduces the principles, design, and implementation of
+   autonomous robotic systems. Students will learn how to program
+   intelligent robots for applications involving sensing, navigation,
+   planning, and uncertainty, in real and simulated environments.
+
+   COMP 370
+
+   3 credits
+
+Software Engineering
+
+   Prerequisite(s): COMP 251 and CIS 270.
+   Note: Students accepted to a Computing Science major or minor may
+   register with permission of the department. The CIS 270 prerequisite
+   will be waived for these students.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   A detailed and comprehensive study of object-oriented and classical
+   software engineering techniques. This is an addition to the analysis
+   and design work covered in CIS 270. Topics cover all aspects of the
+   software life-cycle. Emphasis is placed on object-oriented techniques
+   and the Unified Modeling Language (UML).
+   Note: Students with credit for CIS 370 cannot take this course for
+   further credit.
+
+   COMP 371
+
+   3 credits
+
+Object Oriented Modeling and Design
+
+   Prerequisite(s): Admission to the Bachelor of Computer Information
+   Systems degree, CIS 270, COMP 230 (formerly CIS 230), and COMP 251.
+   Note: Students accepted to a CIS or Computing Science minor may
+   register with permission of the department.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   Students will learn how to design and implement high quality computer
+   systems. Emphasis is placed on creating a requirements model and using
+   design principles to create a working system. The unified modeling
+   language (UML) is used extensively throughout this course.
+   Note: Students with credit for CIS 371 cannot take this course for
+   further credit.
+
+   COMP 380
+
+   3 credits
+
+Introduction to Artificial Intelligence
+
+   Prerequisite(s): COMP 251, (one of STAT 106 or MATH 270/STAT 270), and
+   admission to the Bachelor of Computer Information Systems degree or the
+   Bachelor of Science with Computing Science major.
+   Note: Students accepted to a CIS or Computing Science minor may
+   register with permission of the department.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   A basic introduction to Artificial Intelligence. Topics include common
+   AI techniques, including knowledge representation and reasoning,
+   logical inference, and machine learning. Emphasis is placed on
+   practical use of rule-based systems and the fundamentals necessary for
+   the development of Expert Systems.
+   Note: Students with credit for CIS 380 cannot take this course for
+   further credit.
+
+   COMP 381
+
+   3 credits
+
+Introduction to Machine Learning
+
+   Prerequisite(s): (COMP 251 and one of the following: [STAT 106 or STAT
+   270]) or admission to the Data Analysis Post-degree certificate. Note:
+   Students who do not have the required courses but have been admitted to
+   the Data Analysis Post-degree certificate will need to contact the
+   department assistant for permission to register.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   Programming computers to learn from experience and from data, resulting
+   in flexible, customized software. Applications range from simple spam
+   detection to complex speech recognition. Emphasis on programming
+   techniques for implementing machine learning algorithms.
+
+   COMP 382
+
+   3 credits
+
+Language, Computation and Machines
+
+   Prerequisite(s): COMP 251 and MATH 225.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   This is a theoretical computer science course, covering types of formal
+   languages and their hierarchical relationships, and the different
+   abstract machines that recognize each type. The course has important
+   practical implications for all programming languages and computer
+   applications.
+
+   COMP 386
+
+   3 credits
+
+Coding Best Practices
+
+   Prerequisite(s): Admission to the Coding Skills associate certificate,
+   COMP 359, and COMP 370.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   Provides students with experience using software development tools and
+   workflows. The content will emphasize best practices, quality assurance
+   strategies, style guidelines, and professionalism. Students will learn
+   to select and evaluate emerging technologies for use in their software
+   development workflows.
+
+   COMP 390
+
+   3 credits
+
+Data Communications
+
+   Prerequisite(s): Admission to the Bachelor of Computer Information
+   Systems or the Bachelor of Science with Computing Science major, MATH
+   125, (one of CIS 291, CIS 292, or COMP 251), and (one of STAT 106 or
+   MATH 270/STAT 270).
+   Note: Students accepted to a CIS or Computing Science minor may
+   register with permission of the department.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   Students will explore the ideas, methods, and standards for the
+   exchange of information, and the layers, interfaces, protocols, and
+   services on the OSI reference model and TCP/IP protocol suite. Network
+   algorithms, design and tradeoffs, and performance analysis are
+   emphasized.
+   Note: Students with credit for CIS 390 cannot take this course for
+   further credit.
+
+   COMP 420
+
+   3 credits
+
+Computers and Society
+
+   Prerequisite(s): 12 credits of 300-level or above in CIS or COMP.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   An investigation of the basic cultural, social, legal, economic, and
+   ethical issues inherent in the discipline of computing.
+   Note: Students with credit for CIS 485 cannot take this course for
+   further credit.
+
+   COMP 430
+
+   3 credits
+
+Advanced Database Topics
+
+   Prerequisite(s): (COMP 230 [formerly CIS 230] and COMP 251) or (60
+   university-level credits including COMP 230 [formerly CIS 230] and one
+   of the following: [STAT 106 (formerly MATH 106) with a B, MATH 270/STAT
+   270, or STAT 271 (formerly MATH 271)] and one of the following: [COMP
+   150, COMP 152, or COMP 155]). Note: COMP 251 and COMP 340 are
+   recommended.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   Students will study, discuss, and compare current processes and tools
+   being used by organizations for their data-handling needs. Topics
+   include indexing and hashing, performance issues, hands-on database
+   administration, an introduction to data warehousing and data mining,
+   and object-oriented database approaches.
+   Note: Students with credit for CIS 430 cannot take this course for
+   further credit.
+
+   COMP 431
+
+   3 credits
+
+Data Mining
+
+   Prerequisite(s): COMP 230 (formerly CIS 230), STAT 271, and STAT
+   331/COMP 331.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   Data mining provides the techniques of extracting useful information
+   and hidden patterns from a massive amount of data. Main topics include
+   data exploration, classification, decision trees, Bayesian classifiers,
+   frequent item sets, association rules, clustering, K-means, EM
+   algorithm, and anomaly detection.
+   Note: This course is offered as STAT 431 and COMP 431. Students may
+   take only one of these for credit.
+
+   COMP 440
+
+   3 credits
+
+Project in Computing Science
+
+   Prerequisite(s): 15 credits of 300-level or higher COMP and
+   instructor's permission.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   Capstone course in which each student works with a faculty advisor to
+   complete an advanced project demonstrating knowledge and skills
+   obtained in the Computing Science major.
+
+   COMP 445
+
+   3 credits
+
+Web Server Installation and Maintenance
+
+   Prerequisite(s): CIS 341 or COMP 390 (formerly CIS 390) and admission
+   to the Bachelor of Computer Information Systems degree or the Bachelor
+   of Science with Computing Science major.
+   Note: Students accepted to a CIS or Computing Science minor may
+   register with permission of the department.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   Students will gain hands-on experience in installing and maintaining a
+   web server. Both Internet and Intranet issues will be discussed.
+   Maintenance issues such as system optimization and server activity
+   monitoring will be discussed. In addition, server and client security
+   will be discussed.
+
+   COMP 455
+
+   3 credits
+
+Extreme Computing
+
+   Prerequisite(s): COMP 251.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   We live in the age of “big data,” where companies need to gather and
+   analyze truly massive amounts of information. Companies specializing in
+   web search need to essentially archive and analyze the entire web.
+   Social media sites need to store and work with millions of user
+   profiles. Programmers need tools that will efficiently scale up to
+   these kinds of tasks. This course introduces the theory and practice of
+   distributed programming and cluster computing, where such problems are
+   tackled by dividing the tasks into smaller parts and running them
+   across many machines at once. In particular, we will cover the
+   MapReduce algorithm and its popular open-source software
+   implementations.
+
+   COMP 481
+
+   3 credits
+
+Functional and Logic Programming
+
+   Prerequisite(s): COMP 251 with a C or better; MATH 225 recommended.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   Most programming languages (e.g. Java, C, C++, Python) are imperative
+   languages, meaning that programs are written as sequences of
+   instructions that change program state. However, imperative programming
+   is just one programming paradigm. This course introduces two other
+   programming paradigms: functional and logic programming. Logic
+   programming is based on first-order logic, while functional programming
+   is based on the lambda calculus. Students will learn the basic
+   theoretical foundations as well as how to program in two relevant
+   languages. The course will also describe the importance of these
+   languages to the field of AI.
+
+   COMP 482
+
+   3 credits
+
+Natural Language Processing
+
+   Prerequisite(s): One of (STAT 106 or STAT 270) and one of (COMP 251 or
+   LING 101) and 60 university-level credits.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   Algorithms and tools for enabling computers to analyze, understand, and
+   generate human language.
+
+   COMP 486
+
+   3 credits
+
+Field Practicum
+
+   Prerequisite(s): Admission to the Coding Skills associate certificate,
+   COMP 359, COMP 370, and department permission.
+
+   Corequisite(s): None.
+
+   Pre- or corequisite(s): None.
+
+   Provides students with an opportunity to gain experience in the role of
+   a junior software developer in a workplace setting. Students will
+   receive feedback about their competencies in relation to the demands of
+   the practicum setting.
+
+   COMP 490
+
+   3 credits
+
+Network Security and Cryptography
+
+   Prerequisite(s): COMP 390 (formerly CIS 390) with a grade of C or
+   better and one of the following: STAT 106 (formerly MATH 106) or MATH
+   270/STAT 270.
+
+   Corequisite(s): None
+
+   Pre- or corequisite(s): None
+
+   This course will cover important concepts in conventional encryption
+   algorithms such as AES, public-key design and algorithms such as RSA
+   and elliptic curve, digital signatures and authentication protocols
+   such as Kerberos, and key managements such as PKI and X.509.
+
+   Last updated: November 1, 2024
+   [Select Area of Study...____________________]
+   [Select Courses...__________________________________]
+   [Select General Information...______]
+     * How to Apply
+     * Request Info
+     * See an advisor
+     * Financial Aid
+
+UFV.ca Academic Calendar
+
+Admissions
+
+     * Admission to UFV Programs
+     * English Language Proficiency
+     * Fees and Other Costs
+     * Transfer Credit Information
+     * Prior Learning Assessment
+     * International Students
+
+Current Students
+
+     * Registration
+     * Timetables
+     * Notice of Increased Requirements
+     * Semester Dates
+     * Priority Access to Student Supports
+     * Transfer to Other Institutions
+
+Rules & Regulations
+
+     * Calendar Archives
+     * Glossary
+     * Grading & Academic Standing
+     * Program Types & Length
+     * Regulations & Policies
+
+University Preparation
+
+     * Continuing Education
+     * High School Career Programs
+     * Qualifying Studies
+     * Upgrading & University Prep
+
+   University of the Fraser Valley (UFV)
+
+   University of the Fraser Valley
+
+   33844 King Road, Abbotsford, BC
+
+   Canada V2S 7M8
+
+   604-504-7441
+     *
+     *
+     *
+     *
+     *
+     *
+
+   ©2024 · University of the Fraser Valley · Academic Calendar
+   Copyright · Disclaimer · Privacy
+   ____________________ (BUTTON______________)
+     * Course Descriptions
+     * Course Outlines
+     * Programs
+
+Current Students
+
+     * How to Apply
+     * Request Information
+     * See an advisor
+     * Finacial Aid
+    Office of the Registrar
+       Monday to Friday 9am to 4pm
+
+     *   604-854-4501
+     *   1-888-823-8734 Toll-Free
+     *   Contact
+
+   s

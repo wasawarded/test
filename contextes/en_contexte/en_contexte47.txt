@@ -1,0 +1,178 @@
+   From Wikipedia, the free encyclopedia
+   Logical connective OR
+   "Disjunction" redirects here. For the logic gate, see OR gate. For
+   separation of chromosomes, see Meiosis. For disjunctions in
+   distribution, see Disjunct distribution.
+--
+   </semantics> :MATH]
+   {\displaystyle (1110)}
+        Logic gate      [70px-OR_ANSI.svg.png]
+                  Normal forms
+   Disjunctive
+--
+   Related concepts
+     * Propositional calculus
+     * Predicate logic
+     * Boolean algebra
+     * Truth table
+--
+     * Boolean function
+     * Functional completeness
+     * Scope (logic)
+
+   Applications
+     * Digital logic
+     * Programming languages
+     * Mathematical logic
+     * Philosophy of logic
+
+   Category
+--
+   {\displaystyle \scriptstyle A\lor B\lor C}
+
+   In logic, disjunction, also known as logical disjunction or logical or
+   or logical addition or inclusive disjunction, is a logical connective
+   typically notated as
+--
+   {\displaystyle \lor } and read aloud as "or". For instance, the English
+   language sentence "it is sunny or it is warm" can be represented in
+   logic using the disjunctive formula
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>S</mi> <mo>∨</mo> <mi>W</mi>
+--
+   {\displaystyle W} abbreviates "it is warm".
+
+   In classical logic, disjunction is given a truth functional semantics
+   according to which a formula
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   When it is necessary to clarify whether inclusive or exclusive or is
+   intended, English speakers sometimes uses the phrase and/or. In terms
+   of logic, this phrase is identical to or, but makes the inclusion of
+   both being true explicit.
+
+--
+   [edit]
+
+   In logic and related fields, disjunction is customarily notated with an
+   infix operator
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   {\displaystyle \vert \!\vert } in many programming languages. The
+   English word or is sometimes used as well, often in capital letters. In
+   Jan Łukasiewicz's prefix notation for logic, the operator is
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle> </mrow>
+--
+   [edit]
+
+   In the semantics of logic, classical disjunction is a truth functional
+   operation which returns the truth value true unless both of its
+   arguments are false. Its semantic entry is standardly given as
+--
+   [edit]
+
+   In classical logic systems where logical disjunction is not a
+   primitive, it can be defined in terms of the primitive and (
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   2021)
+
+   [150px-Or-gate-en.svg.png] OR logic gate
+
+   Operators corresponding to logical disjunction exist in most
+--
+   <annotation encoding="application/x-tex">{\displaystyle \lor
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \lor } in classical logic. Notably, classical
+   disjunction is inclusive while natural language disjunction is often
+   understood exclusively, as the following English example typically
+--
+   be forced.^[1]
+
+   Similar deviations from classical logic have been noted in cases such
+   as free choice disjunction and simplification of disjunctive
+   antecedents, where certain modal operators trigger a conjunction-like
+--
+
+     * Affirming a disjunct
+     * Boolean algebra (logic)
+     * Boolean algebra topics
+     * Boolean domain
+--
+       (Winter 2016 ed.), Metaphysics Research Lab, Stanford University,
+       retrieved 2020-09-03
+    2. ^ "Disjunction | logic". Encyclopedia Britannica. Retrieved
+       2020-09-03.
+    3. ^ Beall, Jeffrey C. (2010). Logic: the basics (1. publ ed.).
+       London: Routledge. p. 57. ISBN 978-0-203-85155-5.
+    4. ^ Józef Maria Bocheński (1959), A Précis of Mathematical Logic,
+       translated by Otto Bird from the French and German editions,
+       Dordrecht, North Holland: D. Reidel, passim.
+    5. ^ Weisstein, Eric W. "OR". MathWorld--A Wolfram Web Resource.
+       Retrieved 24 September 2024.
+    6. ^ Walicki, Michał (2016). Introduction to Mathematical Logic. WORLD
+       SCIENTIFIC. p. 150. doi:10.1142/9783. ISBN 978-9814343879.
+    7. ^ Howson, Colin (1997). Logic with trees: an introduction to
+       symbolic logic. London; New York: Routledge. p. 38.
+       ISBN 978-0-415-13342-5.
+    8. ^ "Python 3.12.1 Documentation - The Python Language Reference -
+--
+     * e
+
+   Mathematical logic
+
+   General
+--
+          + list
+     * Cardinality
+     * First-order logic
+     * Formal proof
+     * Formal semantics
+--
+
+   Traditional
+     * Classical logic
+     * Logical truth
+     * Tautology
+--
+     * Propositional formula
+     * Truth tables
+     * Many-valued logic
+          + 3
+          + finite
+--
+     * Model complete theory
+     * Satisfiability
+     * Semantics of logic
+     * Strength
+     * Theories of truth
+--
+   Related
+
+     * Abstract logic
+     * Algebraic logic
+     * Automated theorem proving
+     * Category theory
+     * Concrete/Abstract category
+     * Category of sets
+     * History of logic
+     * History of mathematical logic
+          + timeline
+     * Logicism
+--
+     * Glue semantics
+     * Inquisitive semantics
+     * Intensional logic
+     * Lambda calculus
+     * Mereology
+--
+     * Formal grammar
+     * Inferentialism
+     * Logic translation
+     * Linguistics wars
+     * Philosophy of language
+     * Pragmatics
+     * Semantics of logic
+
+   Authority control databases: National Edit this at Wikidata
